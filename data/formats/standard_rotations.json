@@ -1,0 +1,45 @@
+{
+  "_doc": "Standard format seasons (international / English-language Play! Pokémon). Hand-curated; each entry cites its source. A card is Standard-legal when its regulation mark is in legal_regulation_marks (basic Energy is always legal). Older printings of a card are legal when a printing with a legal mark has the same name and the same text. tcg_live_start is when Pokémon TCG Live switched; tournament_start is when in-person Play! Pokémon events switched.",
+  "seasons": [
+    {
+      "id": "2023-24",
+      "tournament_start": "2023-04-14",
+      "tcg_live_start": "2023-03-31",
+      "legal_regulation_marks": ["E", "F", "G", "H"],
+      "rotated_out": ["D"],
+      "banned": [],
+      "sources": ["https://bulbapedia.bulbagarden.net/wiki/2023-24_Standard_format_(TCG)"]
+    },
+    {
+      "id": "2024-25",
+      "tournament_start": "2024-04-05",
+      "tcg_live_start": "2024-03-21",
+      "legal_regulation_marks": ["F", "G", "H", "I"],
+      "rotated_out": ["E"],
+      "banned": [],
+      "sources": ["https://www.pokeguardian.com/1623220_pokemon-tcg-standard-format-rotation-announced-for-april-5-2024-cards-with-e-regulation-mark-no-longer-legal"]
+    },
+    {
+      "id": "2025-26",
+      "tournament_start": "2025-04-11",
+      "tcg_live_start": "2025-03-27",
+      "legal_regulation_marks": ["G", "H", "I", "J"],
+      "rotated_out": ["F"],
+      "banned": [],
+      "sources": ["https://www.pokeguardian.com/2254094_pokemon-tcg-standard-format-rotation-announced-for-april-11-2025-cards-with-f-regulation-mark-no-longer-legal"]
+    },
+    {
+      "id": "2026-27",
+      "tournament_start": "2026-04-10",
+      "tcg_live_start": "2026-03-26",
+      "legal_regulation_marks": ["H", "I", "J", "K"],
+      "rotated_out": ["G"],
+      "banned": [],
+      "first_legal_set": "TEF",
+      "sources": [
+        "https://www.pokeguardian.com/2925613_pokemon-tcg-standard-format-rotation-announced-for-april-10-2026-cards-with-g-regulation-mark-no-longer-legal",
+        "https://bulbapedia.bulbagarden.net/wiki/2026-27_Standard_format_(TCG)"
+      ]
+    }
+  ]
+}

@@ -1,1 +1,5 @@
 raw/
+__pycache__/
+*.pyc
+.cache/
+.venv/
