@@ -1,7 +1,0 @@
-https://limitlesstcg.com/tournaments/579
-https://limitlesstcg.com/tournaments/579/decklists
-https://limitlesstcg.com/tournaments/515
-https://limitlesstcg.com/tournaments?time=2526&type=regional&format=standard&region=all&show=100
-https://limitlesstcg.com/tournaments?time=2627&type=all&format=all&region=all&show=100
-https://labs.limitlesstcg.com/0074/pairings?round=17
-https://labs.limitlesstcg.com/0071/standings

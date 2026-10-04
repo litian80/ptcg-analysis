@@ -195,7 +195,9 @@ def parse_labs_pairings(html: str) -> list[dict]:
                 sides.append(None)
                 continue
             name = a.select_one("span.text-center")
+            flag = a.select_one("img[title]")
             sides.append({
+                "country": flag["title"] if flag else "",
                 "id": a["href"].split("/player/")[1].split("/")[0],
                 "name": name.get_text(strip=True) if name else "",
                 "icons": "|".join(_icons(a)),
@@ -267,17 +269,17 @@ def collect_tournament(t: dict) -> dict:
             for m in parse_labs_pairings(html):
                 row = {"round": rnd, "table": m["table"], "result": m["result"]}
                 for side in ("p1", "p2"):
-                    p = m[side] or {"id": "", "name": "", "icons": ""}
+                    p = m[side] or {"id": "", "name": "", "icons": "", "country": ""}
                     slug, name = archetype(p["id"], p["icons"]) if p["id"] else ("", "")
                     row.update({f"{side}_id": p["id"], f"{side}_name": p["name"],
+                                f"{side}_country": p["country"],
                                 f"{side}_archetype": name, f"{side}_archetype_slug": slug,
                                 f"{side}_icons": p["icons"]})
                 matches.append(row)
-        for s in standings:
-            s["archetype"] = slug_name.get(s["archetype_slug"], s["archetype_slug"])
-        _write_csv(out / "standings.csv", standings)
+        full = full_standings(standings, matches)
+        _write_csv(out / "standings.csv", full)
         _write_csv(out / "matches.csv", matches)
-        n_matches, n_standings = len(matches), len(standings)
+        n_matches, n_standings = len(matches), len(full)
 
     meta = {**{k: t[k] for k in ("limitless_id", "date", "name", "type", "country", "players", "winner")},
             "format_code": page["format_code"], "format_name": page["format_name"],
@@ -289,6 +291,44 @@ def collect_tournament(t: dict) -> dict:
     (out / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"  {t['date']} {t['name']}: {len(decklists)} lists, {n_standings} standings, {n_matches} matches")
     return {**{k: meta[k] for k in INDEX_FIELDS if k in meta}, "dir": out.name}
+
+
+def full_standings(labs: list[dict], matches: list[dict]) -> list[dict]:
+    """Every player in the event. Labs only lists the top 512 with placings, so the rest get
+    their record from the match results and no placing."""
+    top = {s["labs_player_id"]: s for s in labs}
+    players: dict[str, dict] = {}
+    for m in matches:
+        for side, other in (("p1", "p2"), ("p2", "p1")):
+            pid = m[f"{side}_id"]
+            if not pid:
+                continue
+            p = players.setdefault(pid, {
+                "labs_player_id": pid, "name": m[f"{side}_name"], "country": m[f"{side}_country"],
+                "archetype": m[f"{side}_archetype"], "archetype_slug": m[f"{side}_archetype_slug"],
+                "icons": m[f"{side}_icons"], "wins": 0, "losses": 0, "ties": 0, "rounds": 0})
+            res = m["result"]
+            p["rounds"] += 1
+            if res == "tie":
+                p["ties"] += 1
+            elif res == side or res == "bye":
+                p["wins"] += 1
+            elif res in (other, "double_loss", "unpaired"):
+                p["losses"] += 1
+    rows = []
+    for pid, p in players.items():
+        t = top.get(pid)
+        if t:  # Labs' own record is Swiss-only, which is what points and placings use
+            p.update({k: t[k] for k in ("wins", "losses", "ties")})
+        rows.append({
+            "placing": t["placing"] if t else "", "labs_player_id": pid, "name": p["name"],
+            "country": p["country"], "wins": p["wins"], "losses": p["losses"], "ties": p["ties"],
+            "points": t["points"] if t else 3 * p["wins"] + p["ties"], "day2": "day2" in (t or {}).get("phase", ""),
+            "top_cut": "topcut" in (t or {}).get("phase", ""),
+            "archetype": p["archetype"], "archetype_slug": p["archetype_slug"], "icons": p["icons"],
+        })
+    rows.sort(key=lambda r: (r["placing"] == "", r["placing"] or 0, -r["points"], r["name"]))
+    return rows
 
 
 def _write_csv(path, rows):
