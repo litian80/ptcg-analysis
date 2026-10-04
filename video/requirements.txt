@@ -1,0 +1,5 @@
+yt-dlp>=2025.1.1
+numpy>=1.24
+anthropic>=1.0
+rapidfuzz>=3.0  # optional: fuzzy card-name matching for ASR errors
+pytest>=8.0
