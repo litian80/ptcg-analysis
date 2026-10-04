@@ -110,9 +110,28 @@ matchups:
     plan: 准镜像。对方 Dusclops/Dusknoir 自爆会送你奖赏卡，数清楚再决定是否先手抢节奏。
   - vs: alakazam-dudunsparce
     win_rate: 0.633
-    plan: 用 Phantom Dive 收后备区 Abra（50）和 Kadabra（80）。对方 Battle Cage 在场时指示物放不到后备区，要先换掉场地。
+    plan: >-
+      关键是场地卡之争：对方 Battle Cage 在场时 Phantom Dive 的后备区指示物完全放不上，必须先用 Risky Ruins 换掉它，
+      所以 2 张 Risky Ruins 和找到它的抽牌都要留着。Drakloak 的 Dragon Headbutt（70）第 2 回合就能先手击倒 Abra。
+      对方的 Fezandipiti ex 打残不打死（不给它 Flip the Script 抽 3），同时让自己保持落后，Rosa's Encouragement 才能用；
+      之后一发 Phantom Dive 同时收掉战斗场 Alakazam 和预先打残的后备区宝可梦。对方 Genesect 带道具会封住 Unfair Stamp。
+      对方手牌到 16 张就能一击 Dragapult ex（320），别指望它撑两回合。
+
+evidence:
+  - source: video-reviews/worlds2026-masters-final-game1.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 决赛第 1 局，Hedrick（Dragapult ex）胜 Cassiraga（Alakazam），6 奖对 5 奖
+    window: TEF-PBL
+    confirms:
+      - Battle Cage 挡住后备区指示物，Risky Ruins 换场地是这个对局的转折（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1201s、https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1706s）
+      - Drakloak 第 2 回合用 Dragon Headbutt 先手击倒 Abra（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=438s）
+      - 一回合 Phantom Dive 拿 3 奖：击倒 Alakazam + 1 个指示物收掉残血 Fezandipiti ex（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1201s）
+    adds:
+      - 故意把对方 Fezandipiti ex 打到 10 HP 不击倒，拒绝 Flip the Script 并保持落后以便用 Rosa's Encouragement（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=840s）
+      - 对方手牌 16 张，Powerful Hand 一击满血 Dragapult ex（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1051s）
+    caveat: 26:50 那次 Boss's Orders 是复盘根据前后画面推断的；这是一局，不代表胜率。
 
 mistakes:
+  - 对 Battle Cage 卡组时过早打掉 Risky Ruins，关键回合没有场地可换。
   - 第 2 回合只有 1 只 Drakloak，第 3 回合进化不出 Dragapult ex。
   - Phantom Dive 的 6 个指示物没有对准下回合能击倒的目标，平均撒开。
   - 主动铺出 Fezandipiti ex / Meowth ex 却没用到特性，白给 2 奖靶子。
