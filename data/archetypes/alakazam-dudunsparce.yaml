@@ -1,0 +1,129 @@
+slug: alakazam-dudunsparce
+name: Alakazam Dudunsparce
+name_zh: 胡地 + 土龙节节
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 25 份卡表；卡牌效果取自 data/cards。打法是据此推断的，见 inferred。
+
+summary: >-
+  Alakazam（MEG 56）的 Powerful Hand 只要 1 个超能能量，按自己手牌数放指示物：每张 2 个，10 张手牌就是 200。
+  整套牌都在"抽牌把手牌养大"：Kadabra / Alakazam 进化时抽 2 / 抽 3，Dudunsparce 抽 3 后洗回牌库，
+  Enriching Energy 贴上抽 4。攻击手全是单奖，对手要击倒 6 次。Battle Cage 挡后备区指示物，
+  专门对付 Dragapult 和 Dusknoir。
+  同一窗口还有 Alakazam Dusknoir 变体（11 份卡表，Frankfurt 冠军），不到 1% 份额未单列。
+
+setup:
+  turn_1:
+    - Buddy-Buddy Poffin 拿 Abra ×2（50 HP）；第一次手贴 Telepathic Psychic Energy 到超能宝可梦上，再从牌库拿 2 只 Abra 到后备区。
+    - 后备区放 Dunsparce。手牌多的时候不要乱打，留着就是伤害。
+    - 打出 Battle Cage（对手有 Dragapult / Dusknoir 时优先）。
+  turn_2:
+    - Rare Candy：Abra 直接进化 Alakazam，进化时抽 3；或 Abra → Kadabra 抽 2。
+    - Dawn 一次找 Abra、Kadabra、Alakazam；Hilda 找进化宝可梦 + 能量。
+    - Dunsparce 进化 Dudunsparce 抽 3（它会洗回牌库，所以下回合可以再进化再抽）。
+    - Alakazam 贴 1 个超能能量，Powerful Hand 攻击。
+  turn_3:
+    - 每回合用新进化的 Kadabra/Alakazam 抽牌，保持手牌 10 张以上。
+  key_cards: [Abra, Kadabra, Alakazam, Rare Candy, Dawn, Dunsparce, Dudunsparce]
+
+attackers:
+  - card: Alakazam
+    printing: MEG 56
+    role: main
+    prizes: 1
+    attack: Powerful Hand
+    cost: Psychic
+    damage: 手牌每张 2 个伤害指示物放在对手战斗场宝可梦上（10 张 = 200，14 张 = 280）
+    notes: 140 HP，弱恶。放指示物不是伤害，不受弱点、抗性和减伤影响。
+  - card: Kadabra
+    printing: MEG 55
+    role: backup
+    prizes: 1
+    attack: Super Psy Bolt
+    cost: Psychic
+    damage: 30
+    notes: 主要价值是进化时抽 2。
+
+support:
+  - card: Abra
+    role: 进化前；Teleportation Attack 换位
+    prizes: 1
+  - card: Dunsparce
+    role: Dudunsparce 的进化前，Trading Places 换位
+    prizes: 1
+  - card: Dudunsparce
+    role: Run Away Draw 抽 3 后自己洗回牌库，不留在场上给对手奖赏卡
+    prizes: 1
+  - card: Fezandipiti ex
+    role: 被击倒后抽 3；唯一的 2 奖靶子，用完收好
+    prizes: 2
+  - card: Genesect
+    role: 88% 卡表有；带道具时对手不能用 ACE SPEC
+    prizes: 1
+  - card: Shaymin
+    role: 84% 卡表有；无规则的后备区宝可梦不受招式伤害
+    prizes: 1
+
+prize_map:
+  liability: >-
+    除 Fezandipiti ex（和 44% 卡表里的 Lillie's Clefairy ex）外全是单奖，对手要击倒 6 次。
+    Abra 50 HP、Kadabra 80 HP 是对手 Phantom Dive / Cursed Blast 的目标，所以 Battle Cage 很重要。
+  routes:
+    - name: 对 2 奖 ex 卡组（默认）
+      steps:
+        - {turn: 2, take: 2, target: 战斗场的 ex, how: 手牌 11 张以上就能 220+；配合 Rare Candy 进化抽 3}
+        - {turn: 3, take: 2, target: Boss's Orders 拉出的 ex, how: 同上}
+        - {turn: 4, take: 2, target: 剩下的 ex, how: 对手剩 3 张以下时 Special Red Card（48% 卡表）}
+    - name: 对单奖卡组
+      steps:
+        - {turn: 2, take: 1, target: 战斗场, how: 一回合 1 张}
+        - {turn: 3, take: 1, target: Boss 拉出的引擎, how: 同上}
+        - {turn: 4, take: 1, target: 战斗场, how: 同上}
+        - {turn: 5, take: 1, target: 战斗场, how: 同上}
+        - {turn: 6, take: 1, target: 战斗场, how: 同上}
+        - {turn: 7, take: 1, target: 战斗场, how: 拼续航；对手同样要击倒你 6 次}
+
+matchups:
+  - vs: sharpedo-toxtricity
+    win_rate: 0.152
+    plan: 数据上最差，原因没有从卡表推出。
+  - vs: rocket-mewtwo-ex
+    win_rate: 0.206
+    plan: 数据上很差，原因没有从卡表推出。
+  - vs: dragapult-blaziken
+    win_rate: 0.271
+    plan: 对手 Phantom Dive 狙后备区 Abra/Kadabra，Battle Cage 先放；对手 Team Rocket's Watchtower 会关掉 Dudunsparce。
+  - vs: dragapult-ex
+    win_rate: 0.305
+    plan: >-
+      Dragapult ex 320 HP，手牌 16 张就能一击（世界赛决赛第 1 局见过）。Battle Cage 是生命线，对手会用 Risky Ruins 换掉它，
+      所以要留第二张场地。用 Eri 看对手手牌并弃掉 Special Red Card、Night Stretcher；Genesect 带道具封住 Unfair Stamp，保护手牌。
+      第 2 回合有没有 Rare Candy 基本决定这局。
+  - vs: slowking-scr
+    win_rate: 0.737
+    plan: Slowking 120 HP，6 张手牌就够。
+  - vs: mega-excadrill-ex
+    win_rate: 0.755
+    plan: Powerful Hand 放的是指示物，Genesect ex 的 Protect Charge 减伤对它无效；Mega Excadrill ex 340 HP 要 17 张手牌，但击倒一次就拿 3 张。优势的具体原因是推断的。
+
+evidence:
+  - source: video-reviews/worlds2026-masters-final-game1.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 决赛第 1 局，Cassiraga（Alakazam）5 奖输给 Hedrick（Dragapult ex）6 奖
+    window: TEF-PBL
+    confirms:
+      - 16 张手牌 Powerful Hand 一击满血 Dragapult ex（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1051s）
+      - Battle Cage 挡住 Phantom Dive 的后备区指示物，被 Risky Ruins 换掉后一回合丢 3 奖（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1201s）
+    adds:
+      - 第 2 回合 3 张 Rare Candy 一张没抽到，Alakazam 晚一回合上场，是第一个转折点（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=560s）
+      - Eri 弃掉对手的 Special Red Card 和 Night Stretcher（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1380s）
+      - Genesect 带道具封住 Unfair Stamp
+    caveat: 26:50 那次 Boss's Orders 是复盘推断的；这是一局，不代表胜率。
+
+mistakes:
+  - 只带一张 Battle Cage 或过早打出，被 Risky Ruins 换掉后没有第二张。
+  - 攻击前没先把能打的抽牌打完，手牌不够大。
+  - 手牌多时乱用 Ultra Ball 等会减少手牌的卡。
+  - 对 Dragapult 没先放 Battle Cage，Abra 被 Phantom Dive 收掉。
+
+inferred:
+  - 用 Rare Candy 从手上放 Alakazam 也触发 Psychic Draw，按卡牌文字推断（"when you play this Pokémon from your hand to evolve"）。
+  - 各对局胜率差的原因多为推断，部分没有推出。

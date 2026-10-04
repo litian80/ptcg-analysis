@@ -1,0 +1,113 @@
+slug: n-zoroark
+name: N's Zoroark
+name_zh: N 的索罗亚克 ex
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 55 份卡表；卡牌效果取自 data/cards。打法是据此推断的，见 inferred。
+
+summary: >-
+  第 2 回合进化 N's Zoroark ex，用 Night Joker（2 个 Darkness 能量）复制后备区 N 的宝可梦的招式，
+  主要是 N's Zekrom 的 Rampaging Thunder 250。Pecharunt ex 把 Zoroark 换上场并让它中毒，
+  中毒的宝可梦带 Binding Mochi 再加 40，配 Black Belt's Training 对 ex 再加 40，最高 330。
+  Trade 特性每回合弃 1 抽 2，是这套牌的抽牌引擎。
+
+setup:
+  turn_1:
+    - Buddy-Buddy Poffin 拿 2 只 N's Zorua（70 HP），有余力再拿 Tatsugiri 或 N's Purrloin。
+    - 给 N's Zorua 贴 Darkness 能量；N's Zekrom、N's Reshiram 用 Poké Pad 拿到后备区。
+  turn_2:
+    - 两只 N's Zorua 都进化成 N's Zoroark ex，各用一次 Trade。
+    - N's PP Up 从弃牌区给后备区 N 的宝可梦贴能量；Janine's Secret Art 一次给两只恶属性各贴 1 个 Darkness。
+    - 第一击：Night Joker 复制 N's Zekrom 的 Rampaging Thunder（250）。
+  turn_3:
+    - Rampaging Thunder 用过的那只 Zoroark 下回合不能攻击，换另一只上（N's Castle 让 N 的宝可梦撤退费为 0）。
+    - 要打 ex 前用 Pecharunt ex 的 Subjugating Chains 换上带 Binding Mochi 的 Zoroark，让它中毒拿 +40。
+  key_cards: [N's Zorua, N's Zoroark ex, N's Zekrom, Pecharunt ex, Binding Mochi, N's PP Up]
+
+attackers:
+  - card: N's Zoroark ex
+    printing: JTG 98
+    role: main
+    prizes: 2
+    attack: Night Joker
+    cost: Darkness ×2
+    damage: 复制后备区 N 的宝可梦的招式；复制 Zekrom 为 250，复制 Reshiram 的 Virtuous Flame 为 170
+    notes: 280 HP，弱草。Night Joker 只要 2 个 Darkness，不用付被复制招式的费用。
+  - card: N's Zekrom
+    printing: ASC 155
+    role: copy-source
+    prizes: 1
+    attack: Rampaging Thunder（被复制）/ Shred 70（自己打，无视对手战斗场宝可梦身上的效果）
+    cost: 复制时由 Zoroark 付 Darkness ×2
+    damage: 250
+    notes: 只是放在后备区被复制，130 HP，是对手 Phantom Dive 和 Boss 的目标。
+  - card: Pecharunt ex
+    printing: SFA 39
+    role: enabler / late attacker
+    prizes: 2
+    attack: Irritated Outburst
+    cost: Darkness ×2
+    damage: 对手已拿的奖赏卡每张 60；对手拿了 4 张时 240
+    notes: 主要用特性 Subjugating Chains 换人 + 中毒。
+
+support:
+  - card: N's Reshiram
+    role: 第二个复制来源，Virtuous Flame 170（80% 卡表）
+    prizes: 1
+  - card: Munkidori
+    role: 挪走自己身上中毒累积的指示物，放到对手身上
+    prizes: 1
+  - card: Fezandipiti ex
+    role: 被击倒后抽 3
+    prizes: 2
+  - card: Tatsugiri
+    role: 在战斗场时看 6 张找支援者
+    prizes: 1
+
+prize_map:
+  liability: >-
+    N's Zoroark ex 和 Pecharunt ex 各 2 张。对手的路线通常是 Boss 拉后备区 130 HP 的 Zekrom/Reshiram 拿 1 张，
+    再击倒两只 Zoroark ex。后备区的 N 的宝可梦只留真正要复制的那一两只。
+  routes:
+    - name: 对 2 奖 ex 卡组（默认）
+      steps:
+        - {turn: 2, take: 2, target: 战斗场的 ex, how: Night Joker 复制 Rampaging Thunder 250}
+        - {turn: 3, take: 2, target: Boss's Orders 拉出的 ex, how: 换另一只 Zoroark，Pecharunt 让它中毒 + Binding Mochi，最多 290（+Black Belt's Training 330）}
+        - {turn: 4, take: 2, target: 剩下的 ex, how: 收尾；对手剩 3 张以下时先打 Special Red Card}
+    - name: 对单奖卡组
+      steps:
+        - {turn: 2, take: 1, target: 战斗场, how: 一回合只能拿 1 张，要连续 6 回合}
+        - {turn: 3, take: 1, target: Boss 拉出的引擎（如 Thwackey）, how: 优先打对手的检索引擎}
+        - {turn: 4, take: 1, target: 战斗场, how: 同上}
+        - {turn: 5, take: 1, target: 战斗场, how: 同上}
+        - {turn: 6, take: 1, target: 战斗场, how: 同上}
+        - {turn: 7, take: 1, target: 战斗场, how: 拖到这里通常已经输了，所以这类对局胜率低}
+
+matchups:
+  - vs: festival-lead
+    win_rate: 0.198
+    plan: 对方全是单奖，Dipplin 一回合打两次，Zoroark 弱草被双倍伤害。只能靠 Watchtower 以外的方式拖慢对方，基本是劣势对局。
+  - vs: crustle-dri
+    win_rate: 0.343
+    plan: Crustle 挡 ex 的招式伤害。N's Zekrom 自己上场打 Shred（无视战斗场宝可梦身上的效果）是主要出路。
+  - vs: ogerpon-meganium-hydrapple
+    win_rate: 0.342
+    plan: 对方是草属性，Zoroark 弱草。尽快击倒 Meganium（1 奖但它让草能量翻倍）。
+  - vs: mega-excadrill-ex
+    win_rate: 0.386
+    plan: Mega Excadrill ex 340 HP，需要中毒 + Mochi + Black Belt's Training 才够 330，还差 10；先用 Munkidori 或毒伤补。
+  - vs: dragapult-ex
+    win_rate: 0.508
+    plan: Dragapult ex 320 HP，用 Pecharunt 中毒 + Mochi + Black Belt's Training 一击 330 击倒。后备区的 Zekrom 会被 Phantom Dive 狙。
+  - vs: dhelmise-pbl
+    win_rate: 0.775
+    plan: 对方超能宝可梦弱恶，Zoroark 打 Dhelmise 双倍伤害，是最好的对局。
+
+mistakes:
+  - 两只 Zoroark 都用了 Rampaging Thunder，下回合没有能攻击的宝可梦。
+  - 忘了先用 Pecharunt 让攻击手中毒，少了 Binding Mochi 的 40。
+  - 后备区摆了多只 N 的宝可梦，被对手 Boss 拉出来白拿奖赏卡。
+
+inferred:
+  - "Night Joker 只付 Darkness ×2：按卡牌文字\"choose 1 of your Benched N's Pokémon's attacks and use it\"推断，不需支付被复制招式的费用。"
+  - Rampaging Thunder 的"下回合不能攻击"作用在 Zoroark 身上，这是按复制招式的一般规则推断的。
+  - Zekrom 的 Shred 能否穿过 Crustle 的 Mysterious Rock Inn 取决于裁定，未核实。

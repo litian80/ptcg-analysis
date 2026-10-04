@@ -1,0 +1,97 @@
+slug: crustle-dri
+name: Crustle
+name_zh: 岩殿居蟹（防 ex 墙）
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 18 份卡表；卡牌效果取自 data/cards。打法是据此推断的，见 inferred。
+
+summary: >-
+  Crustle（DRI 12）的 Mysterious Rock Inn 让对手宝可梦 ex 的招式伤害全部无效。
+  对只靠 ex 攻击的卡组，它就是一堵墙：每回合 Superb Scissors 120，慢慢磨。
+  Mist Energy 让 Crustle 不受招式效果，Spiky Energy 反伤 20，Growing Grass Energy +20 HP，
+  Jumbo Ice Cream、Pokémon Center Lady 回血。Eri 和 Xerosic's Machinations 打乱对手手牌。
+  Mega Kangaskhan ex ×4 用来抽牌和打非 ex 对手，但它给 3 张。
+
+setup:
+  turn_1:
+    - 后备区放 Dwebble ×2-3（Buddy-Buddy Poffin，或 Lumiose City 找基础宝可梦，但用了会结束回合）。
+    - Dwebble 在战斗场时 Ascension（1 个无色）从牌库直接进化成 Crustle。
+  turn_2:
+    - 战斗场 Crustle 贴 Mist Energy / Spiky Energy；Team Rocket's Petrel 找任意训练家卡。
+    - Eri 弃对手 2 张物品，或 Xerosic's Machinations 让对手弃到 3 张手牌。
+  turn_3:
+    - Superb Scissors（Grass + 2 无色）120，伤害不受对手战斗场宝可梦身上效果影响。
+    - Hero's Cape 给 Crustle +100 HP（250，加 Growing Grass 270）。
+  key_cards: [Dwebble, Crustle, Mist Energy, Team Rocket's Petrel, Jumbo Ice Cream, Eri]
+
+attackers:
+  - card: Crustle
+    printing: DRI 12
+    role: main / wall
+    prizes: 1
+    attack: Superb Scissors
+    cost: Grass + Colorless ×2
+    damage: 120，不受对手战斗场宝可梦身上效果影响
+    notes: 150 HP，弱火，撤退费 3。特性只挡 ex 的招式伤害，不挡指示物放置，也不挡非 ex。
+  - card: Mega Kangaskhan ex
+    printing: MEG 104
+    role: secondary / draw
+    prizes: 3
+    attack: Rapid-Fire Combo
+    cost: Colorless ×3
+    damage: 200 起，每次正面 +50
+    notes: 战斗场时 Run Errand 抽 2。对非 ex 卡组时的主要输出，但被击倒给 3 张。
+
+support:
+  - card: Dwebble
+    role: Ascension 从牌库直接进化
+    prizes: 1
+
+prize_map:
+  liability: >-
+    Crustle 单奖。真正的风险是 Mega Kangaskhan ex（3 张）：对 ex 卡组时尽量不让它站在战斗场被打。
+    对手的非 ex 攻击手（Moltres、Munkidori、Dhelmise、Dipplin、Alakazam 的指示物）是这套牌的威胁。
+  routes:
+    - name: 对只有 ex 攻击手的卡组（默认）
+      steps:
+        - {turn: 3, take: 0, target: 战斗场 ex, how: 120}
+        - {turn: 4, take: 2, target: 同一只 ex, how: 再 120（240 击倒 210-240 HP 的 ex）}
+        - {turn: 5, take: 0, target: 下一只 ex, how: 120}
+        - {turn: 6, take: 2, target: 同上, how: 120}
+        - {turn: 7, take: 2, target: Boss's Orders 拉出的残血 ex, how: 收尾；对手拿不到奖赏卡，慢一点没关系}
+    - name: 对非 ex 卡组
+      steps:
+        - {turn: 3, take: 1, target: 战斗场, how: Crustle 120 或 Kangaskhan 200+}
+        - {turn: 4, take: 1, target: 战斗场, how: 同上}
+        - {turn: 5, take: 1, target: 战斗场, how: 同上}
+        - {turn: 6, take: 1, target: 战斗场, how: 同上}
+        - {turn: 7, take: 1, target: 战斗场, how: 同上}
+        - {turn: 8, take: 1, target: 战斗场, how: 拼续航，通常劣势}
+
+matchups:
+  - vs: lopunny-dudunsparce
+    win_rate: 0.167
+    plan: 数据上最差，原因没有从卡表推出。
+  - vs: festival-lead
+    win_rate: 0.18
+    plan: Dipplin 不是 ex，100 ×2 一回合击倒 Crustle。
+  - vs: slowking-scr
+    win_rate: 0.208
+    plan: Slowking 不是 ex，复制来的 Metallic Hammer 150 击倒 Crustle。
+  - vs: mega-excadrill-ex
+    win_rate: 0.27
+    plan: 对手 Metagross（非 ex）弃 3 能量打 300。
+  - vs: dragapult-blaziken
+    win_rate: 0.744
+    plan: 对手两个主攻都是 ex。注意 Munkidori 挪指示物和 Phantom Dive 的后备区指示物（Mist Energy 挡住后者）。
+  - vs: dragapult-ex
+    win_rate: 0.677
+    plan: 同上；对手的 Moltres（非 ex）只打 20。
+
+mistakes:
+  - 对 ex 卡组时让 Mega Kangaskhan ex 站在战斗场，被一击送 3 张。
+  - Crustle 没贴 Mist Energy，被 Phantom Dive 的指示物慢慢磨掉。
+  - 对手有非 ex 攻击手时仍然按"墙"的思路慢打。
+
+inferred:
+  - Mist Energy 挡住后备区的 Phantom Dive 指示物（招式效果），按卡牌文字推断。
+  - Superb Scissors 无视"对手战斗场宝可梦身上的效果"是否包括特性，未核实。
