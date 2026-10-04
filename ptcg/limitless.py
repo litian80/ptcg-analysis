@@ -350,7 +350,7 @@ def load_index() -> list[dict]:
 
 
 def collect(max_new: int | None = None, refresh_days: int = 0, seasons=SEASONS) -> int:
-    """Collect tournaments not yet in the index (newest first). Returns how many were written.
+    """Collect up to max_new tournaments not yet in the index (newest first). Returns how many.
 
     refresh_days re-collects already indexed events from the last N days, since Limitless
     sometimes fills in lists and Labs data a few days after an event.
@@ -360,12 +360,13 @@ def collect(max_new: int | None = None, refresh_days: int = 0, seasons=SEASONS) 
     TOURNAMENTS.mkdir(parents=True, exist_ok=True)
     index = {r["limitless_id"]: r for r in load_index()}
     cutoff = (dt.date.today() - dt.timedelta(days=refresh_days)).isoformat()
-    todo = [t for t in list_tournaments(seasons)
-            if t["limitless_id"] not in index or t["date"] >= cutoff and refresh_days]
-    todo.sort(key=lambda t: t["date"], reverse=True)
+    listed = sorted(list_tournaments(seasons), key=lambda t: t["date"], reverse=True)
+    new = [t for t in listed if t["limitless_id"] not in index]
     if max_new is not None:
-        todo = todo[:max_new]
-    print(f"tournaments: {len(index)} indexed, collecting {len(todo)}")
+        new = new[:max_new]
+    recent = [t for t in listed if t["limitless_id"] in index and refresh_days and t["date"] >= cutoff]
+    todo = new + recent
+    print(f"tournaments: {len(index)} indexed, collecting {len(new)} new, refreshing {len(recent)}")
     for t in todo:
         try:
             index[t["limitless_id"]] = collect_tournament(t)
@@ -373,7 +374,7 @@ def collect(max_new: int | None = None, refresh_days: int = 0, seasons=SEASONS) 
             print(f"  FAILED {t['date']} {t['name']}: {e!r}")
             continue
         _write_index(index)
-    return len(todo)
+    return len(new)
 
 
 def _write_index(index: dict) -> None:
