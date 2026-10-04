@@ -2,9 +2,11 @@
 
 Per tournament we write data/tournaments/<date>_<limitless id>_<slug>/:
   meta.json       name, date, players, format code (e.g. TEF-30C), RK9 / Labs ids
-  standings.csv   every player Labs lists: placing, record, points, archetype
-  decklists.jsonl full 60-card lists Limitless publishes (usually Day 2 / top finishers)
-  matches.csv     every Swiss and top-cut match with both archetypes and the result
+  standings.csv   every player: placing (top 512, from Labs), record, archetype
+  decklists.jsonl full 60-card lists Limitless publishes (usually Day 2 / top finishers),
+                  one line per card as "<count> <name> <set> <number>"
+  matches.csv     every Swiss and top-cut match: player ids, archetypes, result
+                  (p1 / p2 / tie / bye / double_loss / unpaired)
 and data/tournaments/index.csv lists all collected tournaments.
 """
 from __future__ import annotations
@@ -115,17 +117,16 @@ def parse_decklists(html: str) -> list[dict]:
         title = block.select_one(".decklist-toggle").get_text(" ", strip=True)
         m = re.match(r"(\d+)\w*\s+(.*)", title)
         deck = block.select_one("div.decklist")
-        cards = []
+        cards: dict[str, list[str]] = {}
         for col in deck.select(".decklist-column"):
             section = col.select_one(".decklist-column-heading").get_text(strip=True).split(" (")[0]
+            section = {"Pokémon": "pokemon"}.get(section, section.lower())
             for c in col.select(".decklist-card"):
-                cards.append({
-                    "section": section,
-                    "count": int(c.select_one(".card-count").get_text(strip=True)),
-                    "name": c.select_one(".card-name").get_text(strip=True),
-                    "set": c.get("data-set", ""),
-                    "number": c.get("data-number", ""),
-                })
+                # TCG Live import format: "<count> <name> <set> <number>"
+                cards.setdefault(section, []).append(" ".join([
+                    c.select_one(".card-count").get_text(strip=True),
+                    c.select_one(".card-name").get_text(strip=True),
+                    c.get("data-set", ""), c.get("data-number", "")]).strip())
         archetype = deck.select_one(".decklist-title")
         out.append({
             "placing": int(m.group(1)) if m else None,
@@ -260,7 +261,10 @@ def collect_tournament(t: dict) -> dict:
             if s and s["archetype_slug"]:
                 return s["archetype_slug"], slug_name.get(s["archetype_slug"], s["archetype_slug"])
             hit = archetypes.get(tuple(icons.split("|")) if icons else ())
-            return (hit["slug"], hit["name"]) if hit else ("", " ".join(icons.split("|")) or "unknown")
+            if hit:
+                return hit["slug"], hit["name"]
+            # icons shared by several archetypes, or none shown
+            return ("?" + icons if icons else "?"), (" ".join(icons.split("|")) or "unknown")
 
         first = http.get(f"{LABS}/{lid}/pairings?round=1")
         matches = []
@@ -278,7 +282,9 @@ def collect_tournament(t: dict) -> dict:
                 matches.append(row)
         full = full_standings(standings, matches)
         _write_csv(out / "standings.csv", full)
-        _write_csv(out / "matches.csv", matches)
+        # Names and decks live in standings.csv; matches.csv keeps ids and archetypes only.
+        keep = ["round", "table", "result", "p1_id", "p1_archetype_slug", "p2_id", "p2_archetype_slug"]
+        _write_csv(out / "matches.csv", [{k: m[k] for k in keep} for m in matches])
         n_matches, n_standings = len(matches), len(full)
 
     meta = {**{k: t[k] for k in ("limitless_id", "date", "name", "type", "country", "players", "winner")},
