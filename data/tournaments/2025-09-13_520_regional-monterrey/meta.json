@@ -1,0 +1,23 @@
+{
+  "limitless_id": "520",
+  "date": "2025-09-13",
+  "name": "Regional Monterrey",
+  "type": "regional",
+  "country": "MX",
+  "players": 1620,
+  "winner": "Abaan Ahmed",
+  "format_code": "SVI-BLK",
+  "format_name": "Scarlet & Violet - Black Bolt",
+  "rk9_id": "MT01mfOxRw9XtaFtElAm",
+  "labs_id": "0037",
+  "counts": {
+    "decklists": 274,
+    "standings": 1620,
+    "matches": 6718
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/520",
+    "https://labs.limitlesstcg.com/0037/standings",
+    "https://rk9.gg/pairings/MT01mfOxRw9XtaFtElAm"
+  ]
+}

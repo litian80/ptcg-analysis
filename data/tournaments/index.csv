@@ -1,0 +1,41 @@
+limitless_id,date,name,type,country,players,format_code,winner,labs_id,rk9_id,dir
+519,2025-09-13,Regional Frankfurt,regional,DE,2433,SVI-BLK,Rune Heiremans,0036,FR01mpvNDKVaPxTTkdam,2025-09-13_519_regional-frankfurt
+520,2025-09-13,Regional Monterrey,regional,MX,1620,SVI-BLK,Abaan Ahmed,0037,MT01mfOxRw9XtaFtElAm,2025-09-13_520_regional-monterrey
+521,2025-09-20,"Regional Pittsburgh, PA",regional,US,2691,SVI-BLK,Liam Halliburton,0038,PT01klFH0Nj5f17R5myQ,2025-09-20_521_regional-pittsburgh-pa
+522,2025-10-11,Regional Belo Horizonte,regional,BR,1117,SVI-MEG,Gustavo Wada,0039,BE01wYmCBW1HzjObcfgo,2025-10-11_522_regional-belo-horizonte
+523,2025-10-11,"Regional Milwaukee, WI",regional,US,2305,SVI-MEG,Jackson Ford,0040,MK01mzXPKCuqXfZ1ay6j,2025-10-11_523_regional-milwaukee-wi
+524,2025-10-25,Regional Lille,regional,FR,2028,SVI-MEG,Aleksander Rutowicz,0041,LL01rJ9jmjd0vvZStqEI,2025-10-25_524_regional-lille
+525,2025-11-01,Regional Gdańsk,regional,PL,1675,SVI-MEG,Daniel Magda,0043,GD01yAq3nBdy68dkmxVc,2025-11-01_525_regional-gda-sk
+541,2025-11-01,Regional Brisbane,regional,AU,617,SVI-MEG,Ryuki Okada,0042,BR01wWjeoRXmsLVtL56s,2025-11-01_541_regional-brisbane
+526,2025-11-15,"Regional Las Vegas, NV",regional,US,2919,SVI-MEG,Tord Reklev,0044,LV01YShqrqjMo62PxZPg,2025-11-15_526_regional-las-vegas-nv
+527,2025-11-15,Special Event Buenos Aires,special,AR,350,SVI-MEG,Eduardo Molina,0045,,2025-11-15_527_special-event-buenos-aires
+516,2025-11-21,"LAIC 2025–26, São Paulo",international,BR,2117,SVI-MEG,Pedro Pertusi,0046,LA0126uWiVw5bRySlkA2,2025-11-21_516_laic-2025-26-s-o-paulo
+528,2025-11-29,Regional Stuttgart,regional,DE,2200,SVI-PFL,Nicolai Stiborg,0047,SG0167ss5UCjklsDaPrA,2025-11-29_528_regional-stuttgart
+538,2026-01-17,Regional Toronto,regional,CA,2270,SVI-PFL,Giovanny Sasso,0048,TO01yAfakDVFFDFAV2AS,2026-01-17_538_regional-toronto
+529,2026-01-24,Regional Birmingham,regional,GB,2344,SVI-PFL,Ethan Wilde,0049,BH01mjIWeSb7vxkM9Aer,2026-01-24_529_regional-birmingham
+530,2026-01-24,Regional Mérida,regional,MX,1690,SVI-PFL,Rajveer Singh,0050,ME01wMEKNaLIfrdxmnhb,2026-01-24_530_regional-m-rida
+531,2026-01-24,Special Event Auckland,special,NZ,80,SVI-PFL,Peter Lo,0051,,2026-01-24_531_special-event-auckland
+532,2026-02-07,Regional Santiago,regional,CL,1670,SVI-PFL,Murilo Mercadante,0053,ST01bmgM9jIqCvBYdzy3,2026-02-07_532_regional-santiago
+553,2026-02-07,Regional Sydney,regional,AU,699,SVI-PFL,Lucas Hamilton-Foster,0052,SY01X6aiblBgAp8tfhjx,2026-02-07_553_regional-sydney
+517,2026-02-13,"EUIC 2026, London",international,GB,4010,SVI-PFL,Edwyn Mesman,0054,EU01mU0Z1galE2FATDYs,2026-02-13_517_euic-2026-london
+542,2026-02-28,"Regional Seattle, WA",regional,US,2231,SVI-PFL,Truwin Tran,0055,SE01gUuRn8bJqbH9Wnt1,2026-02-28_542_regional-seattle-wa
+560,2026-03-07,Special Event San Juan,special,PR,356,SVI-ASC,Miguel Alejandro Hernández García,0056,,2026-03-07_560_special-event-san-juan
+543,2026-03-14,Regional Curitiba,regional,BR,1449,SVI-ASC,Matias Matricardi,0057,CU01wDygvn34WEPNJ3ou,2026-03-14_543_regional-curitiba
+551,2026-03-21,"Regional Houston, TX",regional,US,2635,SVI-ASC,Yoshiyuki Yamaguchi,0058,HO01w20W3tGb1aAsLzwS,2026-03-21_551_regional-houston-tx
+533,2026-03-28,Special Event Sevilla,special,ES,1337,SVI-ASC,Ted Tobyn,0059,SV01wTkt9yQGVSt6nlcu,2026-03-28_533_special-event-sevilla
+563,2026-03-28,Special Event Cape Town,special,ZA,88,SVI-ASC,Simon Otter,,,2026-03-28_563_special-event-cape-town
+534,2026-04-04,Regional Querétaro,regional,MX,1446,SVI-ASC,Akira Kurasaki,0061,QT01w3mp1uQMDP3jCkOe,2026-04-04_534_regional-quer-taro
+552,2026-04-04,"Regional Orlando, FL",regional,US,2745,SVI-ASC,Noah Sakadjian,0060,OR01wtIo4gvZNU3UircG,2026-04-04_552_regional-orlando-fl
+539,2026-04-25,Regional Prague,regional,CZ,1370,TEF-POR,Mateusz Łaszkiewicz,0062,,2026-04-25_539_regional-prague
+558,2026-05-09,"Regional Los Angeles, CA",regional,US,1849,TEF-POR,Andrew Hedrick,0063,LS01wQe8A4VHbkNmRSRG,2026-05-09_558_regional-los-angeles-ca
+535,2026-05-16,Regional Utrecht,regional,NL,2150,TEF-POR,Miloslav Posledni,0064,UT01wfduzfUrh9rXVkAx,2026-05-16_535_regional-utrecht
+544,2026-05-16,Regional Campinas,regional,BR,1725,TEF-POR,Matias Matricardi,0065,CA01wQsCrDh1mbLzRAcv,2026-05-16_544_regional-campinas
+536,2026-05-23,Special Event Lima,special,PE,499,TEF-POR,Diego Varea Barrera,0067,,2026-05-23_536_special-event-lima
+550,2026-05-23,Regional Melbourne,regional,AU,959,TEF-POR,Hiromu Sasaki,0066,MB01wmlUs2CVS0PCE3d9,2026-05-23_550_regional-melbourne
+559,2026-05-30,"Regional Indianapolis, IN",regional,US,1974,TEF-POR,Cerys Jones,0068,IN01wT0IVRulcJxVUEZ0,2026-05-30_559_regional-indianapolis-in
+540,2026-06-06,Special Event Turin,special,IT,2033,TEF-CRI,Jose López,0069,TU01w1D52rjGebrE8szS,2026-06-06_540_special-event-turin
+518,2026-06-10,"NAIC 2026, New Orleans",international,US,3752,TEF-CRI,James Kowalski,0070,NA01wMo4vxttnwEyqclr,2026-06-10_518_naic-2026-new-orleans
+515,2026-08-28,World Championships 2026,worlds,US,797,TEF-PBL,Andrew Hedrick,0071,WCS01wI9lfI55wHtvrdy,2026-08-28_515_world-championships-2026
+577,2026-09-19,"Regional Baltimore, MD",regional,US,3122,TEF-PBL,Dylan Kasturi,0072,BA001-nEN1xl5ZJLGtFk,2026-09-19_577_regional-baltimore-md
+578,2026-09-26,Regional Brisbane,regional,AU,817,TEF-30C,Edmund Khoo,0073,BR001-5YdU57MmWxTxaY,2026-09-26_578_regional-brisbane
+579,2026-09-26,Regional Frankfurt,regional,DE,2793,TEF-30C,Tomasz Chałupka,0074,FR001-qWsas6LjddfVxo,2026-09-26_579_regional-frankfurt

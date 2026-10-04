@@ -1,0 +1,23 @@
+{
+  "limitless_id": "516",
+  "date": "2025-11-21",
+  "name": "LAIC 2025–26, São Paulo",
+  "type": "international",
+  "country": "BR",
+  "players": 2117,
+  "winner": "Pedro Pertusi",
+  "format_code": "SVI-MEG",
+  "format_name": "Scarlet & Violet - Mega Evolution",
+  "rk9_id": "LA0126uWiVw5bRySlkA2",
+  "labs_id": "0046",
+  "counts": {
+    "decklists": 367,
+    "standings": 2117,
+    "matches": 8746
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/516",
+    "https://labs.limitlesstcg.com/0046/standings",
+    "https://rk9.gg/pairings/LA0126uWiVw5bRySlkA2"
+  ]
+}

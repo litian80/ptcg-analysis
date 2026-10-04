@@ -1,0 +1,23 @@
+{
+  "limitless_id": "530",
+  "date": "2026-01-24",
+  "name": "Regional Mérida",
+  "type": "regional",
+  "country": "MX",
+  "players": 1690,
+  "winner": "Rajveer Singh",
+  "format_code": "SVI-PFL",
+  "format_name": "Scarlet & Violet - Phantasmal Flames",
+  "rk9_id": "ME01wMEKNaLIfrdxmnhb",
+  "labs_id": "0050",
+  "counts": {
+    "decklists": 276,
+    "standings": 1690,
+    "matches": 7024
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/530",
+    "https://labs.limitlesstcg.com/0050/standings",
+    "https://rk9.gg/pairings/ME01wMEKNaLIfrdxmnhb"
+  ]
+}

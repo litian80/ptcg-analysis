@@ -1,0 +1,81 @@
+placing,labs_player_id,name,country,wins,losses,ties,points,day2,top_cut,archetype,archetype_slug,icons
+1,0050,Peter Lo,,10,1,2,32,True,True,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+2,0051,Keito Arai,,9,3,1,28,True,True,unknown,?,
+3,0029,Dino Spasovski,,8,2,2,26,True,True,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+4,0049,Justin Hoy,,8,2,2,26,True,True,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+5,0018,Henry Brand,,7,2,2,23,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+6,0022,Matthew Burris,,7,2,2,23,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+7,0043,Jeremy Lim,,7,2,2,23,True,True,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+8,0067,Natalie Millar,,7,3,1,22,True,True,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+9,0021,Christian Viti,,6,3,1,19,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+10,0059,Lucas Hamilton-Foster,,6,3,1,19,True,True,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+11,0015,Ashe Olsen,,5,1,3,18,True,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+12,0020,Solomon Foo,,5,2,2,17,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+13,0064,Tim Franklin,,5,3,1,16,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+14,0076,Tyler Bishop,,5,3,1,16,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+15,0069,Nathan Spry,,5,3,1,16,True,False,unknown,?,
+16,0080,Thomas Layburn,,5,3,1,16,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+17,0061,Luke Maher,,5,3,1,16,True,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+18,0066,Nigel Tan,,5,3,1,16,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+19,0011,Angus Johnson,,5,3,1,16,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+20,0048,Nicholas Choong,,5,4,0,15,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+21,0058,Tae Hyung Kim,,4,3,2,14,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+22,0074,Samantha Turner,,4,3,2,14,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+23,0065,Meredith Whitehead,,4,4,1,13,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+24,0013,Angus Byers,,4,4,1,13,True,False,Ceruledge,ceruledge-ex,ceruledge
+25,0003,Adam Paterson,,4,3,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+26,0019,Charlie Queen,,4,3,0,12,False,False,Slowking,slowking-scr,slowking
+27,0005,Addison Yip,,4,3,0,12,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+28,0035,Gareth Murphy,,4,3,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+29,0034,Sean Takemoto,,3,2,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+30,0053,Kelvin Duong,,3,2,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+31,0052,Leigh Edwards,,3,2,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+32,0057,Louis Chi,,3,2,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+33,0044,Noah Lewis,,3,3,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+34,0009,Alex Gordon,,3,3,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+35,0032,George Glover,,3,3,1,10,False,False,Yanmega,yanmega-ex,yanmega
+36,0073,Nicholas Fox,,3,3,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+37,0006,Anthony Chan,,3,3,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+38,0004,Layton Rumble,,3,3,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+39,0055,Kenny Potter,,3,3,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+40,0025,Cori Swards,,3,3,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+41,0072,Su Fu,,3,3,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+42,0071,Nathan Topping,,3,3,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+43,0047,Julian Luvara,,3,3,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+44,0033,Fergus Bell,,2,1,4,10,False,False,unknown,?,
+45,0028,Roberto Goulter,,3,3,1,10,False,False,unknown,?,
+46,0046,Qianyan Bei,,3,4,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+47,0068,Thomas Hormann,,3,4,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+48,0037,Haru Nishikawa,,3,3,0,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+49,0024,Sheldon Kuppan,,3,4,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+50,0026,Toby Lockhart,,3,4,0,9,False,False,Joltik Box,joltik-box,joltik|pikachu
+51,0045,Josh Machiela,,3,4,0,9,False,False,Other,other,substitute
+52,0008,Jack Li,,3,4,0,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+53,0042,Richard Hpa,,2,3,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+54,0062,Vignesh Krishnan,,2,3,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+55,0023,Ciaran Bradley,,2,3,1,7,False,False,Alakazam,alakazam-meg,alakazam
+56,0017,Blake Davies,,2,4,1,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+57,0027,Der Cherng Lee,,2,4,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+58,0040,Jordan De Miranda,,2,3,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+59,0078,Shawn Zillmann,,2,4,1,7,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+60,0060,Tyriek Mousaco,,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+61,0031,Efim Zelmanovich,,2,4,1,7,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+62,0054,Teran Abeydeera,,2,4,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+63,0010,Lewis Stevens,,2,5,0,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+64,0036,Sinisa Blazic,,2,4,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+65,0038,Vincent Yu,,2,5,0,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+66,0001,Aaron Rogers,,1,4,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+67,0007,Adrian Lacanilao,,1,4,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+68,0075,Nikhil Narayan,,1,4,2,5,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+69,0079,Saneel Swami,,1,4,2,5,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+70,0030,Peter Phaly,,1,4,2,5,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+71,0041,Jason Yip,,1,4,2,5,False,False,unknown,?,
+72,0014,Yasuyuki Handa,,1,4,2,5,False,False,unknown,?,
+73,0070,Sera Matsumoto,,1,4,2,5,False,False,unknown,?,
+74,0056,Richie Coghlan,,1,3,2,5,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+75,0002,Yiheng Huang,,1,3,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+76,0077,Samuel Gianakis,,1,5,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+77,0016,Jacob Tannahill-Swift,,1,3,0,3,False,False,Iron Hands Magneton,iron-hands-magneton,iron-hands|magneton
+78,0039,Jaclyn Elliott,,1,6,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+79,0012,Osiris Bell,,1,5,0,3,False,False,unknown,?,
+80,0063,Matthew James,,0,4,0,0,False,False,unknown,?,
