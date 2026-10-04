@@ -1,0 +1,303 @@
+Setup
+Maxevil95 chose tails for the opening coin flip.
+K3vlarUK won the coin toss.
+K3vlarUK decided to go second.
+Maxevil95 drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Abra, Night Stretcher, Nighttime Mine, Dawn, Alakazam, Kadabra, Genesect
+K3vlarUK drew 7 cards for the opening hand.
+- 7 drawn cards.
+Maxevil95 played Genesect to the Active Spot.
+K3vlarUK played Budew to the Active Spot.
+K3vlarUK played Dreepy to the Bench.
+
+Maxevil95's Turn
+Maxevil95 drew Air Balloon.
+Maxevil95 attached Air Balloon to Genesect in the Active Spot.
+Maxevil95 played Abra to the Bench.
+Maxevil95 ended their turn.
+
+K3vlarUK's Turn
+K3vlarUK drew a card.
+K3vlarUK attached Basic Fire Energy to Budew in the Active Spot.
+K3vlarUK played Buddy-Buddy Poffin.
+- K3vlarUK drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- K3vlarUK shuffled their deck.
+K3vlarUK played Risky Ruins to the Stadium spot.
+K3vlarUK played Lillie's Determination.
+- K3vlarUK shuffled 2 cards into their deck.
+- K3vlarUK drew 8 cards.
+K3vlarUK played Dunsparce to the Bench.
+Risky Ruins was activated.
+- K3vlarUK put 2 damage counters on K3vlarUK's Dunsparce.
+K3vlarUK played Poké Pad.
+- K3vlarUK drew Drakloak.
+- K3vlarUK shuffled their deck.
+K3vlarUK's Budew used Itchy Pollen on Maxevil95’s Genesect for 0 damage. Maxevil95's Genesect took -10 less damage because of Grass Resistance.
+- Damage breakdown:
+   • Base damage: 10 damage
+   • Resistance to Grass: -10 damage
+   • Total damage: 0 damage
+
+
+Maxevil95's Turn
+Maxevil95 drew Telepathic Psychic Energy.
+Maxevil95 attached Telepathic Psychic Energy to Abra on the Bench.
+Telepathic Psychic Energy was activated.
+- Maxevil95 drew 2 cards and played them to the Bench.
+   • Abra, Abra
+- Maxevil95 shuffled their deck.
+Risky Ruins was activated.
+- Maxevil95 put 2 damage counters on K3vlarUK's Abra.
+- Maxevil95 put 2 damage counters on K3vlarUK's Abra.
+Maxevil95 played Dawn.
+- Maxevil95 drew 3 cards.
+   • Dunsparce, Dudunsparce, Alakazam
+- Maxevil95 shuffled their deck.
+Maxevil95 played Nighttime Mine to the Stadium spot.
+- K3vlarUK discarded Risky Ruins.
+Maxevil95 played Dunsparce to the Bench.
+Maxevil95 evolved Abra to Kadabra on the Bench.
+Maxevil95's Kadabra used Psychic Draw.
+- Maxevil95 drew 2 cards.
+   • Boss's Orders, Fezandipiti ex
+Maxevil95 ended their turn.
+
+K3vlarUK's Turn
+K3vlarUK drew a card.
+K3vlarUK evolved Dreepy to Drakloak on the Bench.
+K3vlarUK evolved Dreepy to Drakloak on the Bench.
+K3vlarUK played Crushing Hammer.
+- K3vlarUK flipped a coin and it landed on heads.
+- Telepathic Psychic Energy was discarded from Maxevil95's Kadabra.
+K3vlarUK attached Basic Fire Energy to Drakloak on the Bench.
+K3vlarUK's Drakloak used Recon Directive.
+- K3vlarUK drew a card.
+K3vlarUK's Drakloak used Recon Directive.
+- K3vlarUK drew a card.
+K3vlarUK played Meowth ex to the Bench.
+K3vlarUK's Meowth ex used Last-Ditch Catch.
+- K3vlarUK drew Crispin.
+- K3vlarUK shuffled their deck.
+K3vlarUK played Poké Pad.
+- K3vlarUK drew Dudunsparce.
+- K3vlarUK shuffled their deck.
+K3vlarUK evolved Dunsparce to Dudunsparce on the Bench.
+K3vlarUK's Dudunsparce used Run Away Draw.
+- K3vlarUK drew 3 cards.
+- K3vlarUK shuffled 2 cards into their deck.
+   • Dudunsparce, Dunsparce
+K3vlarUK retreated Budew to the Bench.
+K3vlarUK's Drakloak is now in the Active Spot.
+K3vlarUK played Crispin.
+- K3vlarUK drew Basic Fire Energy.
+- K3vlarUK attached Basic Psychic Energy to Drakloak in the Active Spot.
+- K3vlarUK shuffled their deck.
+K3vlarUK's Drakloak used Dragon Headbutt on Maxevil95’s Genesect for 70 damage.
+
+Maxevil95's Turn
+Maxevil95 drew Sacred Ash.
+Maxevil95 evolved Kadabra to Alakazam on the Bench.
+Maxevil95's Alakazam used Psychic Draw.
+- Maxevil95 drew 3 cards.
+   • Rare Candy, Buddy-Buddy Poffin, Buddy-Buddy Poffin
+Maxevil95 evolved Dunsparce to Dudunsparce on the Bench.
+Maxevil95 played Dudunsparce.
+- Maxevil95 drew 3 cards.
+   • Enriching Energy, Dawn, Psyduck
+- Maxevil95 shuffled 2 cards into their deck.
+   • Dudunsparce, Dunsparce
+Maxevil95 played Buddy-Buddy Poffin.
+- Maxevil95 drew 2 cards and played them to the Bench.
+   • Dunsparce, Dunsparce
+- Maxevil95 shuffled their deck.
+Maxevil95 played Dawn.
+- Maxevil95 drew 3 cards.
+   • Abra, Kadabra, Alakazam
+- Maxevil95 shuffled their deck.
+Maxevil95 evolved Abra to Kadabra on the Bench.
+Maxevil95's Kadabra used Psychic Draw.
+- Maxevil95 drew 2 cards.
+   • Telepathic Psychic Energy, Poké Pad
+Maxevil95 played Rare Candy.
+- Maxevil95 evolved Abra to Alakazam on the Bench.
+Maxevil95's Alakazam used Psychic Draw.
+- Maxevil95 drew 3 cards.
+   • Buddy-Buddy Poffin, Lana's Aid, Shaymin
+Maxevil95 attached Telepathic Psychic Energy to Alakazam on the Bench.
+Maxevil95 retreated Genesect to the Bench.
+Maxevil95's Alakazam is now in the Active Spot.
+Maxevil95 played Poké Pad.
+- Maxevil95 drew Dudunsparce.
+- Maxevil95 shuffled their deck.
+Maxevil95's Alakazam used Powerful Hand.
+- Maxevil95 put 26 damage counters on Maxevil95's Drakloak.
+K3vlarUK's Drakloak was Knocked Out!
+- 3 cards were discarded from K3vlarUK's Drakloak.
+   • Basic Fire Energy, Basic Psychic Energy, Dreepy
+Maxevil95 took a Prize card.
+Telepathic Psychic Energy was added to Maxevil95's hand.
+K3vlarUK's Drakloak is now in the Active Spot.
+
+K3vlarUK's Turn
+K3vlarUK drew a card.
+K3vlarUK played Fezandipiti ex to the Bench.
+K3vlarUK evolved Drakloak to Dragapult ex in the Active Spot.
+K3vlarUK played Crushing Hammer.
+- K3vlarUK flipped a coin and it landed on tails.
+K3vlarUK attached Basic Psychic Energy to Dragapult ex in the Active Spot.
+K3vlarUK played Lillie's Determination.
+- K3vlarUK shuffled 4 cards into their deck.
+- K3vlarUK drew 8 cards.
+K3vlarUK played Dreepy to the Bench.
+K3vlarUK's Fezandipiti ex used Flip the Script.
+- K3vlarUK drew 3 cards.
+K3vlarUK evolved Dreepy to Drakloak on the Bench.
+K3vlarUK's Drakloak used Recon Directive.
+- K3vlarUK drew a card.
+K3vlarUK played Poké Pad.
+- K3vlarUK drew Drakloak.
+- K3vlarUK shuffled their deck.
+K3vlarUK retreated Dragapult ex to the Bench.
+- Basic Psychic Energy was discarded from K3vlarUK's Dragapult ex.
+K3vlarUK's Budew is now in the Active Spot.
+K3vlarUK's Budew used Itchy Pollen on Maxevil95’s Alakazam for 10 damage.
+
+Maxevil95's Turn
+Maxevil95 drew Poké Pad.
+Maxevil95 played Boss's Orders.
+- K3vlarUK's Meowth ex was switched with K3vlarUK's Budew to become the Active Pokémon.
+K3vlarUK's Meowth ex is now in the Active Spot.
+Maxevil95 attached Telepathic Psychic Energy to Alakazam on the Bench.
+Maxevil95 evolved Dunsparce to Dudunsparce on the Bench.
+Maxevil95's Alakazam used Powerful Hand.
+- Maxevil95 put 24 damage counters on Maxevil95's Meowth ex.
+K3vlarUK's Meowth ex was Knocked Out!
+Maxevil95 took 2 Prize cards.
+Kadabra was added to Maxevil95's hand.
+Battle Cage was added to Maxevil95's hand.
+K3vlarUK's Budew is now in the Active Spot.
+
+K3vlarUK's Turn
+K3vlarUK drew a card.
+K3vlarUK played Special Red Card.
+- Maxevil95 shuffled their hand.
+- Maxevil95 put 14 cards on the bottom of their deck.
+   • Alakazam, Sacred Ash, Enriching Energy, Psyduck, Poké Pad, Lana's Aid, Buddy-Buddy Poffin, Battle Cage, Night Stretcher, Fezandipiti ex, Abra, Buddy-Buddy Poffin, Shaymin, Kadabra
+- Maxevil95 drew 3 cards.
+   • Dawn, Telepathic Psychic Energy, Basic Psychic Energy
+K3vlarUK's Drakloak used Recon Directive.
+- K3vlarUK drew a card.
+K3vlarUK evolved Dreepy to Drakloak on the Bench.
+K3vlarUK's Drakloak used Recon Directive.
+- K3vlarUK drew a card.
+K3vlarUK evolved Drakloak to Dragapult ex on the Bench.
+K3vlarUK played Crispin.
+- K3vlarUK drew Basic Darkness Energy.
+- K3vlarUK attached Basic Fire Energy to Dragapult ex on the Bench.
+- K3vlarUK shuffled their deck.
+K3vlarUK attached Basic Psychic Energy to Dragapult ex on the Bench.
+K3vlarUK played Night Stretcher.
+- K3vlarUK moved K3vlarUK's Dreepy to their hand.
+K3vlarUK played Dreepy to the Bench.
+K3vlarUK's Fezandipiti ex used Flip the Script.
+- K3vlarUK drew 3 cards.
+K3vlarUK's Budew used Itchy Pollen on Maxevil95’s Alakazam for 10 damage.
+
+Maxevil95's Turn
+Maxevil95 drew Dunsparce.
+Maxevil95 played Dawn.
+- Maxevil95 drew 3 cards.
+   • Fezandipiti ex, Dudunsparce, Alakazam
+- Maxevil95 shuffled their deck.
+Maxevil95's Dudunsparce used Run Away Draw.
+- Maxevil95 drew 3 cards.
+   • Rare Candy, Kadabra, Handheld Fan
+- Maxevil95 shuffled 2 cards into their deck.
+   • Dudunsparce, Dunsparce
+Maxevil95 evolved Dunsparce to Dudunsparce on the Bench.
+Maxevil95 played Dudunsparce.
+- Maxevil95 drew 3 cards.
+   • Poké Pad, Battle Cage, Enhanced Hammer
+- Maxevil95 shuffled 2 cards into their deck.
+   • Dudunsparce, Dunsparce
+Maxevil95 played Dunsparce to the Bench.
+Maxevil95 evolved Kadabra to Alakazam on the Bench.
+Maxevil95's Alakazam used Psychic Draw.
+- Maxevil95 drew 3 cards.
+   • Eri, Hilda, Boss's Orders
+Maxevil95 played Fezandipiti ex to the Bench.
+Maxevil95 attached Telepathic Psychic Energy to Alakazam on the Bench.
+Maxevil95 attached Handheld Fan to Alakazam in the Active Spot.
+Maxevil95's Alakazam used Powerful Hand.
+- Maxevil95 put 18 damage counters on Maxevil95's Budew.
+K3vlarUK's Budew was Knocked Out!
+Basic Fire Energy was discarded from K3vlarUK's Budew.
+Maxevil95 took a Prize card.
+Kadabra was added to Maxevil95's hand.
+K3vlarUK's Dragapult ex is now in the Active Spot.
+
+K3vlarUK's Turn
+K3vlarUK drew a card.
+K3vlarUK played Munkidori to the Bench.
+K3vlarUK attached Basic Darkness Energy to Dragapult ex in the Active Spot.
+K3vlarUK played Night Stretcher.
+- K3vlarUK moved K3vlarUK's Drakloak to their hand.
+K3vlarUK evolved Dreepy to Drakloak on the Bench.
+K3vlarUK played Lillie's Determination.
+- K3vlarUK shuffled 8 cards into their deck.
+- K3vlarUK drew 8 cards.
+K3vlarUK's Fezandipiti ex used Flip the Script.
+- K3vlarUK drew 3 cards.
+K3vlarUK played Crushing Hammer.
+- K3vlarUK flipped a coin and it landed on tails.
+K3vlarUK's Drakloak used Recon Directive.
+- K3vlarUK drew a card.
+K3vlarUK's Drakloak used Recon Directive.
+- K3vlarUK drew a card.
+K3vlarUK evolved Drakloak to Dragapult ex on the Bench.
+K3vlarUK's Dragapult ex used Phantom Dive on Maxevil95’s Alakazam for 200 damage.
+- K3vlarUK put 2 damage counters on K3vlarUK's Alakazam.
+- K3vlarUK put 4 damage counters on K3vlarUK's Genesect.
+Maxevil95's Alakazam was Knocked Out!
+- 4 cards were discarded from Maxevil95's Alakazam.
+   • Telepathic Psychic Energy, Kadabra, Abra, Handheld Fan
+Maxevil95's Genesect was Knocked Out!
+Air Balloon was discarded from Maxevil95's Genesect.
+Handheld Fan was activated.
+- K3vlarUK attached Basic Fire Energy to Munkidori on the Bench.
+K3vlarUK took 2 Prize cards.
+A card was added to K3vlarUK's hand.
+A card was added to K3vlarUK's hand.
+Maxevil95's Alakazam is now in the Active Spot.
+
+Maxevil95's Turn
+Maxevil95 drew Dudunsparce.
+Maxevil95's Fezandipiti ex used Flip the Script.
+- Maxevil95 drew 3 cards.
+   • Poké Pad, Night Stretcher, Buddy-Buddy Poffin
+Maxevil95 played Hilda.
+- Maxevil95 drew 2 cards.
+   • Dudunsparce, Enriching Energy
+- Maxevil95 shuffled their deck.
+Maxevil95 attached Enriching Energy to Dunsparce on the Bench.
+Enriching Energy was activated.
+- Maxevil95 drew 4 cards.
+   • Dedenne, Boss's Orders, Hilda, Sacred Ash
+Maxevil95 evolved Dunsparce to Dudunsparce on the Bench.
+Maxevil95's Dudunsparce used Run Away Draw.
+- Maxevil95 drew 3 cards.
+   • Lana's Aid, Dunsparce, Nighttime Mine
+- Maxevil95 shuffled 3 cards into their deck.
+   • Dudunsparce, Enriching Energy, Dunsparce
+Maxevil95's Alakazam used Powerful Hand.
+- Maxevil95 put 40 damage counters on Maxevil95's Dragapult ex.
+K3vlarUK's Dragapult ex was Knocked Out!
+- 4 cards were discarded from K3vlarUK's Dragapult ex.
+   • Basic Psychic Energy, Basic Darkness Energy, Drakloak, Dreepy
+Maxevil95 took 2 Prize cards.
+Poké Pad was added to Maxevil95's hand.
+Enhanced Hammer was added to Maxevil95's hand.
+All Prize cards taken. Maxevil95 wins.
+
