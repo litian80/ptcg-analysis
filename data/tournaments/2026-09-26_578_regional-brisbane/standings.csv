@@ -1,0 +1,513 @@
+placing,labs_player_id,name,country,points,wins,losses,ties,phase,archetype_slug,icons,archetype
+1,0767,Edmund Khoo,SG,42,14,2,0,day2 topcut,dragapult-ex,dragapult,Dragapult
+2,0626,Yoshiyuki Yamaguchi,JP,38,12,2,2,day2 topcut,dragapult-ex,dragapult,Dragapult
+3,0565,Brent Tonisson,AU,36,11,1,3,day2 topcut,dragapult-ex,dragapult,Dragapult
+4,0035,Daigo Yoshihara,JP,35,11,2,2,day2 topcut,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+5,0327,Daniel Fray,AU,33,11,3,0,day2 topcut,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+6,0687,max kunde,AU,33,11,3,0,day2 topcut,dragapult-ex,dragapult,Dragapult
+7,0098,Fletcher Cutting,AU,32,10,2,2,day2 topcut,lopunny-dusknoir,lopunny-mega|dusknoir,Lopunny Dusknoir
+8,0324,Masato Shimada,JP,32,10,2,2,day2 topcut,lucario-hariyama,lucario-mega|hariyama,Lucario Hariyama
+9,0494,Jamison Bulloch,AU,29,9,2,2,day2 topcut,basic-box-m,ogerpon|clefairy,Basic Box
+10,0347,Shuto Kogawa,AU,28,9,2,1,day2,clefairy-ogerpon,clefairy|ogerpon,Clefairy Ogerpon
+11,0025,RYUKI OKADA,JP,28,9,2,1,day2,basic-box-m,ogerpon|clefairy,Basic Box
+12,0247,TAISEI KODAMA,JP,28,9,2,1,day2,basic-box-m,ogerpon|clefairy,Basic Box
+13,0355,Alex Lonnecker,UK,28,9,2,1,day2,dragapult-ex,dragapult,Dragapult
+14,0428,Elijah Smart,AU,28,9,2,1,day2,dragapult-ex,dragapult,Dragapult
+15,0765,Johnathan Heng,AU,28,9,2,1,day2,slowking-scr,slowking,Slowking
+16,0474,xingyu huang,AU,27,9,3,0,day2,dragapult-ex,dragapult,Dragapult
+17,0364,Asaki Hasegawa,JP,27,9,3,0,day2,dragapult-dudunsparce,dragapult|dudunsparce,Dragapult Dudunsparce
+18,0440,Jordan Palmer,AU,27,8,1,3,day2,dragapult-ex,dragapult,Dragapult
+19,0180,Siu Chun Lee,AU,27,9,3,0,day2,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+20,0228,Katherine Mai,AU,27,9,3,0,day2,dragapult-dudunsparce,dragapult|dudunsparce,Dragapult Dudunsparce
+21,0223,Marcus Ibbotson,UK,27,9,3,0,day2,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+22,0076,Matthew Bray,AU,27,8,1,3,day2,basic-box-m,ogerpon|clefairy,Basic Box
+23,0129,BOHAO WANG,AU,27,9,3,0,day2,alakazam-dusknoir,alakazam|dusknoir,Alakazam Dusknoir
+24,0581,Yuichi Matsuo,AU,26,8,2,2,day2,dragapult-ex,dragapult,Dragapult
+25,0362,Harry Shallcrass,NZ,26,8,2,2,day2,dragapult-ex,dragapult,Dragapult
+26,0462,Shoichi Saito,JP,26,8,2,2,day2,dragapult-ex,dragapult,Dragapult
+27,0374,Samuel Furlong,AU,26,8,2,2,day2,slowking-scr,slowking,Slowking
+28,0398,Jeremy Tan,AU,26,8,2,2,day2,seaking-pre,seaking|thwackey,Seaking Festival Lead
+29,0126,Jake Ng,AU,26,8,2,2,day2,dragapult-ex,dragapult,Dragapult
+30,0450,Paulo Jun Alvear Fujii,AU,26,8,2,2,day2,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+31,0285,Deacan Page,AU,26,8,2,2,day2,slowking-scr,slowking,Slowking
+32,0605,Isaac Robertson,AU,26,8,2,2,day2,n-zoroark,zoroark,N's Zoroark
+33,0340,Riley Dean,AU,25,8,3,1,day2,dragapult-ex,dragapult,Dragapult
+34,0528,Callum Reed,AU,25,8,3,1,day2,n-zoroark,zoroark,N's Zoroark
+35,0294,Jinta Tasaka,JP,25,8,3,1,day2,slowking-scr,slowking,Slowking
+36,0554,Haruki Tsutsumi,JP,25,8,3,1,day2,lopunny-dusknoir,lopunny-mega|dusknoir,Lopunny Dusknoir
+37,0238,Ashton Grant,AU,25,8,3,1,day2,basic-box-m,ogerpon|clefairy,Basic Box
+38,0495,Sophie Seeary,AU,25,8,3,1,day2,dragapult-ex,dragapult,Dragapult
+39,0171,Corey Munro,AU,25,8,3,1,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+40,0079,Yohei Takeda,JP,25,8,3,1,day2,alakazam-dusknoir,alakazam|dusknoir,Alakazam Dusknoir
+41,0308,Victor Liu,AU,25,7,1,4,day2,dragapult-ex,dragapult,Dragapult
+42,0146,Jettano Posani,AU,25,7,1,4,day2,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+43,0481,Rory Sharpe,AU,25,8,3,1,day2,crustle-dri,crustle,Crustle
+44,0478,Iori Takahashi,JP,25,8,3,1,day2,n-zoroark,zoroark,N's Zoroark
+45,0686,Harrison Tran,AU,25,8,3,1,day2,n-zoroark,zoroark,N's Zoroark
+46,0029,Noah Hecker,AU,25,8,3,1,day2,basic-box-m,ogerpon|clefairy,Basic Box
+47,0096,Alex Bey,AU,25,8,3,1,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+48,0306,Sean Takemoto,AU,25,8,3,1,day2,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+49,0794,David Yan,NZ,25,8,3,1,day2,mega-lucario-ex,lucario-mega,Mega Lucario
+50,0045,Xander Shepherd,AU,25,8,3,1,day2,lopunny-dudunsparce,lopunny-mega|dudunsparce,Lopunny Dudunsparce
+51,0216,Anders Oh,AU,25,8,3,1,day2,sharpedo-toxtricity,sharpedo-mega|toxtricity,Sharpedo Toxtricity
+52,0273,Tomohiro Iezaki,JP,25,8,3,1,day2,n-zoroark,zoroark,N's Zoroark
+53,0557,Keito Arai,JP,24,8,4,0,day2,basic-box-m,ogerpon|clefairy,Basic Box
+54,0187,Taisei Ito,JP,24,8,4,0,day2,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+55,0673,Srikar Jha,AU,24,8,4,0,day2,dragapult-ex,dragapult,Dragapult
+56,0739,Jeremy Evans,AU,24,8,4,0,day2,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+57,0621,Noah Lewis,AU,24,7,2,3,day2,crustle-dri,crustle,Crustle
+58,0402,Jessica Ho,AU,24,8,4,0,day2,slowking-scr,slowking,Slowking
+59,0053,Henry Thompson,AU,24,7,2,3,day2,n-zoroark,zoroark,N's Zoroark
+60,0084,Primo Mawn,AU,23,7,3,2,day2,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+61,0490,Ryota Suzuki,JP,23,7,3,2,day2,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+62,0492,Stephen Lowe,US,23,7,3,2,day2,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+63,0750,Ciaran Bradley,NZ,23,6,1,5,day2,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+64,0042,Loughlain McPherson,AU,23,7,3,2,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+65,0447,Nicholas Versic,AU,23,7,3,2,day2,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+66,0501,Devrim Cubuk,AU,23,7,3,2,day2,dragapult-ex,dragapult,Dragapult
+67,0722,Edison Zhou,AU,23,7,3,2,day2,dragapult-ex,dragapult,Dragapult
+68,0551,Luke Siddell,AU,23,7,3,2,day2,mega-greninja-ex,greninja-mega,Mega Greninja
+69,0086,Samson Hall,AU,23,7,3,2,day2,n-zoroark,zoroark,N's Zoroark
+70,0175,Shinnosuke Sato,JP,23,7,3,2,day2,dragapult-ex,dragapult,Dragapult
+71,0537,Andi Cheung,AU,23,7,3,2,day2,dragapult-ex,dragapult,Dragapult
+72,0158,Ashley Peak,AU,23,7,3,2,day2,seaking-pre,seaking|thwackey,Seaking Festival Lead
+73,0281,Nobuhide Matsuo,JP,23,6,1,5,day2,n-zoroark,zoroark,N's Zoroark
+74,0594,Oliver Hadley,AU,23,6,1,5,day2,slowking-scr,slowking,Slowking
+75,0578,Ryan Kratzmann,AU,23,7,3,2,day2,raging-bolt-ogerpon,raging-bolt|ogerpon,Raging Bolt Ogerpon
+76,0061,Chase Konings,AU,23,7,3,2,day2,n-zoroark,zoroark,N's Zoroark
+77,0335,Jack underwood,AU,22,6,2,4,day2,beedrill-ex-cri,beedrill,Beedrill
+78,0231,Xiao long Martin,AU,22,7,4,1,day2,dragapult-ex,dragapult,Dragapult
+79,0209,Yupeng Yang,AU,22,6,2,4,day2,dragapult-ex,dragapult,Dragapult
+80,0709,Mohammad Tiyo Syah Putra,AU,22,7,4,1,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+81,0068,louis heath nation,AU,22,7,4,1,day2,basic-box-m,ogerpon|clefairy,Basic Box
+82,0667,Justin Yusay,PH,22,7,4,1,day2,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+83,0411,Mike Kan,AU,22,7,4,1,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+84,0530,Peter Lo,AU,22,7,4,1,day2,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+85,0390,Thomas Layburn,NZ,22,7,4,1,day2,dragapult-ex,dragapult,Dragapult
+86,0760,Gareth Murphy,AU,22,7,4,1,day2,dragapult-ex,dragapult,Dragapult
+87,0093,Jake Dunstan,AU,22,7,4,1,day2,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+88,0234,Takahiro Kurosaki,JP,22,7,4,1,day2,slowking-scr,slowking,Slowking
+89,0467,Christopher Mathers,AU,22,7,4,1,day2,dragapult-ex,dragapult,Dragapult
+90,0371,Hiromu Sasaki,JP,22,7,4,1,day2,dragapult-ex,dragapult,Dragapult
+91,0489,Ander Jones,AU,22,7,4,1,day2,n-zoroark,zoroark,N's Zoroark
+92,0504,Samuel Bourke,AU,22,7,4,1,day2,cynthia-garchomp-ex,garchomp,Cynthia's Garchomp
+93,0395,Charlie Ashton Rafferty,AU,22,7,4,1,day2,dragapult-ex,dragapult,Dragapult
+94,0580,Nigel Tan,NZ,22,7,4,1,day2,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+95,0307,Vignesh Krishnan,AU,22,7,4,1,day2,raging-bolt-ogerpon,raging-bolt|ogerpon,Raging Bolt Ogerpon
+96,0112,Kyousuke Toriyama,JP,22,7,4,1,day2,dragapult-ex,dragapult,Dragapult
+97,0775,Aaron-Lee Cole,AU,22,7,4,1,day2,dhelmise-pbl,dhelmise|banette,Dhelmise
+98,0099,Shun Takemasa,US,22,7,4,1,day2,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+99,0524,José Solari,CL,22,7,4,1,day2,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+100,0644,Aaron Rogers,NZ,21,7,5,0,day2,dragapult-ex,dragapult,Dragapult
+101,0603,Sophia Crunkhorn,AU,21,7,5,0,day2,dragapult-ex,dragapult,Dragapult
+102,0233,Nicholas Fox,AU,21,7,5,0,day2,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+103,0473,Talan Strano,AU,21,7,5,0,day2,cynthia-garchomp-ex,garchomp,Cynthia's Garchomp
+104,0561,Jan Timothy Yang,AU,21,6,3,3,day2,raging-bolt-ogerpon,raging-bolt|ogerpon,Raging Bolt Ogerpon
+105,0696,Victor Markov,AU,21,6,3,3,day2,slowking-scr,slowking,Slowking
+106,0414,Blake Best-Minto,AU,21,6,3,3,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+107,0013,Danny Chang,NZ,21,6,3,3,day2,dragapult-ex,dragapult,Dragapult
+108,0048,Liam Briigmann,AU,21,6,3,3,day2,festival-lead,dipplin|thwackey,Festival Lead
+109,0143,Brendan Cobner,AU,21,6,3,3,day2,festival-lead,dipplin|thwackey,Festival Lead
+110,0041,Joshua Sagar,AU,21,6,3,3,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+111,0182,Shun Akita,JP,20,6,4,2,day2,dragapult-ex,dragapult,Dragapult
+112,0192,Mustafa Tobah,US,20,6,4,2,day2,alakazam-dusknoir,alakazam|dusknoir,Alakazam Dusknoir
+113,0812,Jeremy White,AU,20,6,4,2,day2,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+114,0188,YI YANG LIN,TW,20,6,4,2,day2,dragapult-ex,dragapult,Dragapult
+115,0251,Thomas Kulpa,AU,20,6,4,2,day2,festival-lead,dipplin|thwackey,Festival Lead
+116,0639,Jake Austin,AU,20,6,4,2,day2,dragapult-ex,dragapult,Dragapult
+117,0584,Lucas Hamilton-Foster,AU,20,6,4,2,day2,crustle-dri,crustle,Crustle
+118,0264,Daniel Zhong,AU,20,6,4,2,day2,basic-box-m,ogerpon|clefairy,Basic Box
+119,0363,Xiaoyu Zhang,AU,20,6,4,2,day2,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+120,0548,Anthony Smith,AU,20,6,4,2,day2,dhelmise-pbl,dhelmise|banette,Dhelmise
+121,0676,Poey Lee,AU,20,6,4,2,day2,n-zoroark,zoroark,N's Zoroark
+122,0016,Aaron van der Kolk,AU,20,6,4,2,day2,dragapult-ex,dragapult,Dragapult
+123,0123,Kye Edmondston,AU,20,6,4,2,day2,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+124,0066,Hudson Moore,AU,20,6,4,2,day2,cynthia-garchomp-ex,garchomp,Cynthia's Garchomp
+125,0516,Connor Maguire,AU,20,6,4,2,day2,basic-box-m,ogerpon|clefairy,Basic Box
+126,0102,Geoff Giddings,AU,20,6,4,2,day2,festival-lead,dipplin|thwackey,Festival Lead
+127,0683,Rob Spiller,AU,20,6,4,2,day2,slowking-scr,slowking,Slowking
+128,0409,Jacob Pope,AU,20,6,4,2,day2,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+129,0560,Laughlan Skinner,AU,20,6,4,2,day2,toucannon-pbl,toucannon,Toucannon
+130,0553,Shaun Murphy,AU,20,6,4,2,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+131,0226,Takuya Wakiyama,JP,19,6,5,1,day2,basic-box-m,ogerpon|clefairy,Basic Box
+132,0027,Nathanael Adams,AU,19,6,5,1,day2,mega-lucario-ex,lucario-mega,Mega Lucario
+133,0356,Julio Miguel Cezar Caproni,AU,19,6,5,1,day2,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+134,0718,Michael Shin,AU,19,6,5,1,day2,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+135,0753,Pete Scott,AU,19,6,5,1,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+136,0170,Tania McIntosh,AU,19,6,5,1,day2,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+137,0168,Lewis Paholski,AU,19,6,5,1,day2,slowking-scr,slowking,Slowking
+138,0090,jeremy lim,AU,19,6,5,1,day2,dragapult-ex,dragapult,Dragapult
+139,0019,Andy Tian,AU,19,6,5,1,day2,n-zoroark,zoroark,N's Zoroark
+140,0387,Kevin Trinh,AU,19,6,5,1,day2,dhelmise-pbl,dhelmise|banette,Dhelmise
+141,0132,Max McInnis,AU,17,5,5,2,day2,basic-box-m,ogerpon|clefairy,Basic Box
+142,0299,Satoya Takagi,JP,17,5,5,2,day2,dragapult-ex,dragapult,Dragapult
+143,0354,Jorja Doenau,AU,17,5,5,2,day2,mega-lucario-ex,lucario-mega,Mega Lucario
+144,0396,Andy Tran,AU,16,5,5,1,day2,n-zoroark,zoroark,N's Zoroark
+145,0801,cooper higgins,AU,16,5,6,1,day2,hops-trevenant,trevenant,Hop's Trevenant
+146,0018,Robert Seymour,AU,16,5,6,1,day2,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+147,0519,Timothy Ball,AU,16,5,3,1,day2,okidogi-barbaracle,okidogi|barbaracle,Okidogi Barbaracle
+148,0815,Bodine Cooper,AU,16,5,6,1,day2,dragapult-ex,dragapult,Dragapult
+149,0039,Conor Oates,AU,15,5,3,0,,toucannon-pbl,toucannon,Toucannon
+150,0768,Jack Zhang,CN,15,5,3,0,,basic-box-m,ogerpon|clefairy,Basic Box
+151,0727,Henry Brand,AU,15,5,3,0,,sharpedo-toxtricity,sharpedo-mega|toxtricity,Sharpedo Toxtricity
+152,0596,Kaito Takita,JP,15,5,3,0,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+153,0782,Toshiyuki Otake,JP,15,5,3,0,,ogerpon-meganium-arboliva,ogerpon|arboliva,Ogerpon Meganium Arboliva
+154,0346,Selwyn Liang,AU,15,5,3,0,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+155,0184,Meng-Yu Wang,US,15,5,3,0,,festival-lead,dipplin|thwackey,Festival Lead
+156,0609,Hiroki Kobayashi,JP,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+157,0207,Tyler Harris,AU,15,5,3,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+158,0795,Malik Hannan,AU,15,5,3,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+159,0260,Miles Busfield,AU,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+160,0786,Ryan Flood,NZ,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+161,0329,Aiden Harrison,AU,15,5,3,0,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+162,0582,Tyler Bishop,AU,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+163,0322,I-CHUN WU,TW,15,5,3,0,,mega-lucario-ex,lucario-mega,Mega Lucario
+164,0670,Jim Tsaousoglou,AU,15,5,3,0,,greninja-ex,greninja,Greninja
+165,0341,Jack Li,NZ,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+166,0659,Benjamin Hall,AU,15,4,1,3,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+167,0407,Chia-Chen Hung,AU,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+168,0224,Ty Farry,AU,15,5,3,0,,basic-box-m,ogerpon|clefairy,Basic Box
+169,0026,Christian Hasbani,AU,15,5,3,0,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+170,0437,Omi Sibley,AU,15,5,3,0,,slowking-scr,slowking,Slowking
+171,0190,Christian Viti,AU,15,5,3,0,,crustle-dri,crustle,Crustle
+172,0716,Sylas Golding,AU,15,5,3,0,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+173,0483,JIANAN CHEN,CN,15,5,3,0,,basic-box-m,ogerpon|clefairy,Basic Box
+174,0255,Hugh Batten,NZ,15,5,3,0,,festival-lead,dipplin|thwackey,Festival Lead
+175,0417,Anthony Lau,AU,15,5,3,0,,seaking-pre,seaking|thwackey,Seaking Festival Lead
+176,0191,Jyraih Reed,AU,15,5,3,0,,mega-lucario-ex,lucario-mega,Mega Lucario
+177,0783,Lewis Stevens,AU,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+178,0643,Shaun Sewell,AU,15,5,3,0,,n-zoroark,zoroark,N's Zoroark
+179,0200,Justin Hoy,AU,15,5,3,0,,basic-box-m,ogerpon|clefairy,Basic Box
+180,0804,Cohen Grimshaw,AU,15,5,3,0,,n-zoroark,zoroark,N's Zoroark
+181,0210,Claire Sturm,AU,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+182,0221,Joshua Smith,AU,15,4,1,3,,ogerpon-meganium-arboliva,ogerpon|arboliva,Ogerpon Meganium Arboliva
+183,0336,Adam Paterson,NZ,15,5,3,0,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+184,0751,Michael Gennaccaro,AU,15,5,3,0,,mega-lucario-ex,lucario-mega,Mega Lucario
+185,0330,Elizabeth Willet,DK,15,4,1,3,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+186,0301,Geoff Abel,AU,15,5,3,0,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+187,0708,Morihiro Matsumi,AU,15,5,3,0,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+188,0463,Taketo Monden,JP,15,5,3,0,,n-zoroark,zoroark,N's Zoroark
+189,0258,Nico Widjaja,AU,15,4,1,3,,lopunny-dudunsparce,lopunny-mega|dudunsparce,Lopunny Dudunsparce
+190,0564,Tyson Whaleboat,AU,15,5,3,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+191,0549,Maxwell Nicolaou,AU,15,5,3,0,,dragapult-ex,dragapult,Dragapult
+192,0422,Tyriek mousaco,AU,15,5,3,0,,festival-lead,dipplin|thwackey,Festival Lead
+193,0349,Michael Wilson,AU,15,5,3,0,,slowking-scr,slowking,Slowking
+194,0380,Dalin Wang,CN,15,5,3,0,,rocket-mewtwo-ex,mewtwo|spidops,Rocket's Mewtwo
+195,0679,Samuel Williams,AU,15,5,3,0,,crustle-dri,crustle,Crustle
+196,0135,Jasper Middlebrook-Mitchell,AU,15,5,3,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+197,0780,Ding LiJun,CN,15,5,3,0,,greninja-ex,greninja,Greninja
+198,0348,Grady Noble,AU,15,5,3,0,,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+199,0563,Jessica Downham,AU,15,5,3,0,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+200,0476,Blake Gillespie,AU,15,5,3,0,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+201,0038,Connor Kinkead,AU,15,5,3,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+202,0754,Josiah Blackmore,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+203,0430,Mohamad Zayied,AU,14,4,2,2,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+204,0141,Max Prescott,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+205,0321,Kaoru Hirakawa,JP,14,4,2,2,,lopunny-dudunsparce,lopunny-mega|dudunsparce,Lopunny Dudunsparce
+206,0681,Arnouluck Sirisay,AU,14,4,2,2,,slowking-scr,slowking,Slowking
+207,0280,Yamawaki Yuma,JP,14,4,2,2,,lopunny-dudunsparce,lopunny-mega|dudunsparce,Lopunny Dudunsparce
+208,0508,Abhi Relan,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+209,0439,Abe Morales,US,14,4,2,2,,slowking-scr,slowking,Slowking
+210,0172,Kurt Spiteri,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+211,0747,Lin Long-Jethwa,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+212,0442,Zac Doar,AU,14,4,2,2,,dhelmise-pbl,dhelmise|banette,Dhelmise
+213,0472,Evan Phillips,AU,14,4,2,2,,basic-box-m,ogerpon|clefairy,Basic Box
+214,0370,Fergus Bell,AU,14,4,2,2,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+215,0456,Ida Nero,AU,14,4,2,2,,starmie-froslass,starmie-mega|froslass,Starmie Froslass
+216,0266,Reuben Anning,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+217,0243,Nobuhiko Shimizu,JP,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+218,0412,Laura Hurley,AU,14,4,2,2,,festival-lead,dipplin|thwackey,Festival Lead
+219,0635,Tuan Ni,TW,14,4,2,2,,mega-starmie-ex,starmie-mega,Mega Starmie
+220,0691,Kye Baker-Natoli,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+221,0194,Scott Fitzpatrick,AU,14,4,2,2,,kangaskhan-bouffalant,kangaskhan-mega|bouffalant,Kangaskhan Bouffalant
+222,0088,Ken Tang,AU,14,4,2,2,,n-zoroark,zoroark,N's Zoroark
+223,0069,Arjuna Anura,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+224,0435,Yasuyuki Handa,AU,14,4,2,2,,n-zoroark,zoroark,N's Zoroark
+225,0685,Joshua Wilkinson,AU,14,4,2,2,,dragapult-ex,dragapult,Dragapult
+226,0499,Mali Tosic,AU,14,4,2,2,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+227,0726,Seng Chang Bak,MY,14,4,2,2,,blaziken-zoroark,blaziken|zoroark,Blaziken Zoroark
+228,0092,Simone Valdez,IT,14,4,2,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+229,0689,Hannah Jarvis,AU,14,4,2,2,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+230,0186,Keelan Afoa,AU,13,4,3,1,,slowking-scr,slowking,Slowking
+231,0151,Robin Sangwan,AU,13,4,3,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+232,0624,Max Bellofiore,AU,13,4,3,1,,dhelmise-pbl,dhelmise|banette,Dhelmise
+233,0762,Andrew Daniels,AU,13,4,3,1,,n-zoroark,zoroark,N's Zoroark
+234,0014,KENTARO HIRAKATA,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+235,0601,Kirryn Hatch,AU,13,4,3,1,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+236,0253,Jiahe Liang,AU,13,4,3,1,,basic-box-m,ogerpon|clefairy,Basic Box
+237,0185,Roman Addamo,AU,13,4,3,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+238,0423,Ting Chan,AU,13,4,3,1,,crustle-dri,crustle,Crustle
+239,0426,Akira Kurasaki,JP,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+240,0283,James Williams,AU,13,4,3,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+241,0263,Tyler Clynes,AU,13,4,3,1,,rocket-mewtwo-ex,mewtwo|spidops,Rocket's Mewtwo
+242,0115,Wen Hao Teo,AU,13,4,3,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+243,0344,Christopher Rayner Halim,AU,13,4,3,1,,mega-lucario-ex,lucario-mega,Mega Lucario
+244,0394,Naomi Chan,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+245,0631,Pin Yuan LIN,TW,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+246,0021,Shane Park,AU,13,4,3,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+247,0740,Yousif Idmo,AU,13,4,3,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+248,0241,Abel Munoz Retamal,CL,13,4,3,1,,lucario-hariyama,lucario-mega|hariyama,Lucario Hariyama
+249,0400,Rosanna Graham,AU,13,4,3,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+250,0339,Cody Matthews,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+251,0800,Su Han Thia,AU,13,4,3,1,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+252,0292,Danny Chau,AU,13,4,3,1,,festival-lead,dipplin|thwackey,Festival Lead
+253,0368,Robert Seaborn,AU,13,4,3,1,,sharpedo-toxtricity,sharpedo-mega|toxtricity,Sharpedo Toxtricity
+254,0446,Eamonn Kashyap,AU,13,4,3,1,,crustle-dri,crustle,Crustle
+255,0144,Tim Franklin,AU,13,4,3,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+256,0334,Kyra Gimenez-Moore,AU,13,4,3,1,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+257,0227,Duy Le,AU,13,4,3,1,,raging-bolt-ogerpon,raging-bolt|ogerpon,Raging Bolt Ogerpon
+258,0353,Kosei Saito,JP,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+259,0276,Kian Amini,US,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+260,0072,Chenchen Ye,CN,13,4,3,1,,slowking-scr,slowking,Slowking
+261,0261,Fox Simpson,AU,13,4,3,1,,slowking-scr,slowking,Slowking
+262,0452,Aidan Morgan,AU,13,4,3,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+263,0614,xingyu wang,CN,13,4,3,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+264,0325,Peter Bennett,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+265,0375,Fletcher Mason-Vidler,AU,13,4,3,1,,crustle-dri,crustle,Crustle
+266,0059,Charlotte Ayris,AU,13,4,3,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+267,0699,Declan Palmer,AU,13,4,3,1,,festival-lead,dipplin|thwackey,Festival Lead
+268,0682,loki morandini,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+269,0690,Calum Thatcher,AU,13,4,3,1,,alakazam-dusknoir,alakazam|dusknoir,Alakazam Dusknoir
+270,0432,Jonathan Wong,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+271,0674,Alexander Jemison,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+272,0616,Ethan Stoeckert,AU,13,4,3,1,,lopunny-dudunsparce,lopunny-mega|dudunsparce,Lopunny Dudunsparce
+273,0313,Isaac Reeves,AU,13,4,3,1,,mega-greninja-ex,greninja-mega,Mega Greninja
+274,0711,Liam Gannon,AU,13,4,3,1,,beedrill-ex-cri,beedrill,Beedrill
+275,0316,Ethan Cooper,AU,13,4,3,1,,grimmsnarl-froslass,grimmsnarl|froslass,Grimmsnarl Froslass
+276,0183,Cody Horsfall,AU,13,4,3,1,,crustle-dri,crustle,Crustle
+277,0023,Joshua Sparks,AU,13,4,3,1,,other,substitute,Other
+278,0610,Tom Mason,AU,13,4,3,1,,n-zoroark,zoroark,N's Zoroark
+279,0719,Luna Forknall,AU,13,4,3,1,,slowking-scr,slowking,Slowking
+280,0730,Luke Menadue,AU,13,4,3,1,,metagross-cri,metagross,Metagross
+281,0769,James Goreing,AU,13,4,3,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+282,0131,Joseph Do,AU,13,4,3,1,,n-zoroark,zoroark,N's Zoroark
+283,0429,Jacob Baldock,AU,13,4,3,1,,basic-box-m,ogerpon|clefairy,Basic Box
+284,0378,Sky Mathieson,AU,13,4,3,1,,n-zoroark,zoroark,N's Zoroark
+285,0522,Liam Thomas,AU,13,4,3,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+286,0284,James Ferguson,AU,13,4,3,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+287,0005,Matthew Themelco,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+288,0052,Han Juan Lim,MY,13,4,3,1,,starmie-froslass,starmie-mega|froslass,Starmie Froslass
+289,0612,Gonzalo dos Santos,AU,13,4,3,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+290,0116,Brock Curtis,AU,13,4,3,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+291,0607,Dylan Simons,AU,13,4,3,1,,kangaskhan-bouffalant,kangaskhan-mega|bouffalant,Kangaskhan Bouffalant
+292,0555,Jack Hannay,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+293,0103,Sebastian Poli,AU,13,4,3,1,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+294,0082,Hunter Cassidy,AU,13,4,3,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+295,0526,Jacob Faria,AU,13,4,3,1,,dragapult-ex,dragapult,Dragapult
+296,0453,Logan Park,AU,13,4,3,1,,festival-lead,dipplin|thwackey,Festival Lead
+297,0169,Joshua Unwin,AU,13,4,3,1,,sharpedo-toxtricity,sharpedo-mega|toxtricity,Sharpedo Toxtricity
+298,0343,Harry Morgan-spooner,AU,13,4,3,1,,basic-box-m,ogerpon|clefairy,Basic Box
+299,0657,Chris Nicole Rivera,AU,13,4,3,1,,grimmsnarl-froslass,grimmsnarl|froslass,Grimmsnarl Froslass
+300,0119,Vincent Ma,NZ,13,4,3,1,,crustle-dri,crustle,Crustle
+301,0566,Tyson Maggio,AU,13,4,3,1,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+302,0761,Ethan Dimitroulas,AU,13,4,3,1,,dhelmise-pbl,dhelmise|banette,Dhelmise
+303,0799,Brendan Gow,AU,13,4,3,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+304,0225,Lewis Nguyen,AU,12,4,4,0,,metagross-cri,metagross,Metagross
+305,0037,Tristan Edwards,AU,12,4,4,0,,dragapult-ex,dragapult,Dragapult
+306,0577,Kyle Lamont,AU,12,4,4,0,,crustle-dri,crustle,Crustle
+307,0562,Hyong kun Cho,AU,12,4,4,0,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+308,0215,shane leeson,AU,12,4,3,0,,cynthia-garchomp-ex,garchomp,Cynthia's Garchomp
+309,0770,Duy Ong,AU,12,4,4,0,,n-zoroark,zoroark,N's Zoroark
+310,0091,Sineth Akmeemana,AU,12,4,4,0,,alakazam-dusknoir,alakazam|dusknoir,Alakazam Dusknoir
+311,0236,Micah Catelan,AU,12,4,4,0,,slowking-scr,slowking,Slowking
+312,0443,Benji Gore,AU,12,3,2,3,,slowking-scr,slowking,Slowking
+313,0106,Andres Rivera,AU,12,4,4,0,,slowking-scr,slowking,Slowking
+314,0611,Matthew Burris,AU,12,4,4,0,,dragapult-ex,dragapult,Dragapult
+315,0677,Zackery Cassar,AU,12,4,3,0,,paldean-tauros-pfl,tauros-paldea,Paldean Tauros
+316,0111,Alexander Thorvaldson,AU,12,4,4,0,,festival-lead,dipplin|thwackey,Festival Lead
+317,0567,Joeseph Carbone,AU,12,4,4,0,,basic-box-m,ogerpon|clefairy,Basic Box
+318,0128,Jake Herden,AU,12,4,4,0,,n-zoroark,zoroark,N's Zoroark
+319,0627,Harrison Coughran,AU,12,4,4,0,,festival-lead,dipplin|thwackey,Festival Lead
+320,0408,Samantha Turner,AU,12,4,4,0,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+321,0360,Hayden Matthews,AU,12,4,4,0,,n-zoroark,zoroark,N's Zoroark
+322,0139,DEVLIN VAWDREY,AU,12,4,4,0,,slowking-scr,slowking,Slowking
+323,0050,Cody Bell,AU,12,4,4,0,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+324,0149,Angus Johnson,AU,12,4,4,0,,dragapult-ex,dragapult,Dragapult
+325,0514,Corey Knudsen,AU,12,3,2,3,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+326,0195,Ryota Tanaka,JP,12,4,4,0,,dragapult-ex,dragapult,Dragapult
+327,0290,Koltyn Temple,AU,12,4,4,0,,ethan-typhlosion,typhlosion,Ethan's Typhlosion
+328,0304,Aiden Lintott,AU,12,4,4,0,,slowking-scr,slowking,Slowking
+329,0763,Victor Su,AU,12,4,4,0,,crustle-dri,crustle,Crustle
+330,0752,Charlie Fry,AU,12,4,4,0,,raging-bolt-ogerpon,raging-bolt|ogerpon,Raging Bolt Ogerpon
+331,0724,Joshua Arthur,AU,12,3,2,3,,festival-lead,dipplin|thwackey,Festival Lead
+332,0208,Maclean Staden,AU,12,4,4,0,,basic-box-m,ogerpon|clefairy,Basic Box
+333,0669,Hadyn Joyce,AU,12,4,4,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+334,0625,Ryan Anderson,AU,12,4,4,0,,n-zoroark,zoroark,N's Zoroark
+335,0017,Paul Strk,AU,12,4,4,0,,n-zoroark,zoroark,N's Zoroark
+336,0040,Hunter Major,AU,12,3,2,3,,basic-box-m,ogerpon|clefairy,Basic Box
+337,0672,Thomas Hormann,AU,12,4,4,0,,dragapult-ex,dragapult,Dragapult
+338,0737,Rory Bradshaw,AU,12,4,4,0,,cynthia-garchomp-ex,garchomp,Cynthia's Garchomp
+339,0798,Yuanxi Cui,AU,12,3,2,3,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+340,0629,Thomas Adams-Smith,AU,12,3,2,3,,slowking-scr,slowking,Slowking
+341,0809,Xavier Emilan,AU,12,4,4,0,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+342,0640,Jake Smolinski,AU,12,4,4,0,,n-zoroark,zoroark,N's Zoroark
+343,0282,Jair Chan,AU,12,4,4,0,,mew-ex-30c,mew|clefairy,Mew Box
+344,0692,Taylor Dummett,AU,12,3,2,3,,dhelmise-pbl,dhelmise|banette,Dhelmise
+345,0451,Tyler Land,AU,12,4,4,0,,starmie-froslass,starmie-mega|froslass,Starmie Froslass
+346,0464,Jonathan Cheong,AU,12,4,4,0,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+347,0436,Henry Geue,AU,12,3,2,3,,n-zoroark,zoroark,N's Zoroark
+348,0350,CJ Hewett,NZ,12,4,4,0,,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+349,0574,Tan Loc Thuan Nguyen,AU,12,4,4,0,,festival-lead,dipplin|thwackey,Festival Lead
+350,0399,JinTian Zhang,AU,12,3,2,3,,basic-box-m,ogerpon|clefairy,Basic Box
+351,0272,Anne-Maree Butt,AU,12,4,4,0,,cynthia-garchomp-ex,garchomp,Cynthia's Garchomp
+352,0124,Charlie Queen,AU,12,4,4,0,,slowking-scr,slowking,Slowking
+353,0219,Michael Dickson,AU,12,4,4,0,,lucario-hariyama,lucario-mega|hariyama,Lucario Hariyama
+354,0796,Taiga Hamamatsu,AU,12,4,4,0,,dhelmise-pbl,dhelmise|banette,Dhelmise
+355,0458,Cory Bain,AU,12,4,4,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+356,0305,Joshua Grob,AU,12,4,4,0,,lucario-hariyama,lucario-mega|hariyama,Lucario Hariyama
+357,0203,Gwendolyn Watson,AU,12,4,4,0,,slowking-scr,slowking,Slowking
+358,0345,Jordan Fischer,AU,12,4,4,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+359,0575,Reilly Jackson-Elliott,AU,12,4,4,0,,cynthia-garchomp-ex,garchomp,Cynthia's Garchomp
+360,0153,Archie Rees,AU,12,4,4,0,,alakazam-dusknoir,alakazam|dusknoir,Alakazam Dusknoir
+361,0377,Kevin Min,AU,12,4,4,0,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+362,0095,Osca Stone,AU,12,4,4,0,,dragapult-ex,dragapult,Dragapult
+363,0162,Caden Cazaly,AU,12,3,2,3,,n-zoroark,zoroark,N's Zoroark
+364,0211,Sebastian Puccioni,AU,12,4,4,0,,slowking-scr,slowking,Slowking
+365,0604,Jit Chang Bak,AU,12,4,4,0,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+366,0638,Patrick Ruane,AU,12,4,4,0,,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+367,0742,Samuel Capararo,AU,12,4,4,0,,dragapult-ex,dragapult,Dragapult
+368,0488,Mason Mitchell,AU,12,4,4,0,,basic-box-m,ogerpon|clefairy,Basic Box
+369,0110,Valentine Saville,AU,12,4,4,0,,crustle-dri,crustle,Crustle
+370,0444,Ryan Burt,AU,12,4,4,0,,mew-ex-30c,mew|clefairy,Mew Box
+371,0212,Dan Reichelt,AU,12,4,4,0,,dragapult-ex,dragapult,Dragapult
+372,0518,Ryan Spry,AU,12,4,4,0,,basic-box-m,ogerpon|clefairy,Basic Box
+373,0239,Angus McKinder,AU,12,4,4,0,,tera-box,noctowl|ogerpon-wellspring,Tera Box
+374,0785,Scott Slimmon,AU,12,4,4,0,,kangaskhan-bouffalant,kangaskhan-mega|bouffalant,Kangaskhan Bouffalant
+375,0735,John Galvan,AU,12,4,4,0,,starmie-dusknoir,starmie-mega|dusknoir,Starmie Dusknoir
+376,0267,CHENGHAN Yang,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+377,0012,Leigh Edwards,AU,11,3,3,2,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+378,0073,Teruki Urasaki,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+379,0466,Sameer Sangwan,AU,11,2,1,5,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+380,0619,Oscar Chen,CA,11,3,3,2,,rocket-mewtwo-ex,mewtwo|spidops,Rocket's Mewtwo
+381,0527,Ahmet Atilla Tez,AU,11,3,3,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+382,0771,Matt Bain,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+383,0702,Oliver Corne,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+384,0598,Chi Lim Wong,AU,11,3,3,2,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+385,0382,Alfie Worgan,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+386,0391,Drew Unwin,AU,11,3,3,2,,slowking-scr,slowking,Slowking
+387,0606,Alicia Keizer,AU,11,3,3,2,,ogerpon-meganium,ogerpon|meganium,Ogerpon Meganium
+388,0222,Jeremy Wilson,AU,11,3,3,2,,crustle-dri,crustle,Crustle
+389,0107,Bradley Newman,UK,11,3,3,2,,hops-trevenant,trevenant,Hop's Trevenant
+390,0546,Meredith Whitehead,NZ,11,3,3,2,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+391,0386,Jacob Dwyer,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+392,0792,Eden Kennedy-Amor,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+393,0365,Brittany Mitchell,AU,11,3,3,2,,basic-box-m,ogerpon|clefairy,Basic Box
+394,0688,Jack Hollman,AU,11,3,3,2,,toucannon-pbl,toucannon,Toucannon
+395,0748,Tommy Williams,AU,11,3,3,2,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+396,0569,MORGAN PHAM,AU,11,3,3,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+397,0759,Jack Lute,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+398,0133,Himmuth Singh,CA,11,3,3,2,,crustle-dri,crustle,Crustle
+399,0070,Jesse Becker,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+400,0755,Yaosheng Zhou,CN,11,3,3,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+401,0181,Jamie Lerc,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+402,0723,Chris Brenner,AU,11,3,3,2,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+403,0006,Reily Pychtin,AU,11,3,3,2,,basic-box-m,ogerpon|clefairy,Basic Box
+404,0498,David Morgan,AU,11,3,3,2,,festival-lead,dipplin|thwackey,Festival Lead
+405,0071,STEVEN DE LARGIE,AU,11,3,3,2,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+406,0766,Janice Ross,AU,11,3,3,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+407,0081,McDony Lee Angkasa,AU,11,3,3,2,,crustle-dri,crustle,Crustle
+408,0286,Dylan Riseley,AU,11,3,3,2,,slowking-scr,slowking,Slowking
+409,0244,Justin Little,AU,11,3,3,2,,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+410,0630,Jason Yip,AU,11,3,3,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+411,0642,Peter Jobson,NZ,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+412,0712,sam kim,AU,11,3,3,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+413,0277,Loki Limen,AU,11,3,3,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+414,0579,Tze Sum Foong,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+415,0145,Logan James,AU,11,3,3,2,,toucannon-pbl,toucannon,Toucannon
+416,0166,Aaron Day,AU,11,3,3,2,,grimmsnarl-froslass,grimmsnarl|froslass,Grimmsnarl Froslass
+417,0342,Connor Rose,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+418,0693,Ewan Mosler,AU,11,3,3,2,,basic-box-m,ogerpon|clefairy,Basic Box
+419,0419,William Simpson,AU,11,3,3,2,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+420,0235,Vincent Lim,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+421,0318,Christopher Budd,AU,11,3,3,2,,dragapult-ex,dragapult,Dragapult
+422,0403,Scarlett Davidson,AU,11,3,3,2,,rocket-mewtwo-ex,mewtwo|spidops,Rocket's Mewtwo
+423,0654,Chae Youn Kim,AU,10,3,4,1,,lucario-hariyama,lucario-mega|hariyama,Lucario Hariyama
+424,0199,Rohan Sinclair,AU,10,3,4,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+425,0410,Mitchell Smith,AU,10,3,4,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+426,0361,MUHAMMAD IRSHAD,SG,10,3,4,1,,crustle-dri,crustle,Crustle
+427,0015,Bailey Rieck,AU,10,3,3,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+428,0034,Zen Sutton,AU,10,3,4,1,,dhelmise-pbl,dhelmise|banette,Dhelmise
+429,0100,Jamie O'Brien,AU,10,3,4,1,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+430,0148,Alex Cossell,AU,10,2,2,4,,dhelmise-pbl,dhelmise|banette,Dhelmise
+431,0572,Simon Tian,AU,10,3,4,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+432,0118,Di Drew,AU,10,3,4,1,,slowking-scr,slowking,Slowking
+433,0675,Jackson Tardrew,AU,10,3,4,1,,slowking-scr,slowking,Slowking
+434,0714,Felicity Singh,CA,10,3,4,1,,mega-absol-box,absol-mega|kangaskhan-mega,Mega Absol Box
+435,0202,Nathan Smith,AU,10,3,4,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+436,0445,ALAZTAIR GODFREY,AU,10,3,4,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+437,0588,Linus Stafford,AU,10,3,4,1,,dragapult-ex,dragapult,Dragapult
+438,0113,Edan Zhao,AU,10,3,4,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+439,0198,Kobe Barkla,AU,10,3,4,1,,dhelmise-pbl,dhelmise|banette,Dhelmise
+440,0646,Dillon Satchell,AU,10,3,3,1,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+441,0744,Sunit Kamella,AU,10,3,3,1,,basic-box-m,ogerpon|clefairy,Basic Box
+442,0309,Khalid Alnimr,AE,10,3,4,1,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+443,0477,rocket coulson,AU,10,3,4,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+444,0156,Ryan Aldridge,AU,10,3,4,1,,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+445,0043,Jai Munzone,AU,10,3,4,1,,other,substitute,Other
+446,0213,Amy Hunt,AU,10,2,2,4,,slowking-scr,slowking,Slowking
+447,0641,Edward Yang,AU,10,3,4,1,,slowking-scr,slowking,Slowking
+448,0176,Jesse Nielsen,AU,10,3,4,1,,dragapult-ex,dragapult,Dragapult
+449,0728,Devan Kyle Timbol,AU,10,3,4,1,,lopunny-dusknoir,lopunny-mega|dusknoir,Lopunny Dusknoir
+450,0704,Ivy Kaye,AU,10,3,4,1,,mega-venusaur-ex,venusaur-mega,Mega Venusaur
+451,0480,Dakota Cavanough,AU,10,3,4,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+452,0160,Silver Tsai,AU,10,3,4,1,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+453,0028,Vincent Taituha,AU,10,3,4,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+454,0650,Mondhop Taerakul,AU,10,3,4,1,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+455,0666,Michael Parish,AU,10,3,4,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+456,0806,Tyson Johannessen,AU,10,3,3,1,,lopunny-dudunsparce,lopunny-mega|dudunsparce,Lopunny Dudunsparce
+457,0289,Maeve Chamberlain,AU,10,3,4,1,,basic-box-m,ogerpon|clefairy,Basic Box
+458,0217,Jack Newman,AU,10,3,4,1,,basic-box-m,ogerpon|clefairy,Basic Box
+459,0174,Caleb Obaid,AU,10,3,4,1,,mega-greninja-ex,greninja-mega,Mega Greninja
+460,0189,Jayden Bardrick,AU,10,3,4,1,,yanmega-ex,yanmega,Yanmega
+461,0421,RYUNOSUKE ADACHI,JP,10,3,4,1,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+462,0697,Georgia Wilkins,AU,10,3,4,1,,dhelmise-pbl,dhelmise|banette,Dhelmise
+463,0312,Bradley Smith,AU,10,3,4,1,,slowking-scr,slowking,Slowking
+464,0665,Evie Collins,AU,10,3,4,1,,other,substitute,Other
+465,0539,Corey Tuddenham,AU,10,3,4,1,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+466,0268,Cherakee Evans,AU,10,3,4,1,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+467,0807,Jacob Street,AU,10,3,4,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+468,0265,Bennett McLaren,AU,10,3,4,1,,n-zoroark,zoroark,N's Zoroark
+469,0533,Eileen Grundy,AU,10,3,4,1,,toxtricity-box,toxtricity|absol-mega,Toxtricity Box
+470,0094,Ignacio Alvear Fujii,AU,10,3,4,1,,dragapult-ex,dragapult,Dragapult
+471,0173,Yuma Kikuchi,JP,10,3,4,1,,n-zoroark,zoroark,N's Zoroark
+472,0001,Thomas Ryan,AU,10,3,4,1,,crustle-dri,crustle,Crustle
+473,0797,Eli Williamson,AU,10,3,4,1,,slowking-scr,slowking,Slowking
+474,0033,Nicholas Cruickshank,AU,10,3,4,1,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+475,0790,Terry Marthick,AU,10,3,4,1,,dhelmise-pbl,dhelmise|banette,Dhelmise
+476,0632,Hayley Hearin,AU,10,3,4,1,,crustle-dri,crustle,Crustle
+477,0275,Xander Llewellyn,AU,10,3,4,1,,alakazam-dusknoir,alakazam|dusknoir,Alakazam Dusknoir
+478,0746,Jay Falletta,AU,10,3,4,1,,hydreigon-ex,hydreigon,Hydreigon
+479,0661,Daniel Day,AU,10,3,3,1,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+480,0725,Rebecca Gorton,AU,10,2,2,4,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+481,0326,satyavan willis,AU,10,3,4,1,,mega-starmie-ex,starmie-mega,Mega Starmie
+482,0319,Elliot Backstrom,AU,10,3,4,1,,mega-venusaur-ex,venusaur-mega,Mega Venusaur
+483,0397,Anthony Jackson,AU,10,2,2,4,,n-zoroark,zoroark,N's Zoroark
+484,0373,Kelvin Duong,AU,9,3,4,0,,festival-lead,dipplin|thwackey,Festival Lead
+485,0648,Patrick Bouyer,AU,9,3,3,0,,basic-box-m,ogerpon|clefairy,Basic Box
+486,0573,Dylan Dang,AU,9,3,3,0,,dragapult-blaziken,dragapult|blaziken,Dragapult Blaziken
+487,0274,Corey Grimshaw,AU,9,3,3,0,,rocket-mewtwo-ex,mewtwo|spidops,Rocket's Mewtwo
+488,0431,Keegan Burt,AU,9,2,2,3,,slowking-scr,slowking,Slowking
+489,0496,Felipe Pacheco de Medeiros,AU,9,3,5,0,,mega-greninja-ex,greninja-mega,Mega Greninja
+490,0097,Richard Ignacio,AU,9,3,4,0,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+491,0008,Nicolas Atkinson,AU,9,2,3,3,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+492,0540,Wonwoo Jo,AU,9,3,4,0,,alakazam-dudunsparce,alakazam|dudunsparce,Alakazam Dudunsparce
+493,0302,Baxter Armstrong,AU,9,3,5,0,,ceruledge-ex,ceruledge,Ceruledge
+494,0062,Anton Piccio,AU,9,3,5,0,,basic-box-m,ogerpon|clefairy,Basic Box
+495,0054,Finn Sant,AU,9,3,3,0,,basic-box-m,ogerpon|clefairy,Basic Box
+496,0736,Mitchell de Courcy,AU,9,2,3,3,,mega-greninja-ex,greninja-mega,Mega Greninja
+497,0057,Michael Morrison,AU,9,3,4,0,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+498,0288,Kajaani Jaffers,AU,9,2,3,3,,n-zoroark,zoroark,N's Zoroark
+499,0745,Alessandro Spolti,AU,9,3,5,0,,dragapult-dusknoir,dragapult|dusknoir,Dragapult Dusknoir
+500,0291,Jayson Bright,AU,9,3,3,0,,sharpedo-toxtricity,sharpedo-mega|toxtricity,Sharpedo Toxtricity
+501,0509,Nicolas Musumeci,AU,9,3,5,0,,dragapult-ex,dragapult,Dragapult
+502,0803,Jason White,AU,9,3,5,0,,lucario-hariyama,lucario-mega|hariyama,Lucario Hariyama
+503,0668,Hao Lu,AU,9,3,3,0,,basic-box-m,ogerpon|clefairy,Basic Box
+504,0805,Sam Babic,AU,9,2,3,3,,mega-excadrill-ex,excadrill-mega,Mega Excadrill
+505,0401,Gabriel Perez,AU,9,3,5,0,,crustle-dri,crustle,Crustle
+506,0497,Thomas Avallone,AU,9,2,3,3,,n-zoroark,zoroark,N's Zoroark
+507,0491,Kayden McLachlan,AU,9,3,5,0,,rockets-honchkrow,honchkrow|porygon2,Rocket's Honchkrow
+508,0434,Ezekiel Roberts,AU,9,3,4,0,,basic-box-m,ogerpon|clefairy,Basic Box
+509,0536,Twila Illarietti,AU,9,3,5,0,,basic-box-m,ogerpon|clefairy,Basic Box
+510,0721,Zak Grummitt,AU,9,2,3,3,,kangaskhan-bouffalant,kangaskhan-mega|bouffalant,Kangaskhan Bouffalant
+511,0811,sau him Wong,AU,9,2,3,3,,ogerpon-meganium-hydrapple,ogerpon|hydrapple,Ogerpon Meganium Hydrapple
+512,0249,Jack McKinnon,AU,9,2,3,3,,mega-excadrill-ex,excadrill-mega,Mega Excadrill

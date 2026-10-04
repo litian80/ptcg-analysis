@@ -1,0 +1,23 @@
+{
+  "limitless_id": "578",
+  "date": "2026-09-26",
+  "name": "Regional Brisbane",
+  "type": "regional",
+  "country": "AU",
+  "players": 817,
+  "winner": "Edmund Khoo",
+  "format_code": "TEF-30C",
+  "format_name": "Temporal Forces - 30th Celebration",
+  "rk9_id": "BR001-5YdU57MmWxTxaY",
+  "labs_id": "0073",
+  "counts": {
+    "decklists": 148,
+    "standings": 512,
+    "matches": 3290
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/578",
+    "https://labs.limitlesstcg.com/0073/standings",
+    "https://rk9.gg/pairings/BR001-5YdU57MmWxTxaY"
+  ]
+}
