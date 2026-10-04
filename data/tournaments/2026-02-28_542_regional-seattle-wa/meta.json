@@ -1,0 +1,23 @@
+{
+  "limitless_id": "542",
+  "date": "2026-02-28",
+  "name": "Regional Seattle, WA",
+  "type": "regional",
+  "country": "US",
+  "players": 2231,
+  "winner": "Truwin Tran",
+  "format_code": "SVI-PFL",
+  "format_name": "Scarlet & Violet - Phantasmal Flames",
+  "rk9_id": "SE01gUuRn8bJqbH9Wnt1",
+  "labs_id": "0055",
+  "counts": {
+    "decklists": 413,
+    "standings": 2231,
+    "matches": 8922
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/542",
+    "https://labs.limitlesstcg.com/0055/standings",
+    "https://rk9.gg/pairings/SE01gUuRn8bJqbH9Wnt1"
+  ]
+}

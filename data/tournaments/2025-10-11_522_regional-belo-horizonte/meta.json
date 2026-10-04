@@ -1,0 +1,23 @@
+{
+  "limitless_id": "522",
+  "date": "2025-10-11",
+  "name": "Regional Belo Horizonte",
+  "type": "regional",
+  "country": "BR",
+  "players": 1117,
+  "winner": "Gustavo Wada",
+  "format_code": "SVI-MEG",
+  "format_name": "Scarlet & Violet - Mega Evolution",
+  "rk9_id": "BE01wYmCBW1HzjObcfgo",
+  "labs_id": "0039",
+  "counts": {
+    "decklists": 194,
+    "standings": 1117,
+    "matches": 4614
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/522",
+    "https://labs.limitlesstcg.com/0039/standings",
+    "https://rk9.gg/pairings/BE01wYmCBW1HzjObcfgo"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "limitless_id": "536",
+  "date": "2026-05-23",
+  "name": "Special Event Lima",
+  "type": "special",
+  "country": "PE",
+  "players": 499,
+  "winner": "Diego Varea Barrera",
+  "format_code": "TEF-POR",
+  "format_name": "Temporal Forces - Perfect Order",
+  "rk9_id": "",
+  "labs_id": "0067",
+  "counts": {
+    "decklists": 88,
+    "standings": 499,
+    "matches": 1998
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/536",
+    "https://labs.limitlesstcg.com/0067/standings"
+  ]
+}

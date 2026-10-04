@@ -1,0 +1,23 @@
+{
+  "limitless_id": "577",
+  "date": "2026-09-19",
+  "name": "Regional Baltimore, MD",
+  "type": "regional",
+  "country": "US",
+  "players": 3122,
+  "winner": "Dylan Kasturi",
+  "format_code": "TEF-PBL",
+  "format_name": "Temporal Forces - Pitch Black",
+  "rk9_id": "BA001-nEN1xl5ZJLGtFk",
+  "labs_id": "0072",
+  "counts": {
+    "decklists": 559,
+    "standings": 3122,
+    "matches": 12303
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/577",
+    "https://labs.limitlesstcg.com/0072/standings",
+    "https://rk9.gg/pairings/BA001-nEN1xl5ZJLGtFk"
+  ]
+}

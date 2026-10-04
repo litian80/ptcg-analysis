@@ -1,0 +1,23 @@
+{
+  "limitless_id": "523",
+  "date": "2025-10-11",
+  "name": "Regional Milwaukee, WI",
+  "type": "regional",
+  "country": "US",
+  "players": 2305,
+  "winner": "Jackson Ford",
+  "format_code": "SVI-MEG",
+  "format_name": "Scarlet & Violet - Mega Evolution",
+  "rk9_id": "MK01mzXPKCuqXfZ1ay6j",
+  "labs_id": "0040",
+  "counts": {
+    "decklists": 410,
+    "standings": 2305,
+    "matches": 9082
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/523",
+    "https://labs.limitlesstcg.com/0040/standings",
+    "https://rk9.gg/pairings/MK01mzXPKCuqXfZ1ay6j"
+  ]
+}
