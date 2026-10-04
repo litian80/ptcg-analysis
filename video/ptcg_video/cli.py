@@ -190,9 +190,9 @@ def build_parser() -> argparse.ArgumentParser:
     a.add_argument("--every", type=float, default=5.0, help="seconds between sampled frames (default 5)")
     a.add_argument("--change-threshold", type=float,
                    help="fraction of a region's pixels that must change to count as a board change "
-                        "(default 0.05 for 'full', 0.005 for 'sides' and custom regions)")
+                        "(default 0.05 for 'full', 0.02 for 'sides' and custom regions)")
     a.add_argument("--dead-band", type=int,
-                   help="gray levels a pixel must change by to count (default 8 for 'full', 24 for 'sides' "
+                   help="gray levels a pixel must change by to count (default 8 for 'full', 30 for 'sides' "
                         "and custom regions); raise it if static overlays still make keyframes")
     a.add_argument("--captions-only", action="store_true", help="skip video download and frames")
     a.add_argument("--max-height", type=int, default=720)

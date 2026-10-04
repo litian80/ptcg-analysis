@@ -64,14 +64,14 @@ def _overlay_video(path: Path, extra: str = "") -> Path:
     first = path.with_name(path.stem + "_first.mp4")
     filt = (
         "[0:v]format=gray,geq=lum='30+4*X/W+3*sin(Y/40)+2*cos(X/90)',format=yuv420p,"
-        # HP bar: 60 px wide until t=20, then 20 px.
-        "drawbox=x=20:y=60:w=60:h=8:color=green:t=fill:enable='lt(t,20)',"
-        "drawbox=x=20:y=60:w=20:h=8:color=green:t=fill:enable='gte(t,20)',"
-        # Six prize icons on the right panel; the last two go at t=40.
-        "drawbox=x=520:y=250:w=16:h=22:color=white:t=fill,drawbox=x=540:y=250:w=16:h=22:color=white:t=fill,"
-        "drawbox=x=560:y=250:w=16:h=22:color=white:t=fill,drawbox=x=580:y=250:w=16:h=22:color=white:t=fill,"
-        "drawbox=x=520:y=276:w=16:h=22:color=white:t=fill:enable='lt(t,40)',"
-        "drawbox=x=540:y=276:w=16:h=22:color=white:t=fill:enable='lt(t,40)'"
+        # HP bar: 110 px wide until t=20, then 40 px (~3% of the panel).
+        "drawbox=x=12:y=60:w=110:h=24:color=green:t=fill:enable='lt(t,20)',"
+        "drawbox=x=12:y=60:w=40:h=24:color=green:t=fill:enable='gte(t,20)',"
+        # Six prize icons on the right panel; the last two go at t=40 (~3%).
+        "drawbox=x=520:y=250:w=24:h=30:color=white:t=fill,drawbox=x=548:y=250:w=24:h=30:color=white:t=fill,"
+        "drawbox=x=576:y=250:w=24:h=30:color=white:t=fill,drawbox=x=604:y=250:w=24:h=30:color=white:t=fill,"
+        "drawbox=x=520:y=284:w=24:h=30:color=white:t=fill:enable='lt(t,40)',"
+        "drawbox=x=548:y=284:w=24:h=30:color=white:t=fill:enable='lt(t,40)'"
         + extra + "[base];"
         "[base][1:v]overlay=x='150+mod(floor(t/2),3)*110':y=0:eval=frame[v]"
     )
@@ -93,8 +93,8 @@ def _overlay_video(path: Path, extra: str = "") -> Path:
 @pytest.fixture(scope="session")
 def overlay_video(tmp_path_factory):
     """60 s 'broadcast' with noisy, gradient side panels (re-encoded twice, like
-    YouTube) and small overlay changes: an HP bar shrinks at t=20, two prize
-    icons disappear at t=40. A hand-cam bar moves in the middle every 2 s."""
+    YouTube) and small overlay changes, each about 3% of a panel: an HP bar
+    shrinks at t=20, two prize icons disappear at t=40. A hand-cam bar moves in the middle every 2 s."""
     if not shutil.which("ffmpeg"):
         pytest.skip("ffmpeg not installed")
     return _overlay_video(tmp_path_factory.mktemp("video") / "overlay.mp4")

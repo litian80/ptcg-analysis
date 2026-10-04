@@ -45,9 +45,8 @@ class HashLayout:
     regions: tuple[Region, ...]
     thumb: tuple[int, int]  # (width, height) each region is shrunk to
     # Fraction of a region's thumbnail pixels that must change for a frame to
-    # count as a board change. Overlay changes are small (an HP bar, two prize
-    # icons are ~1% of a side panel), while the whole-frame view must not fire
-    # on the camera's normal movement.
+    # count as a board change; the whole-frame view must not fire on the
+    # camera's normal movement.
     threshold: float = 0.05
     # Gray levels a pixel must move by to count as changed. Broadcast overlays
     # have fine text and glow that compress noisily, so they need more.
@@ -57,7 +56,10 @@ class HashLayout:
 REGION_PRESETS: dict[str, HashLayout] = {
     "full": HashLayout(((0.0, 0.0, 1.0, 1.0),), (64, 36), threshold=0.05),
     # Play! Pokémon broadcast overlay: one tall panel per player at each side.
-    "sides": HashLayout(((0.0, 0.0, 0.21, 1.0), (0.79, 0.0, 0.21, 1.0)), (32, 96), threshold=0.005, dead_band=24),
+    # Calibrated on the Worlds 2026 Masters final: real board changes move 7-65%
+    # of a panel, a slow overlay animation that survives the steadiness check
+    # about 1%, and 30 levels / 2% kept every change with the fewest frames.
+    "sides": HashLayout(((0.0, 0.0, 0.21, 1.0), (0.79, 0.0, 0.21, 1.0)), (32, 96), threshold=0.02, dead_band=30),
 }
 
 
@@ -75,7 +77,7 @@ def parse_regions(spec: str) -> HashLayout:
             raise ValueError(f"region {part!r} is outside the frame")
         regions.append((x, y, w, h))
     tall = all(h / w >= 2 for _, _, w, h in regions)
-    return HashLayout(tuple(regions), (32, 96) if tall else (64, 36), threshold=0.005, dead_band=24)
+    return HashLayout(tuple(regions), (32, 96) if tall else (64, 36), threshold=0.02, dead_band=30)
 
 
 @dataclass
