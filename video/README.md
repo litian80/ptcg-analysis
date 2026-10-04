@@ -57,7 +57,7 @@ python3 -m ptcg_video analyze match.mp4 --captions match.en.vtt --start 0:21 --e
 
 - 默认（`--cards auto`）：读 `data/formats/standard_rotations.json`，按视频上传日期找到当时的 Standard 环境，只用 `data/formats/<环境>/card_pool.csv` 里当时合法的卡名。这样旧卡（比如把 "Dragapult ex" 认成 "Dragapult V"）基本不会误配。
 - `--format 2026-27` 手动指定环境（比赛在换季前举办、换季后才上传时用）；`--live` 表示 TCG Live 视频，按 Live 的换季日期（比线下早两周左右）。
-- `--data-dir` 指定 `data/` 的位置（默认从当前目录往上找）。`data/` 在 main 分支上；如果当前分支没有，可以 `git worktree add ../ptcg-data origin/main` 后传 `--data-dir ../ptcg-data/data`。找不到或读不了时只跳过卡名识别，其余照常。
+- `--data-dir` 指定 `data/` 的位置（默认从当前目录往上找）。在本仓库里运行时会自动找到仓库根目录的 `data/`。找不到或读不了时只跳过卡名识别，其余照常。
 - 环境变量 `PTCG_CARD_NAMES` 可以指定默认卡表文件；给了 `--format` 或 `--data-dir` 时以它们为准。
 - `--cards 文件` 也可以直接给卡表：`.txt`（一行一个）、`.json`（名字列表，或带 `name` 字段的对象列表）或 `.csv`（`name` 列）；`--cards none` 关闭卡名识别。
 

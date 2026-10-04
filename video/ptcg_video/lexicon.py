@@ -114,36 +114,49 @@ class CardMatcher:
         found = []
         i = 0
         while i < len(words):
-            hit = None
-            for n in range(min(self.max_words, len(words) - i), 0, -1):
-                gram = " ".join(words[i : i + n])
-                name = self.index.get(gram)
-                collapsed = gram.replace(" ", "")
-                # ASR splits long names ("garde voir"); don't glue short words ("be a" -> Bea).
-                if not name and n > 1 and len(collapsed) >= 6:
-                    name = self.index.get(collapsed)
-                # "will" / "judge" are words, "Will" / "Judge" are cards. A capital
-                # that only starts a sentence ("Will he find it?") doesn't count.
-                word_ok = not (n == 1 and cased and (not original[i][:1].isupper() or initial[i]))
-                if name and not word_ok and _word_like(name):
-                    continue
-                if name:
-                    hit = (name, gram, 100.0, n)
-                    break
-                if process and n <= 3 and len(gram) >= 7 and self._fuzzy_keys:
-                    best = process.extractOne(gram, self._fuzzy_keys, scorer=fuzz.ratio)
-                    if best and best[1] >= self.fuzzy_threshold:
-                        target = self.index[best[0]]
-                        if not word_ok and _word_like(target):
-                            continue
-                        hit = (target, gram, float(best[1]), n)
-                        break
+            # word_ok: "will" / "judge" are words, "Will" / "Judge" are cards. A
+            # capital that only starts a sentence ("Will he find it?") doesn't count.
+            word_ok = not (cased and (not original[i][:1].isupper() or initial[i]))
+            hit = self._exact(words, i, word_ok)
+            if not hit and process and self._fuzzy_keys:
+                # Only after no exact match of any length, so a fuzzy 3-gram
+                # ("lillies determination and") can't beat an exact 2-gram.
+                hit = self._fuzzy(words, i, word_ok)
             if hit:
                 found.append(hit[:3])
                 i += hit[3]
             else:
                 i += 1
         return found
+
+    def _grams(self, words: list[str], i: int):
+        for n in range(min(self.max_words, len(words) - i), 0, -1):
+            yield n, " ".join(words[i : i + n])
+
+    def _exact(self, words: list[str], i: int, word_ok: bool):
+        for n, gram in self._grams(words, i):
+            name = self.index.get(gram)
+            collapsed = gram.replace(" ", "")
+            # ASR splits long names ("garde voir"); don't glue short words ("be a" -> Bea).
+            if not name and n > 1 and len(collapsed) >= 6:
+                name = self.index.get(collapsed)
+            if name and n == 1 and not word_ok and _word_like(name):
+                continue
+            if name:
+                return name, gram, 100.0, n
+        return None
+
+    def _fuzzy(self, words: list[str], i: int, word_ok: bool):
+        for n, gram in self._grams(words, i):
+            if n > 3 or len(gram) < 7:
+                continue
+            best = process.extractOne(gram, self._fuzzy_keys, scorer=fuzz.ratio)
+            if best and best[1] >= self.fuzzy_threshold:
+                target = self.index[best[0]]
+                if n == 1 and not word_ok and _word_like(target):
+                    continue
+                return target, gram, float(best[1]), n
+        return None
 
 
 # What YouTube's auto-captions wrote for a card on real broadcasts (normalized),

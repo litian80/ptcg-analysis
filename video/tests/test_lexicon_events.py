@@ -123,3 +123,13 @@ def test_caption_aliases_only_when_not_a_card_themselves():
     assert found == ["Fezandipiti ex", "Budew", "Dragalge"]
     # Not in the pool, so no alias: "fez" stays a word.
     assert CardMatcher(["Drakloak"]).find("he wears a fez") == []
+
+
+def test_exact_shorter_name_beats_fuzzy_longer_gram():
+    pytest = __import__("pytest")
+    pytest.importorskip("rapidfuzz")
+    m = CardMatcher(["Lillie's Determination", "Night Stretcher"])
+    assert m.find("He plays Lillie's Determination and Night Stretcher") == [
+        ("Lillie's Determination", "lillies determination", 100.0),
+        ("Night Stretcher", "night stretcher", 100.0),
+    ]
