@@ -91,7 +91,7 @@ matchups:
     plan: 数据上最好的对局。
   - vs: crustle-dri
     win_rate: 0.78
-    plan: Dipplin 不是 ex，Crustle 的特性挡不住。100 ×2 = 200 一回合击倒 Crustle（带 Growing Grass Energy 也只有 170）。
+    plan: Dipplin 不是 ex，Crustle 的特性挡不住。100 ×2 = 200 一回合击倒 150 HP 的 Crustle；每个 Growing Grass Energy +20，贴 Hero's Cape 再 +100，这时 200 打不倒。
   - vs: n-zoroark
     win_rate: 0.766
     plan: Zoroark ex 弱草，Do the Wave 100 ×2 就是 200 ×2，一回合拿 2-4 张。

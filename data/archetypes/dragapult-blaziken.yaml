@@ -90,7 +90,7 @@ prize_map:
 matchups:
   - vs: crustle-dri
     win_rate: 0.205
-    plan: 最差对局。两个主攻都是 ex，伤害被 Mysterious Rock Inn 挡掉。只能靠后备区指示物、Munkidori、Chi-Yu（非 ex，有场地时 120）。
+    plan: 最差对局。两个主攻都是 ex，伤害被 Mysterious Rock Inn 挡掉。只能靠后备区指示物、Munkidori、Chi-Yu（非 ex，火属性；Ground Melter 60，有场地时 120，Crustle 弱火所以是 120 / 240，有场地时一击没贴 Hero's Cape 的 Crustle）。
   - vs: sharpedo-toxtricity
     win_rate: 0.292
     plan: 数据上很差，原因没有从卡表推出。

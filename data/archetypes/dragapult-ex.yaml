@@ -75,7 +75,7 @@ prize_map:
   routes:
     - name: 对 2 奖 ex 卡组（默认）
       steps:
-        - {turn: 3, take: 2, target: 后备区 2 只 70 HP 以下的进化前宝可梦, how: 200 打战斗场，同时用 60 指示物收两只；做不到就 200 + Munkidori 30 击倒 230 HP 以内的 ex}
+        - {turn: 3, take: 2, target: 后备区 2 只剩余 HP 30 以下的进化前宝可梦, how: 200 打战斗场，同时用 6 个指示物各放 3 个收两只（例如 Risky Ruins 后的 50 HP Abra）；做不到就 200 + Munkidori 30 击倒 230 HP 以内的 ex}
         - {turn: 4, take: 2, target: 2 奖 ex, how: 前一回合的 60 指示物 + 200 + Munkidori 30 = 290，可击倒 Mega Kangaskhan ex 以外的大部分 ex}
         - {turn: 5, take: 2, target: Boss's Orders 拉出来的 2 奖 ex, how: 收尾；对手剩 3 张以下时先用 Special Red Card 打乱对手手牌}
     - name: 对单奖卡组（Festival Lead、Alakazam、Dhelmise 等）
@@ -89,7 +89,7 @@ matchups:
     win_rate: 0.272
     plan: >-
       最差对局。Crustle 的 Mysterious Rock Inn 让 ex 的招式伤害无效，Dragapult ex 只能靠 Phantom Dive 的
-      后备区指示物、Munkidori 和 Moltres（非 ex，打 Crustle 只有 20）。对方 Mist Energy 还会挡住招式效果，
+      后备区指示物、Munkidori 和 Moltres（非 ex，火属性，Crustle 弱火，打 40）。对方 Mist Energy 还会挡住招式效果，
       指示物放不上去。打法是攒指示物慢慢磨，同时用 Crushing Hammer 拆对方能量。
   - vs: slowking-scr
     win_rate: 0.391

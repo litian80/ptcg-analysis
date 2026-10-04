@@ -95,7 +95,7 @@ matchups:
     plan: 镜像里对方 Crushing Hammer 更多；自爆送的奖赏卡会让对方先拿完。少用 Cursed Blast。
   - vs: alakazam-dudunsparce
     win_rate: 0.553
-    plan: Dusknoir 13 个指示物直接击倒 Alakazam（140 HP）。对方 Battle Cage 挡不住特性放到战斗场的指示物。
+    plan: Dusknoir 13 个指示物是 130，差 10 点击倒 Alakazam（140 HP），要先有 10 点伤害（例如 Phantom Dive 的指示物）。对方 Battle Cage 挡不住特性放到战斗场的指示物。
   - vs: ogerpon-meganium-hydrapple
     win_rate: 0.684
     plan: Cursed Blast 先击倒 Meganium（160 HP，13 + Phantom Dive 30）。

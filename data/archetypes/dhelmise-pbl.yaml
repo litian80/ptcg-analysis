@@ -92,7 +92,7 @@ prize_map:
     - name: 对单奖、小怪多的卡组
       steps:
         - {turn: 2, take: 1, target: 战斗场, how: 170 一击}
-        - {turn: 3, take: 3, target: 战斗场 + 两只 40 HP 以下的后备区小怪, how: Matcha Spin 全场 40，收掉 Applin/Abra 级别的小怪；配合上回合残血}
+        - {turn: 3, take: 3, target: 战斗场 + 两只 40 HP 以下的后备区小怪, how: Matcha Spin 全场 40，收掉 40 HP 以下的小怪（Abra TWM 80 可以，Abra MEG 54 有 50 HP 不行）；配合上回合残血}
         - {turn: 4, take: 1, target: 战斗场, how: 170}
         - {turn: 5, take: 1, target: 战斗场, how: 收尾}
 
@@ -105,7 +105,7 @@ matchups:
     plan: 对手 Slowking 120 HP，170 一击；Hide 'n' Sneak 挡住对手复制招式的附加效果。
   - vs: n-zoroark
     win_rate: 0.18
-    plan: 最差对局。全队超能弱恶，对手 Zoroark ex 一击任何东西。
+    plan: 最差对局。Shuppet、Banette、Dhelmise 都是超能弱恶（Poltchageist、Sinistcha 是草属性弱火），对手 Zoroark ex 一击这些超能宝可梦。
   - vs: ogerpon-meganium-hydrapple
     win_rate: 0.238
     plan: Hydrapple ex 330 HP 每回合回 30，170 打不动。
