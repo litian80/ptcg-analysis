@@ -1,0 +1,23 @@
+{
+  "limitless_id": "543",
+  "date": "2026-03-14",
+  "name": "Regional Curitiba",
+  "type": "regional",
+  "country": "BR",
+  "players": 1449,
+  "winner": "Matias Matricardi",
+  "format_code": "SVI-ASC",
+  "format_name": "Scarlet & Violet - Ascended Heroes",
+  "rk9_id": "CU01wDygvn34WEPNJ3ou",
+  "labs_id": "0057",
+  "counts": {
+    "decklists": 257,
+    "standings": 1449,
+    "matches": 5949
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/543",
+    "https://labs.limitlesstcg.com/0057/standings",
+    "https://rk9.gg/pairings/CU01wDygvn34WEPNJ3ou"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "limitless_id": "579",
+  "date": "2026-09-26",
+  "name": "Regional Frankfurt",
+  "type": "regional",
+  "country": "DE",
+  "players": 2793,
+  "winner": "Tomasz Chałupka",
+  "format_code": "TEF-30C",
+  "format_name": "Temporal Forces - 30th Celebration",
+  "rk9_id": "FR001-qWsas6LjddfVxo",
+  "labs_id": "0074",
+  "counts": {
+    "decklists": 508,
+    "standings": 2793,
+    "matches": 11874
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/579",
+    "https://labs.limitlesstcg.com/0074/standings",
+    "https://rk9.gg/pairings/FR001-qWsas6LjddfVxo"
+  ]
+}

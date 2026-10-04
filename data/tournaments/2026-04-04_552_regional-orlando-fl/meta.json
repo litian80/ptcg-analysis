@@ -1,0 +1,23 @@
+{
+  "limitless_id": "552",
+  "date": "2026-04-04",
+  "name": "Regional Orlando, FL",
+  "type": "regional",
+  "country": "US",
+  "players": 2745,
+  "winner": "Noah Sakadjian",
+  "format_code": "SVI-ASC",
+  "format_name": "Scarlet & Violet - Ascended Heroes",
+  "rk9_id": "OR01wtIo4gvZNU3UircG",
+  "labs_id": "0060",
+  "counts": {
+    "decklists": 483,
+    "standings": 2745,
+    "matches": 10703
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/552",
+    "https://labs.limitlesstcg.com/0060/standings",
+    "https://rk9.gg/pairings/OR01wtIo4gvZNU3UircG"
+  ]
+}

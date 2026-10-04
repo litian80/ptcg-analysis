@@ -1,0 +1,23 @@
+{
+  "limitless_id": "525",
+  "date": "2025-11-01",
+  "name": "Regional Gdańsk",
+  "type": "regional",
+  "country": "PL",
+  "players": 1675,
+  "winner": "Daniel Magda",
+  "format_code": "SVI-MEG",
+  "format_name": "Scarlet & Violet - Mega Evolution",
+  "rk9_id": "GD01yAq3nBdy68dkmxVc",
+  "labs_id": "0043",
+  "counts": {
+    "decklists": 303,
+    "standings": 1675,
+    "matches": 7011
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/525",
+    "https://labs.limitlesstcg.com/0043/standings",
+    "https://rk9.gg/pairings/GD01yAq3nBdy68dkmxVc"
+  ]
+}

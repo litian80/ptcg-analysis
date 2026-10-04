@@ -1,0 +1,23 @@
+{
+  "limitless_id": "524",
+  "date": "2025-10-25",
+  "name": "Regional Lille",
+  "type": "regional",
+  "country": "FR",
+  "players": 2028,
+  "winner": "Aleksander Rutowicz",
+  "format_code": "SVI-MEG",
+  "format_name": "Scarlet & Violet - Mega Evolution",
+  "rk9_id": "LL01rJ9jmjd0vvZStqEI",
+  "labs_id": "0041",
+  "counts": {
+    "decklists": 356,
+    "standings": 2028,
+    "matches": 8522
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/524",
+    "https://labs.limitlesstcg.com/0041/standings",
+    "https://rk9.gg/pairings/LL01rJ9jmjd0vvZStqEI"
+  ]
+}

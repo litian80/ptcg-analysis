@@ -1,0 +1,23 @@
+{
+  "limitless_id": "534",
+  "date": "2026-04-04",
+  "name": "Regional Querétaro",
+  "type": "regional",
+  "country": "MX",
+  "players": 1446,
+  "winner": "Akira Kurasaki",
+  "format_code": "SVI-ASC",
+  "format_name": "Scarlet & Violet - Ascended Heroes",
+  "rk9_id": "QT01w3mp1uQMDP3jCkOe",
+  "labs_id": "0061",
+  "counts": {
+    "decklists": 241,
+    "standings": 1446,
+    "matches": 6080
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/534",
+    "https://labs.limitlesstcg.com/0061/standings",
+    "https://rk9.gg/pairings/QT01w3mp1uQMDP3jCkOe"
+  ]
+}

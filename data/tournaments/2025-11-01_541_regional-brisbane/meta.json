@@ -1,0 +1,23 @@
+{
+  "limitless_id": "541",
+  "date": "2025-11-01",
+  "name": "Regional Brisbane",
+  "type": "regional",
+  "country": "AU",
+  "players": 617,
+  "winner": "Ryuki Okada",
+  "format_code": "SVI-MEG",
+  "format_name": "Scarlet & Violet - Mega Evolution",
+  "rk9_id": "BR01wWjeoRXmsLVtL56s",
+  "labs_id": "0042",
+  "counts": {
+    "decklists": 115,
+    "standings": 617,
+    "matches": 2473
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/541",
+    "https://labs.limitlesstcg.com/0042/standings",
+    "https://rk9.gg/pairings/BR01wWjeoRXmsLVtL56s"
+  ]
+}

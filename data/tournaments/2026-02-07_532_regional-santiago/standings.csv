@@ -1,0 +1,1671 @@
+placing,labs_player_id,name,country,wins,losses,ties,points,day2,top_cut,archetype,archetype_slug,icons
+1,0563,Murilo Mercadante,BR,14,1,2,44,True,True,Gardevoir,gardevoir-ex-sv,gardevoir
+2,0662,Ender Perez,VE,13,2,2,41,True,True,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+3,0339,Joel ortiz,AR,12,3,1,37,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+4,0831,William Azevedo,BR,11,1,4,37,True,True,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+5,0654,Eduardo Romanelli,BR,11,1,3,36,True,True,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+6,0259,Angel Aranibar Huamaní,PE,11,2,2,35,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+7,0187,Esteban Figueroa,CL,11,2,2,35,True,True,Dragapult Blaziken,dragapult-blaziken,dragapult|blaziken
+8,1118,Manuel González,CL,11,2,2,35,True,True,Gardevoir,gardevoir-ex-sv,gardevoir
+9,0035,Marco Garcia,BR,10,3,1,31,True,True,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+10,0525,Matias Candia,CL,10,3,1,31,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+11,0785,Esteban Chocano,CL,10,3,1,31,True,True,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+12,0253,Yerco Valencia,CL,9,1,3,30,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+13,0989,Jonathan Fabrizio Bellucci Lanciano,AR,10,3,0,30,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+14,1484,Emanuel Diogo,AR,9,1,3,30,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+15,0503,Fernando Lopez,CL,9,2,2,29,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+16,0466,Nicolás Rodriguez,CL,9,2,2,29,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+17,0916,Diego Guillén pelaez,PE,9,2,2,29,True,False,Crustle,crustle-dri,crustle
+18,0518,Franco Ortiz,CL,9,2,2,29,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+19,0364,Sebastian Gonzalez Muñoz,CL,9,2,2,29,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+20,1592,Dalton Acchetta,BR,9,2,2,29,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+21,0266,Changyu Liu,CN,9,2,2,29,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+22,1258,Fernando Cifuentes,CL,9,2,2,29,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+23,0169,Mauricio Melo,CL,9,2,2,29,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+24,1424,Diego Makishi,PE,9,3,1,28,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+25,1211,Tomas Riquelme,CL,9,3,1,28,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+26,1404,Marco Cifuentes,CL,9,3,1,28,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+27,1241,Sebastian Cabrera Quilape,CL,9,3,1,28,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+28,1256,Francisco Osorio,CL,9,3,1,28,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+29,0974,Raul Chan,CL,9,3,1,28,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+30,1235,ignacio Olivares,CL,9,3,1,28,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+31,0838,Julio Piero Diaz Accinelli,PE,9,3,1,28,True,False,N's Zoroark,n-zoroark,zoroark
+32,0819,Carlos Sepúlveda,CL,8,1,4,28,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+33,0075,Miguel Angel Rojas Duk,CL,9,3,1,28,True,False,Dragapult,dragapult-ex,dragapult
+34,0617,Fabrizio Inga Silva,PE,9,3,1,28,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+35,1327,Caio Pires,BR,8,1,4,28,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+36,1362,Vicente Rodriguez,CL,8,1,4,28,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+37,1227,Andrés Viglioglia,AR,8,1,4,28,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+38,1058,Pedro Side,BR,9,3,1,28,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+39,1291,Sebastian Riffo,CL,9,3,1,28,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+40,1570,Rafael Yuiti,BR,9,3,1,28,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+41,1559,Vinicius Passos,BR,8,1,4,28,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+42,0045,Ignacio Castro Tello,CL,9,3,1,28,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+43,0025,PAULO FERRAZ,BR,9,3,1,28,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+44,1127,Yonatan Godoy,CL,9,3,1,28,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+45,0777,Diego González,CL,9,3,1,28,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+46,1230,Pablo Sanhueza,CL,8,1,4,28,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+47,1086,Sebastian Alexander Carvajal Campos,CL,8,1,4,28,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+48,1631,Jose Villarroel,CL,9,4,0,27,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+49,0873,Nicolas Magliulo,AR,8,2,3,27,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+50,0053,Luis Martínez,PE,8,2,3,27,True,False,N's Zoroark,n-zoroark,zoroark
+51,0765,Pedro Dossi,BR,8,2,3,27,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+52,0584,Santiago Prieto,CL,8,2,3,27,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+53,1571,Benjamín Salina,CL,8,2,3,27,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+54,1121,Nicolás Contreras,CL,8,2,3,27,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+55,1165,Juan Tobar,CL,8,2,3,27,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+56,1321,Lucas Leal Badilla,CL,8,2,3,27,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+57,0823,Jaime Martinez,CL,8,2,3,27,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+58,1555,Gustavo Pastorín Rojas,CL,8,2,3,27,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+59,0293,lucas becker,CL,8,2,3,27,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+60,0636,Benjamín Brito,CL,8,2,3,27,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+61,1668,Manuel Pinzon,CO,8,2,3,27,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+62,1376,David Valdebenito,CL,8,3,2,26,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+63,0179,Cristian Candia,CL,8,3,2,26,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+64,0791,Nicolas Galaz,CL,8,3,2,26,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+65,0507,Matias Sumonte,CL,8,3,2,26,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+66,0283,Carlos Soto Quelin,CL,8,3,2,26,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+67,0196,Matias Navarro,CL,8,3,2,26,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+68,0996,Tomas Traub,CL,7,1,5,26,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+69,1082,Benjamin Cobo,CL,8,3,2,26,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+70,1203,Fabian Roman,CL,8,3,2,26,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+71,0971,Damian Gabriel Riquel,AR,7,1,5,26,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+72,0938,Lucas Badaracco,UY,8,3,2,26,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+73,0926,Daniel Gizzi,CL,8,3,2,26,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+74,0844,Sebastián Aspe,CL,8,3,2,26,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+75,1568,Matias Vera,AR,8,3,2,26,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+76,0907,Álvaro Recabal,CL,8,3,2,26,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+77,0211,Benjamín Ulloa Caroca,CL,8,3,2,26,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+78,0274,Felipe Montenegro,CL,8,3,2,26,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+79,0784,Matheus Mendes,BR,8,3,2,26,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+80,0498,Angelo Carlier,CL,8,3,2,26,True,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+81,1052,Bastian Silva,CL,7,1,5,26,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+82,0297,Matías Roca,CL,8,3,2,26,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+83,0411,Nicolas sebastian Ibaceta matus,CL,8,3,2,26,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+84,0243,Leandro Fernandes,BR,8,3,2,26,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+85,1157,Sanjeev Viswan,US,8,3,2,26,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+86,1341,Claudio Leonardo Espinosa Castro,CL,8,3,2,26,True,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+87,0425,Isaac Salazar,CL,8,3,2,26,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+88,0690,Nicolas Jimenez,CL,8,3,2,26,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+89,0615,Emilio Gomez,CL,8,3,2,26,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+90,1426,Rodrigo Rocco,CL,7,2,4,25,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+91,1541,Gaston Kitela,AR,8,4,1,25,True,False,Ceruledge,ceruledge-ex,ceruledge
+92,0560,Alonso Vásquez,CL,8,4,1,25,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+93,0680,Pablo Leiva,CL,7,2,4,25,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+94,0314,Martin Romano,AR,7,2,4,25,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+95,0450,Marcel Labra,CL,7,2,4,25,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+96,1159,Sebastian Riquelme,CL,8,4,1,25,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+97,0069,Cristopher Giler Lepe,CL,7,2,4,25,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+98,1485,Ignacio Gatica,CL,8,4,1,25,True,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+99,1144,Eric Villagra,CL,8,4,1,25,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+100,1460,Christian Badenas,AR,7,2,4,25,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+101,0353,Jorge González,CL,8,4,1,25,True,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+102,0431,Guillermo Muñoz Tejo,CL,7,2,4,25,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+103,1153,Micchelle Carvallo,CL,8,4,1,25,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+104,0101,Jeremy Erazo,CL,8,4,1,25,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+105,0601,Octavio Villarroel,CL,7,2,4,25,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+106,0684,Benjamin Valenzuela,CL,8,4,1,25,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+107,1226,Fernando Maia Noronha,BR,8,4,1,25,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+108,0931,Reinaldo Puentes,CL,8,4,1,25,True,False,Greninja,greninja-ex,greninja
+109,0210,Ivan Ruiz,CL,8,4,1,25,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+110,1217,Ignacio Gutiérrez,CL,8,4,1,25,True,False,Ceruledge,ceruledge-ex,ceruledge
+111,1532,Cristopher Delgado,CL,8,4,1,25,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+112,0975,Gaston Labrin,CL,8,4,1,25,True,False,Joltik Box,joltik-box,joltik|pikachu
+113,1619,Cristóbal Garrido,CL,8,4,1,25,True,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+114,0541,Teo Hazard,CL,8,4,1,25,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+115,1582,Camilo Fernandez,CL,8,4,1,25,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+116,0055,Vicente Monsalvez,CL,8,4,1,25,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+117,0389,Nicolás Michay Quiñenao,AR,8,4,1,25,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+118,0384,Esteban González,CL,8,4,1,25,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+119,0998,patricio fernandez,CL,8,4,1,25,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+120,1599,Michell Montenegro,CL,8,4,1,25,True,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+121,1087,Kevin Duran,CL,8,4,1,25,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+122,0608,Lucas Paz,BR,7,2,4,25,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+123,1093,Felipe Elgueta,CL,8,4,1,25,True,False,Joltik Box,joltik-box,joltik|pikachu
+124,1650,andres estefano gajardo lopehandia,CL,8,4,1,25,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+125,0308,Benjamin Stuckrath,CL,8,5,0,24,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+126,0908,Jorge Salas,CL,7,3,3,24,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+127,1097,Sebastian Mora,CL,7,3,3,24,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+128,0381,Francisco Toro,CL,7,3,3,24,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+129,0627,MAURICIO SOTO,CL,7,3,3,24,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+130,0228,Bruno Barros,BR,7,3,3,24,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+131,1534,Johan Catalán,CL,7,3,3,24,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+132,1222,Eduardo Molina,CL,7,3,3,24,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+133,0272,mauricio molina,CL,7,3,3,24,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+134,1277,Nicolas Henriquez,CL,7,3,3,24,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+135,1467,Nicolás AREVALO,CL,7,3,3,24,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+136,0698,Daifu Guzmán,CL,7,3,3,24,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+137,1507,Rodrigo Ramirez,CL,7,3,3,24,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+138,1018,Rodrigo Orellana,CL,7,3,3,24,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+139,0769,Camilo Olivares,CL,7,3,3,24,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+140,0647,Joaquim Postal,BR,7,3,3,24,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+141,1269,Carlos Kohler,CL,7,3,3,24,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+142,0691,Jorge Villar,CL,7,4,2,23,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+143,0939,Tomas Gamboa,CL,7,4,2,23,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+144,1167,Manuel Urzúa,CL,7,4,2,23,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+145,1270,Benjamín Carrasco,CL,7,4,2,23,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+146,0920,Mario Soto,CL,7,4,2,23,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+147,1474,Roberto Brito,CL,7,4,2,23,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+148,1083,Luis Meza,CL,7,4,2,23,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+149,1299,Javier Meza,CL,6,2,5,23,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+150,1447,Diego Romero,CL,7,4,2,23,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+151,1352,Alvaro Villarroel,CL,7,4,2,23,True,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+152,0640,Adrian Arandia,BO,7,4,2,23,True,False,Joltik Box,joltik-box,joltik|pikachu
+153,0767,Felipe Fernandez,CL,6,2,5,23,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+154,0504,Rubén Lagos,CL,7,4,2,23,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+155,0611,Joaquin Olivares,CL,7,4,2,23,True,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+156,0829,Alberto Gonzaga,BR,7,4,2,23,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+157,0897,Vicente Cuevas,CL,7,4,2,23,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+158,1120,Javier Aguilera Bustamante,CL,7,4,2,23,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+159,1092,Julian Diaz Ferrara,AR,7,4,2,23,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+160,0730,Alonso Ojeda,CL,7,4,2,23,True,False,Iron Thorns Crustle,iron-thorns-crustle,iron-thorns|crustle
+161,0321,Rodrigo Soto,CL,7,4,2,23,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+162,0918,Joaquin Calderon,CL,7,4,2,23,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+163,1610,Benjamín Cruces,CL,7,4,2,23,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+164,0084,Daniel Valdes Diaz,CL,7,4,2,23,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+165,1377,Benjamin Villa,CL,6,2,5,23,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+166,0481,Cristian Gallo,CL,6,2,5,23,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+167,0638,Waldo Ortega,CL,5,0,8,23,True,False,Greninja,greninja-ex,greninja
+168,0330,Yerko Aldana,CL,7,4,2,23,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+169,0960,Esteban Vásquez,CL,7,4,2,23,True,False,Charizard Dragapult,charizard-dragapult,charizard|dragapult
+170,1566,Daniel Pailaqueo,CL,7,4,2,23,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+171,0742,Nicolas Balboa,CL,7,4,2,23,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+172,0537,ivan Aviles,CL,7,4,2,23,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+173,0220,Nicolas Gonzalez,CL,6,2,5,23,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+174,0404,Javier Urzúa Berbetty,CL,6,2,5,23,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+175,0605,Diego Martinez,CL,7,4,2,23,True,False,N's Zoroark,n-zoroark,zoroark
+176,0408,Marcos Samuel Rojas Suárez,VE,6,2,5,23,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+177,1444,Vicente Torres,CL,6,2,5,23,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+178,1063,Pablo San Martín Guerrero,CL,7,4,2,23,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+179,0327,diego toro tribaldo,CL,7,4,2,23,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+180,0988,Diego Castro,CL,7,4,2,23,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+181,1645,Marcelo Basualto,CL,7,4,2,23,True,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+182,0842,sebastian martinez,CL,7,4,2,23,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+183,0183,Matias Alarcon,CL,7,4,2,23,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+184,0721,Daniel Ramírez,CL,7,5,1,22,True,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+185,0219,Pedro Lobera,CL,7,5,1,22,True,False,Joltik Box,joltik-box,joltik|pikachu
+186,0071,Felipe Delgado,CL,7,5,1,22,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+187,0180,Stefano Botello,CL,6,3,4,22,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+188,1597,Oscar Videla,CL,7,5,1,22,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+189,0083,Sergio Leiva,CL,6,3,4,22,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+190,0664,Paulo Torres,CL,7,5,1,22,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+191,0088,Camilo Larrain,CL,7,5,1,22,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+192,1142,jose fuentes,CL,7,5,1,22,True,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+193,1347,Nicolas hernandez,CL,7,5,1,22,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+194,1236,Federico Lousa,AR,7,5,1,22,True,False,Greninja,greninja-ex,greninja
+195,1373,Enzo Tassara,CL,7,5,1,22,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+196,0867,Diego Muñoz,CL,6,3,4,22,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+197,0392,Cristopher Cerda,CL,7,5,1,22,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+198,0108,Alfonso Rivas,CL,7,5,1,22,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+199,0086,Diego Arias,CL,6,3,4,22,True,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+200,1231,Ignacio Nifuri,CL,7,5,1,22,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+201,1325,Sergio César Augusto Torres Ramírez,PE,7,5,1,22,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+202,0940,Bayron Del Real,CL,6,3,4,22,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+203,0200,Claudio Berroeta,CL,6,3,4,22,True,False,Ceruledge,ceruledge-ex,ceruledge
+204,0576,Sebastian Leiva Contreras,CL,6,3,4,22,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+205,0443,Benjamin Arancibia,CL,6,3,4,22,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+206,0703,Andres Castillo Capetillo,CL,7,5,1,22,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+207,0515,Felipe Castro,CL,6,3,4,22,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+208,0847,Nicolás Fernández,CL,6,3,4,22,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+209,1050,Andrés Moraga,CL,5,1,7,22,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+210,0410,Jesse Sanchez,CL,7,5,1,22,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+211,1417,Diego González,CL,6,3,4,22,True,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+212,1250,Nicolas Nuñez,CL,7,5,1,22,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+213,0468,David Galvez,CL,6,3,4,22,True,False,Dragapult Blaziken,dragapult-blaziken,dragapult|blaziken
+214,1481,Brian Figueroa,CL,7,5,1,22,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+215,0268,Nicolas Sanchez,CL,6,4,3,21,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+216,1031,Ignacio Silva,CL,6,4,3,21,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+217,1372,Matias Valenzuela,CL,6,4,3,21,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+218,0385,AGUSTIN PESSANO,AR,6,4,3,21,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+219,1149,Rafael Hernandez Canales,CL,6,4,3,21,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+220,1233,Sebastian Villarroel,CL,6,4,3,21,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+221,0573,Jorge Rivero,CL,6,4,3,21,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+222,0095,Tomás Chávez Vega,CL,6,4,3,21,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+223,1013,Filipe Passos,BR,6,4,3,21,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+224,1438,Constanza Villablanca,CL,6,4,3,21,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+225,1503,Manuel Collazos,PE,6,4,3,21,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+226,0609,Felipe Valenzuela,CL,6,4,3,21,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+227,1643,Gabriel Chandía,CL,6,4,3,21,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+228,0682,Sebastian Coronado,CL,5,2,6,21,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+229,0029,Felipe Soto,CL,6,4,3,21,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+230,1169,Juan Aguilera,CL,6,5,2,20,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+231,1590,Enrique Peñaloza,CL,5,3,5,20,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+232,0173,Juan Jose Madrigal,CO,6,5,2,20,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+233,0798,José Espinoza,CL,5,3,5,20,True,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+234,0642,Mariano Viñuela,CL,6,5,2,20,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+235,0247,Bastián Meza,CL,6,5,2,20,True,False,Ceruledge,ceruledge-ex,ceruledge
+236,1331,Leonardo Tapia,CL,6,5,2,20,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+237,1366,Claudio Armijo,CL,5,3,5,20,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+238,1020,Renzo Angulo,PE,6,5,2,20,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+239,0350,Martin Suarez,CL,6,5,2,20,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+240,0376,Benjamin Vicente,CL,5,3,5,20,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+241,1071,Abelardo Fukasawa,BR,6,5,2,20,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+242,0407,Ignacio Gallardo,CL,6,5,2,20,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+243,1271,Cristian Mendez,CL,6,5,2,20,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+244,0191,Jesus Melo,CL,6,5,2,20,True,False,Joltik Box,joltik-box,joltik|pikachu
+245,1557,Lucas Albanese,AR,6,5,2,20,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+246,0544,Nicolas Besa,CL,5,3,5,20,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+247,0954,Brayan Ramos,CL,5,3,5,20,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+248,0546,Ignacia Nishikawa,CL,5,3,5,20,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+249,1311,Lucas Paglia,BR,6,5,2,20,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+250,1500,Cristóbal Calderón Fernández,CL,6,5,2,20,True,False,N's Zoroark,n-zoroark,zoroark
+251,1544,MOISES REINALDO QUIROZ DIAZ,CL,6,5,2,20,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+252,0135,Hans Benitez,CL,5,3,5,20,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+253,0924,Catalina Navarrete,CL,6,5,2,20,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+254,1410,Sebastian Scelchi,CL,6,5,2,20,True,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+255,0026,Marco Cifuentes D,CL,6,6,1,19,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+256,0759,Juan Esteban Baeza Allendes,CL,6,6,1,19,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+257,1657,Joaquin Figueroa,CL,6,6,1,19,True,False,N's Zoroark,n-zoroark,zoroark
+258,1104,Tomás reyes,CL,6,6,1,19,True,False,Other,other,substitute
+259,1015,Tomas Navarrete,CL,6,6,1,19,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+260,0352,Anderson Proscholdt,BR,5,4,4,19,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+261,0715,Maximiliano Baeza,CL,6,6,1,19,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+262,0151,Danny Olivos Troncoso,CL,5,4,4,19,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+263,1035,Roggers Godoy,CL,5,4,4,19,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+264,0156,Andrés Bustamante Barrios,CL,6,6,1,19,True,False,Iron Hands Magneton,iron-hands-magneton,iron-hands|magneton
+265,1074,Chenxi Jin,CN,6,6,1,19,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+266,1099,Antonio Pavez,CL,6,6,1,19,True,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+267,0733,Gustavo Valeria,CL,6,6,1,19,True,False,Ceruledge,ceruledge-ex,ceruledge
+268,0814,Felipe Vasquez,CL,5,5,3,18,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+269,1342,Mario Palominos,CL,5,5,3,18,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+270,0870,Victor Umanzor,CL,5,5,3,18,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+271,0012,Matías Cartagena,CL,5,5,3,18,True,False,N's Zoroark,n-zoroark,zoroark
+272,1403,Juan David Cruz,CL,5,5,3,18,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+273,1135,Nicolás Yañez,CL,5,6,2,17,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+274,0325,Daniel Linares,PE,5,6,2,17,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+275,1540,Ignacio Mateluna,CL,5,6,2,17,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+276,0559,Dieter Varas,CL,5,6,2,17,True,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+277,0532,Sebastian Fernández,CL,5,7,1,16,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+278,1399,Diego Milla,CL,5,7,1,16,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+279,1465,Fernando Salas Valera,CL,5,3,1,16,True,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+280,0813,Luis Albornoz,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+281,0331,Rodrigo Mathías Villalobos Vílchez,PE,4,1,3,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+282,0606,alejandro San martin,CL,5,3,0,15,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+283,0461,Gonzalo Ojeda,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+284,0903,Jaime Torres,CL,4,1,3,15,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+285,1489,diego zuniga vithar,CL,4,1,3,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+286,1380,tomas sanchez,CL,5,3,0,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+287,0977,Andrés Carrasco,CL,4,1,3,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+288,0212,Pablo Peña,CL,5,3,0,15,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+289,0692,Julio Rojas,CL,5,3,0,15,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+290,1091,Luciano Bautista,CL,5,3,0,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+291,0874,Bastián Ulloa,CL,5,3,0,15,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+292,0558,Alejandro Luciano Eijo,BR,4,1,3,15,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+293,0073,Javier Chelmes,CL,4,1,3,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+294,0488,Pedro Ramirez,CL,4,1,3,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+295,0805,Julio García Falconi,PE,5,3,0,15,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+296,0479,Carlos Castro,CL,4,1,3,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+297,0296,tito pizarro,CL,4,1,3,15,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+298,1108,Marcos Muñoz,CL,4,1,3,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+299,0496,Ricardo Hille,BR,5,3,0,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+300,0367,Joaquín Vallejos,CL,5,3,0,15,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+301,0768,Fernando Améstica,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+302,0213,Erick Avendaño,CL,5,3,0,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+303,0968,Nicolas Buczak,AR,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+304,0557,Jorge Garrido,CL,5,3,0,15,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+305,0218,Felipe Canales,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+306,0435,Sebastián Iturra,CL,5,3,0,15,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+307,1273,Guilherme Mourão,BR,4,1,3,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+308,1109,Hector Vargas,CL,5,3,0,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+309,1103,Lukas Mac-kay,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+310,0022,Federico Nattkemper,AR,4,1,3,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+311,1589,Alonso Valdés,CL,4,1,3,15,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+312,0736,demian hott,CL,4,1,3,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+313,0569,Mauricio Torres Chavez,CL,5,3,0,15,False,False,Mega Lopunny,mega-lopunny-ex,lopunny-mega
+314,1385,Simon Gajardo,CL,4,1,3,15,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+315,0032,Alan Smith,CL,4,1,3,15,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+316,0902,Nicolás Faúndez,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+317,0278,Esteban Diaz,AR,5,3,0,15,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+318,0771,Claudio Candia,CL,5,3,0,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+319,1294,Víctor Casas,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+320,1445,Juan pablo Ilabaca,CL,4,1,3,15,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+321,0316,Nicolás Erices,CL,5,3,0,15,False,False,Iron Hands Magneton,iron-hands-magneton,iron-hands|magneton
+322,0725,DIEGO Diaz,CL,5,3,0,15,False,False,Joltik Box,joltik-box,joltik|pikachu
+323,1246,Francesco Alessandro Zoffoli Contreras,CL,5,3,0,15,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+324,0027,Juan Solis,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+325,0100,Nicolas Armijo,CL,4,1,3,15,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+326,0442,Caio Magro,BR,5,3,0,15,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+327,0817,Felipe Duarte Furnes,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+328,1146,Lucas Schafer,CL,5,3,0,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+329,0533,Alejandro Montero,CL,5,3,0,15,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+330,0157,Felipe Solís,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+331,1591,Nicolas Belmar,CL,5,3,0,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+332,0418,Adriano Manzini Silva,BR,5,3,0,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+333,0286,Lukas Norambuena,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+334,1048,Edmundo Mery Lavín,CL,5,3,0,15,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+335,0794,Matías Martini,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+336,0195,Claudio Bachmann,CL,5,3,0,15,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+337,0862,José Jara,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+338,0995,Luciano Ignacio Pacheco Silva,CL,5,3,0,15,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+339,1005,Pablo Oliva,CL,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+340,0194,Camilo Alarcón,CL,4,1,3,15,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+341,0949,Matias Cisterna Nass,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+342,0387,Diego Barrios,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+343,0010,Cesar Abarca,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+344,1014,jose molina,CL,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+345,1482,Jorge Espinosa,CL,4,2,2,14,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+346,0398,Fernando Chayle,AR,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+347,1110,Francisco José Rojas Ulloa,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+348,0480,Bruno Santi,AR,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+349,0311,Felipe Camus,CL,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+350,0905,Paulo Gouveia de Freitas,BR,4,2,2,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+351,1312,Fernando Ortiz,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+352,1125,Ignacio Vargas,CL,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+353,0375,Lukas Ulloa Pérez,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+354,1129,Patricio Fredes,CL,4,2,2,14,False,False,Joltik Box,joltik-box,joltik|pikachu
+355,1040,William Hutchinson,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+356,0078,Leandro Diaz,CL,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+357,0782,Wladimir Jacobs,CL,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+358,0846,Sebastián Lozano,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+359,1646,Nicolas Bravo Rosales,CL,4,2,2,14,False,False,N's Zoroark,n-zoroark,zoroark
+360,0042,Ian Meneses Martinez,CL,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+361,0037,Tobias Tkaczek,AR,4,2,2,14,False,False,N's Zoroark,n-zoroark,zoroark
+362,0904,pablo corales,CL,4,2,2,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+363,1398,Lucas Vega,CL,4,2,2,14,False,False,Ceruledge,ceruledge-ex,ceruledge
+364,0121,Guilherme Stroschon,BR,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+365,0162,Nicolas Ramírez,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+366,1499,Marcelino Quezada,CL,4,2,2,14,False,False,Greninja,greninja-ex,greninja
+367,1618,Fernando Arancibia,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+368,1084,Santiago Fuentes,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+369,0318,Chris Meneses,CL,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+370,0368,Damian Fernandez Urroz,AR,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+371,1408,Esteban Inostroza,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+372,0578,Sebastian Aviles Vivar,CL,3,0,5,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+373,0900,Natalio Resa,AR,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+374,1301,Renzo Junior Velásquez Salazar,PE,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+375,0845,Gianluca Frega,AR,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+376,0551,Leonardo Danna,BR,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+377,1595,Diego Cares,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+378,1216,Gustavo Valenzuela,CL,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+379,1179,Claudio Tapia Balboa,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+380,0732,Santiago Mackay,CL,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+381,0753,Luvik Aguilar,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+382,1107,Bryan Ortiz,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+383,0232,Facundo Figoli,AR,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+384,0337,Vicente Armijo,CL,4,2,2,14,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+385,1560,Camilo Lobo,CL,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+386,0892,Marco Benitez Soto,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+387,0115,Raúl Aguilera,CL,4,2,2,14,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+388,0724,Matias Matricardi,AR,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+389,0050,Gabriel Pino Semedo,BR,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+390,1440,Vitor Lugon Cacciari Martinelli,BR,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+391,0062,Felipe garcia,BR,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+392,1240,Gabriel Painén,CL,4,2,2,14,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+393,1496,Rubén Peña Zavala,CL,4,2,2,14,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+394,0801,Cristian Mattus,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+395,0163,Esteban O’Compley,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+396,1442,Gonzalo Kohatsu,PE,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+397,1461,Rafael Sepulveda,CL,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+398,1637,Felipe Munoz,CL,4,2,2,14,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+399,0369,Juan Gabriel Villegas Almonacid,CL,4,2,2,14,False,False,Ceruledge,ceruledge-ex,ceruledge
+400,1641,Alberto Cobo,CL,3,0,5,14,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+401,0346,Camilo Zamora,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+402,0893,Ramón Durán,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+403,1367,Hernan Carrasco,CL,4,2,2,14,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+404,0241,Jhulian Muñoz,CL,4,2,2,14,False,False,Seaking Festival Lead,seaking-pre,seaking|thwackey
+405,1483,Diego Arenas,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+406,0087,Felipe Andres,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+407,0704,Joaquin Reyes,CL,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+408,1546,Jose Ricardo Lopez Velasquez,BO,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+409,1030,Vicente Bulnes,CL,4,2,2,14,False,False,Ceruledge,ceruledge-ex,ceruledge
+410,0708,Gustavo Ahumada,CL,4,2,2,14,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+411,0963,Lucas Matheus,BR,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+412,0304,Maximiliano Acuña,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+413,0929,Alexander Alvarado,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+414,0177,ANDREY FLORES,BO,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+415,1435,Diego galaz,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+416,1001,Ignacio Gatica,CL,4,2,2,14,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+417,0097,CRISTIAN ARAVENA,CL,4,2,2,14,False,False,Ceruledge,ceruledge-ex,ceruledge
+418,0072,Pedro Poyanco,CL,4,2,2,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+419,0858,Pablo Melo,CL,4,2,2,14,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+420,1371,Fabián Silva,CL,4,2,2,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+421,0633,Alejo Antonio Salvador,AR,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+422,0959,Sebastian Gatica,CL,4,2,2,14,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+423,0746,Matías Valencia,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+424,1634,Miguel Angel Adofacci Milla,CL,4,2,2,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+425,1533,Sebastian Vidal,CL,4,2,2,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+426,1318,Nataniel Lovagnini,AR,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+427,1639,Erick Ampuero,CL,4,2,2,14,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+428,0202,Benjamin Vasquez,CL,4,2,2,14,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+429,0598,Gino Campanini,AR,4,2,2,14,False,False,Pidgeot Control,pidgeot-control,pidgeot
+430,1374,Felipe Eskenazi,CL,4,2,2,14,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+431,1000,Martin Cazenave,CL,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+432,1463,Guillermo Brum,AR,4,2,2,14,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+433,1131,Ignacio Diaz,CL,4,2,2,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+434,0374,Pablo Betancourt Espinoza,CL,4,2,2,14,False,False,N's Zoroark,n-zoroark,zoroark
+435,1454,Dyott Altamirano,CL,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+436,1339,Martin Callegari,AR,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+437,0651,Alexis Hormazabal,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+438,0484,Ariel Soto,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+439,0843,Felipe Valenzuela,CL,4,2,2,14,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+440,0760,Rodrigo Soto,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+441,1596,Francisco López,CL,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+442,0275,Ricardo Parra,CL,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+443,0396,Franco Viera,CL,4,2,2,14,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+444,1244,Mauricio Figueroa,CL,4,2,2,14,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+445,1260,Jaime Cea,CL,3,0,5,14,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+446,0281,Gabriel Povea,CL,4,2,2,14,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+447,1494,Ivan Paredes,CL,3,0,5,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+448,1510,Ignacio Venegas Salgado,CL,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+449,1530,Ignacio Vidal,CL,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+450,1658,Luis Gonzalez,CL,4,2,2,14,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+451,0582,Cristobal Sepulveda,CL,4,2,2,14,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+452,0358,Felipe Rivera,CL,4,3,1,13,False,False,Slowking,slowking-scr,slowking
+453,0534,Cristóbal Molina Alarcón,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+454,0444,Ricardo Robles,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+455,1275,Matías Lobos Terán,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+456,0273,Claudia Carrasco,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+457,1504,Vicente Estrada,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+458,0620,Zheng Liang,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+459,0215,Roberto Meza Olivares,CL,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+460,0080,Guillermo Moreno,EC,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+461,0415,Nahuel Avalos,AR,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+462,0848,Gonzalo Zamorano,CL,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+463,0614,Sebastian Lefio,CL,3,1,4,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+464,0570,Matías Pacheco,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+465,1228,RENZO RIVERO,PE,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+466,0371,Julian Diaz,CL,4,3,1,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+467,1254,Raul Gallardo,CL,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+468,1400,Luis Bañon,PE,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+469,0886,Nicolás Aparicio Vergara,CL,3,1,4,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+470,0822,Leonardo Fernandez da Silva,AR,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+471,0491,Ignacio Llanos,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+472,0190,matias diaz,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+473,1455,Nicolas Cereceda,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+474,1276,Claudio Ulloa,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+475,1459,Diego Zuñiga,CL,4,3,1,13,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+476,0400,Jorge Vargas Osorio,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+477,0452,Selim Moreno,CL,4,3,1,13,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+478,0510,Matias Montecinos,CL,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+479,0031,Gerardo Bravo,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+480,1248,Manuel Vivanco,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+481,1451,Jose Alfaro,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+482,0401,Nahil Carrillo,PE,3,1,4,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+483,1537,Felipe Araya,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+484,0625,Felipe Bastias,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+485,0254,Carolina Tipolt Martins,BR,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+486,1632,Martín Olavarria,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+487,0914,Farid Zalaquett,CL,3,1,4,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+488,0604,Victor Ortiz,PE,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+489,1621,Damian González,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+490,1195,Cristian Lastra,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+491,1409,Gianluca Pagano,AR,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+492,0201,David Ishii,PE,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+493,1490,Igor Magnus,BR,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+494,0328,Alejandro Avendaño,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+495,0871,Fernando Venegas,EC,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+496,1462,Nicolas Varela,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+497,1356,Pablo Andrés Álvarez Cárcamo,CL,4,3,1,13,False,False,Joltik Box,joltik-box,joltik|pikachu
+498,0423,Jorge Mendoza,CL,3,1,4,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+499,1395,Rafael Masuko,BR,3,1,4,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+500,1527,Diego Ignacio Aguilera Sepúlveda,CL,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+501,0882,Sebastián Rojas,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+502,1473,Marcelo Blanes,BR,4,3,1,13,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+503,1345,Juan Martín Bravo,AR,4,3,1,13,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+504,1437,José Miguel Carvallo Vidal,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+505,0382,Vicente Opazo,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+506,0063,Juan Pablo Poblete Toro,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+507,0205,Gabriel Zara,BR,3,1,4,13,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+508,0204,Javier Romero Ramos,CL,3,1,4,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+509,0043,Vicente Espinoza Videla,CL,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+510,0556,Cristobal Soto,CL,3,1,4,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+511,0702,Ignacio Lefiman godoy,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+512,0335,Zoe Vélez,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0476,Alberto Cortes,CL,4,3,1,13,False,False,N's Zoroark,n-zoroark,zoroark
+,1575,Alejandro Carrillo,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1608,Alejandro Castro,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0070,Alex Lagos,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1354,Alexi Gonzalez,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0685,Alonso Orellana,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0943,Alonso Torres,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1279,Alvaro Luigi Alanoca Huaycho,BO,3,1,4,13,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0413,Alvaro Soto,CL,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0764,Andres Guldenaar,CL,4,3,1,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1098,Andrés Mejias,CL,4,3,1,13,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0656,Augusto Souza,BR,4,3,1,13,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,1548,Bastian Cortes,CL,4,3,1,13,False,False,Joltik Box,joltik-box,joltik|pikachu
+,0912,Bastián Montecino,CL,4,3,1,13,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0748,Benjamin Carmona,CL,4,3,1,13,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0378,Benjamín Ramírez,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0008,Braian Ruiz,CL,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1124,Camilo Hurtado,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0009,Carlos Cristian Barrionuevo,AR,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0589,Carlos Felipe Pardo Narváez,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0462,Carlos Jara,CL,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0197,Christian Escobar,CL,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1391,Christian Jaramillo,CO,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1193,Claudio Oyarzo,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1077,Cristopher Alcorce,CL,4,3,1,13,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1491,Cristóbal Castañeda Moya,CL,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1545,Cristóbal Pérez,CL,4,3,1,13,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,0118,DIEGO ARAVENA GARCIA,CL,3,1,4,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1363,Daniel Puentes,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1528,Diego Baño,CL,4,3,1,13,False,False,Slowking,slowking-scr,slowking
+,0171,Diego Gibbs,CL,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0428,Diego Zapata,CL,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0463,Dylann Oberg,CL,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0879,Eduardo Fenuchi,BR,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0626,Eduardo Molina,CL,4,3,1,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0554,Elise Rubio,CL,4,3,1,13,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0891,Emilio Rios,CL,4,3,1,13,False,False,N's Zoroark,n-zoroark,zoroark
+,0120,Ezequiel Dario Rey,AR,4,3,1,13,False,False,N's Zoroark,n-zoroark,zoroark
+,1456,Fabián Serrano Vera,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0750,Felipe Saldia,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0047,Francisco Madero,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0973,Francisco Maestri,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1433,Francisco Sepulveda,CL,4,3,1,13,False,False,N's Zoroark,n-zoroark,zoroark
+,0494,Franco Monje,CL,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0336,Franco Rodriguez,CL,4,3,1,13,False,False,Greninja,greninja-ex,greninja
+,0302,Gabriel Veliz,CL,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1450,Gabriela Nauto,CL,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0535,Gabriela Rojas,CL,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1188,Gamaliel Huerta,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0665,Germán Pavez,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0757,Giorgio Carniglia,CL,4,3,1,13,False,False,Ethan's Magcargo,ethan-magcargo,magcargo|ho-oh
+,0310,Gonzalo Pinto,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0652,Gonzalo Tilleria,CL,4,3,1,13,False,False,Crustle,crustle-dri,crustle
+,1056,Hernán Clivio,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0341,Ismael nuñez,CL,3,1,4,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0175,Israel Bravo,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1298,Ivan Porflidtt Villalon,CL,3,1,4,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0185,Javier Gutiérrez,CL,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0747,Javier Rojas,CL,3,1,4,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1488,Javier Sepulveda Galaz,CL,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0883,Joaquin Romo,CL,4,3,1,13,False,False,Toxtricity Box,toxtricity-pfl,toxtricity|absol-mega
+,1296,Joaquín Aravena Rojas,CL,4,3,1,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0799,Joaquín Lagos,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0839,Jorge Baez,CL,4,3,1,13,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,1253,Jorge Samuel,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1523,Jose Roberto CABRIALES DE HOYOS,MX,3,1,4,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0154,José Aguilar,CL,4,3,1,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1009,Juan Pablo Olavarria Tramon,CL,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0603,Kenya Nuñez,CL,4,3,1,13,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,0007,Lucas Barra,CL,4,3,1,13,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,1661,Lucas Russo,BR,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+,1278,Lucian Villaça,BR,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1172,Luis Ramirez,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0958,Manuel Ignacio Ponce Ortiz,CL,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0778,Manuel Torres,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0445,Marcos Landeros,CL,4,3,1,13,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1094,Martin Dominguez,AR,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0034,Martín Benavides,CL,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0056,Mateus Mendes,BR,3,1,4,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0756,Matias Salazar,CL,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1422,Maximiliano Guzmán,CL,4,3,1,13,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0416,Maximiliano Piñeiro,CL,4,3,1,13,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0402,Miguel Hernández,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0622,Nicolas Bralla,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0649,Nicolas Toro,CL,3,1,4,13,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1594,Nicolas Vial,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0357,Nicolás Rebolledo,CL,4,3,1,13,False,False,Greninja,greninja-ex,greninja
+,0386,Nicolás Rosales,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1387,Omar Uribe,PE,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1019,PABLO DE LA SOTTA,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0722,Pablo Franco,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1423,Pablo Zuñiga,CL,4,3,1,13,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0475,Patricio Molina,CL,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0354,Pedro Haro,CL,4,3,1,13,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+,0699,Pedro Urra,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1199,Rodrigo Escobar Espinoza,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0519,Rodrigo Martinelli,BR,4,3,1,13,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+,0356,Rodrigo Paredes,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1407,Rodrigo Prieto,CL,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1025,Sebastian Bruna,CL,4,3,1,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1625,Sebastián Barrera,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0107,Sebastián González,CL,4,3,1,13,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+,1487,Sebastián Venegas Jaramillo,CL,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0909,Simón Salazar,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1290,Tomás Concha,CL,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0621,Vicente Mieres,CL,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0456,Vicente Véliz,CL,4,3,1,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0591,Xavier Veiga,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1326,boris von gierke,CL,4,3,1,13,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0788,branco Belmar,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1192,claudio altamirano,CL,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1136,esteban navarro,CL,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+,1232,fernando gonzalez,CL,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1308,hans tamola,CL,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1338,jaime salgado,CL,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0287,joaco saa gonzalez,CL,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1381,marcelo almeida,BR,3,1,4,13,False,False,Iron Thorns Crustle,iron-thorns-crustle,iron-thorns|crustle
+,1194,melvis hidalgo,CL,4,3,1,13,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0772,michelle Tobar,CL,4,3,1,13,False,False,Joltik Box,joltik-box,joltik|pikachu
+,0464,pia belen ananias vergara,CL,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1392,ALEJANDRO CRUZ,CL,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1638,Abimael Cantillana,CL,4,4,0,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0355,Alan Catalan Torres,CL,4,4,0,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0921,Alvaro Gallardo,CL,4,4,0,12,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0065,Antonio Bravo,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0849,Ariel Villanueva,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1512,Aroon Salum,CL,4,4,0,12,False,False,Charizard,charizard-ex,charizard
+,1543,Arturo Escobar,CL,3,2,3,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1178,BERNARDO SPLENDIANI,AR,4,4,0,12,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0937,Bastián Gutiérrez,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0309,Bastián Roldán,CL,4,4,0,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0176,Benjamin Caro,CL,3,2,3,12,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,1519,Benjamin Rees Catalán,CL,3,2,3,12,False,False,Toxtricity Box,toxtricity-pfl,toxtricity|absol-mega
+,0531,Brandon Olivares,CL,4,4,0,12,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0380,Caio Navarro,BR,4,4,0,12,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0776,Carla Saez,CL,4,4,0,12,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1307,Carlos Carreño,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1177,Carlos Godoy,CL,4,4,0,12,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1274,Claudio Pinto,CL,3,2,3,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1198,Constanza Peralta,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1630,Cristian Fajardo Valenzuela,CL,3,2,3,12,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1003,Cristobal Ruiz,CL,4,4,0,12,False,False,Iron Hands Magneton,iron-hands-magneton,iron-hands|magneton
+,0706,Cristofer Castillo,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1156,Daniel Jofré,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1229,Daniel Povea Henriquez,CL,3,2,3,12,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,0344,David Hechenleitner,CL,3,2,3,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0422,Dennis Maza,PE,4,4,0,12,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0859,Diego García,CL,4,4,0,12,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,0602,Diego Hernández,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1479,Diego Kurte,CL,4,4,0,12,False,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+,1073,Edgard Jimenez,CL,3,2,3,12,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1163,Eduardo Gonzalez Moreno,CL,3,2,3,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+,1513,Esteban Reyes,CL,4,4,0,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0726,Fabian Lazcano,CL,4,4,0,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0711,Felipe Alvarez,CL,4,4,0,12,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0437,Felipe Amaro,CL,4,4,0,12,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0592,Felipe Carreño,CL,4,4,0,12,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1524,Felipe Di Vanni Valenzuela,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0866,Felipe Heerwagen,CL,3,2,3,12,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,1133,Felipe Herrera,CL,4,4,0,12,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0646,Felipe Muñoz,CL,3,2,3,12,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1209,Felipe Ortiz,CL,4,4,0,12,False,False,Roaring Moon,roaring-moon-ex,roaring-moon
+,1201,Felipe Solis Rojas,CL,3,2,3,12,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1573,Fernando Gonzalez,CL,3,2,3,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1574,Francisco Arcos,CL,4,4,0,12,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,0128,Francisco Romero,CL,3,2,3,12,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1623,Francisco Toro,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1175,Franco Ramirez,CL,4,4,0,12,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0875,Fredy Hernández Mardones,CL,4,4,0,12,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0159,Gabriel Saavedra,CL,3,2,3,12,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0511,Gabriel Zapata Salazar,CL,3,2,3,12,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0246,Guilherme Gonçalves,BR,4,4,0,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0263,Guillermo Gálvez Godoy,CL,3,2,3,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1529,Hannibal Pavez,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0130,Ivan Melo,CL,4,4,0,12,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0006,J. Tomás Maxwell,CL,3,2,3,12,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0217,Javier Azan,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0710,Javier Cornejo,CL,4,4,0,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0564,Javiera Herrera Concha,CL,3,2,3,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0826,Javiera Valenzuela Torreblanca,CL,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0019,Jesus leiva,CL,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1134,Jorge Balbontin,CL,4,4,0,12,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1351,Jorge Ríos,CL,4,4,0,12,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1122,Jorge Soto,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0628,Jorge Vidal,CL,4,4,0,12,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0864,Jose Daniel Baca Crisanto,PE,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0779,Jose Quinteros,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0547,Jose Rebolledo,CL,3,2,3,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0359,Jose Rojas,CL,3,2,3,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0856,Juan Lorca,CL,3,2,3,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0740,Juan Pablo Navarro,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0962,Kelvin Azuaje,VE,3,2,3,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0600,Leonardo Julio,CL,3,2,3,12,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0888,Leonardo Pacheco,CL,4,4,0,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0677,Luis Esteban Munoz Campos,CL,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0520,MARIO ELGUETA,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1011,Manuel Felipe Molina Toro,CL,3,2,3,12,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0655,Marcel Morales,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0686,Marcelo Guarita,BR,3,2,3,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1357,Marcos Sepulveda,CL,3,2,3,12,False,False,Slowking,slowking-scr,slowking
+,1664,Mariela Ramos,PE,3,2,3,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0964,Martín Hödar Salazar,CL,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0896,Matias Herrera,CL,3,2,3,12,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0506,Matias Lopez,CL,4,4,0,12,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0117,Matias Perez,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1145,Matias Ruiz,CL,4,4,0,12,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0312,Matias Wallis Farias,CL,3,2,3,12,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,0399,Matías Saldivia,CL,4,4,0,12,False,False,Iron Hands Magneton,iron-hands-magneton,iron-hands|magneton
+,1653,Maycol Alejandro Ramírez Campaña,CL,3,2,3,12,False,False,N's Zoroark,n-zoroark,zoroark
+,0816,Mickoll Torres,CL,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0262,Miguel Angel Pantoja Herrera,CL,4,4,0,12,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0523,Mireya Ferrada,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0773,Moises Ramirez,PE,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0127,Nicolas Castro,CL,3,2,3,12,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0182,Nicolas Cuadra,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0235,Nicolas Gaete,CL,3,2,3,12,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0825,Nicolás Polito,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1113,Nicolás Valenzuela,CL,4,4,0,12,False,False,Crustle,crustle-dri,crustle
+,0586,Oscar Osses,CL,4,4,0,12,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1535,PATRICIO LILLO,CL,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1364,PAUL FERNANDEZ,PE,3,2,3,12,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1220,Paolo Alejandro Silva Fuentealba,CL,4,4,0,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0731,Raul Barahona,CL,3,2,3,12,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0110,Ray Cuevas,PE,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0545,Ricardo Duguet,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1515,Ricardo Ignacio Gómez Marre,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0406,Ricardo Vega Avendaño,CL,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0678,Rogerio Carrasco Fuica,CL,4,4,0,12,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0526,Santiago Andrés García Lufin,PE,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1420,Sebastián Castro,CL,4,4,0,12,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,1397,Sofia Perez,CL,4,4,0,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1386,TIAGO ROCHA GOMES,BR,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0950,Tomas salazar,CL,4,4,0,12,False,False,Roaring Moon,roaring-moon-ex,roaring-moon
+,1585,Tomás Pérez,CL,4,4,0,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0478,Vicente Albarran,CL,4,3,0,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0421,Vicente Palacios,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0645,Victor Bustamante,CL,3,2,3,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0500,Victor Freitas,BR,4,4,0,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0147,Victor Retamales,CL,4,4,0,12,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0303,Yordyn Alexis Henriquez,CL,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1181,Zhuo Chang,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0345,aaron cuevas,CL,4,4,0,12,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,1469,cesar antonio salinas leiva,CL,3,2,3,12,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0114,cristopher gonzalez,CL,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0835,daniel acuña,CL,3,2,3,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1603,martin aguilar,CL,3,2,3,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1466,Agustin Giudice,AR,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0490,Agustín Novoa Martínez,CL,3,3,2,11,False,False,Gholdengo,gholdengo-ex,gholdengo
+,1607,Alex Douglas,BR,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1224,Alondra Beluzaran,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0679,Andres Echenique,AR,3,3,2,11,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1375,Arturo Pinto,CL,3,3,2,11,False,False,N's Zoroark,n-zoroark,zoroark
+,1213,Augusto Mayoral,AR,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1648,Bastian Labra,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0629,Bastián Hernández,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0853,Bayron Valderas,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1616,Benjamin Peña,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0134,Braulio Rojas,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0049,Bruno Silva,BR,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1478,Bryan Olivares,CL,2,1,5,11,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0420,CRISTOFER SOTO,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1081,Camila Flores,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0585,Camila Vidal,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0454,Camilo Nilo,CL,3,3,2,11,False,False,Wugtrio Mill,wugtrio-svi,wugtrio
+,0927,Carlos Rojas,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0112,Christopher Agurto,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0021,Claudio Delgado,CL,3,3,2,11,False,False,Seaking Festival Lead,seaking-pre,seaking|thwackey
+,0681,Cristian Farías,CL,3,3,2,11,False,False,Slowking,slowking-scr,slowking
+,1588,Cristobal Matamala de la sotta,CL,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1579,Cristóbal Castillo,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0054,Daniel Cajahuaringa Rivera,PE,3,3,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0123,Daniel Soto,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0981,David Calfucura,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1480,David Chávez,CL,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1526,Diego Aguilera,CL,3,3,2,11,False,False,Ceruledge,ceruledge-ex,ceruledge
+,1080,Diego Arcos,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0098,Diego Contreras,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1002,Diego De León,UY,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0994,Eduardo Orellana,CL,3,2,2,11,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0666,Edward Castillo R,CL,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0160,Emilio Mercado,CL,3,3,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1655,FHARID BASTIDAS AVALOS,PE,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1112,Felipe Maira,CL,3,3,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1049,Felipe Varas Adaros,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1656,Fernando Lezana,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0568,Fernando Pizarro,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1314,Francisco Belmar,CL,3,3,2,11,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0046,Francisco Sanchez,CL,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1170,Francisco Vidal,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0787,Franco Bulnes,CL,2,1,5,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1137,Gabriel Galaz,CL,3,3,2,11,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1370,Gustavo Delgado,CL,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0020,Hector Del Rio,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0096,Hugo Espinoza,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0109,Ignacio Arratia Fernández,CL,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1561,Ignacio Concha,CL,3,3,2,11,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1034,Ignacio Corales,CL,3,3,2,11,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0143,Ignacio Gamboa,CL,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1152,Ignacio Rodriguez,CL,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1189,Ignacio Tapia,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1542,Isidora Torres,CL,3,3,2,11,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0786,JOHN MUÑOZ,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1026,Jaime Aguilera,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0279,Jaime Jubert,AR,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0512,Jairo Guajardo,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0429,Javier Venegas,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0485,Javiera Castro,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0198,Jean Carlos Sanchez,PE,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1057,Joaquin Jelves,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1033,Jorge Tapia,CL,3,3,2,11,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0890,Jose Vidal,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1617,Josue Espinal Melgarejo,PE,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1024,Juan Ossandon,CL,3,3,2,11,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0141,Julio Venegas,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1428,Kevin Silva Rios,CL,3,3,2,11,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0139,Luciano Macchioli,AR,3,3,2,11,False,False,Seaking Festival Lead,seaking-pre,seaking|thwackey
+,0543,Luciano Traverso,CL,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0913,Luis López,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0827,MTConstanzo Claudio Constanzo Justo,CL,3,3,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1197,Manuel Rodrigo Ramos Sanchez,PE,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1160,Mario Merida,AR,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1004,María José Castillo Gajardo,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1493,Mathias Bais,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1186,Matias Moreno,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0379,Matias Peña,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1652,Matias Pizarro,CL,3,3,2,11,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+,1552,Matias Salcedo,CL,3,3,2,11,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+,0036,Matías Almarza,CL,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1072,Matías Castillo,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0792,Matías Madariaga,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0447,Mauro Oyarzún,CL,3,3,2,11,False,False,Crustle,crustle-dri,crustle
+,1495,Max Romero,CL,3,3,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1518,Miguel Angel Linares,PE,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1449,Miguel Tapia,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0258,Nelson Castillo,CL,3,3,2,11,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1295,Nelson Valdivia,CL,3,3,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0855,Nicolas Castro,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1043,Nicolas Castro,CL,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0653,Nicolas Valjalo,CL,3,3,2,11,False,False,N's Zoroark,n-zoroark,zoroark
+,1221,Nicolas Vicencio,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0657,Nikolas Diaz,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0270,Oscar Alarcon,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0709,Patricio Cortés,CL,3,3,2,11,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,0637,Patricio Meza,CL,3,3,2,11,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1497,Paul Hughes,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0824,Pedro Avelino,BR,3,3,2,11,False,False,Hop's Zacian,hop-zacian,zacian-crowned|snorlax
+,0946,RENATO JESÚS CASTRO PINO,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0245,Renata Eskiavetty,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1304,Renato Correa Tolmo,CL,3,3,2,11,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1361,Renato Flores,CL,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0828,Roberto Flores,CL,3,3,2,11,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0854,Roberto Pompeu Pumar Filho,BR,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0811,Rodrigo Benitt,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0023,Rodrigo Campos,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0233,Rodrigo Gutiérrez Guzmán,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0277,Rodrigo Lopez,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1517,Saidh Moreno,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0881,Sebastian Donoso,CL,2,1,5,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0424,Sebastian Frias Castellón,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0910,Sebastian Gallardo,CL,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0969,Sebastian Romero,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0997,Sebastian Sanhueza,CL,3,3,2,11,False,False,N's Zoroark,n-zoroark,zoroark
+,0630,Sebastian Soto,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1138,Sebastián Carroza,CL,3,3,2,11,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1563,Seth Morales,CL,3,3,2,11,False,False,N's Zoroark,n-zoroark,zoroark
+,0717,Simon Yaconi,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0237,Stefano Marín,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0830,Tomas Soto,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0955,Tomas Ulloa,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0017,Vicente Galaz,CL,2,1,5,11,False,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+,1041,ariel cotrupi,AR,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0815,eliecer jara,CL,3,3,2,11,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0249,javier flores,CL,3,3,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0440,joaquin gallardo,CL,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1164,joseph Lopez,CL,3,3,2,11,False,False,Other,other,substitute
+,0587,juan pablo rebolledo,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1411,luis pincheira,CL,3,3,2,11,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1316,matias larrondo,CL,3,3,2,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1297,matias prado,CL,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1069,rafael gonzalez ureta,CL,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1501,sergio pino zamora,CL,3,3,2,11,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1505,Adan Hermosilla,CL,2,2,4,10,False,False,Slowking,slowking-scr,slowking
+,0024,Adrián Marin,AR,2,2,4,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1569,Agustin Elias Ojeda Azócar,CL,3,4,1,10,False,False,Slaking,slaking-ex,slaking
+,0300,Alejandro Catalán,CL,2,2,4,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0941,Alejandro Rubio,CL,3,4,1,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0566,Alexander Chacon,CR,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0126,Alexander Villouta,CL,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+,0333,Alexis Rivera,CL,3,4,1,10,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1085,Alexis Vergara,CL,3,4,1,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1208,Allen Marambio,CL,2,2,4,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0976,Alonso Obreque,CL,3,4,1,10,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0663,Alvaro Guerrero,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0174,Amelia Pereira,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1068,Andres Rudolphy,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1126,Andres Terrisse,CL,3,3,1,10,False,False,unknown,?,
+,1581,Andrés Oyarce,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0186,Ariel Gonzalez,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1627,Ariel Reyes,CL,2,2,4,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0752,Arturo Henriquez,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0818,Axel Diaz Saez,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1486,Axel Muñoz,CL,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+,0104,Bastián Lisboa,CL,3,4,1,10,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1320,Bastián Urriola,CL,2,2,4,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0448,Benjamin Ghirardelli,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0727,Benjamin Muñoz,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1132,Benjamin Ortiz,CL,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+,1219,Benjamín Muñoz,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0419,Braulio Reyes,CL,3,4,1,10,False,False,Greninja,greninja-ex,greninja
+,0821,Bruno Firriolo,IT,3,4,1,10,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+,0783,Camila Carreño,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0983,Carlos Acuña,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0222,Carlos Castro,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0178,Carlos Eduardo Araújo Silva,BR,3,4,1,10,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0230,Carlos Medel,CL,2,2,4,10,False,False,Other,other,substitute
+,0670,Carlos Toledo,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1369,Carlos Valdés,CL,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0650,Catalina Soto,CL,2,2,4,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1174,Ceryx Fernandez,CL,3,4,1,10,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1604,Chris Javier Aguilar Arellano,CL,3,4,1,10,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0744,Christian Esteban Zencovich Ramirez,CL,2,2,4,10,False,False,Slowking,slowking-scr,slowking
+,0695,Claudio Diaz,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1584,Cristian Aravena,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0048,Cristian Gamboa,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0607,Cristian Miranda cruz,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1101,César González,CL,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0003,Daniel González,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1245,Demiam Gutierrez,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0487,Diego Catalán Saldias,CL,3,4,1,10,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1285,Diego Rabi,CL,2,2,4,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0131,Diego Rojas Jacob,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0612,Diego Salazar,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0150,Eduardo Garcia,CL,3,4,1,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0133,Eduardo Valenzuela,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0935,Edwards Astudillo,CL,2,2,4,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1259,Emerson Rojas,CL,3,4,1,10,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1642,Esteban Martínez,CL,2,2,4,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0391,Fabian Cerpa,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0565,Fabián Soto,CL,3,4,1,10,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,0508,Felipe Garrido,CL,2,2,4,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0239,Felipe Reyes,CL,3,4,1,10,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0426,Felipe Torrealba,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0687,Felipe Vidal,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1531,Fernando Chapoñan,PE,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0111,Francisca Ovando,CL,3,4,1,10,False,False,Festival Lead,festival-lead,dipplin|thwackey
+,0641,Francisco Bahamondes Seguel,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0957,Francisco Laymuns,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1053,Francisco Tobar,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0728,Francisco Toloza,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0624,Gian Agreda,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1042,Giovanni Martiniello,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0639,Gonzalo Neftaly Riquelme Isla,CL,3,4,1,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0951,Guillermo Linares,PE,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1666,Hanna Coutinho,BR,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1037,Hans Garling,CL,3,4,1,10,False,False,Iron Hands Magneton,iron-hands-magneton,iron-hands|magneton
+,1522,Hugo Ibarra Morales,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1302,Hugo Toro,CL,3,4,1,10,False,False,Slowking,slowking-scr,slowking
+,0714,Ibrahim Hamed,CL,3,4,1,10,False,False,Mega Lucario,mega-lucario-ex,lucario-mega
+,0906,Ignacio Garcia,CL,2,2,4,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1105,Isidoro Jaimovich Decotto,AR,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0122,Italo Constanzo,CL,3,4,1,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0674,Ivan Flores,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1102,Jaime ignacio Fierro angulo,CL,3,4,1,10,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,1413,Javier Ignacio Valencia Iriarte,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1309,Javier Ruy-Perez,CL,3,4,1,10,False,False,Milotic,milotic-ex,milotic
+,1036,Jayson Nuñez,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0489,Joaquin Benitt,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0349,Joaquin Padilla,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0460,Joaquin Saavedra,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1305,Joaquín Gatica,CL,3,4,1,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0808,Joel Jimenez,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1615,John Stalin Cortes Rojo,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0322,Jonathan dreau cordova,CL,3,4,1,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0527,Jorge Morán,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1644,Jorge Nehmer,CL,2,2,4,10,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0033,Jose Chaparro,CL,2,2,4,10,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1289,Jose Miguel Torres Medina,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0229,Jose Quezada,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1394,Jose sanchez,CL,2,2,4,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1148,José Gabriel Acevedo Leon,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1551,José Manuel Ramírez Campos,CL,3,4,1,10,False,False,Toxtricity Box,toxtricity-pfl,toxtricity|absol-mega
+,0694,José Quilodrán,CL,2,2,4,10,False,False,Sharpedo Toxtricity,sharpedo-toxtricity,sharpedo-mega|toxtricity
+,0583,José Rosales Barahona,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1511,Juan Bonilla,CO,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1412,Juan Cortez,CL,2,2,4,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1183,Juan Silva,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0079,Juan Vergara,CL,3,4,1,10,False,False,Gholdengo,gholdengo-ex,gholdengo
+,1350,Julian Poblete,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0132,Karl Jorge Stark,CL,3,4,1,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0041,Leticia Dias,BR,3,4,1,10,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0542,Luis Torres,CL,3,4,1,10,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0189,Mairon Iturra,CL,3,4,1,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0068,Marco Guerrero,CL,3,4,1,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0894,Marcos Manuel Aballay Valdenegro,CL,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+,0597,Martin Gatica,CL,2,2,4,10,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1558,María Isabel Gómez,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0473,Matias Fernandez Fernandez,CL,3,4,1,10,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0590,Matias Gamboa,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0363,Matias Riquelme,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0944,Matías Fernández,CL,2,2,4,10,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0915,Mauricio Pino,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0250,Mauricio Vergara,CL,3,4,1,10,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1223,Nicolas Atala,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0616,Nicolas Cortez,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0553,Nicolas Gomez,CL,3,4,1,10,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1017,Nicolas Gutierrez,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1553,Nicolás Ogalde,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0436,Nicolás Ortega Villanueva,CL,3,4,1,10,False,False,Roaring Moon,roaring-moon-ex,roaring-moon
+,1550,Oscar Robles Rivera,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0184,Pablo Andres Arancibia Bravo,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0754,Patricio Vasquez,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1012,Ricardo Müller,CL,3,4,1,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0362,Ricardo Parra,CL,2,2,4,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0449,Ricardo Sánchez,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0040,Rodrigo Concha,CL,3,4,1,10,False,False,Crustle,crustle-dri,crustle
+,0536,Rodrigo Nicolas Espinoza Saez,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0192,Rodrigo Pizarro,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0251,Rodrigo Reyes,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1272,Sebastian Barahona sanhueza,CL,2,2,4,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1046,Sebastian Barrios,CL,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+,0763,Sebastian Carmona,CL,3,4,1,10,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+,0878,Sebastian Gangas Garcia,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0947,Sebastian Sauerbaum,CL,3,4,1,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1346,Sebastian Zapata Aquino,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1070,Sidharta Olguin,CL,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0868,Simon Soto,CL,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+,1667,Simon Veliz,CL,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1330,Tomás Contreras,CL,2,2,4,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1406,Vicente Alejandro Gutierrez Guevara,CL,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0360,Vicente Galaz,CL,3,4,1,10,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,1215,Vicente Nieto,CL,3,4,1,10,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1116,Vicente Piñones,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1196,Victor Palma,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0377,Vincent Quiroz,CL,2,2,4,10,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0113,Víctor Muñoz Morales,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1059,Wolfgang Neuburg,CL,2,2,4,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0739,Yerko Benavides,CL,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+,0497,Zacarias Gibbs,CL,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1214,catalina vasquez,CL,3,4,1,10,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,0458,christofer guillermo,CL,3,4,1,10,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0495,felipe diaz,CL,3,4,1,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1613,israel urra cabello,CL,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1633,ivan Sepulveda,CL,3,4,1,10,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0793,juan pablo perez rivas,CL,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1280,rodrigo castro,CL,3,4,1,10,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0705,simon roman,CL,3,3,1,10,False,False,unknown,?,
+,1029,Adolfo ignacio Gonzalez saez,CL,2,3,3,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0619,Alejandro Martínez,CL,2,3,3,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1348,Alex Palma Samur,CL,2,3,3,9,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0718,Alfredo Medina,CL,3,4,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0434,Allan Sifri,CL,2,3,3,9,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,1243,Amaury Rojas,MX,2,3,3,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0223,Andrés Alfonso Eduardo Castillo Albanez,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1255,Andrés Meza Burgos,CL,2,3,3,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0351,Annie Camus Cabrera,CL,2,3,3,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1368,Ariel Farias,CL,2,3,3,9,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1264,Belen Ormeño Vallejos,CL,2,3,3,9,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1612,Benjamin Manquez,CL,2,3,3,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0214,Brian Bustos,CL,3,5,0,9,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0990,Camilo Luttecke,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0499,Camilo Ravanales,CL,3,5,0,9,False,False,Sharpedo Toxtricity,sharpedo-toxtricity,sharpedo-mega|toxtricity
+,1207,Claudio Aliste,CL,2,3,3,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0365,Claudio Lopez,CL,3,5,0,9,False,False,Greninja,greninja-ex,greninja
+,0221,Cristóbal González,CL,3,5,0,9,False,False,Joltik Box,joltik-box,joltik|pikachu
+,1578,Daniel Contreras,CL,3,5,0,9,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1119,Daniel Nuñez,CL,2,3,3,9,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,1556,Danilo Duarte,CL,3,4,0,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0226,David Riveros,CL,2,3,3,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0970,Diego Croxatto,CL,2,3,3,9,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0992,Diego Espinoza,CL,3,5,0,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1262,Diego Ferrá,CL,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0550,Diego Rebolledo Zelada,CL,2,2,3,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0917,Eduardo Astorga,CL,3,5,0,9,False,False,Toedscruel,toedscruel-ex,toedscruel|ogerpon
+,0446,Eduardo Ubilla,CL,3,4,0,9,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0457,Eduardo Vargas,CL,2,3,3,9,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0762,Edwin Oyarzo,CL,3,5,0,9,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,1150,Eugenio Quiroga,CL,3,5,0,9,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1075,Evan Montiel,CL,2,3,3,9,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0067,Fabian Latorre,CL,2,3,3,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0284,Fabio Cozzolino,BR,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1303,Fabián Robledo,AR,2,3,3,9,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0661,Fabián antonio Maureira araya,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0689,Felipe Abarzua,CL,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0780,Felipe Andres Arancibia Flores,CL,2,2,3,9,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0865,Felipe Fuente,CL,2,3,3,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0236,Felipe Gallegos,CL,2,3,3,9,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1628,Felipe Garín Ortiz,CL,1,1,6,9,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0737,Felipe Malermo,CL,2,3,3,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1564,Fernanda Diaz,CL,3,5,0,9,False,False,Hydrapple Ogerpon,hydrapple-ogerpon,hydrapple|ogerpon
+,1234,Francisco Bassi,CL,2,3,3,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0264,Francisco Cortes,CL,2,3,3,9,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0743,Franco Nicolás Marquez,AR,2,3,3,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0540,Gabriel Mira,CL,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0984,Gerardo Elgueta,CL,2,3,3,9,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0572,Giovanni Saavedra,CL,2,3,3,9,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,1622,Ignacio Sepulveda,CL,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0837,Igniz Rios,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1047,Ilian González,CL,3,4,0,9,False,False,Joltik Box,joltik-box,joltik|pikachu
+,0979,Ivan Espinoza,CL,2,2,3,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0700,Jaime Esteban Sánchez Herrera,CL,3,5,0,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0758,Javier Cordova Rojas,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1242,Javier Fontt,CL,3,5,0,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0671,Javier Henríquez,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1586,Javier Jimenez,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0290,Javier Rodríguez,CL,3,5,0,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0795,Javier Wan,PE,3,3,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0755,Jeremy Carvajal,CL,2,3,3,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0469,Jm Latrille,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1202,Jorge Lopez,CL,2,3,3,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0800,Jose Carrasco,CL,2,3,3,9,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0872,José Sánchez,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1323,Juan Andree,CL,3,4,0,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0465,Juan Ignacio Lacosta,AR,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0155,Lucas Gastón,CL,3,5,0,9,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0317,Lucas González,CL,3,5,0,9,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0474,Luis Alvarado Estay,CL,3,5,0,9,False,False,Sharpedo Toxtricity,sharpedo-toxtricity,sharpedo-mega|toxtricity
+,0562,Manuel Arroyo,CL,2,3,3,9,False,False,Cinderace,cinderace-ex,cinderace
+,0790,Manuel Gutierrez,CL,3,5,0,9,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1360,Marcelo Céspedes,CL,3,5,0,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0119,Marco Villegas,CL,3,5,0,9,False,False,Manectric Eelektrik,manectric-eelektrik,manectric-mega|eelektrik
+,0085,Mario Aguilera,CL,3,5,0,9,False,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+,1187,Martin Andres,CL,3,5,0,9,False,False,N's Zoroark,n-zoroark,zoroark
+,0528,Martin Arancibia,CL,3,5,0,9,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,0956,Matias Alarcon,CL,2,3,3,9,False,False,Sharpedo Toxtricity,sharpedo-toxtricity,sharpedo-mega|toxtricity
+,0505,Matias Chabouty,CL,3,5,0,9,False,False,N's Zoroark,n-zoroark,zoroark
+,1434,Matias Morales,CL,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0329,Matias Rubio,CL,3,5,0,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0899,Matias Zapata,CL,1,1,6,9,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1016,Matías Curihuinca Reyes,CL,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0323,Matías Cáceres Siel,CL,3,5,0,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0030,Mauricio Andres Contreras Zambrano,CL,2,3,3,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0004,Maximiliano Aspeé,CL,2,3,3,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0105,Maximo Segovia,CL,3,4,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1382,Nicol Araya,CL,2,3,3,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1300,Nicolas Kunakov,CL,2,3,3,9,False,False,Great Tusk Mill,great-tusk-tef,great-tusk
+,1605,Nicolas Piquerez,UY,2,3,3,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1032,Nicolas Vera,CL,2,3,3,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0660,Pablo Villegas,CL,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1065,Patricio Mendoza Valdes,CL,3,5,0,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1292,Patricio Recio,CL,2,3,3,9,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0348,Patrizzio Jaña Salazar,CL,3,5,0,9,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1247,Paulo Meninchetti,CL,3,4,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0876,Pedro Aravena pino,CL,3,4,0,9,False,False,Joltik Box,joltik-box,joltik|pikachu
+,0877,Ramón Arriagada,CL,3,4,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1147,Raul Torres,CL,2,3,3,9,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0343,Raul Villalobos,CL,2,3,3,9,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0923,Renato Cáceres,CL,3,5,0,9,False,False,Joltik Box,joltik-box,joltik|pikachu
+,0648,Renato Ormeno,CL,2,3,3,9,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1396,Rodrigo Gajardo,CL,2,3,3,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0064,Santiago Núñez,CL,2,3,3,9,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0668,Sebastian Fuentes,CL,2,3,3,9,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0136,Sebastian Gonzalez,CL,3,5,0,9,False,False,Ceruledge,ceruledge-ex,ceruledge
+,1212,Sergio Abdala,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1267,Tomás Miranda,CL,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1446,Ulises Sepúlveda,CL,2,3,3,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0719,Vicente Miralles,CL,2,2,3,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0153,Vicente Nicholls,CL,3,5,0,9,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0517,Vicente Oteíza,CL,3,5,0,9,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0140,Vinicius Augusto Gomes,BR,2,3,3,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0432,eduardo mella,CL,2,3,3,9,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0775,pascal donoso,CL,3,5,0,9,False,False,Other,other,substitute
+,1287,vicente mardones,CL,3,4,0,9,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0256,Alex Molina,CL,2,4,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1431,Andres olguin,CL,2,4,2,8,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0164,Andy Muñoz Vallejos,CL,1,2,5,8,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0199,Antonio Torres Gallardo,CL,2,4,2,8,False,False,N's Zoroark,n-zoroark,zoroark
+,1090,Aramis Gomez Arnaiz,AR,2,4,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0089,Augusto Ruiz,CL,2,3,2,8,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1606,Benjamin Droguett,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0152,Benjamin Garnitz,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0643,Benjamin Sandoval,CL,2,4,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0741,Bruno Watanabe,BR,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1471,Bryan Aravena,CL,2,4,2,8,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0161,Bryan Castro,CL,2,3,2,8,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1028,Camilo Avila,CL,1,2,5,8,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0216,Camilo Labrin,CL,2,4,2,8,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1576,Carlos Felipe Lopez Cid,CL,2,3,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0804,Carlos Figueroa,CL,2,4,2,8,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1332,Christian López Chávez,CL,2,4,2,8,False,False,Gholdengo,gholdengo-ex,gholdengo
+,1514,Christopher Gomez,CL,2,3,2,8,False,False,N's Zoroark,n-zoroark,zoroark
+,1583,Claudio Guzman,CL,2,3,2,8,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1206,Claudio Quezada,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0257,Cristian Morales,CL,2,4,2,8,False,False,N's Zoroark,n-zoroark,zoroark
+,1414,Cristian Perez,CL,2,4,2,8,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,1430,Cristobal Campos,CL,2,4,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0282,Daniela Ortega,CL,2,4,2,8,False,False,Manectric Eelektrik,manectric-eelektrik,manectric-mega|eelektrik
+,1141,Diego Mallea,CL,2,3,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0895,Diego Velozo Zamora,CL,2,4,2,8,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0013,Dominique Pinochet,CL,2,4,2,8,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0260,Esteban Fernández,CL,2,4,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0961,Esteban Salas,CL,2,4,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1038,Felipe Hernández,CL,2,4,2,8,False,False,N's Zoroark,n-zoroark,zoroark
+,0372,Fernando Poblete,CL,2,3,2,8,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0016,Francisco Briceño,CL,2,4,2,8,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+,0137,Francisco donoso,CL,2,4,2,8,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0231,Gabriel Silva,CL,2,4,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1284,Giovanni Olavarría,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0952,Hector Inzunza,CL,2,4,2,8,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1064,Ignacio Fica,CL,2,4,2,8,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0985,Jairo Correa,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0207,Javier Osses,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1106,Javiera Balbontín,CL,2,4,2,8,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1055,Joaquin Parada,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0193,Jonatán Espinoza,CL,2,3,2,8,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1378,Jorge Patricio Chacón,CL,2,3,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1044,Jose Espinoza,CL,2,4,2,8,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0459,José Pablo Ortiz,CL,2,4,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0002,José Paulo Lucchini,CL,2,3,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1060,Jécar Jiménez Williams,CL,2,4,2,8,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0857,Karen Ferrer,CL,2,4,2,8,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,1078,Luis Contreras,CL,2,4,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1130,Maida Le-Blanc,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0018,Marvin Varas,CL,1,2,5,8,False,False,Other,other,substitute
+,1401,Matias Andre Claros Juica,CL,2,4,2,8,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0326,Matias Vergara Zurita,CL,2,4,2,8,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0052,Max Kunz,CL,2,4,2,8,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0129,Miguel Utreras,CL,2,4,2,8,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,1225,Nicolas Pino Contreras,CL,2,4,2,8,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0414,Omar Sanchez,CL,2,4,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1509,Oscar Valenzuela,CL,2,4,2,8,False,False,Other,other,substitute
+,0298,Pablo Lizama,CL,2,4,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0388,Pablo Láscar Carvajal,CL,2,4,2,8,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1185,Patricio Maraboli,CL,2,4,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1359,Raul Garcia,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0453,Roberto Oliveira,BR,2,4,2,8,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+,0058,Rodrigo González,CL,1,2,5,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1609,Sebastian Salvatierra,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1468,Sebastián Correa,CL,2,4,2,8,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0427,Sebastián Urra,CL,2,4,2,8,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0280,Sebastían Armijo,CL,2,4,2,8,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1344,Sergio Milla,CL,2,4,2,8,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0234,Thomas Alonso Hughes Aranda,CL,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0632,Tomás Gómez,CL,2,4,2,8,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0502,Vicente Calderón,CL,2,4,2,8,False,False,N's Zoroark,n-zoroark,zoroark
+,0313,alonso opazo,CL,2,3,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0667,francisco pinasco,CL,2,3,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1317,gabriel arancibia,CL,2,4,2,8,False,False,Sharpedo Toxtricity,sharpedo-toxtricity,sharpedo-mega|toxtricity
+,1477,luis navarro,CL,2,3,2,8,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,1329,patricio Horta,CL,2,4,2,8,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0644,Aladino Araya,CL,2,4,1,7,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1322,Aldo Gutiérrez,CL,2,5,1,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0271,Alonso Bustos,CL,2,4,1,7,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1554,Alonso Rey,CL,2,5,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1620,Alvaro Molina,CL,2,5,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1319,Angel regular,CL,2,2,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0945,Angelo Tettamanti,CL,1,3,4,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1261,Angie Villa Cerda,CL,1,3,4,7,False,False,N's Zoroark,n-zoroark,zoroark
+,1629,Bastián Navarro Acevedo,CL,1,3,4,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1061,Bayron Quiroz Cortes,CL,2,5,1,7,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,1421,Beatriz Vitória Santos Alves,BR,2,5,1,7,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1067,Benjamín Hernandez,CL,2,5,1,7,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0521,Bryan Portilla,CL,2,5,1,7,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0701,Bryan Silva,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1635,Camilo Muñoz,CL,2,5,1,7,False,False,Okidogi,okidogi-twm,okidogi
+,0993,Carlos Flores González,CL,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0492,Carlos Povea,CL,2,5,1,7,False,False,Great Tusk Mill,great-tusk-tef,great-tusk
+,0158,Carlos Rodriguez,CL,2,5,1,7,False,False,Dragapult Blaziken,dragapult-blaziken,dragapult|blaziken
+,0965,Carolina Chiu,CL,2,5,1,7,False,False,Marnie's Grimmsnarl,marnie-grimmsnarl-ex,grimmsnarl
+,0106,Cristian Barra Fasciani,CL,2,5,1,7,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,0342,Cristian Cayupán,CL,2,4,1,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0522,Cristobal Marin,CL,2,4,1,7,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1204,Cristobal Rojas,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0451,Cristóbal Garrido,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0077,Daniel Rojas,CL,2,4,1,7,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0761,Daniel Rojas,CL,1,3,4,7,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0693,Daniel Vera,CL,2,5,1,7,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0244,Diego Alegria,CL,2,4,1,7,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0803,Diego Lobos Moraga,CL,1,3,4,7,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0165,Diego Puga,CL,2,5,1,7,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+,1263,Emanuel Matus,CL,2,4,1,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1200,Eric uriel Patlallan,AR,2,5,1,7,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0936,Ezequiel Jerez,AR,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1670,Felipe Cisternas,CL,2,5,1,7,False,False,Toxtricity Box,toxtricity-pfl,toxtricity|absol-mega
+,0438,Felipe Farías,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0102,Felipe Gibert,CL,2,5,1,7,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,0332,Felipe Ulloa,CL,2,5,1,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1660,Felipe Vargas,CL,2,5,1,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0334,Fernando Barrera,CL,2,5,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0555,Francisco Galleguillos,CL,2,5,1,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1114,Francisco Lizama,CL,2,5,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0712,Gabriel Rojas,CL,2,5,1,7,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,1158,Godofredo De Jesús Rojas Ramírez,CL,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0851,Gonzalo García,CL,2,5,1,7,False,False,Seaking Festival Lead,seaking-pre,seaking|thwackey
+,0039,Guillermo Gonzalez,CL,2,5,1,7,False,False,N's Zoroark,n-zoroark,zoroark
+,1492,Gustavo Silva,CL,2,5,1,7,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,1349,Humberto Pamparana,CL,2,4,1,7,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1452,Ignacio Correa,CL,1,3,4,7,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+,0320,Ignacio Oyarzún Alonzo,CL,2,5,1,7,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1166,Iván Pacheco,CL,1,3,4,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0635,Javier Faundes,CL,2,5,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0885,Javier Rodriguez,CL,2,4,1,7,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0595,Jerson Benitez Medina,CL,1,3,4,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1598,Joaquín Maureira,CL,1,3,4,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1457,Jonathan Paul Jacobs Luna,PE,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0697,Jonhatan Molina,CL,2,4,1,7,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0472,Jordan Porras,CL,1,3,4,7,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1334,Jose Concha,CL,1,3,4,7,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1448,Jose Inostroza,CL,2,4,1,7,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1336,Juan Manuel Herrera,CL,2,5,1,7,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0224,Juan Pablo Guevara,CL,2,5,1,7,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1393,Konstanza Tapia,CL,1,3,4,7,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0092,Lucas Vieira,BR,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0716,Luis Acevedo Donoso,CL,1,3,4,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1502,Luis Pastenes,CL,2,5,1,7,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,0673,Luis Villegas,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0729,MIGUEL VERDUGO,CL,1,3,4,7,False,False,Hydrapple,hydrapple-ex,hydrapple
+,1324,Maria Jose Guerra,CL,1,3,4,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0076,Martín Calderón,CL,2,4,1,7,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0925,María Fernanda Stevens Lagos,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1365,Matias Valenzuela,CL,1,3,4,7,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1180,Matías Moreno,CL,1,2,4,7,False,False,Toxtricity Box,toxtricity-pfl,toxtricity|absol-mega
+,1476,Mauricio Soto Pinto,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1281,Miguel Vargas,CL,2,5,1,7,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0467,Nadya Farías,CL,2,4,1,7,False,False,Manectric Eelektrik,manectric-eelektrik,manectric-mega|eelektrik
+,1358,Nico Urbina,CL,2,4,1,7,False,False,N's Zoroark,n-zoroark,zoroark
+,1665,Nicolas Arce,CL,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0966,Nicolas Correa,CL,2,5,1,7,False,False,N's Zoroark,n-zoroark,zoroark
+,0208,Nicolás Almendra,CL,1,2,4,7,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1600,Nicolás Fernández Argandoña,CL,2,5,1,7,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1140,Nicolás Mena,CL,2,4,1,7,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0181,Oscar Lobos,CL,2,4,1,7,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1249,Pablo Gonzales,PE,2,5,1,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1416,Pablo Lobos,CL,2,5,1,7,False,False,N's Zoroark,n-zoroark,zoroark
+,1520,Patricio Isbej,CL,2,5,1,7,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1567,Ricardo Alonzo,CL,2,5,1,7,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1139,Roberto Antonio Plaza Orellana,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1611,Rodrigo Aguila,CL,2,4,1,7,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0439,Rodrigo Chandía,CL,2,5,1,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0393,Sebastian Calderón,CL,2,5,1,7,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0659,Sebastian Oviedo,CL,2,4,1,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1313,Sebastian Zuñiga Navarrete,CL,2,4,1,7,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0863,Sebastián Andrés González Ceballos,CL,2,4,1,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1054,Sebastián Gajardo,CL,2,5,1,7,False,False,Pidgeot Control,pidgeot-control,pidgeot
+,1383,Sergio Navarro Flores,CL,2,5,1,7,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0922,Sergio Uribe,CL,2,5,1,7,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0552,Tomas Concha,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0103,Valentina Zuniga,CL,1,3,4,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1651,Vicente Gallardo,CL,2,5,1,7,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,1006,Vicente Rojas,CL,2,4,1,7,False,False,N's Zoroark,n-zoroark,zoroark
+,0723,Vladimir Cubillos,CL,1,3,4,7,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1649,Walter Jiménez Vallejos,CL,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1624,Winston Chiba,BR,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0099,Yoel Trujillo,CL,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0836,alejandro zapata,CL,2,4,1,7,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0919,freddy friz,CL,2,4,1,7,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0675,hector carrasco,CL,2,5,1,7,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0623,javier castillo,CL,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0524,javier maldonado,CL,2,4,1,7,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0307,yosselin cayupi,CL,2,4,1,7,False,False,Mega Lucario,mega-lucario-ex,lucario-mega
+,1425,Agustin Colombo,UY,2,3,0,6,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,1601,Alejandro García,CL,2,6,0,6,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,0477,Alex Maidana,AR,1,3,3,6,False,False,Greninja,greninja-ex,greninja
+,1161,Andres Cortes,CL,2,5,0,6,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1007,Andres Lostaunau,PE,2,4,0,6,False,False,Greninja,greninja-ex,greninja
+,0812,Andres Munoz,CL,2,5,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0066,Angel Hevia,CL,2,5,0,6,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,0850,Axel Armella,CL,2,3,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0028,Bastian Reyes,CL,1,3,3,6,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,1173,Bastián Maldonado,CL,2,5,0,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0530,Camilo Duran Pereira,CL,1,3,3,6,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0631,Camilo Rojas,CL,2,5,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0093,Carlos Cerda Aguilera,CL,1,4,3,6,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1117,Carlos Gonzalez,CL,2,6,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1176,Carlos Sanhueza,CL,2,6,0,6,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0094,Catalina Pinto,CL,1,4,3,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1251,Claudio Riveros,CL,2,4,0,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0948,Cristobal Ignacio Carmona Rodriguez,CL,2,5,0,6,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1525,Dafne Latorre,CL,1,4,3,6,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0166,Daniela Baeza,CL,2,5,0,6,False,False,Wugtrio Mill,wugtrio-svi,wugtrio
+,1669,David Rios,CL,1,4,3,6,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1521,Diego Mediano,CL,2,6,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1088,Emiliano Plaza,CL,2,6,0,6,False,False,Other,other,substitute
+,0599,Felipe Cortes,CL,1,3,3,6,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0567,Felipe Díaz,CL,2,5,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0810,Felipe Gómez,CL,2,5,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0248,Felipe Neira,CL,2,6,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0549,Felipe Rios,CL,2,4,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0370,Felipe Rivera,CL,1,4,3,6,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1343,Francisca Betancourt,CL,2,5,0,6,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0146,Francisco Castañón,CL,2,4,0,6,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1577,Francisco Peñaloza Gaete,CL,1,4,3,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0796,Gabriel Lorona,EC,2,5,0,6,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0999,Gerard Provost,CL,2,5,0,6,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0395,Gerson Nahuelcheo,CL,1,4,3,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1565,Hector Rodriguez,CL,1,4,3,6,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1458,Hernan Ponce,CL,2,5,0,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1123,ILIAN SAAVEDRA,CL,1,4,3,6,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0889,Ivan Velez,CL,2,5,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1076,JEAN PAUL ALEXANDER CHAUFLEUR NOVOA,CL,2,5,0,6,False,False,Ceruledge,ceruledge-ex,ceruledge
+,1659,Jaime Molina,CL,2,5,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0167,Jaime Muñoz,CL,2,5,0,6,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0577,Javier Doering,CL,2,5,0,6,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0383,Javier Pavez,CL,1,2,3,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0770,Javiera López,CL,1,3,3,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1283,Jeison Ramirez,CL,2,4,0,6,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0613,Jessica Pérez,CL,2,6,0,6,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,0124,Joaquin Campos,CL,1,4,3,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0038,Joaquín Salazar Nuñez,CL,1,4,3,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0669,Jonathan Rodriguez,CL,2,6,0,6,False,False,Milotic,milotic-ex,milotic
+,0933,Jorge Del Pino,CL,1,4,3,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0574,Jose Bastias,CL,2,5,0,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1257,Jose Hernandez,CL,2,5,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1238,Jose Ignacio Cifuentes Figueroa,CL,2,6,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0292,José Martinez,CL,2,6,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0482,Juan Soto,CL,1,2,3,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0227,Julian Acevedo,CL,1,4,3,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0953,Luccas Teves,BR,2,5,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1306,Luis Aguayo Leon,CL,2,4,0,6,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1647,Marcelo Salcedo Gutierrez,CL,1,4,3,6,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0412,Martin González Brito,CL,2,5,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0242,Mateo Rosadio,PE,2,5,0,6,False,False,Greninja,greninja-ex,greninja
+,1268,Matias Gonzalez Nilo,CL,2,6,0,6,False,False,Marnie's Grimmsnarl,marnie-grimmsnarl-ex,grimmsnarl
+,0509,Matias Marin,CL,2,4,0,6,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1335,Matias Palma,CL,2,4,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1205,Miguel Angel Orellana Delgado,CL,1,3,3,6,False,False,Ceruledge,ceruledge-ex,ceruledge
+,1182,Nicolas Gutierrez,CL,1,4,3,6,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0405,Nicolas Rojas,CL,2,5,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0289,Oriana Molina Sevilla,CL,1,3,3,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0751,Pascal Aros Oyarzún,CL,2,3,0,6,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0091,Ramon San Juan,CL,1,2,3,6,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1045,Raul Hernan Bustamante Jara,CL,2,6,0,6,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1539,Ricardo Mendez,CL,2,5,0,6,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0015,Roberto Reyes,CL,1,4,3,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0142,Sebastian Caceres,CL,2,4,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1419,Ulrrich Villagra,CL,2,4,0,6,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0588,Vicente Araya,CL,2,6,0,6,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1636,javier arenas,CL,2,4,0,6,False,False,Other,other,substitute
+,0417,mauricio vera,CL,2,6,0,6,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0579,Abel Yantorno,CL,1,5,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0513,Abril Castillo,CL,1,4,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1593,Adrian Octavio Bourbouze Isla,CL,1,5,2,5,False,False,Chien-Pao Baxcalibur,chien-pao-baxcalibur,chien-pao|baxcalibur
+,1128,Alan Carrero,CL,1,3,2,5,False,False,Mega Lopunny,mega-lopunny-ex,lopunny-mega
+,0806,Alfonso Pavez,CL,1,4,2,5,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0820,Alfredo Muñoz,CL,1,5,2,5,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0059,Andres Arredondo,CL,1,3,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1051,Andres Vidal,CL,1,3,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0696,Andres Villegas,CL,1,5,2,5,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0516,Ariela Larrañaga,CL,1,5,2,5,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0972,Bastián Lecaros,CL,1,5,2,5,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1640,Bryan Pefaur,CL,1,5,2,5,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0090,CRISTIAN Cortes Jara,CL,1,3,2,5,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0869,Celene Garay,CL,1,5,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0634,Claudio Luna,CL,1,4,2,5,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0471,Cristian Parancan Gutierrez,CL,1,4,2,5,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,0051,Cristóbal Fernández- Dávila,CL,1,3,2,5,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1427,Daniel Valderrama,CL,1,3,2,5,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0833,Daniel muñoz,CL,1,5,2,5,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0057,Diego Amar,CL,1,4,2,5,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0658,Diego Cassiraga,AR,1,2,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1095,Emerson Albornoz,CL,1,3,2,5,False,False,N's Zoroark,n-zoroark,zoroark
+,0676,Fabián Escribar,CL,1,4,2,5,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0911,Felipe Vicencio,CL,1,3,2,5,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0306,Gabriel Peñaloza,CL,1,4,2,5,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0809,Ignacio Ramos,CL,1,4,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0276,Ivan Mena,CL,1,5,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1549,Ivan Spollansky,CL,1,5,2,5,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,1252,Javier Casanova,CL,1,3,2,5,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1265,Jefferson Yovera,PE,1,5,2,5,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0116,Jorge Toledo,CL,1,3,2,5,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,0852,Jose Sepulveda,CL,1,5,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1429,José Rojas González,CL,1,5,2,5,False,False,N's Zoroark,n-zoroark,zoroark
+,0441,Luciano ceballos,CL,1,3,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1355,Luis Cruz,CL,1,5,2,5,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,0840,Luis Franco Inostroza,CL,1,4,2,5,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0366,Manuel Juarez,PE,1,5,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0188,Manuel Pérez,CL,1,5,2,5,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1415,Marjorie Troncoso Olivas,CL,1,5,2,5,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1432,Matheo Aedo,CL,1,4,2,5,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1384,Matias Miranda,CL,1,2,2,5,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,0394,Pablo Berrueta Palma,CL,1,3,2,5,False,False,Pidgeot Control,pidgeot-control,pidgeot
+,1472,Pablo Mardones,CL,1,1,2,5,False,False,N's Zoroark,n-zoroark,zoroark
+,0338,Pablo Paredes,CL,1,5,2,5,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0898,Paulo Maldonado,CL,1,3,2,5,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1023,Pedro Donoso,CL,1,5,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1464,Sergio Vásquez,CL,1,5,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0081,Steven Molina,CL,1,4,2,5,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0430,Tomás Lagos Riveros,CL,1,4,2,5,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0305,cristobal Pacheco,CL,1,4,2,5,False,False,Archaludon,archaludon-ex,archaludon
+,0138,diego Orellana,CL,1,4,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1388,eduardo Estrada,CL,1,3,2,5,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1439,Adolfo Riquelme,CL,1,6,1,4,False,False,Hydrapple Ogerpon,hydrapple-ogerpon,hydrapple|ogerpon
+,0501,Agustin Muñoz,CL,1,5,1,4,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0238,Alejandro Fuentes,CL,1,4,1,4,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0294,Alejandro Leiva,CL,1,4,1,4,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0802,Alejandro Soto,CL,1,5,1,4,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0144,Alfonso Fuentes,CL,1,5,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1333,Alvaro Gómez,CL,1,5,1,4,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+,1010,Amaro Bueno,CL,0,4,4,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0596,Bastian Vicuña,CL,1,4,1,4,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0797,Benjamin Pérez,CL,1,6,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1027,Carlos Arroyo,CL,1,5,1,4,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1039,Cristian Bustos,CL,1,4,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0672,Cristóbal González Morales,CL,1,4,1,4,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0967,Daniel Henríquez,CL,1,6,1,4,False,False,N's Zoroark,n-zoroark,zoroark
+,0291,Daniel Mattheos,CL,1,4,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1418,Diego Trujillo,CL,1,3,1,4,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1580,Felipe Pérez Tapia,CL,1,5,1,4,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0299,Felipe Rauld,PY,1,6,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1266,Fernando Henry,CL,1,4,1,4,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0529,Francisca Nuñez,CL,1,5,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0285,Franco Rivas,CL,1,6,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0789,Gaston Castillo Contador,CL,1,4,1,4,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,1162,Gerard Nuñez,CL,1,4,1,4,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0781,Ignacio Esteban,CL,1,5,1,4,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1443,Javier Lizama,CL,1,6,1,4,False,False,Conkeldurr,conkeldurr-twm,conkeldurr
+,1536,Jeremy Acuña,CL,1,6,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0575,Jorge Isla,CL,1,5,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1654,Jorge Vásquez Alemany,CL,1,4,1,4,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0934,João Vitor De Sá Medeiros Santos,BR,1,5,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0269,Juan Gutierrez,CL,1,4,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0347,Juan José Rojas Tapia,CL,1,6,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1151,Juan Ramirez,CL,1,3,1,4,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1239,Luis Yañez,CL,1,6,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0295,Manuel Chapa,CL,1,4,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1516,Mario Poblete,CL,0,3,4,4,False,False,Toxtricity Box,toxtricity-pfl,toxtricity|absol-mega
+,0610,Martin Muñoz,CL,1,4,1,4,False,False,Conkeldurr,conkeldurr-twm,conkeldurr
+,0373,Matías Candia,CL,1,6,1,4,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,1389,Mauricio Rojas,CL,1,5,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0683,Myna Obara,BR,1,6,1,4,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0145,Neil Smith,CL,1,4,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1547,Nolberto Acevedo Villarroel,CL,1,4,1,4,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0005,Oscar Moya Arriagada,CL,1,4,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1453,Pablo Arriagada,CL,1,5,1,4,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0861,Pablo Mella,CL,1,3,1,4,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,1168,Raimundo Barros,CL,1,4,1,4,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0397,Ricardo Gutierrez,CL,1,5,1,4,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,0267,Sandrino Paredes,CL,1,5,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0942,Sebastian Bustamante,CL,1,4,1,4,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0061,Sebastian Concha,CL,1,6,1,4,False,False,Seaking Festival Lead,seaking-pre,seaking|thwackey
+,1218,Sebastian Rodriguez,CL,1,4,1,4,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0884,Sebastian Vasquez,CL,1,4,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1062,Sebastien Ramirez,CL,1,6,1,4,False,False,N's Zoroark,n-zoroark,zoroark
+,0170,Simon Artus,CL,1,4,1,4,False,False,Other,other,substitute
+,1538,Sofia Navarro,CL,1,6,1,4,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0301,Vicente Serrano,CL,1,5,1,4,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1008,Virgilio Visentini,BR,1,4,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0978,Yerko Allendes Marín,CL,1,6,1,4,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0571,claudio oviedo,CL,1,3,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0514,nicolas fernandez,CL,1,5,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0986,nicolas hurtado,CL,1,4,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0209,Andrea avelina lovon pacha,CL,1,4,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0720,Andres Cordova,CL,1,4,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1293,Belén Romero,CL,1,5,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0713,Benjamin Ruiz-Tagle,CL,1,4,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1662,Berman Rivas,CL,1,4,0,3,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1237,Bettina Ibañez,CL,1,5,0,3,False,False,Gholdengo Dragapult,gholdengo-dragapult,gholdengo|dragapult
+,1390,Camilo Rivera,CL,1,4,0,3,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0749,Diego Millahual,CL,0,3,3,3,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1498,Esteban Garrido,CL,0,3,3,3,False,False,Toxtricity Box,toxtricity-pfl,toxtricity|absol-mega
+,1079,Fabián Herrera,CL,0,3,3,3,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0807,Felipe Arriagada,CL,1,5,0,3,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1405,Gabriel Aynaya,CL,1,7,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0593,Gabriel Guerra,CL,1,4,0,3,False,False,Sharpedo Toxtricity,sharpedo-toxtricity,sharpedo-mega|toxtricity
+,0581,Gontran Moreno,CL,1,4,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0832,Hernan Le Quesne,CL,1,3,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0255,Ignacio Barahona,CL,1,4,0,3,False,False,Festival Lead,festival-lead,dipplin|thwackey
+,1436,Javier Abdala,CL,1,5,0,3,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1572,Javier Rubí Miranda,CL,1,4,0,3,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0225,Jorge Contreras,CL,1,5,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0987,Jorge Fernandez,CL,0,4,3,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0470,Jorge Nicolás Henríquez Lemus,CL,0,3,3,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0433,Jose Luis Coronel Cortes,CL,1,4,0,3,False,False,Clefairy Ogerpon,clefairy-ogerpon,clefairy|ogerpon
+,0548,João Victor Godoi Bernardino,BR,1,4,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,1066,Kevin Martinez Leiva,CL,1,3,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1508,Luis Macaya,CL,1,5,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0319,Marcelo Fuentes,CL,1,3,0,3,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1096,Marcelo Pacaje,CL,1,4,0,3,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0324,Marcelo Roman,CL,1,5,0,3,False,False,N's Zoroark,n-zoroark,zoroark
+,0168,Marco Ramirez,CL,1,7,0,3,False,False,N's Zoroark,n-zoroark,zoroark
+,0493,Marianne Infantas,CL,1,6,0,3,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1402,Matias Gonzalez,CL,1,4,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0125,Miguel Ruiz Rubio,CL,1,4,0,3,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0539,Nelson Hernández,CL,1,4,0,3,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1587,Nicolas Ettlinger,CL,1,4,0,3,False,False,Joltik Box,joltik-box,joltik|pikachu
+,0928,Nicolas Zapata,CL,0,5,3,3,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1154,Oscar Mella,CL,1,4,0,3,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0265,Osvaldo Sobarzo,CL,1,5,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0982,Pablo Baez,CL,0,4,3,3,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,1441,Pablo Guzmán,CL,1,5,0,3,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1663,Rafael Cespedes,CL,1,5,0,3,False,False,Lopunny Dusknoir,lopunny-dusknoir,lopunny-mega|dusknoir
+,1353,Rodrigo Leiva,CL,1,5,0,3,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,1021,Rodrigo Riquelme,CL,0,2,3,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0403,Samuel Gonzalez,CL,1,3,0,3,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1115,Sebastian Cifuentes,CL,1,7,0,3,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0734,Sergio Vera,CL,1,4,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1328,Víctor Gavilán,CL,1,4,0,3,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1315,patricia coloma,CL,1,5,0,3,False,False,Crustle,crustle-dri,crustle
+,0580,Carlos Rencoret,CL,0,3,2,2,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0252,Daniela Sanhueza,CL,0,3,2,2,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0745,David Wolff,CL,0,4,2,2,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,1155,Francisco Pérez,CL,0,2,2,2,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0834,Franco Gana,CL,0,4,2,2,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0288,Ismael Valdes,CL,0,4,2,2,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0860,Jose Paz,CL,0,6,2,2,False,False,Gholdengo,gholdengo-ex,gholdengo
+,0483,José Pérez,CL,0,2,2,2,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0486,Levixy Anderson,CL,0,6,2,2,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1210,Luz Gallardo,CL,0,6,2,2,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,1626,Marco Dardis,AR,0,4,2,2,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0361,Matias Espinoza,CL,0,3,2,2,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1191,Roberto Canales,CL,0,4,2,2,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1337,Sebastian Arias,CL,0,2,2,2,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,1379,Sebastian Winter,CL,0,5,2,2,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0561,Sebastián Álvarez,CL,0,5,2,2,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1100,Tami Olivera,CL,0,3,2,2,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0240,Thanya Soto,CL,0,4,2,2,False,False,Iron Hands Magneton,iron-hands-magneton,iron-hands|magneton
+,0980,Tomas Abad,AR,0,3,2,2,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1022,Vicente Molina,CL,0,4,2,2,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1286,Victor Vasquez,CL,0,3,2,2,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0203,guillermo cabieses,CL,0,6,2,2,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,0901,hector faundez,CL,0,6,2,2,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0011,tianzi alvarez,CL,0,6,2,2,False,False,Charizard,charizard-ex,charizard
+,1470,Alexis Muñoz,CL,0,4,1,1,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1288,Allan Fiedler,CL,0,4,1,1,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0014,Camila Gonzalez,CL,0,6,1,1,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0001,Diego Esteban Latorre Quiñones,CL,0,5,1,1,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1506,Diego Leal Badilla,CL,0,4,1,1,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1184,Emmanuel Sarmiento,CL,0,3,1,1,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0060,Felipe Vasquez,CL,0,4,1,1,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+,0044,Hector Saldivia,CL,0,5,1,1,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0707,Jaime Perez,CL,0,4,1,1,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0148,Javier Sagredo,CL,0,4,1,1,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1310,Joaquín Arismendi,CL,0,5,1,1,False,False,Joltik Box,joltik-box,joltik|pikachu
+,0082,Loreto Valenzuela,CL,0,5,1,1,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,1111,Macarena Adasme,CL,0,5,1,1,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,1340,Mauricio Galaz Araya,CL,0,4,1,1,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0738,Moises Duran,CL,0,4,1,1,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1171,Nicolás Sánchez,CL,0,4,1,1,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0538,Ramón Espinoza,CL,0,4,1,1,False,False,N's Zoroark,n-zoroark,zoroark
+,0206,Sergio Orozco,CO,0,5,1,1,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0455,Abraham Urra,CL,0,4,0,0,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,1190,Benjamin Gutierrez,CL,0,4,0,0,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0932,Bianca Cristie,BR,0,4,0,0,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,1614,Carlos Uribe,CL,0,5,0,0,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0880,Claudio López,CL,0,4,0,0,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0618,Constanza Marquez,CL,0,2,0,0,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,1089,Cristian Tapia,CL,0,4,0,0,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+,1602,Crystel Perez Sanchez,MX,0,1,0,0,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0172,David Diaz,CL,0,5,0,0,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0766,Felipe Avalos,CL,0,1,0,0,False,False,Charizard,charizard-ex,charizard
+,1143,Felipe Poblete Gonzalez,CL,0,1,0,0,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0774,Gustavo Lutz,CL,0,3,0,0,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0930,Jassiel Terceros,BO,0,2,0,0,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0841,Jorge Recabal,CL,0,4,0,0,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0261,Juan Cortes,CL,0,5,0,0,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,0991,Juan Diego Chaparro Pinto,PE,0,1,0,0,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,1475,Leonardo De Avellaneda,CL,0,1,0,0,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+,1562,Martín Lira,CL,0,5,0,0,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0340,Matías Vivanco,CL,0,1,0,0,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0409,Natalia Vidal,CL,0,1,0,0,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0390,Nicolas Lopez,CL,0,1,0,0,False,False,Other,other,substitute
+,0594,Osvaldo Vivar,CL,0,2,0,0,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0688,Pedro José Moya Muñoz,CL,0,5,0,0,False,False,Sharpedo Toxtricity,sharpedo-toxtricity,sharpedo-mega|toxtricity
+,0074,Raul Alejandro Vidable,AR,0,5,0,0,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,1282,Ricardo Jara,CL,0,1,0,0,False,False,N's Zoroark,n-zoroark,zoroark
+,0735,Ricardo Uribe Garrido,CL,0,4,0,0,False,False,Other,other,substitute
+,0149,Sebastian Gonzalez,CL,0,1,0,0,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0315,Stephanie Sandoval,CL,0,4,0,0,False,False,Charizard Noctowl,charizard-noctowl,charizard|noctowl
+,0887,Videl pineda,CL,0,1,0,0,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone

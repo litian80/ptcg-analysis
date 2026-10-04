@@ -1,0 +1,54 @@
+set_id,code,name,series,release_date,total,regulation_marks
+swsh1,SSH,Sword & Shield,Sword & Shield,2020-02-07,216,D
+swsh2,RCL,Rebel Clash,Sword & Shield,2020-05-01,209,D
+swsh3,DAA,Darkness Ablaze,Sword & Shield,2020-08-14,201,D
+fut20,FUT20,Pokémon Futsal Collection,Other,2020-09-11,5,D
+swsh35,CPA,Champion's Path,Sword & Shield,2020-09-25,80,D
+swsh4,VIV,Vivid Voltage,Sword & Shield,2020-11-13,203,D
+mcd21,,McDonald's Collection 2021,Other,2021-02-09,25,D
+swsh45,SHF,Shining Fates,Sword & Shield,2021-02-19,73,DE
+swsh45sv,SHF,Shining Fates Shiny Vault,Sword & Shield,2021-02-19,122,D
+swsh5,BST,Battle Styles,Sword & Shield,2021-03-19,183,DE
+swsh6,CRE,Chilling Reign,Sword & Shield,2021-06-18,233,DE
+swsh7,EVS,Evolving Skies,Sword & Shield,2021-08-27,237,DE
+cel25,CEL,Celebrations,Sword & Shield,2021-10-08,25,DE
+cel25c,CEL,Celebrations: Classic Collection,Sword & Shield,2021-10-08,25,
+swsh8,FST,Fusion Strike,Sword & Shield,2021-11-12,284,DE
+swsh9,BRS,Brilliant Stars,Sword & Shield,2022-02-25,186,DEF
+swsh9tg,BRS,Brilliant Stars Trainer Gallery,Sword & Shield,2022-02-25,30,DE
+swsh10,ASR,Astral Radiance,Sword & Shield,2022-05-27,216,EF
+swsh10tg,ASR,Astral Radiance Trainer Gallery,Sword & Shield,2022-05-27,30,DEF
+pgo,PGO,Pokémon GO,Sword & Shield,2022-07-01,88,DF
+mcd22,,McDonald's Collection 2022,Other,2022-08-03,15,DE
+swsh11,LOR,Lost Origin,Sword & Shield,2022-09-09,217,F
+swsh11tg,LOR,Lost Origin Trainer Gallery,Sword & Shield,2022-09-09,30,DEF
+swsh12,SIT,Silver Tempest,Sword & Shield,2022-11-11,215,DF
+swsh12tg,SIT,Silver Tempest Trainer Gallery,Sword & Shield,2022-11-11,30,DEF
+svp,SVP,Scarlet & Violet Black Star Promos,Scarlet & Violet,2023-01-01,75,GH
+swsh12pt5,CRZ,Crown Zenith,Sword & Shield,2023-01-20,160,DEF
+swsh12pt5gg,CRZ,Crown Zenith Galarian Gallery,Sword & Shield,2023-01-20,70,EF
+sv1,SVI,Scarlet & Violet,Scarlet & Violet,2023-03-31,258,G
+sve,SVE,Scarlet & Violet Energies,Scarlet & Violet,2023-03-31,8,
+sv2,PAL,Paldea Evolved,Scarlet & Violet,2023-06-09,279,G
+sv3,OBF,Obsidian Flames,Scarlet & Violet,2023-08-11,230,G
+sv3pt5,MEW,151,Scarlet & Violet,2023-09-22,207,G
+sv4,PAR,Paradox Rift,Scarlet & Violet,2023-11-03,266,G
+sv4pt5,PAF,Paldean Fates,Scarlet & Violet,2024-01-26,245,G
+sv5,TEF,Temporal Forces,Scarlet & Violet,2024-03-22,218,H
+sv6,TWM,Twilight Masquerade,Scarlet & Violet,2024-05-24,226,H
+sv6pt5,SFA,Shrouded Fable,Scarlet & Violet,2024-08-02,99,GH
+sv7,SCR,Stellar Crown,Scarlet & Violet,2024-09-13,175,GH
+sv8,SSP,Surging Sparks,Scarlet & Violet,2024-11-08,252,H
+sv8pt5,PRE,Prismatic Evolutions,Scarlet & Violet,2025-01-17,180,GH
+sv9,JTG,Journey Together,Scarlet & Violet,2025-03-28,190,GHI
+sv10,DRI,Destined Rivals,Scarlet & Violet,2025-05-30,244,GHI
+rsv10pt5,WHT,White Flare,Scarlet & Violet,2025-07-18,173,I
+zsv10pt5,BLK,Black Bolt,Scarlet & Violet,2025-07-18,172,GHI
+me1,MEG,Mega Evolution,Mega Evolution,2025-09-26,188,HI
+me2,PFL,Phantasmal Flames,Mega Evolution,2025-11-14,130,HI
+me2pt5,ASC,Ascended Heroes,Mega Evolution,2026-01-30,295,HIJ
+me3,POR,Perfect Order,Mega Evolution,2026-03-27,124,IJ
+me4,CRI,Chaos Rising,Mega Evolution,2026-05-22,122,IJ
+me5,PBL,Pitch Black,Mega Evolution,2026-07-17,120,IJ
+me55,30C,30th Celebration,Mega Evolution,2026-09-16,161,IJ
+me55c,30C,30th Celebration: Classic Collection,Mega Evolution,2026-09-16,30,DEFG
