@@ -3,13 +3,14 @@
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 
-from .captions import Segment
+from .captions import Segment, text_between
 from .events import CaptionAnalysis
 from .frames import Frame
 from .timeutil import fmt_ts
-from .vision import WindowResult
+from .vision import WindowResult, pick_frames, windows_of
 
 
 def _link(url: str | None, t: float) -> str:
@@ -54,17 +55,21 @@ def write_outputs(
         lines += ["## Match report", "", summary.strip(), ""]
 
     if windows:
-        lines += ["## Board timeline (from frames)", "", "| Time | Game | P1 active / bench / prizes | P2 active / bench / prizes | What happened |", "|---|---|---|---|---|"]
+        lines += ["## Board timeline (from frames)", "", "| Time | Game | P1 active / bench / prizes left | P2 active / bench / prizes left | Stadium | What happened |", "|---|---|---|---|---|---|"]
         for w in windows:
             players = (w.data.get("players") or []) + [{}, {}]
 
             def side(p: dict) -> str:
                 bench = ", ".join(p.get("bench") or []) or "-"
-                return f"{p.get('active') or '?'} / {bench} / {p.get('prizes_remaining') if p.get('prizes_remaining') is not None else '?'}"
+                active = p.get("active") or "?"
+                if p.get("active_hp") is not None:
+                    active += f" ({p['active_hp']} HP)"
+                prizes = p.get("prizes_remaining")
+                return f"{active} / {bench} / {prizes if prizes is not None else '?'}"
 
             what = w.data.get("summary", "") if w.data.get("board_visible") else "_(no board on screen)_"
             lines.append(
-                f"| {_link(url, w.start)} | {w.data.get('game_number') or ''} | {side(players[0])} | {side(players[1])} | {what.replace('|', '/')} |"
+                f"| {_link(url, w.start)} | {w.data.get('game_number') or ''} | {side(players[0])} | {side(players[1])} | {w.data.get('stadium') or ''} | {what.replace('|', '/')} |"
             )
         lines.append("")
 
@@ -80,13 +85,86 @@ def write_outputs(
             lines.append(f"| {name} | {n} |")
         lines.append("")
 
-    key_events = [e for e in captions.events if e.kind in {"knockout", "prize", "game_start", "game_end", "turn"}]
-    if key_events:
+    # Only what happened: knockouts/prizes the casters called as done, game ends,
+    # and the "world champion" call that closed the final game (not intros).
+    final_end = captions.games[-1][1] if captions.games else None
+    key_events = [
+        e for e in captions.events
+        if e.definite and (e.kind in {"knockout", "prize", "game_end"} or (e.kind == "match_end" and e.t == final_end))
+    ]
+    hedged = len({(e.t, e.text) for e in captions.events if e.kind in {"knockout", "prize"} and not e.definite})
+    if key_events or hedged:
         lines += ["## Key moments from commentary", ""]
         for e in key_events[:200]:
             lines.append(f"- {_link(url, e.t)} **{e.kind}**: {e.text}")
+        if len(key_events) > 200:
+            lines.append(f"- _... {len(key_events) - 200} more in caption_events.json_")
+        if not key_events:
+            lines.append("_No knockout or prize was called as done in the commentary._")
+        if hedged:
+            lines.append(f"\n_{hedged} caption lines about knockouts/prizes were casters discussing a "
+                         "possibility; they are in caption_events.json with definite=false._")
         lines.append("")
 
     report = out_dir / "report.md"
     report.write_text("\n".join(lines), encoding="utf-8")
     return report
+
+
+PACK_INTRO = """Everything needed to read this match by eye, without an API key: for each \
+window, the frames where the board changed, what the casters said, and the card \
+names they mentioned. Open the frames in order. On Play! Pokémon streams the side \
+overlays carry the board: the LEFT panel is P1 and the RIGHT panel is P2, each with \
+player name, prizes taken, the Active Pokémon and its HP, the Bench, and the Stadium. \
+The middle camera shows what is being played. Commentary is auto-captioned, so card \
+names can be misspelled; trust the overlay over the captions."""
+
+
+def _game_at(games: list[tuple[float, float | None]], t: float) -> int | None:
+    for i, (a, b) in enumerate(games, 1):
+        if a <= t and (b is None or t <= b):
+            return i
+    return None
+
+
+def write_review_pack(
+    out_dir: Path,
+    meta: dict,
+    segments: list[Segment],
+    captions: CaptionAnalysis,
+    frames: list[Frame],
+    window: float = 60.0,
+    max_frames: int = 4,
+) -> Path:
+    """review_pack.md: per-window keyframes, commentary and cards, for reading by eye."""
+    url = meta.get("url")
+    lines = [f"# Review pack: {meta.get('title') or meta.get('video_id')}", ""]
+    if url:
+        lines.append(f"Source: {url}  ")
+    if meta.get("card_pool"):
+        lines.append(f"Card names matched against the {meta['card_pool']} Standard pool.  ")
+    if lines[-1]:
+        lines.append("")
+    lines += [PACK_INTRO, ""]
+    if captions.games:
+        lines += ["## Games from commentary", ""]
+        for i, (a, b) in enumerate(captions.games, 1):
+            lines.append(f"- Game {i}: {_link(url, a)} - {_link(url, b) if b is not None else 'end'}")
+        lines.append("")
+    for n, (t, w_end, in_window) in enumerate(windows_of(frames, window), 1):
+        game = _game_at(captions.games, t)
+        lines += [f"## Window {n}: {_link(url, t)} - {fmt_ts(w_end)}" + (f" (game {game})" if game else ""), ""]
+        for f in pick_frames(in_window, max_frames):
+            lines.append(f"- {fmt_ts(f.t)}: `{Path(os.path.relpath(f.path, out_dir)).as_posix()}`")
+        cards = captions.cards_between(t, w_end)
+        if cards:
+            lines.append(f"\nCards mentioned: {', '.join(cards)}")
+        calls = [e for e in captions.events if t <= e.t < w_end and e.kind != "card" and e.definite
+                 and e.kind in {"knockout", "prize", "game_end", "match_end"}]
+        for e in calls:
+            lines.append(f"\nCasters call **{e.kind}** at {fmt_ts(e.t)}: {e.text}")
+        lines.append(f"\nCommentary: {text_between(segments, t, w_end) or '(none)'}")
+        lines.append("")
+    pack = out_dir / "review_pack.md"
+    pack.write_text("\n".join(lines), encoding="utf-8")
+    return pack

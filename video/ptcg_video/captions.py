@@ -83,7 +83,7 @@ def parse_captions(text: str, offset: float = 0.0) -> list[Segment]:
 
 
 def load_captions(path: str | Path, offset: float = 0.0) -> list[Segment]:
-    return parse_captions(Path(path).read_text(encoding="utf-8", errors="replace"), offset)
+    return parse_captions(Path(path).read_text(encoding="utf-8-sig", errors="replace"), offset)
 
 
 def clip(segments: list[Segment], start: float | None, end: float | None) -> list[Segment]:

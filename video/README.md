@@ -5,9 +5,9 @@
 ## 它做什么
 
 1. **取素材**：用 yt-dlp 下载字幕（优先人工字幕，没有就用自动字幕）和视频（默认 ≤720p）。直播动辄几小时，可以用 `--start/--end` 或 `--chapter` 只下其中一局。也可以直接给本地视频文件和字幕文件。
-2. **读字幕**（不花钱，总会跑）：清理 YouTube 自动字幕的滚动重复，按时间戳找出解说提到的卡名（容忍自动字幕的拼写错误，比如 "charizard x" → Charizard ex，"garde voir" → Gardevoir）和关键动作（击倒、拿奖、进化、换位、认输、"that's game"），据此切分每一局。
-3. **抽帧**：每 N 秒抽一帧，用感知哈希只保留桌面有变化的关键帧，省掉大量重复画面。
-4. **Claude 看图**（需要 API key，可用 `--no-llm` 关闭）：每 60 秒一个窗口，把关键帧、同时段解说、提到的卡名和上一窗口的局面一起交给 Claude，返回结构化 JSON：双方前场、后备、剩余奖赏卡、这段发生了什么。
+2. **读字幕**（不花钱，总会跑）：清理 YouTube 自动字幕的滚动重复，按时间戳找出解说提到的卡名（容忍自动字幕的拼写错误，比如 "charizard x" → Charizard ex，"garde voir" → Gardevoir）和关键动作（击倒、拿奖、进化、换位、认输、"that's game"、"your new world champion"），据此切分每一局。解说经常在讨论"能不能 KO"，这类带假设语气的句子会标成 `definite=false`，不算作发生了的事件，也不会切断对局。
+3. **抽帧**：每 N 秒抽一帧，比较缩略图像素，只保留局面有变化的关键帧（压缩噪点不算变化）。官方直播（Play! Pokémon）两侧是每位选手的数据面板，中间是一直在动的手部镜头，用 `--hash-regions sides` 只看两侧面板，关键帧就是真正的局面变化。
+4. **Claude 看图**（需要 API key；不想用 API 就加 `--no-llm`，见下面"不用 API key"）：每 60 秒一个窗口，把关键帧、同时段解说、提到的卡名和上一窗口的局面一起交给 Claude，返回结构化 JSON：双方前场（含剩余 HP）、后备、剩余奖赏卡、场地卡、这段发生了什么。官方直播有数据面板时，Claude 直接读面板上的数字。
 5. **对局报告**：再用一次 Claude，把整条时间线写成中文复盘：双方卡组、每局走势和转折点、关键决策、对选卡和这个对局的启示。时间戳可点击跳回视频。
 
 ## 用法
@@ -19,16 +19,25 @@ python3 -m pip install -r requirements.txt   # 另需系统里有 ffmpeg
 # 看一个直播有哪些章节（通常一局一个章节）
 python3 -m ptcg_video chapters "https://www.youtube.com/watch?v=VIDEO_ID"
 
-# 分析其中一局
+# 分析其中一局（官方直播用 --hash-regions sides）
 export ANTHROPIC_API_KEY=...
 python3 -m ptcg_video analyze "https://www.youtube.com/watch?v=VIDEO_ID" \
-    --chapter 3 --cards ../path/to/card_names.json
+    --chapter 3 --hash-regions sides
 
 # 只用字幕、不下载视频、不调用 Claude（最快、免费）
-python3 -m ptcg_video analyze VIDEO_ID --captions-only --no-llm --cards cards.txt
+python3 -m ptcg_video analyze VIDEO_ID --captions-only --no-llm
 
 # 本地文件
 python3 -m ptcg_video analyze match.mp4 --captions match.en.vtt --start 12:00 --end 48:30
+```
+
+### 不用 API key
+
+加 `--no-llm` 时不调用 Claude API，但只要有视频，就会多写一个 `review_pack.md`：按窗口（`--window` 秒）列出关键帧图片路径（每窗口 `--frames-per-window` 张）、同时段解说、提到的卡名和解说明确喊出的击倒/拿奖。在 Claude Code（或 Claude 桌面版）里打开这个文件，让 Claude 按顺序看图写复盘，用的是订阅额度，不按 API 计费。看一局约 30 分钟的比赛，`--window 90 --frames-per-window 2` 大约 40 张图。
+
+```bash
+python3 -m ptcg_video analyze match.mp4 --captions match.en.vtt --start 0:21 --end 28:36 \
+    --hash-regions sides --no-llm --window 90 --frames-per-window 2
 ```
 
 输出在 `out/<视频 id>/`：
@@ -40,10 +49,19 @@ python3 -m ptcg_video analyze match.mp4 --captions match.en.vtt --start 12:00 --
 | `caption_events.json` | 字幕里的卡名和动作，带时间戳 |
 | `transcript.json` | 清理后的字幕 |
 | `frames/`、`frames.json` | 抽出的帧和哪些是关键帧 |
+| `review_pack.md` | `--no-llm` 时：给人或 Claude 会话逐窗口看图用的素材清单 |
 
 ## 卡名来源
 
-本目录不自带卡牌数据库。`--cards`（或环境变量 `PTCG_CARD_NAMES`）接受 `.txt`（一行一个）、`.json`（名字列表，或带 `name` 字段的对象列表，pokemontcg.io / TCGdex 格式都行）或 `.csv`（`name` 列）。仓库里的环境与卡池数据做好后，直接把它的卡表路径传进来即可。不给卡表时仍会识别动作和切分对局，只是没有卡名统计。
+本目录不自带卡牌数据库，卡名来自仓库的 `data/`（环境与卡池数据）：
+
+- 默认（`--cards auto`）：读 `data/formats/standard_rotations.json`，按视频上传日期找到当时的 Standard 环境，只用 `data/formats/<环境>/card_pool.csv` 里当时合法的卡名。这样旧卡（比如把 "Dragapult ex" 认成 "Dragapult V"）基本不会误配。
+- `--format 2026-27` 手动指定环境（比赛在换季前举办、换季后才上传时用）；`--live` 表示 TCG Live 视频，按 Live 的换季日期（比线下早两周左右）。
+- `--data-dir` 指定 `data/` 的位置（默认从当前目录往上找）。`data/` 在 main 分支上；如果当前分支没有，可以 `git worktree add ../ptcg-data origin/main` 后传 `--data-dir ../ptcg-data/data`。找不到或读不了时只跳过卡名识别，其余照常。
+- 环境变量 `PTCG_CARD_NAMES` 可以指定默认卡表文件；给了 `--format` 或 `--data-dir` 时以它们为准。
+- `--cards 文件` 也可以直接给卡表：`.txt`（一行一个）、`.json`（名字列表，或带 `name` 字段的对象列表）或 `.csv`（`name` 列）；`--cards none` 关闭卡名识别。
+
+judge、grant、switch 这类同时是普通英文单词的卡名，在有大小写的字幕里只有首字母大写时才算卡名。
 
 ## 费用控制
 
@@ -53,7 +71,8 @@ python3 -m ptcg_video analyze match.mp4 --captions match.en.vtt --start 12:00 --
 
 ## 已知限制
 
-- 画面识别依赖直播的画面布局；不同赛事的 overlay 不同，奖赏卡数和手牌数读不出来时会是 null。
+- 画面识别依赖直播的画面布局；`sides` 预设按 2026 Worlds 的布局（两侧各约 21% 宽）设定，别的布局可以用 `--hash-regions x,y,w,h;...`（画面比例）自己指定，`--change-threshold` 调灵敏度（区域里变化的像素比例，`full` 默认 0.05，`sides` 和自定义区域默认 0.005）。读不出来的数值会是 null。
+- 字幕里 KO/拿奖的"是否真的发生"是按语气判断的，会有漏判和误判；以 Claude 看画面得到的时间线为准。
 - 自动字幕对卡名错误较多，模糊匹配需要装 rapidfuzz。
 - 解说说"game"不一定是在说对局结束，字幕切分的对局边界是参考，Claude 的时间线会再核对。
 

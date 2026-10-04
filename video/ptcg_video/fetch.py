@@ -143,9 +143,17 @@ def from_local(video_path: str | Path | None, captions_path: str | Path | None, 
     cp = Path(captions_path) if captions_path else None
     if vp is None and cp is None:
         raise ValueError("need a video file, a captions file, or both")
-    stem = (vp or cp).name.split(".")[0]
-    info_path = (vp or cp).with_name(f"{stem}.info.json")
-    info = json.loads(info_path.read_text(encoding="utf-8")) if info_path.exists() else {}
+    first = vp or cp
+    # yt-dlp writes <id>.info.json next to <id>.mp4 and <id>.en.vtt; ids and
+    # titles may contain dots, so strip suffixes one at a time until it is found.
+    stems = _stems(first.name)
+    # Default id: the video's name, or the caption file's without ".en.vtt".
+    stem, info = (vp.stem if vp else stems[min(1, len(stems) - 1)] if stems else first.name), {}
+    for candidate in _stems(first.name):
+        info_path = first.with_name(f"{candidate}.info.json")
+        if info_path.exists():
+            stem, info = candidate, json.loads(info_path.read_text(encoding="utf-8"))
+            break
     return VideoSource(
         video_id=info.get("id", stem),
         title=info.get("title", stem),
@@ -159,6 +167,15 @@ def from_local(video_path: str | Path | None, captions_path: str | Path | None, 
         chapters=info.get("chapters") or [],
         description=info.get("description") or "",
     )
+
+
+def _stems(name: str) -> list[str]:
+    """'a.b.en.vtt' -> ['a.b.en', 'a.b', 'a']."""
+    out = []
+    while "." in name:
+        name = name.rsplit(".", 1)[0]
+        out.append(name)
+    return out
 
 
 def chapter_range(chapters: list[dict], selector: str) -> tuple[float, float]:

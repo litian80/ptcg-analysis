@@ -64,3 +64,54 @@ def test_game_split_ignores_deck_out_talk_and_recaps():
     )
     games = analyze_captions(segs, None).games
     assert games == [(20.0, 1716.0), (1849.0, None)]
+
+
+def test_common_word_names_need_capitals_in_cased_captions():
+    m = CardMatcher(["Judge", "Grant", "Iono", "Special Red Card", "Red"])
+    assert [n for n, *_ in m.find("the judge ruled on it", cased=True)] == []
+    assert [n for n, *_ in m.find("he plays Judge here", cased=True)] == ["Judge"]
+    assert [n for n, *_ in m.find("he plays judge here", cased=False)] == ["Judge"]
+    # Casters drop "Card"; the longest name wins over "Red".
+    assert [n for n, *_ in m.find("Special Red on the Alakazam", cased=True)] == ["Special Red Card"]
+
+
+def test_hedged_knockouts_are_not_definite():
+    from ptcg_video.lexicon import is_definite
+
+    assert not is_definite("knockout", "he needs 16 cards in hand to get a KO")
+    assert not is_definite("knockout", "that's not going to be a KO")
+    assert is_definite("knockout", "and that's the KO on Kadabra")
+    assert is_definite("knockout", "Alakazam, energy, Boss's Orders, KO")
+    assert is_definite("prize", "Diego takes two prizes, three away")
+    assert not is_definite("prize", "if he can take two prizes here")
+    assert is_definite("evolve", "if he can rare candy")  # only KO/prize/match end are filtered
+
+
+def test_match_end_closes_final_game():
+    from ptcg_video.captions import Segment
+
+    segs = [
+        Segment(10, 12, "welcome back, Andrew is your 2024 world champion"),
+        Segment(20, 22, "game one is underway"),
+        Segment(600, 602, "and that's game"),
+        Segment(700, 702, "game two, shuffle up"),
+        Segment(800, 802, "one prize away from being your world champion"),
+        Segment(1500, 1502, "Andrew Hedrick is your 2026 world champion"),
+        Segment(1600, 1602, "an interview with the champion"),
+    ]
+    result = analyze_captions(segs, None)
+    assert result.games == [(10, 600), (700, 1500)]
+    defs = {(e.t, e.kind): e.definite for e in result.events}
+    assert defs[(800, "match_end")] is False and defs[(1500, "match_end")] is True
+
+
+def test_hedged_game_end_does_not_split_games():
+    from ptcg_video.captions import Segment
+
+    segs = [
+        Segment(0, 2, "game one, shuffle up"),
+        Segment(300, 302, "if he hits this, that's game"),
+        Segment(900, 902, "and that's game one for Andrew"),
+        Segment(1000, 1002, "game two"),
+    ]
+    assert analyze_captions(segs, None).games == [(0, 900), (1000, None)]

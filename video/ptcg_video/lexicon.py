@@ -29,11 +29,14 @@ except ImportError:  # optional
     fuzz = process = None
 
 
-def normalize(text: str) -> str:
+def normalize(text: str, lower: bool = True) -> str:
+    """ASCII, lowercase, punctuation to spaces; "Boss's" -> "bosss", "that's" -> "thats"."""
+    text = text.replace("’", "'")
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
-    text = text.lower().replace("’", "'")
-    text = re.sub(r"'s\b", "s", text)
-    text = re.sub(r"[^a-z0-9]+", " ", text)
+    if lower:
+        text = text.lower()
+    text = re.sub(r"'[sS]\b", "s", text)
+    text = re.sub(r"[^A-Za-z0-9]+", " ", text)
     return text.strip()
 
 
@@ -44,18 +47,20 @@ def _variants(norm: str) -> set[str]:
         out |= {f"{stem} x", f"{stem} e x", f"{stem} eggs", stem + "ex"}
     if norm.endswith(" v"):
         out.add(norm[:-2] + " vee")
+    if norm.endswith(" card") and len(norm.split()) > 2:
+        out.add(norm[:-5])  # casters drop it: "Special Red" for Special Red Card
     return out
 
 
 def load_card_names(path: str | Path) -> list[str]:
     path = Path(path)
     if path.suffix == ".txt":
-        names = [l.strip() for l in path.read_text(encoding="utf-8").splitlines()]
+        names = [l.strip() for l in path.read_text(encoding="utf-8-sig").splitlines()]
     elif path.suffix == ".csv":
-        with path.open(newline="", encoding="utf-8") as f:
+        with path.open(newline="", encoding="utf-8-sig") as f:
             names = [row.get("name", "") for row in csv.DictReader(f)]
     elif path.suffix == ".json":
-        data = json.loads(path.read_text(encoding="utf-8"))
+        data = json.loads(path.read_text(encoding="utf-8-sig"))
         if isinstance(data, dict):
             data = data.get("cards") or data.get("data") or list(data.values())
         names = [d["name"] if isinstance(d, dict) else str(d) for d in data]
@@ -99,6 +104,8 @@ class CardMatcher:
         if cased is None:
             cased = text != text.lower()
         words = normalize(text).split()
+        original = normalize(text, lower=False).split()  # same tokens, case kept
+        initial = _sentence_initial(text, len(words))
         found = []
         i = 0
         while i < len(words):
@@ -110,15 +117,21 @@ class CardMatcher:
                 # ASR splits long names ("garde voir"); don't glue short words ("be a" -> Bea).
                 if not name and n > 1 and len(collapsed) >= 6:
                     name = self.index.get(collapsed)
-                if name and n == 1 and len(name) <= 4 and cased and not _capitalized_in(name, text):
-                    name = None  # "will" / "may" are words, "Will" / "May" are cards
+                # "will" / "judge" are words, "Will" / "Judge" are cards. A capital
+                # that only starts a sentence ("Will he find it?") doesn't count.
+                word_ok = not (n == 1 and cased and (not original[i][:1].isupper() or initial[i]))
+                if name and not word_ok and _word_like(name):
+                    continue
                 if name:
                     hit = (name, gram, 100.0, n)
                     break
                 if process and n <= 3 and len(gram) >= 7 and self._fuzzy_keys:
                     best = process.extractOne(gram, self._fuzzy_keys, scorer=fuzz.ratio)
                     if best and best[1] >= self.fuzzy_threshold:
-                        hit = (self.index[best[0]], gram, float(best[1]), n)
+                        target = self.index[best[0]]
+                        if not word_ok and _word_like(target):
+                            continue
+                        hit = (target, gram, float(best[1]), n)
                         break
             if hit:
                 found.append(hit[:3])
@@ -128,9 +141,27 @@ class CardMatcher:
         return found
 
 
-def _capitalized_in(name: str, text: str) -> bool:
-    """Short one-word names must keep their capital in cased captions."""
-    return re.search(rf"\b{re.escape(name)}\b", text) is not None
+# One-word card names that are also everyday English words. In captions that
+# use capitals, these (and any one-word name of 4 letters or fewer) only count
+# when capitalized: "Judge" the Supporter, not "the judge ruled".
+COMMON_WORD_NAMES = {
+    "blowtorch", "caretaker", "cook", "dawn", "firebreather", "grant", "hop",
+    "judge", "picnicker", "potion", "red", "repel", "ruffian", "surfer", "switch",
+    "waitress",
+}
+
+
+def _sentence_initial(text: str, count: int) -> list[bool]:
+    """For each normalized token of text: is it the first word of a sentence?"""
+    flags: list[bool] = []
+    for sentence in re.split(r"[.!?]+", text):
+        flags += [k == 0 for k in range(len(normalize(sentence).split()))]
+    return flags if len(flags) == count else [False] * count
+
+
+def _word_like(name: str) -> bool:
+    return " " not in name and (len(name) <= 4 or normalize(name) in COMMON_WORD_NAMES)
+
 
 
 # Game-action vocabulary for commentary. Each pattern is matched on normalized
@@ -145,10 +176,75 @@ ACTION_PATTERNS: dict[str, list[str]] = {
     "supporter": [r"\bsupporter\b", r"\bplays? (?:a |the )?[a-z]+ (?:orders|research|request)\b"],
     "turn": [r"\bturn (?:one|two|three|four|five|\d+)\b", r"\bgoing (?:first|second)\b", r"\bpasses? (?:the )?turn\b"],
     "game_start": [r"\bgame (?:one|two|three|1|2|3)\b", r"\bshuffle up\b", r"\bopening hand\b", r"\bmulligan\b"],
-    "game_end": [r"\b(?:that s|that is) game\b", r"\bwins? (?:game|the game|the set|the match)\b", r"\bconcede[sd]?\b", r"\bscoop(?:s|ed)?\b", r"\bextends? the hand\b", r"\bdecked out\b",
+    "game_end": [r"\b(?:thats|that is) game\b", r"\bwins? (?:game|the game|the set|the match)\b", r"\bconcede[sd]?\b", r"\bscoop(?:s|ed)?\b", r"\bextends? the hand\b", r"\bdecked out\b",
                  r"\btakes? game (?:number )?(?:one|two|three|\d)\b"],
+    # Ends the whole match. Also said in player intros ("your 2024 world
+    # champion"), so it only closes the final game; see events._game_spans.
+    "match_end": [r"\b(?:your|our|new) (?:\d{4} )?(?:\w+ ){0,5}champions?\b",
+                  r"\bis the (?:\d{4} )?(?:\w+ ){0,4}champions?\b",
+                  r"\bwins (?:the )?(?:whole thing|tournament|championship|world championship|worlds)\b"],
 }
 _COMPILED = {k: [re.compile(p) for p in v] for k, v in ACTION_PATTERNS.items()}
+
+
+# Casters spend more time on what could happen than on what did ("he needs 16
+# cards in hand to get the KO", "if he finds the Boss, that's game"). A
+# knockout / prize / game-end line counts as something that happened unless
+# it's a question, or the words *leading up to* the phrase in its sentence
+# hedge it. Only the lead is checked: a conditional comes before its
+# consequence, and what follows a real KO is often about the next turn
+# ("knocks out the Dusknoir, now he needs one more").
+_CONDITIONAL = (
+    r"if|unless|could|would|should|can|cannot|might|will|ll|\w+n t|not|no|need|needs|needed|must|"
+    r"has to|have to|gonna|whether|possible|possibly|potential|potentially|hoping|hope|worried|"
+    r"before|until|one more|only way"
+)
+_HEDGE = re.compile(
+    rf"\b(?:{_CONDITIONAL}|going to|want|wants|try|tries|trying|threat|threatens|threatening|"
+    r"set up|setting up|looking at|look for|avoid|avoids|chance|next turn)\b"
+)
+# Game ends are often announced a moment early ("Andrew is going to take game
+# number one"), so "going to" doesn't hedge them; conditionals do.
+_GAME_HEDGE = re.compile(rf"\b(?:{_CONDITIONAL})\b")
+_MATCH_HEDGE = re.compile(
+    rf"\b(?:{_CONDITIONAL}|going to|be|being|become|becoming|former|last year|defending|previous|"
+    r"winner of|whoever|wins this|away)\b"
+)
+_INFINITIVE = re.compile(r"\bto(?: \w+){0,2} ?$")  # "to KO", "to get the KO", "to take two prizes"
+_LEAD_HEDGES = {"knockout": _HEDGE, "prize": _HEDGE, "game_end": _GAME_HEDGE, "match_end": _MATCH_HEDGE}
+_SENTENCE = re.compile(r"[^.!?]+[.!?]*")
+_YEAR = re.compile(r"\b(?:19|20)\d{2}\b")
+
+
+def is_definite(kind: str, text: str, before: str = "", year: int | None = None) -> bool:
+    """False when a knockout / prize / game-end / match-end line is talk about a
+    possibility, not an event.
+
+    before: the caption text just before this line, when it is the same
+    sentence running on (auto-captions break sentences across lines).
+    year: the video's year; a "2024 world champion" in a 2026 video is an intro.
+    """
+    hedge = _LEAD_HEDGES.get(kind)
+    if hedge is None:
+        return True
+    for idx, sentence in enumerate(_SENTENCE.findall(text) or [text]):
+        norm = normalize(sentence)
+        m = next((m for p in _COMPILED[kind] if (m := p.search(norm))), None)
+        if m is None:
+            continue
+        if sentence.rstrip().endswith("?"):
+            return False
+        lead = norm[: m.start()]
+        if idx == 0 and before:
+            lead = f"{normalize(before)} {lead}"
+        if hedge.search(lead):
+            return False
+        if kind in ("knockout", "prize") and _INFINITIVE.search(lead.strip() + " "):
+            return False
+        if kind == "match_end" and year and any(int(y) != year for y in _YEAR.findall(m.group(0))):
+            return False
+        return True
+    return True
 
 
 def find_actions(text: str) -> list[tuple[str, str]]:

@@ -27,10 +27,11 @@ FALLBACK_BETA = "server-side-fallback-2026-07-01"
 _PLAYER = {
     "type": "object",
     "additionalProperties": False,
-    "required": ["name", "active", "bench", "prizes_remaining", "hand_size", "deck_guess"],
+    "required": ["name", "active", "active_hp", "bench", "prizes_remaining", "hand_size", "deck_guess"],
     "properties": {
         "name": {"type": ["string", "null"], "description": "Player name if shown on the overlay or said by casters"},
         "active": {"type": ["string", "null"], "description": "Active Pokemon card name"},
+        "active_hp": {"type": ["integer", "null"], "description": "Remaining HP of the Active Pokemon, if shown"},
         "bench": {"type": "array", "items": {"type": "string"}},
         "prizes_remaining": {"type": ["integer", "null"]},
         "hand_size": {"type": ["integer", "null"]},
@@ -41,14 +42,15 @@ _PLAYER = {
 WINDOW_SCHEMA = {
     "type": "object",
     "additionalProperties": False,
-    "required": ["board_visible", "game_number", "turn_player", "players", "actions", "summary"],
+    "required": ["board_visible", "game_number", "turn_player", "stadium", "players", "actions", "summary"],
     "properties": {
         "board_visible": {"type": "boolean", "description": "False for desk cam, ads, interviews, brackets"},
         "game_number": {"type": ["integer", "null"]},
+        "stadium": {"type": ["string", "null"], "description": "Stadium in play, if any"},
         "turn_player": {"type": ["string", "null"], "description": "'p1', 'p2' or null if unclear"},
         "players": {
             "type": "array",
-            "description": "Exactly two entries: p1 = bottom/left of the screen, p2 = top/right",
+            "description": "Exactly two entries: p1 = left overlay panel (or bottom of the table), p2 = right (or top)",
             "items": _PLAYER,
         },
         "actions": {
@@ -79,15 +81,27 @@ for the previous window.
 
 Report the board state at the END of the window and the plays that happened \
 during it. Conventions:
-- p1 is the player whose side of the table is at the bottom (or left) of the \
-screen; p2 is top (or right). Keep this assignment stable across windows.
+- When side overlays are shown, p1 is the player in the LEFT panel and p2 the \
+RIGHT panel. Without overlays, p1 is the side of the table at the bottom of the \
+screen and p2 the top. Keep this assignment stable across windows.
 - Use official English card names. Prefer names from the matched-cards hint when \
 the frame is ambiguous; never invent a card you cannot see or that is not said.
 - Prize count: read the prize cards or overlay; if unreadable, carry the previous \
 value forward unless a Knock Out clearly happened.
+- Official Play! Pokémon broadcasts draw each player's board as a digital overlay \
+down the side of the screen: player name, prizes taken, Active Pokémon with remaining \
+HP and attacks, Benched Pokémon with HP, the Stadium in play, and markers for the \
+Energy attachment, Supporter and retreat used this turn. When the overlay is there, \
+read the board from it rather than from the table camera, and convert prizes taken \
+to prizes_remaining = 6 - taken. The camera in the middle is useful for what is \
+being played right now (cards in hand, the card being resolved).
 - If the frames show no game board (desk, interview, ads, bracket), set \
 board_visible false, keep players from the previous state, and leave actions empty.
 - Use null for anything you cannot determine. Do not guess hand sizes."""
+
+
+# Board state passed from one window to the next.
+_CARRIED = ("game_number", "turn_player", "stadium", "players")
 
 
 @dataclass
@@ -112,9 +126,26 @@ def _image_block(path: Path) -> dict:
     return {"type": "image", "source": {"type": "base64", "media_type": "image/jpeg", "data": data}}
 
 
-def _pick(frames: list[Frame], n: int) -> list[Frame]:
+def windows_of(frames: list[Frame], window: float):
+    """Yield (start, end, keyframes) for each window that has keyframes in it."""
+    keyframes = [f for f in frames if f.keyframe] or frames
+    if not keyframes:
+        return
+    t, end = keyframes[0].t, keyframes[-1].t + 1e-6
+    while t < end:
+        w_end = t + window
+        in_window = [f for f in keyframes if t <= f.t < w_end]
+        if in_window:
+            yield t, w_end, in_window
+        t = w_end
+
+
+def pick_frames(frames: list[Frame], n: int) -> list[Frame]:
+    """n frames spread evenly over the window, always including the last one."""
     if len(frames) <= n:
         return frames
+    if n <= 1:
+        return frames[-1:]
     step = (len(frames) - 1) / (n - 1)
     return [frames[round(i * step)] for i in range(n)]
 
@@ -157,43 +188,38 @@ def analyze_windows(
 ) -> list[WindowResult]:
     """Run the per-window board-state extraction over the keyframes."""
     client = client or _client()
-    keyframes = [f for f in frames if f.keyframe] or frames
-    if not keyframes:
-        return []
     results: list[WindowResult] = []
     prev: dict | None = None
-    t, end = keyframes[0].t, keyframes[-1].t + 1e-6
     system = [{"type": "text", "text": SYSTEM, "cache_control": {"type": "ephemeral"}}]
-    while t < end:
-        w_end = t + window
-        in_window = [f for f in keyframes if t <= f.t < w_end]
-        if in_window:
-            chosen = _pick(in_window, max_frames)
-            content: list[dict] = [
-                {
-                    "type": "text",
-                    "text": (
-                        f"Window {fmt_ts(t)}-{fmt_ts(w_end)}.\n\n"
-                        f"Previous state: {json.dumps(prev) if prev else 'none (start of analysis)'}\n\n"
-                        f"Commentary: {text_between(segments, t, w_end) or '(none)'}\n\n"
-                        f"Cards mentioned: {', '.join(captions.cards_between(t - window, w_end)) or '(none)'}"
-                    ),
-                }
-            ]
-            for f in chosen:
-                content.append({"type": "text", "text": f"Frame at {fmt_ts(f.t)}:"})
-                content.append(_image_block(f.path))
-            raw = _call(client, model, effort, system, content, WINDOW_SCHEMA, max_tokens=8000)
-            data = json.loads(raw)
-            if not data.get("board_visible") and prev:
-                data["players"] = prev.get("players", data.get("players"))
-            results.append(WindowResult(t, w_end, [round(f.t, 2) for f in chosen], data))
-            prev = {k: data.get(k) for k in ("game_number", "turn_player", "players")}
-            if on_window:
-                on_window(results[-1])
-            if max_windows and len(results) >= max_windows:
-                break
-        t = w_end
+    for t, w_end, in_window in windows_of(frames, window):
+        chosen = pick_frames(in_window, max_frames)
+        content: list[dict] = [
+            {
+                "type": "text",
+                "text": (
+                    f"Window {fmt_ts(t)}-{fmt_ts(w_end)}.\n\n"
+                    f"Previous state: {json.dumps(prev) if prev else 'none (start of analysis)'}\n\n"
+                    f"Commentary: {text_between(segments, t, w_end) or '(none)'}\n\n"
+                    f"Cards mentioned: {', '.join(captions.cards_between(t - window, w_end)) or '(none)'}"
+                ),
+            }
+        ]
+        for f in chosen:
+            content.append({"type": "text", "text": f"Frame at {fmt_ts(f.t)}:"})
+            content.append(_image_block(f.path))
+        raw = _call(client, model, effort, system, content, WINDOW_SCHEMA, max_tokens=8000)
+        data = json.loads(raw)
+        if not data.get("board_visible") and prev:
+            # Desk cam or ads: the board did not change, so keep the last one.
+            for k in _CARRIED:
+                if prev.get(k) is not None:
+                    data[k] = prev[k]
+        results.append(WindowResult(t, w_end, [round(f.t, 2) for f in chosen], data))
+        prev = {k: data.get(k) for k in _CARRIED}
+        if on_window:
+            on_window(results[-1])
+        if max_windows and len(results) >= max_windows:
+            break
     return results
 
 
