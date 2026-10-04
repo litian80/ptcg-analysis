@@ -45,6 +45,9 @@ jobs:
             --seasons "${{ inputs.seasons || '2526,2627' }}" \
             --max "${{ inputs.max || '1000' }}"
 
+      - name: Deck selection numbers
+        run: python -m ptcg.selection
+
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"

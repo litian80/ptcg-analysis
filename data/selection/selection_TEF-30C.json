@@ -1,0 +1,8134 @@
+{
+ "field_window": "TEF-30C",
+ "matchup_windows": [
+  "TEF-30C",
+  "TEF-PBL"
+ ],
+ "events": [
+  {
+   "window": "TEF-30C",
+   "date": "2026-09-26",
+   "name": "Regional Brisbane",
+   "players": 817
+  },
+  {
+   "window": "TEF-30C",
+   "date": "2026-09-26",
+   "name": "Regional Frankfurt",
+   "players": 2793
+  },
+  {
+   "window": "TEF-PBL",
+   "date": "2026-08-28",
+   "name": "World Championships 2026",
+   "players": 797
+  },
+  {
+   "window": "TEF-PBL",
+   "date": "2026-09-19",
+   "name": "Regional Baltimore, MD",
+   "players": 3122
+  }
+ ],
+ "players": 3610,
+ "day2_players": 656,
+ "baseline": 0.476,
+ "day2_baseline": 0.478,
+ "mirror_rate": 0.479,
+ "note": "win_rate = match points per game with a tie worth 1/3 of a win; baseline is the average over all non-mirror games, so above baseline is better than average. shrunk adds 20 games at baseline to each matchup. expected_vs_field weights matchups by the latest window's share of all players, expected_vs_day2 by its share of day 2. day2_record counts only rounds in which both players had made day 2.",
+ "ranking": [
+  "alakazam-dusknoir",
+  "basic-box-m",
+  "dragapult-ex",
+  "slowking-scr",
+  "crustle-dri",
+  "lopunny-dusknoir",
+  "seaking-pre",
+  "n-zoroark",
+  "festival-lead",
+  "ogerpon-meganium-arboliva",
+  "dragapult-blaziken",
+  "dhelmise-pbl",
+  "ogerpon-meganium-hydrapple",
+  "dragapult-dudunsparce",
+  "dragapult-dusknoir",
+  "rockets-honchkrow",
+  "sharpedo-toxtricity",
+  "mega-lucario-ex",
+  "mega-excadrill-ex",
+  "cynthia-garchomp-ex",
+  "lopunny-dudunsparce",
+  "alakazam-dudunsparce",
+  "grimmsnarl-froslass",
+  "lucario-hariyama",
+  "raging-bolt-ogerpon",
+  "rocket-mewtwo-ex",
+  "ethan-typhlosion",
+  "mega-venusaur-ex",
+  "mega-greninja-ex"
+ ],
+ "archetypes": {
+  "dragapult-ex": {
+   "name": "Dragapult",
+   "players": 552,
+   "share": 0.1529,
+   "prev_share": 0.1878,
+   "day2_share": 0.1921,
+   "day2_conversion": 1.26,
+   "top_cut": 8,
+   "record": {
+    "wins": 3948,
+    "losses": 3342,
+    "ties": 1411,
+    "win_rate": 0.508,
+    "tie_rate": 0.162
+   },
+   "day2_record": {
+    "wins": 494,
+    "losses": 486,
+    "ties": 192,
+    "win_rate": 0.476
+   },
+   "expected_vs_field": 0.507,
+   "expected_vs_day2": 0.496,
+   "matchups": [
+    {
+     "vs": "n-zoroark",
+     "games": 754,
+     "wins": 285,
+     "losses": 337,
+     "ties": 132,
+     "win_rate": 0.436,
+     "shrunk": 0.437
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 721,
+     "wins": 373,
+     "losses": 267,
+     "ties": 81,
+     "win_rate": 0.555,
+     "shrunk": 0.553
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 732,
+     "wins": 277,
+     "losses": 351,
+     "ties": 104,
+     "win_rate": 0.426,
+     "shrunk": 0.427
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 637,
+     "wins": 216,
+     "losses": 302,
+     "ties": 119,
+     "win_rate": 0.401,
+     "shrunk": 0.404
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 643,
+     "wins": 348,
+     "losses": 173,
+     "ties": 122,
+     "win_rate": 0.604,
+     "shrunk": 0.601
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 508,
+     "wins": 202,
+     "losses": 211,
+     "ties": 95,
+     "win_rate": 0.46,
+     "shrunk": 0.461
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 630,
+     "wins": 289,
+     "losses": 231,
+     "ties": 110,
+     "win_rate": 0.517,
+     "shrunk": 0.516
+    },
+    {
+     "vs": "festival-lead",
+     "games": 360,
+     "wins": 202,
+     "losses": 109,
+     "ties": 49,
+     "win_rate": 0.606,
+     "shrunk": 0.6
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 336,
+     "wins": 126,
+     "losses": 156,
+     "ties": 54,
+     "win_rate": 0.429,
+     "shrunk": 0.431
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 302,
+     "wins": 174,
+     "losses": 80,
+     "ties": 48,
+     "win_rate": 0.629,
+     "shrunk": 0.62
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 440,
+     "wins": 91,
+     "losses": 278,
+     "ties": 71,
+     "win_rate": 0.261,
+     "shrunk": 0.27
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 178,
+     "wins": 86,
+     "losses": 57,
+     "ties": 35,
+     "win_rate": 0.549,
+     "shrunk": 0.541
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 237,
+     "wins": 132,
+     "losses": 76,
+     "ties": 29,
+     "win_rate": 0.598,
+     "shrunk": 0.588
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 194,
+     "wins": 97,
+     "losses": 45,
+     "ties": 52,
+     "win_rate": 0.589,
+     "shrunk": 0.579
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 119,
+     "wins": 37,
+     "losses": 59,
+     "ties": 23,
+     "win_rate": 0.375,
+     "shrunk": 0.39
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 153,
+     "wins": 63,
+     "losses": 65,
+     "ties": 25,
+     "win_rate": 0.466,
+     "shrunk": 0.467
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 115,
+     "wins": 64,
+     "losses": 33,
+     "ties": 18,
+     "win_rate": 0.609,
+     "shrunk": 0.589
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 120,
+     "wins": 51,
+     "losses": 41,
+     "ties": 28,
+     "win_rate": 0.503,
+     "shrunk": 0.499
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 121,
+     "wins": 68,
+     "losses": 36,
+     "ties": 17,
+     "win_rate": 0.609,
+     "shrunk": 0.59
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 73,
+     "wins": 41,
+     "losses": 19,
+     "ties": 13,
+     "win_rate": 0.621,
+     "shrunk": 0.59
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 56,
+     "wins": 38,
+     "losses": 10,
+     "ties": 8,
+     "win_rate": 0.726,
+     "shrunk": 0.66
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 127,
+     "wins": 62,
+     "losses": 46,
+     "ties": 19,
+     "win_rate": 0.538,
+     "shrunk": 0.53
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 113,
+     "wins": 53,
+     "losses": 48,
+     "ties": 12,
+     "win_rate": 0.504,
+     "shrunk": 0.5
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 65,
+     "wins": 33,
+     "losses": 23,
+     "ties": 9,
+     "win_rate": 0.554,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 61,
+     "wins": 30,
+     "losses": 18,
+     "ties": 13,
+     "win_rate": 0.563,
+     "shrunk": 0.541
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 66,
+     "wins": 42,
+     "losses": 14,
+     "ties": 10,
+     "win_rate": 0.687,
+     "shrunk": 0.638
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 59,
+     "wins": 30,
+     "losses": 24,
+     "ties": 5,
+     "win_rate": 0.537,
+     "shrunk": 0.521
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 43,
+     "wins": 26,
+     "losses": 8,
+     "ties": 9,
+     "win_rate": 0.674,
+     "shrunk": 0.611
+    }
+   ]
+  },
+  "n-zoroark": {
+   "name": "N's Zoroark",
+   "players": 242,
+   "share": 0.067,
+   "prev_share": 0.0773,
+   "day2_share": 0.0838,
+   "day2_conversion": 1.25,
+   "top_cut": 1,
+   "record": {
+    "wins": 1808,
+    "losses": 1684,
+    "ties": 631,
+    "win_rate": 0.49,
+    "tie_rate": 0.153
+   },
+   "day2_record": {
+    "wins": 266,
+    "losses": 226,
+    "ties": 73,
+    "win_rate": 0.514
+   },
+   "expected_vs_field": 0.49,
+   "expected_vs_day2": 0.482,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 754,
+     "wins": 337,
+     "losses": 285,
+     "ties": 132,
+     "win_rate": 0.505,
+     "shrunk": 0.505
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 310,
+     "wins": 146,
+     "losses": 101,
+     "ties": 63,
+     "win_rate": 0.539,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 341,
+     "wins": 159,
+     "losses": 159,
+     "ties": 23,
+     "win_rate": 0.489,
+     "shrunk": 0.488
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 317,
+     "wins": 148,
+     "losses": 117,
+     "ties": 52,
+     "win_rate": 0.522,
+     "shrunk": 0.519
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 244,
+     "wins": 111,
+     "losses": 86,
+     "ties": 47,
+     "win_rate": 0.519,
+     "shrunk": 0.516
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 211,
+     "wins": 66,
+     "losses": 112,
+     "ties": 33,
+     "win_rate": 0.365,
+     "shrunk": 0.375
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 231,
+     "wins": 126,
+     "losses": 65,
+     "ties": 40,
+     "win_rate": 0.603,
+     "shrunk": 0.593
+    },
+    {
+     "vs": "festival-lead",
+     "games": 174,
+     "wins": 29,
+     "losses": 129,
+     "ties": 16,
+     "win_rate": 0.197,
+     "shrunk": 0.226
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 144,
+     "wins": 109,
+     "losses": 17,
+     "ties": 18,
+     "win_rate": 0.799,
+     "shrunk": 0.759
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 125,
+     "wins": 35,
+     "losses": 78,
+     "ties": 12,
+     "win_rate": 0.312,
+     "shrunk": 0.335
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 173,
+     "wins": 45,
+     "losses": 100,
+     "ties": 28,
+     "win_rate": 0.314,
+     "shrunk": 0.331
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 71,
+     "wins": 41,
+     "losses": 11,
+     "ties": 19,
+     "win_rate": 0.667,
+     "shrunk": 0.625
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 94,
+     "wins": 29,
+     "losses": 54,
+     "ties": 11,
+     "win_rate": 0.348,
+     "shrunk": 0.37
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 86,
+     "wins": 28,
+     "losses": 40,
+     "ties": 18,
+     "win_rate": 0.395,
+     "shrunk": 0.411
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 68,
+     "wins": 44,
+     "losses": 16,
+     "ties": 8,
+     "win_rate": 0.686,
+     "shrunk": 0.638
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 56,
+     "wins": 22,
+     "losses": 26,
+     "ties": 8,
+     "win_rate": 0.44,
+     "shrunk": 0.45
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 52,
+     "wins": 11,
+     "losses": 36,
+     "ties": 5,
+     "win_rate": 0.244,
+     "shrunk": 0.308
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 42,
+     "wins": 9,
+     "losses": 27,
+     "ties": 6,
+     "win_rate": 0.262,
+     "shrunk": 0.331
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 54,
+     "wins": 33,
+     "losses": 13,
+     "ties": 8,
+     "win_rate": 0.66,
+     "shrunk": 0.611
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 40,
+     "wins": 9,
+     "losses": 27,
+     "ties": 4,
+     "win_rate": 0.258,
+     "shrunk": 0.331
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 26,
+     "wins": 13,
+     "losses": 6,
+     "ties": 7,
+     "win_rate": 0.59,
+     "shrunk": 0.54
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 49,
+     "wins": 29,
+     "losses": 15,
+     "ties": 5,
+     "win_rate": 0.626,
+     "shrunk": 0.582
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 45,
+     "wins": 20,
+     "losses": 19,
+     "ties": 6,
+     "win_rate": 0.489,
+     "shrunk": 0.485
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 21,
+     "wins": 4,
+     "losses": 11,
+     "ties": 6,
+     "win_rate": 0.286,
+     "shrunk": 0.378
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 20,
+     "wins": 7,
+     "losses": 9,
+     "ties": 4,
+     "win_rate": 0.417,
+     "shrunk": 0.446
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 13,
+     "wins": 2,
+     "losses": 8,
+     "ties": 3,
+     "win_rate": 0.231,
+     "shrunk": 0.379
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 15,
+     "wins": 7,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.511,
+     "shrunk": 0.491
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 26,
+     "wins": 11,
+     "losses": 10,
+     "ties": 5,
+     "win_rate": 0.487,
+     "shrunk": 0.482
+    }
+   ]
+  },
+  "dragapult-dusknoir": {
+   "name": "Dragapult Dusknoir",
+   "players": 221,
+   "share": 0.0612,
+   "prev_share": 0.0796,
+   "day2_share": 0.064,
+   "day2_conversion": 1.05,
+   "top_cut": 2,
+   "record": {
+    "wins": 1649,
+    "losses": 1731,
+    "ties": 495,
+    "win_rate": 0.468,
+    "tie_rate": 0.128
+   },
+   "day2_record": {
+    "wins": 189,
+    "losses": 221,
+    "ties": 49,
+    "win_rate": 0.447
+   },
+   "expected_vs_field": 0.47,
+   "expected_vs_day2": 0.464,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 721,
+     "wins": 267,
+     "losses": 373,
+     "ties": 81,
+     "win_rate": 0.408,
+     "shrunk": 0.41
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 310,
+     "wins": 101,
+     "losses": 146,
+     "ties": 63,
+     "win_rate": 0.394,
+     "shrunk": 0.399
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 263,
+     "wins": 100,
+     "losses": 127,
+     "ties": 36,
+     "win_rate": 0.426,
+     "shrunk": 0.429
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 239,
+     "wins": 88,
+     "losses": 118,
+     "ties": 33,
+     "win_rate": 0.414,
+     "shrunk": 0.419
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 253,
+     "wins": 121,
+     "losses": 92,
+     "ties": 40,
+     "win_rate": 0.531,
+     "shrunk": 0.527
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 208,
+     "wins": 91,
+     "losses": 96,
+     "ties": 21,
+     "win_rate": 0.471,
+     "shrunk": 0.472
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 248,
+     "wins": 98,
+     "losses": 116,
+     "ties": 34,
+     "win_rate": 0.441,
+     "shrunk": 0.443
+    },
+    {
+     "vs": "festival-lead",
+     "games": 147,
+     "wins": 97,
+     "losses": 41,
+     "ties": 9,
+     "win_rate": 0.68,
+     "shrunk": 0.656
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 127,
+     "wins": 42,
+     "losses": 69,
+     "ties": 16,
+     "win_rate": 0.373,
+     "shrunk": 0.387
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 115,
+     "wins": 69,
+     "losses": 36,
+     "ties": 10,
+     "win_rate": 0.629,
+     "shrunk": 0.606
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 164,
+     "wins": 62,
+     "losses": 66,
+     "ties": 36,
+     "win_rate": 0.451,
+     "shrunk": 0.454
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 65,
+     "wins": 33,
+     "losses": 25,
+     "ties": 7,
+     "win_rate": 0.544,
+     "shrunk": 0.528
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 79,
+     "wins": 34,
+     "losses": 43,
+     "ties": 2,
+     "win_rate": 0.439,
+     "shrunk": 0.446
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 73,
+     "wins": 37,
+     "losses": 26,
+     "ties": 10,
+     "win_rate": 0.553,
+     "shrunk": 0.536
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 50,
+     "wins": 12,
+     "losses": 34,
+     "ties": 4,
+     "win_rate": 0.267,
+     "shrunk": 0.326
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 64,
+     "wins": 32,
+     "losses": 23,
+     "ties": 9,
+     "win_rate": 0.547,
+     "shrunk": 0.53
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 46,
+     "wins": 19,
+     "losses": 18,
+     "ties": 9,
+     "win_rate": 0.478,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 41,
+     "wins": 20,
+     "losses": 18,
+     "ties": 3,
+     "win_rate": 0.512,
+     "shrunk": 0.5
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 47,
+     "wins": 19,
+     "losses": 21,
+     "ties": 7,
+     "win_rate": 0.454,
+     "shrunk": 0.46
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 42,
+     "wins": 24,
+     "losses": 14,
+     "ties": 4,
+     "win_rate": 0.603,
+     "shrunk": 0.562
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 29,
+     "wins": 18,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.644,
+     "shrunk": 0.575
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 46,
+     "wins": 25,
+     "losses": 21,
+     "ties": 0,
+     "win_rate": 0.543,
+     "shrunk": 0.523
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 55,
+     "wins": 26,
+     "losses": 28,
+     "ties": 1,
+     "win_rate": 0.479,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 32,
+     "wins": 23,
+     "losses": 9,
+     "ties": 0,
+     "win_rate": 0.719,
+     "shrunk": 0.625
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 28,
+     "wins": 12,
+     "losses": 12,
+     "ties": 4,
+     "win_rate": 0.476,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 20,
+     "wins": 14,
+     "losses": 3,
+     "ties": 3,
+     "win_rate": 0.75,
+     "shrunk": 0.613
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 22,
+     "wins": 7,
+     "losses": 12,
+     "ties": 3,
+     "win_rate": 0.364,
+     "shrunk": 0.417
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 24,
+     "wins": 11,
+     "losses": 9,
+     "ties": 4,
+     "win_rate": 0.514,
+     "shrunk": 0.497
+    }
+   ]
+  },
+  "basic-box-m": {
+   "name": "Basic Box",
+   "players": 220,
+   "share": 0.0609,
+   "prev_share": 0.06,
+   "day2_share": 0.0793,
+   "day2_conversion": 1.3,
+   "top_cut": 1,
+   "record": {
+    "wins": 1764,
+    "losses": 1510,
+    "ties": 428,
+    "win_rate": 0.515,
+    "tie_rate": 0.116
+   },
+   "day2_record": {
+    "wins": 282,
+    "losses": 253,
+    "ties": 62,
+    "win_rate": 0.507
+   },
+   "expected_vs_field": 0.51,
+   "expected_vs_day2": 0.505,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 732,
+     "wins": 351,
+     "losses": 277,
+     "ties": 104,
+     "win_rate": 0.527,
+     "shrunk": 0.526
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 341,
+     "wins": 159,
+     "losses": 159,
+     "ties": 23,
+     "win_rate": 0.489,
+     "shrunk": 0.488
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 263,
+     "wins": 127,
+     "losses": 100,
+     "ties": 36,
+     "win_rate": 0.529,
+     "shrunk": 0.525
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 254,
+     "wins": 120,
+     "losses": 103,
+     "ties": 31,
+     "win_rate": 0.513,
+     "shrunk": 0.51
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 259,
+     "wins": 99,
+     "losses": 130,
+     "ties": 30,
+     "win_rate": 0.421,
+     "shrunk": 0.425
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 190,
+     "wins": 97,
+     "losses": 76,
+     "ties": 17,
+     "win_rate": 0.54,
+     "shrunk": 0.534
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 222,
+     "wins": 105,
+     "losses": 82,
+     "ties": 35,
+     "win_rate": 0.526,
+     "shrunk": 0.521
+    },
+    {
+     "vs": "festival-lead",
+     "games": 130,
+     "wins": 58,
+     "losses": 56,
+     "ties": 16,
+     "win_rate": 0.487,
+     "shrunk": 0.486
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 114,
+     "wins": 64,
+     "losses": 27,
+     "ties": 23,
+     "win_rate": 0.629,
+     "shrunk": 0.606
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 110,
+     "wins": 33,
+     "losses": 66,
+     "ties": 11,
+     "win_rate": 0.333,
+     "shrunk": 0.355
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 147,
+     "wins": 56,
+     "losses": 71,
+     "ties": 20,
+     "win_rate": 0.426,
+     "shrunk": 0.432
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 58,
+     "wins": 30,
+     "losses": 24,
+     "ties": 4,
+     "win_rate": 0.54,
+     "shrunk": 0.524
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 74,
+     "wins": 52,
+     "losses": 20,
+     "ties": 2,
+     "win_rate": 0.712,
+     "shrunk": 0.662
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 76,
+     "wins": 27,
+     "losses": 45,
+     "ties": 4,
+     "win_rate": 0.373,
+     "shrunk": 0.394
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 57,
+     "wins": 36,
+     "losses": 19,
+     "ties": 2,
+     "win_rate": 0.643,
+     "shrunk": 0.6
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 53,
+     "wins": 36,
+     "losses": 14,
+     "ties": 3,
+     "win_rate": 0.698,
+     "shrunk": 0.637
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 37,
+     "wins": 18,
+     "losses": 19,
+     "ties": 0,
+     "win_rate": 0.486,
+     "shrunk": 0.483
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 47,
+     "wins": 35,
+     "losses": 9,
+     "ties": 3,
+     "win_rate": 0.766,
+     "shrunk": 0.679
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 42,
+     "wins": 21,
+     "losses": 13,
+     "ties": 8,
+     "win_rate": 0.563,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 36,
+     "wins": 25,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.713,
+     "shrunk": 0.628
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 20,
+     "wins": 12,
+     "losses": 7,
+     "ties": 1,
+     "win_rate": 0.617,
+     "shrunk": 0.546
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 41,
+     "wins": 20,
+     "losses": 18,
+     "ties": 3,
+     "win_rate": 0.512,
+     "shrunk": 0.5
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 41,
+     "wins": 11,
+     "losses": 29,
+     "ties": 1,
+     "win_rate": 0.276,
+     "shrunk": 0.342
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 25,
+     "wins": 9,
+     "losses": 12,
+     "ties": 4,
+     "win_rate": 0.413,
+     "shrunk": 0.441
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 17,
+     "wins": 6,
+     "losses": 8,
+     "ties": 3,
+     "win_rate": 0.412,
+     "shrunk": 0.446
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 13,
+     "wins": 7,
+     "losses": 5,
+     "ties": 1,
+     "win_rate": 0.564,
+     "shrunk": 0.511
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 14,
+     "wins": 7,
+     "losses": 2,
+     "ties": 5,
+     "win_rate": 0.619,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 18,
+     "wins": 7,
+     "losses": 11,
+     "ties": 0,
+     "win_rate": 0.389,
+     "shrunk": 0.435
+    }
+   ]
+  },
+  "slowking-scr": {
+   "name": "Slowking",
+   "players": 220,
+   "share": 0.0609,
+   "prev_share": 0.0559,
+   "day2_share": 0.0762,
+   "day2_conversion": 1.25,
+   "top_cut": 1,
+   "record": {
+    "wins": 1580,
+    "losses": 1410,
+    "ties": 476,
+    "win_rate": 0.502,
+    "tie_rate": 0.137
+   },
+   "day2_record": {
+    "wins": 227,
+    "losses": 225,
+    "ties": 66,
+    "win_rate": 0.481
+   },
+   "expected_vs_field": 0.5,
+   "expected_vs_day2": 0.496,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 637,
+     "wins": 302,
+     "losses": 216,
+     "ties": 119,
+     "win_rate": 0.536,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 317,
+     "wins": 117,
+     "losses": 148,
+     "ties": 52,
+     "win_rate": 0.424,
+     "shrunk": 0.427
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 239,
+     "wins": 118,
+     "losses": 88,
+     "ties": 33,
+     "win_rate": 0.54,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 254,
+     "wins": 103,
+     "losses": 120,
+     "ties": 31,
+     "win_rate": 0.446,
+     "shrunk": 0.448
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 228,
+     "wins": 57,
+     "losses": 148,
+     "ties": 23,
+     "win_rate": 0.284,
+     "shrunk": 0.299
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 173,
+     "wins": 105,
+     "losses": 51,
+     "ties": 17,
+     "win_rate": 0.64,
+     "shrunk": 0.623
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 208,
+     "wins": 90,
+     "losses": 89,
+     "ties": 29,
+     "win_rate": 0.479,
+     "shrunk": 0.479
+    },
+    {
+     "vs": "festival-lead",
+     "games": 128,
+     "wins": 57,
+     "losses": 54,
+     "ties": 17,
+     "win_rate": 0.49,
+     "shrunk": 0.488
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 114,
+     "wins": 29,
+     "losses": 65,
+     "ties": 20,
+     "win_rate": 0.313,
+     "shrunk": 0.337
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 92,
+     "wins": 33,
+     "losses": 43,
+     "ties": 16,
+     "win_rate": 0.417,
+     "shrunk": 0.427
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 129,
+     "wins": 82,
+     "losses": 30,
+     "ties": 17,
+     "win_rate": 0.68,
+     "shrunk": 0.652
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 60,
+     "wins": 21,
+     "losses": 32,
+     "ties": 7,
+     "win_rate": 0.389,
+     "shrunk": 0.411
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 72,
+     "wins": 56,
+     "losses": 13,
+     "ties": 3,
+     "win_rate": 0.792,
+     "shrunk": 0.723
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 67,
+     "wins": 40,
+     "losses": 17,
+     "ties": 10,
+     "win_rate": 0.647,
+     "shrunk": 0.607
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 63,
+     "wins": 33,
+     "losses": 26,
+     "ties": 4,
+     "win_rate": 0.545,
+     "shrunk": 0.528
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 46,
+     "wins": 23,
+     "losses": 22,
+     "ties": 1,
+     "win_rate": 0.507,
+     "shrunk": 0.498
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 40,
+     "wins": 31,
+     "losses": 9,
+     "ties": 0,
+     "win_rate": 0.775,
+     "shrunk": 0.675
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 44,
+     "wins": 28,
+     "losses": 12,
+     "ties": 4,
+     "win_rate": 0.667,
+     "shrunk": 0.607
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 41,
+     "wins": 18,
+     "losses": 17,
+     "ties": 6,
+     "win_rate": 0.488,
+     "shrunk": 0.484
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 37,
+     "wins": 20,
+     "losses": 12,
+     "ties": 5,
+     "win_rate": 0.586,
+     "shrunk": 0.547
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 21,
+     "wins": 13,
+     "losses": 7,
+     "ties": 1,
+     "win_rate": 0.635,
+     "shrunk": 0.557
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 48,
+     "wins": 23,
+     "losses": 20,
+     "ties": 5,
+     "win_rate": 0.514,
+     "shrunk": 0.503
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 34,
+     "wins": 10,
+     "losses": 24,
+     "ties": 0,
+     "win_rate": 0.294,
+     "shrunk": 0.361
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 26,
+     "wins": 5,
+     "losses": 13,
+     "ties": 8,
+     "win_rate": 0.295,
+     "shrunk": 0.374
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 21,
+     "wins": 6,
+     "losses": 12,
+     "ties": 3,
+     "win_rate": 0.333,
+     "shrunk": 0.403
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 18,
+     "wins": 7,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.426,
+     "shrunk": 0.452
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 24,
+     "wins": 12,
+     "losses": 12,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.489
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 20,
+     "wins": 5,
+     "losses": 9,
+     "ties": 6,
+     "win_rate": 0.35,
+     "shrunk": 0.413
+    }
+   ]
+  },
+  "alakazam-dudunsparce": {
+   "name": "Alakazam Dudunsparce",
+   "players": 209,
+   "share": 0.0579,
+   "prev_share": 0.0628,
+   "day2_share": 0.0381,
+   "day2_conversion": 0.66,
+   "top_cut": 0,
+   "record": {
+    "wins": 1289,
+    "losses": 1470,
+    "ties": 532,
+    "win_rate": 0.446,
+    "tie_rate": 0.162
+   },
+   "day2_record": {
+    "wins": 133,
+    "losses": 145,
+    "ties": 43,
+    "win_rate": 0.459
+   },
+   "expected_vs_field": 0.455,
+   "expected_vs_day2": 0.446,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 643,
+     "wins": 173,
+     "losses": 348,
+     "ties": 122,
+     "win_rate": 0.332,
+     "shrunk": 0.337
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 244,
+     "wins": 86,
+     "losses": 111,
+     "ties": 47,
+     "win_rate": 0.417,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 253,
+     "wins": 92,
+     "losses": 121,
+     "ties": 40,
+     "win_rate": 0.416,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 259,
+     "wins": 130,
+     "losses": 99,
+     "ties": 30,
+     "win_rate": 0.541,
+     "shrunk": 0.536
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 228,
+     "wins": 148,
+     "losses": 57,
+     "ties": 23,
+     "win_rate": 0.683,
+     "shrunk": 0.666
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 178,
+     "wins": 116,
+     "losses": 32,
+     "ties": 30,
+     "win_rate": 0.708,
+     "shrunk": 0.684
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 204,
+     "wins": 61,
+     "losses": 101,
+     "ties": 42,
+     "win_rate": 0.368,
+     "shrunk": 0.377
+    },
+    {
+     "vs": "festival-lead",
+     "games": 108,
+     "wins": 43,
+     "losses": 45,
+     "ties": 20,
+     "win_rate": 0.46,
+     "shrunk": 0.462
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 103,
+     "wins": 21,
+     "losses": 66,
+     "ties": 16,
+     "win_rate": 0.256,
+     "shrunk": 0.291
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 77,
+     "wins": 42,
+     "losses": 25,
+     "ties": 10,
+     "win_rate": 0.589,
+     "shrunk": 0.565
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 121,
+     "wins": 31,
+     "losses": 74,
+     "ties": 16,
+     "win_rate": 0.3,
+     "shrunk": 0.325
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 42,
+     "wins": 10,
+     "losses": 25,
+     "ties": 7,
+     "win_rate": 0.294,
+     "shrunk": 0.352
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 75,
+     "wins": 24,
+     "losses": 38,
+     "ties": 13,
+     "win_rate": 0.378,
+     "shrunk": 0.398
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 61,
+     "wins": 13,
+     "losses": 42,
+     "ties": 6,
+     "win_rate": 0.246,
+     "shrunk": 0.303
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 44,
+     "wins": 14,
+     "losses": 25,
+     "ties": 5,
+     "win_rate": 0.356,
+     "shrunk": 0.393
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 45,
+     "wins": 7,
+     "losses": 32,
+     "ties": 6,
+     "win_rate": 0.2,
+     "shrunk": 0.285
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 42,
+     "wins": 10,
+     "losses": 24,
+     "ties": 8,
+     "win_rate": 0.302,
+     "shrunk": 0.358
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 42,
+     "wins": 11,
+     "losses": 20,
+     "ties": 11,
+     "win_rate": 0.349,
+     "shrunk": 0.39
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 36,
+     "wins": 18,
+     "losses": 17,
+     "ties": 1,
+     "win_rate": 0.509,
+     "shrunk": 0.497
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 28,
+     "wins": 4,
+     "losses": 19,
+     "ties": 5,
+     "win_rate": 0.202,
+     "shrunk": 0.316
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 34,
+     "wins": 15,
+     "losses": 12,
+     "ties": 7,
+     "win_rate": 0.51,
+     "shrunk": 0.497
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 40,
+     "wins": 28,
+     "losses": 7,
+     "ties": 5,
+     "win_rate": 0.742,
+     "shrunk": 0.653
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 32,
+     "wins": 6,
+     "losses": 19,
+     "ties": 7,
+     "win_rate": 0.26,
+     "shrunk": 0.343
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 22,
+     "wins": 3,
+     "losses": 12,
+     "ties": 7,
+     "win_rate": 0.242,
+     "shrunk": 0.354
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 14,
+     "wins": 7,
+     "losses": 6,
+     "ties": 1,
+     "win_rate": 0.524,
+     "shrunk": 0.496
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 11,
+     "wins": 7,
+     "losses": 1,
+     "ties": 3,
+     "win_rate": 0.727,
+     "shrunk": 0.565
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 11,
+     "wins": 6,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.576,
+     "shrunk": 0.511
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 26,
+     "wins": 17,
+     "losses": 4,
+     "ties": 5,
+     "win_rate": 0.718,
+     "shrunk": 0.613
+    }
+   ]
+  },
+  "mega-excadrill-ex": {
+   "name": "Mega Excadrill",
+   "players": 186,
+   "share": 0.0515,
+   "prev_share": 0.0475,
+   "day2_share": 0.0366,
+   "day2_conversion": 0.71,
+   "top_cut": 1,
+   "record": {
+    "wins": 1085,
+    "losses": 1237,
+    "ties": 381,
+    "win_rate": 0.448,
+    "tie_rate": 0.141
+   },
+   "day2_record": {
+    "wins": 114,
+    "losses": 118,
+    "ties": 31,
+    "win_rate": 0.473
+   },
+   "expected_vs_field": 0.454,
+   "expected_vs_day2": 0.453,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 508,
+     "wins": 211,
+     "losses": 202,
+     "ties": 95,
+     "win_rate": 0.478,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 211,
+     "wins": 112,
+     "losses": 66,
+     "ties": 33,
+     "win_rate": 0.583,
+     "shrunk": 0.574
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 208,
+     "wins": 96,
+     "losses": 91,
+     "ties": 21,
+     "win_rate": 0.495,
+     "shrunk": 0.493
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 190,
+     "wins": 76,
+     "losses": 97,
+     "ties": 17,
+     "win_rate": 0.43,
+     "shrunk": 0.434
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 173,
+     "wins": 51,
+     "losses": 105,
+     "ties": 17,
+     "win_rate": 0.328,
+     "shrunk": 0.343
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 178,
+     "wins": 32,
+     "losses": 116,
+     "ties": 30,
+     "win_rate": 0.236,
+     "shrunk": 0.26
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 131,
+     "wins": 21,
+     "losses": 88,
+     "ties": 22,
+     "win_rate": 0.216,
+     "shrunk": 0.251
+    },
+    {
+     "vs": "festival-lead",
+     "games": 96,
+     "wins": 51,
+     "losses": 26,
+     "ties": 19,
+     "win_rate": 0.597,
+     "shrunk": 0.576
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 100,
+     "wins": 48,
+     "losses": 38,
+     "ties": 14,
+     "win_rate": 0.527,
+     "shrunk": 0.518
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 73,
+     "wins": 22,
+     "losses": 38,
+     "ties": 13,
+     "win_rate": 0.361,
+     "shrunk": 0.385
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 108,
+     "wins": 78,
+     "losses": 16,
+     "ties": 14,
+     "win_rate": 0.765,
+     "shrunk": 0.72
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 44,
+     "wins": 24,
+     "losses": 15,
+     "ties": 5,
+     "win_rate": 0.583,
+     "shrunk": 0.55
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 57,
+     "wins": 16,
+     "losses": 32,
+     "ties": 9,
+     "win_rate": 0.333,
+     "shrunk": 0.37
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 57,
+     "wins": 7,
+     "losses": 36,
+     "ties": 14,
+     "win_rate": 0.205,
+     "shrunk": 0.275
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 29,
+     "wins": 11,
+     "losses": 17,
+     "ties": 1,
+     "win_rate": 0.391,
+     "shrunk": 0.426
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 36,
+     "wins": 23,
+     "losses": 11,
+     "ties": 2,
+     "win_rate": 0.657,
+     "shrunk": 0.593
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 44,
+     "wins": 11,
+     "losses": 30,
+     "ties": 3,
+     "win_rate": 0.273,
+     "shrunk": 0.336
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 35,
+     "wins": 10,
+     "losses": 18,
+     "ties": 7,
+     "win_rate": 0.352,
+     "shrunk": 0.397
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 39,
+     "wins": 22,
+     "losses": 6,
+     "ties": 11,
+     "win_rate": 0.658,
+     "shrunk": 0.596
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 27,
+     "wins": 19,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.728,
+     "shrunk": 0.621
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 14,
+     "wins": 3,
+     "losses": 8,
+     "ties": 3,
+     "win_rate": 0.286,
+     "shrunk": 0.398
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 38,
+     "wins": 21,
+     "losses": 17,
+     "ties": 0,
+     "win_rate": 0.553,
+     "shrunk": 0.526
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 34,
+     "wins": 4,
+     "losses": 30,
+     "ties": 0,
+     "win_rate": 0.118,
+     "shrunk": 0.25
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 12,
+     "wins": 4,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.389,
+     "shrunk": 0.443
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 16,
+     "wins": 7,
+     "losses": 7,
+     "ties": 2,
+     "win_rate": 0.479,
+     "shrunk": 0.477
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 13,
+     "wins": 1,
+     "losses": 12,
+     "ties": 0,
+     "win_rate": 0.077,
+     "shrunk": 0.319
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 12,
+     "wins": 6,
+     "losses": 5,
+     "ties": 1,
+     "win_rate": 0.528,
+     "shrunk": 0.495
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 14,
+     "wins": 5,
+     "losses": 4,
+     "ties": 5,
+     "win_rate": 0.476,
+     "shrunk": 0.476
+    }
+   ]
+  },
+  "dragapult-blaziken": {
+   "name": "Dragapult Blaziken",
+   "players": 160,
+   "share": 0.0443,
+   "prev_share": 0.0595,
+   "day2_share": 0.0457,
+   "day2_conversion": 1.03,
+   "top_cut": 2,
+   "record": {
+    "wins": 1300,
+    "losses": 1249,
+    "ties": 531,
+    "win_rate": 0.48,
+    "tie_rate": 0.172
+   },
+   "day2_record": {
+    "wins": 150,
+    "losses": 174,
+    "ties": 62,
+    "win_rate": 0.442
+   },
+   "expected_vs_field": 0.484,
+   "expected_vs_day2": 0.472,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 630,
+     "wins": 231,
+     "losses": 289,
+     "ties": 110,
+     "win_rate": 0.425,
+     "shrunk": 0.426
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 231,
+     "wins": 65,
+     "losses": 126,
+     "ties": 40,
+     "win_rate": 0.339,
+     "shrunk": 0.35
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 248,
+     "wins": 116,
+     "losses": 98,
+     "ties": 34,
+     "win_rate": 0.513,
+     "shrunk": 0.511
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 222,
+     "wins": 82,
+     "losses": 105,
+     "ties": 35,
+     "win_rate": 0.422,
+     "shrunk": 0.426
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 208,
+     "wins": 89,
+     "losses": 90,
+     "ties": 29,
+     "win_rate": 0.474,
+     "shrunk": 0.474
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 204,
+     "wins": 101,
+     "losses": 61,
+     "ties": 42,
+     "win_rate": 0.564,
+     "shrunk": 0.556
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 131,
+     "wins": 88,
+     "losses": 21,
+     "ties": 22,
+     "win_rate": 0.728,
+     "shrunk": 0.694
+    },
+    {
+     "vs": "festival-lead",
+     "games": 116,
+     "wins": 54,
+     "losses": 41,
+     "ties": 21,
+     "win_rate": 0.526,
+     "shrunk": 0.519
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 99,
+     "wins": 59,
+     "losses": 22,
+     "ties": 18,
+     "win_rate": 0.657,
+     "shrunk": 0.626
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 87,
+     "wins": 55,
+     "losses": 22,
+     "ties": 10,
+     "win_rate": 0.67,
+     "shrunk": 0.634
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 116,
+     "wins": 23,
+     "losses": 73,
+     "ties": 20,
+     "win_rate": 0.256,
+     "shrunk": 0.288
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 50,
+     "wins": 22,
+     "losses": 15,
+     "ties": 13,
+     "win_rate": 0.527,
+     "shrunk": 0.512
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 66,
+     "wins": 27,
+     "losses": 25,
+     "ties": 14,
+     "win_rate": 0.48,
+     "shrunk": 0.479
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 44,
+     "wins": 17,
+     "losses": 17,
+     "ties": 10,
+     "win_rate": 0.462,
+     "shrunk": 0.466
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 28,
+     "wins": 9,
+     "losses": 15,
+     "ties": 4,
+     "win_rate": 0.369,
+     "shrunk": 0.414
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 35,
+     "wins": 8,
+     "losses": 23,
+     "ties": 4,
+     "win_rate": 0.267,
+     "shrunk": 0.343
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 30,
+     "wins": 13,
+     "losses": 11,
+     "ties": 6,
+     "win_rate": 0.5,
+     "shrunk": 0.49
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 26,
+     "wins": 6,
+     "losses": 16,
+     "ties": 4,
+     "win_rate": 0.282,
+     "shrunk": 0.366
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 35,
+     "wins": 14,
+     "losses": 16,
+     "ties": 5,
+     "win_rate": 0.448,
+     "shrunk": 0.458
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 32,
+     "wins": 12,
+     "losses": 16,
+     "ties": 4,
+     "win_rate": 0.417,
+     "shrunk": 0.439
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 13,
+     "wins": 8,
+     "losses": 3,
+     "ties": 2,
+     "win_rate": 0.667,
+     "shrunk": 0.551
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 46,
+     "wins": 19,
+     "losses": 18,
+     "ties": 9,
+     "win_rate": 0.478,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 35,
+     "wins": 17,
+     "losses": 16,
+     "ties": 2,
+     "win_rate": 0.505,
+     "shrunk": 0.494
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 16,
+     "wins": 8,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.542,
+     "shrunk": 0.505
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 16,
+     "wins": 11,
+     "losses": 2,
+     "ties": 3,
+     "win_rate": 0.75,
+     "shrunk": 0.598
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 25,
+     "wins": 19,
+     "losses": 3,
+     "ties": 3,
+     "win_rate": 0.8,
+     "shrunk": 0.656
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 20,
+     "wins": 5,
+     "losses": 12,
+     "ties": 3,
+     "win_rate": 0.3,
+     "shrunk": 0.388
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 19,
+     "wins": 11,
+     "losses": 4,
+     "ties": 4,
+     "win_rate": 0.649,
+     "shrunk": 0.56
+    }
+   ]
+  },
+  "festival-lead": {
+   "name": "Festival Lead",
+   "players": 143,
+   "share": 0.0396,
+   "prev_share": 0.0265,
+   "day2_share": 0.0549,
+   "day2_conversion": 1.39,
+   "top_cut": 2,
+   "record": {
+    "wins": 901,
+    "losses": 828,
+    "ties": 263,
+    "win_rate": 0.496,
+    "tie_rate": 0.132
+   },
+   "day2_record": {
+    "wins": 134,
+    "losses": 112,
+    "ties": 32,
+    "win_rate": 0.52
+   },
+   "expected_vs_field": 0.484,
+   "expected_vs_day2": 0.479,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 360,
+     "wins": 109,
+     "losses": 202,
+     "ties": 49,
+     "win_rate": 0.348,
+     "shrunk": 0.355
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 174,
+     "wins": 129,
+     "losses": 29,
+     "ties": 16,
+     "win_rate": 0.772,
+     "shrunk": 0.741
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 147,
+     "wins": 41,
+     "losses": 97,
+     "ties": 9,
+     "win_rate": 0.299,
+     "shrunk": 0.32
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 130,
+     "wins": 56,
+     "losses": 58,
+     "ties": 16,
+     "win_rate": 0.472,
+     "shrunk": 0.472
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 128,
+     "wins": 54,
+     "losses": 57,
+     "ties": 17,
+     "win_rate": 0.466,
+     "shrunk": 0.467
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 108,
+     "wins": 45,
+     "losses": 43,
+     "ties": 20,
+     "win_rate": 0.478,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 96,
+     "wins": 26,
+     "losses": 51,
+     "ties": 19,
+     "win_rate": 0.337,
+     "shrunk": 0.361
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 116,
+     "wins": 41,
+     "losses": 54,
+     "ties": 21,
+     "win_rate": 0.414,
+     "shrunk": 0.423
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 68,
+     "wins": 31,
+     "losses": 22,
+     "ties": 15,
+     "win_rate": 0.529,
+     "shrunk": 0.517
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 60,
+     "wins": 25,
+     "losses": 27,
+     "ties": 8,
+     "win_rate": 0.461,
+     "shrunk": 0.465
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 85,
+     "wins": 60,
+     "losses": 13,
+     "ties": 12,
+     "win_rate": 0.753,
+     "shrunk": 0.7
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 34,
+     "wins": 21,
+     "losses": 6,
+     "ties": 7,
+     "win_rate": 0.686,
+     "shrunk": 0.608
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 42,
+     "wins": 31,
+     "losses": 7,
+     "ties": 4,
+     "win_rate": 0.77,
+     "shrunk": 0.675
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 38,
+     "wins": 30,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.807,
+     "shrunk": 0.693
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 31,
+     "wins": 10,
+     "losses": 20,
+     "ties": 1,
+     "win_rate": 0.333,
+     "shrunk": 0.389
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 26,
+     "wins": 21,
+     "losses": 3,
+     "ties": 2,
+     "win_rate": 0.833,
+     "shrunk": 0.678
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 20,
+     "wins": 10,
+     "losses": 6,
+     "ties": 4,
+     "win_rate": 0.567,
+     "shrunk": 0.521
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 20,
+     "wins": 16,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.8,
+     "shrunk": 0.638
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 25,
+     "wins": 13,
+     "losses": 11,
+     "ties": 1,
+     "win_rate": 0.533,
+     "shrunk": 0.508
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 12,
+     "wins": 9,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.806,
+     "shrunk": 0.599
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 15,
+     "wins": 10,
+     "losses": 5,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.558
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 20,
+     "wins": 11,
+     "losses": 6,
+     "ties": 3,
+     "win_rate": 0.6,
+     "shrunk": 0.538
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 30,
+     "wins": 12,
+     "losses": 13,
+     "ties": 5,
+     "win_rate": 0.456,
+     "shrunk": 0.464
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 15,
+     "wins": 6,
+     "losses": 9,
+     "ties": 0,
+     "win_rate": 0.4,
+     "shrunk": 0.443
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 8,
+     "wins": 3,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.417,
+     "shrunk": 0.459
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 17,
+     "wins": 13,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.784,
+     "shrunk": 0.618
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 14,
+     "wins": 3,
+     "losses": 7,
+     "ties": 4,
+     "win_rate": 0.31,
+     "shrunk": 0.407
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 6,
+     "wins": 5,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.889,
+     "shrunk": 0.571
+    }
+   ]
+  },
+  "dhelmise-pbl": {
+   "name": "Dhelmise",
+   "players": 128,
+   "share": 0.0355,
+   "prev_share": 0.0258,
+   "day2_share": 0.0259,
+   "day2_conversion": 0.73,
+   "top_cut": 0,
+   "record": {
+    "wins": 774,
+    "losses": 748,
+    "ties": 295,
+    "win_rate": 0.48,
+    "tie_rate": 0.162
+   },
+   "day2_record": {
+    "wins": 100,
+    "losses": 85,
+    "ties": 22,
+    "win_rate": 0.519
+   },
+   "expected_vs_field": 0.477,
+   "expected_vs_day2": 0.469,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 336,
+     "wins": 156,
+     "losses": 126,
+     "ties": 54,
+     "win_rate": 0.518,
+     "shrunk": 0.515
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 144,
+     "wins": 17,
+     "losses": 109,
+     "ties": 18,
+     "win_rate": 0.16,
+     "shrunk": 0.198
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 127,
+     "wins": 69,
+     "losses": 42,
+     "ties": 16,
+     "win_rate": 0.585,
+     "shrunk": 0.57
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 114,
+     "wins": 27,
+     "losses": 64,
+     "ties": 23,
+     "win_rate": 0.304,
+     "shrunk": 0.33
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 114,
+     "wins": 65,
+     "losses": 29,
+     "ties": 20,
+     "win_rate": 0.629,
+     "shrunk": 0.606
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 103,
+     "wins": 66,
+     "losses": 21,
+     "ties": 16,
+     "win_rate": 0.693,
+     "shrunk": 0.657
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 100,
+     "wins": 38,
+     "losses": 48,
+     "ties": 14,
+     "win_rate": 0.427,
+     "shrunk": 0.435
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 99,
+     "wins": 22,
+     "losses": 59,
+     "ties": 18,
+     "win_rate": 0.283,
+     "shrunk": 0.315
+    },
+    {
+     "vs": "festival-lead",
+     "games": 68,
+     "wins": 22,
+     "losses": 31,
+     "ties": 15,
+     "win_rate": 0.397,
+     "shrunk": 0.415
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 49,
+     "wins": 8,
+     "losses": 29,
+     "ties": 12,
+     "win_rate": 0.245,
+     "shrunk": 0.312
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 64,
+     "wins": 26,
+     "losses": 25,
+     "ties": 13,
+     "win_rate": 0.474,
+     "shrunk": 0.474
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 30,
+     "wins": 9,
+     "losses": 20,
+     "ties": 1,
+     "win_rate": 0.311,
+     "shrunk": 0.377
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 58,
+     "wins": 55,
+     "losses": 0,
+     "ties": 3,
+     "win_rate": 0.966,
+     "shrunk": 0.84
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 32,
+     "wins": 20,
+     "losses": 7,
+     "ties": 5,
+     "win_rate": 0.677,
+     "shrunk": 0.6
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 21,
+     "wins": 15,
+     "losses": 5,
+     "ties": 1,
+     "win_rate": 0.73,
+     "shrunk": 0.606
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 26,
+     "wins": 2,
+     "losses": 15,
+     "ties": 9,
+     "win_rate": 0.192,
+     "shrunk": 0.316
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 28,
+     "wins": 23,
+     "losses": 1,
+     "ties": 4,
+     "win_rate": 0.869,
+     "shrunk": 0.705
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 25,
+     "wins": 11,
+     "losses": 11,
+     "ties": 3,
+     "win_rate": 0.48,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 28,
+     "wins": 6,
+     "losses": 17,
+     "ties": 5,
+     "win_rate": 0.274,
+     "shrunk": 0.358
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 19,
+     "wins": 8,
+     "losses": 7,
+     "ties": 4,
+     "win_rate": 0.491,
+     "shrunk": 0.483
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 15,
+     "wins": 4,
+     "losses": 6,
+     "ties": 5,
+     "win_rate": 0.378,
+     "shrunk": 0.434
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 16,
+     "wins": 5,
+     "losses": 5,
+     "ties": 6,
+     "win_rate": 0.438,
+     "shrunk": 0.459
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 15,
+     "wins": 10,
+     "losses": 3,
+     "ties": 2,
+     "win_rate": 0.711,
+     "shrunk": 0.577
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 13,
+     "wins": 8,
+     "losses": 3,
+     "ties": 2,
+     "win_rate": 0.667,
+     "shrunk": 0.551
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 7,
+     "wins": 1,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.238,
+     "shrunk": 0.414
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 9,
+     "wins": 6,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.704,
+     "shrunk": 0.547
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 3,
+     "wins": 3,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.544
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 5,
+     "wins": 1,
+     "losses": 2,
+     "ties": 2,
+     "win_rate": 0.333,
+     "shrunk": 0.447
+    }
+   ]
+  },
+  "ogerpon-meganium-hydrapple": {
+   "name": "Ogerpon Meganium Hydrapple",
+   "players": 116,
+   "share": 0.0321,
+   "prev_share": 0.0227,
+   "day2_share": 0.0366,
+   "day2_conversion": 1.14,
+   "top_cut": 1,
+   "record": {
+    "wins": 672,
+    "losses": 692,
+    "ties": 220,
+    "win_rate": 0.471,
+    "tie_rate": 0.139
+   },
+   "day2_record": {
+    "wins": 92,
+    "losses": 87,
+    "ties": 22,
+    "win_rate": 0.494
+   },
+   "expected_vs_field": 0.475,
+   "expected_vs_day2": 0.469,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 302,
+     "wins": 80,
+     "losses": 174,
+     "ties": 48,
+     "win_rate": 0.318,
+     "shrunk": 0.328
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 125,
+     "wins": 78,
+     "losses": 35,
+     "ties": 12,
+     "win_rate": 0.656,
+     "shrunk": 0.631
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 115,
+     "wins": 36,
+     "losses": 69,
+     "ties": 10,
+     "win_rate": 0.342,
+     "shrunk": 0.362
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 110,
+     "wins": 66,
+     "losses": 33,
+     "ties": 11,
+     "win_rate": 0.633,
+     "shrunk": 0.609
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 92,
+     "wins": 43,
+     "losses": 33,
+     "ties": 16,
+     "win_rate": 0.525,
+     "shrunk": 0.517
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 77,
+     "wins": 25,
+     "losses": 42,
+     "ties": 10,
+     "win_rate": 0.368,
+     "shrunk": 0.39
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 73,
+     "wins": 38,
+     "losses": 22,
+     "ties": 13,
+     "win_rate": 0.58,
+     "shrunk": 0.558
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 87,
+     "wins": 22,
+     "losses": 55,
+     "ties": 10,
+     "win_rate": 0.291,
+     "shrunk": 0.326
+    },
+    {
+     "vs": "festival-lead",
+     "games": 60,
+     "wins": 27,
+     "losses": 25,
+     "ties": 8,
+     "win_rate": 0.494,
+     "shrunk": 0.49
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 49,
+     "wins": 29,
+     "losses": 8,
+     "ties": 12,
+     "win_rate": 0.673,
+     "shrunk": 0.616
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 56,
+     "wins": 20,
+     "losses": 23,
+     "ties": 13,
+     "win_rate": 0.435,
+     "shrunk": 0.445
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 40,
+     "wins": 18,
+     "losses": 13,
+     "ties": 9,
+     "win_rate": 0.525,
+     "shrunk": 0.509
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 41,
+     "wins": 18,
+     "losses": 20,
+     "ties": 3,
+     "win_rate": 0.463,
+     "shrunk": 0.467
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 28,
+     "wins": 10,
+     "losses": 12,
+     "ties": 6,
+     "win_rate": 0.429,
+     "shrunk": 0.448
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 33,
+     "wins": 18,
+     "losses": 14,
+     "ties": 1,
+     "win_rate": 0.556,
+     "shrunk": 0.525
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 22,
+     "wins": 19,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.879,
+     "shrunk": 0.687
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 15,
+     "wins": 8,
+     "losses": 6,
+     "ties": 1,
+     "win_rate": 0.556,
+     "shrunk": 0.51
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 16,
+     "wins": 12,
+     "losses": 2,
+     "ties": 2,
+     "win_rate": 0.792,
+     "shrunk": 0.616
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 21,
+     "wins": 10,
+     "losses": 7,
+     "ties": 4,
+     "win_rate": 0.54,
+     "shrunk": 0.509
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 18,
+     "wins": 14,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.796,
+     "shrunk": 0.628
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 14,
+     "wins": 5,
+     "losses": 6,
+     "ties": 3,
+     "win_rate": 0.429,
+     "shrunk": 0.456
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 17,
+     "wins": 9,
+     "losses": 7,
+     "ties": 1,
+     "win_rate": 0.549,
+     "shrunk": 0.509
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 22,
+     "wins": 6,
+     "losses": 14,
+     "ties": 2,
+     "win_rate": 0.303,
+     "shrunk": 0.385
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 13,
+     "wins": 2,
+     "losses": 8,
+     "ties": 3,
+     "win_rate": 0.231,
+     "shrunk": 0.379
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 13,
+     "wins": 2,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.205,
+     "shrunk": 0.369
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 7,
+     "wins": 0,
+     "losses": 5,
+     "ties": 2,
+     "win_rate": 0.095,
+     "shrunk": 0.377
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 9,
+     "wins": 3,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.407,
+     "shrunk": 0.455
+    }
+   ]
+  },
+  "crustle-dri": {
+   "name": "Crustle",
+   "players": 116,
+   "share": 0.0321,
+   "prev_share": 0.0403,
+   "day2_share": 0.0274,
+   "day2_conversion": 0.85,
+   "top_cut": 0,
+   "record": {
+    "wins": 960,
+    "losses": 845,
+    "ties": 338,
+    "win_rate": 0.501,
+    "tie_rate": 0.158
+   },
+   "day2_record": {
+    "wins": 114,
+    "losses": 117,
+    "ties": 48,
+    "win_rate": 0.466
+   },
+   "expected_vs_field": 0.485,
+   "expected_vs_day2": 0.495,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 440,
+     "wins": 278,
+     "losses": 91,
+     "ties": 71,
+     "win_rate": 0.686,
+     "shrunk": 0.676
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 173,
+     "wins": 100,
+     "losses": 45,
+     "ties": 28,
+     "win_rate": 0.632,
+     "shrunk": 0.616
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 164,
+     "wins": 66,
+     "losses": 62,
+     "ties": 36,
+     "win_rate": 0.476,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 147,
+     "wins": 71,
+     "losses": 56,
+     "ties": 20,
+     "win_rate": 0.528,
+     "shrunk": 0.522
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 129,
+     "wins": 30,
+     "losses": 82,
+     "ties": 17,
+     "win_rate": 0.276,
+     "shrunk": 0.303
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 121,
+     "wins": 74,
+     "losses": 31,
+     "ties": 16,
+     "win_rate": 0.656,
+     "shrunk": 0.63
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 108,
+     "wins": 16,
+     "losses": 78,
+     "ties": 14,
+     "win_rate": 0.191,
+     "shrunk": 0.236
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 116,
+     "wins": 73,
+     "losses": 23,
+     "ties": 20,
+     "win_rate": 0.687,
+     "shrunk": 0.656
+    },
+    {
+     "vs": "festival-lead",
+     "games": 85,
+     "wins": 13,
+     "losses": 60,
+     "ties": 12,
+     "win_rate": 0.2,
+     "shrunk": 0.253
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 64,
+     "wins": 25,
+     "losses": 26,
+     "ties": 13,
+     "win_rate": 0.458,
+     "shrunk": 0.463
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 56,
+     "wins": 23,
+     "losses": 20,
+     "ties": 13,
+     "win_rate": 0.488,
+     "shrunk": 0.485
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 38,
+     "wins": 3,
+     "losses": 28,
+     "ties": 7,
+     "win_rate": 0.14,
+     "shrunk": 0.256
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 47,
+     "wins": 9,
+     "losses": 32,
+     "ties": 6,
+     "win_rate": 0.234,
+     "shrunk": 0.306
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 45,
+     "wins": 5,
+     "losses": 35,
+     "ties": 5,
+     "win_rate": 0.148,
+     "shrunk": 0.249
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 30,
+     "wins": 4,
+     "losses": 21,
+     "ties": 5,
+     "win_rate": 0.189,
+     "shrunk": 0.304
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 34,
+     "wins": 13,
+     "losses": 11,
+     "ties": 10,
+     "win_rate": 0.48,
+     "shrunk": 0.479
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 20,
+     "wins": 10,
+     "losses": 5,
+     "ties": 5,
+     "win_rate": 0.583,
+     "shrunk": 0.53
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 26,
+     "wins": 16,
+     "losses": 7,
+     "ties": 3,
+     "win_rate": 0.654,
+     "shrunk": 0.576
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 23,
+     "wins": 4,
+     "losses": 12,
+     "ties": 7,
+     "win_rate": 0.275,
+     "shrunk": 0.369
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 16,
+     "wins": 4,
+     "losses": 9,
+     "ties": 3,
+     "win_rate": 0.312,
+     "shrunk": 0.403
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 17,
+     "wins": 9,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.569,
+     "shrunk": 0.518
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 21,
+     "wins": 19,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.905,
+     "shrunk": 0.696
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 26,
+     "wins": 17,
+     "losses": 6,
+     "ties": 3,
+     "win_rate": 0.692,
+     "shrunk": 0.598
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 12,
+     "wins": 1,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.139,
+     "shrunk": 0.349
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 4,
+     "wins": 3,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.833,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 6,
+     "wins": 0,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.111,
+     "shrunk": 0.392
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 18,
+     "wins": 10,
+     "losses": 7,
+     "ties": 1,
+     "win_rate": 0.574,
+     "shrunk": 0.522
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 12,
+     "wins": 8,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.547
+    }
+   ]
+  },
+  "lopunny-dudunsparce": {
+   "name": "Lopunny Dudunsparce",
+   "players": 95,
+   "share": 0.0263,
+   "prev_share": 0.0077,
+   "day2_share": 0.0213,
+   "day2_conversion": 0.81,
+   "top_cut": 0,
+   "record": {
+    "wins": 386,
+    "losses": 418,
+    "ties": 159,
+    "win_rate": 0.456,
+    "tie_rate": 0.165
+   },
+   "day2_record": {
+    "wins": 43,
+    "losses": 47,
+    "ties": 17,
+    "win_rate": 0.455
+   },
+   "expected_vs_field": 0.46,
+   "expected_vs_day2": 0.447,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 178,
+     "wins": 57,
+     "losses": 86,
+     "ties": 35,
+     "win_rate": 0.386,
+     "shrunk": 0.395
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 71,
+     "wins": 11,
+     "losses": 41,
+     "ties": 19,
+     "win_rate": 0.244,
+     "shrunk": 0.295
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 65,
+     "wins": 25,
+     "losses": 33,
+     "ties": 7,
+     "win_rate": 0.421,
+     "shrunk": 0.434
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 58,
+     "wins": 24,
+     "losses": 30,
+     "ties": 4,
+     "win_rate": 0.437,
+     "shrunk": 0.447
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 60,
+     "wins": 32,
+     "losses": 21,
+     "ties": 7,
+     "win_rate": 0.572,
+     "shrunk": 0.548
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 42,
+     "wins": 25,
+     "losses": 10,
+     "ties": 7,
+     "win_rate": 0.651,
+     "shrunk": 0.594
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 44,
+     "wins": 15,
+     "losses": 24,
+     "ties": 5,
+     "win_rate": 0.379,
+     "shrunk": 0.409
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 50,
+     "wins": 15,
+     "losses": 22,
+     "ties": 13,
+     "win_rate": 0.387,
+     "shrunk": 0.412
+    },
+    {
+     "vs": "festival-lead",
+     "games": 34,
+     "wins": 6,
+     "losses": 21,
+     "ties": 7,
+     "win_rate": 0.245,
+     "shrunk": 0.331
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 30,
+     "wins": 20,
+     "losses": 9,
+     "ties": 1,
+     "win_rate": 0.678,
+     "shrunk": 0.597
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 40,
+     "wins": 13,
+     "losses": 18,
+     "ties": 9,
+     "win_rate": 0.4,
+     "shrunk": 0.425
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 38,
+     "wins": 28,
+     "losses": 3,
+     "ties": 7,
+     "win_rate": 0.798,
+     "shrunk": 0.687
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 29,
+     "wins": 12,
+     "losses": 16,
+     "ties": 1,
+     "win_rate": 0.425,
+     "shrunk": 0.446
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 22,
+     "wins": 7,
+     "losses": 12,
+     "ties": 3,
+     "win_rate": 0.364,
+     "shrunk": 0.417
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 20,
+     "wins": 14,
+     "losses": 3,
+     "ties": 3,
+     "win_rate": 0.75,
+     "shrunk": 0.613
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 13,
+     "wins": 4,
+     "losses": 7,
+     "ties": 2,
+     "win_rate": 0.359,
+     "shrunk": 0.43
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 10,
+     "wins": 3,
+     "losses": 7,
+     "ties": 0,
+     "win_rate": 0.3,
+     "shrunk": 0.417
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 12,
+     "wins": 3,
+     "losses": 8,
+     "ties": 1,
+     "win_rate": 0.278,
+     "shrunk": 0.402
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 8,
+     "wins": 5,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.708,
+     "shrunk": 0.542
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 5,
+     "wins": 2,
+     "losses": 0,
+     "ties": 3,
+     "win_rate": 0.6,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 9,
+     "wins": 3,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.407,
+     "shrunk": 0.455
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 6,
+     "wins": 3,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.556,
+     "shrunk": 0.494
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 14,
+     "wins": 10,
+     "losses": 2,
+     "ties": 2,
+     "win_rate": 0.762,
+     "shrunk": 0.594
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 9,
+     "wins": 3,
+     "losses": 6,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.432
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 7,
+     "wins": 2,
+     "losses": 2,
+     "ties": 3,
+     "win_rate": 0.429,
+     "shrunk": 0.464
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 5,
+     "wins": 4,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.867,
+     "shrunk": 0.554
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 3,
+     "wins": 1,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.444,
+     "shrunk": 0.472
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    }
+   ]
+  },
+  "lucario-hariyama": {
+   "name": "Lucario Hariyama",
+   "players": 88,
+   "share": 0.0244,
+   "prev_share": 0.0227,
+   "day2_share": 0.0198,
+   "day2_conversion": 0.81,
+   "top_cut": 1,
+   "record": {
+    "wins": 535,
+    "losses": 633,
+    "ties": 137,
+    "win_rate": 0.445,
+    "tie_rate": 0.105
+   },
+   "day2_record": {
+    "wins": 58,
+    "losses": 70,
+    "ties": 10,
+    "win_rate": 0.444
+   },
+   "expected_vs_field": 0.45,
+   "expected_vs_day2": 0.437,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 237,
+     "wins": 76,
+     "losses": 132,
+     "ties": 29,
+     "win_rate": 0.361,
+     "shrunk": 0.37
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 94,
+     "wins": 54,
+     "losses": 29,
+     "ties": 11,
+     "win_rate": 0.613,
+     "shrunk": 0.589
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 79,
+     "wins": 43,
+     "losses": 34,
+     "ties": 2,
+     "win_rate": 0.553,
+     "shrunk": 0.537
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 74,
+     "wins": 20,
+     "losses": 52,
+     "ties": 2,
+     "win_rate": 0.279,
+     "shrunk": 0.321
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 72,
+     "wins": 13,
+     "losses": 56,
+     "ties": 3,
+     "win_rate": 0.194,
+     "shrunk": 0.256
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 75,
+     "wins": 38,
+     "losses": 24,
+     "ties": 13,
+     "win_rate": 0.564,
+     "shrunk": 0.546
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 57,
+     "wins": 32,
+     "losses": 16,
+     "ties": 9,
+     "win_rate": 0.614,
+     "shrunk": 0.578
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 66,
+     "wins": 25,
+     "losses": 27,
+     "ties": 14,
+     "win_rate": 0.449,
+     "shrunk": 0.456
+    },
+    {
+     "vs": "festival-lead",
+     "games": 42,
+     "wins": 7,
+     "losses": 31,
+     "ties": 4,
+     "win_rate": 0.198,
+     "shrunk": 0.288
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 58,
+     "wins": 0,
+     "losses": 55,
+     "ties": 3,
+     "win_rate": 0.017,
+     "shrunk": 0.135
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 41,
+     "wins": 20,
+     "losses": 18,
+     "ties": 3,
+     "win_rate": 0.512,
+     "shrunk": 0.5
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 47,
+     "wins": 32,
+     "losses": 9,
+     "ties": 6,
+     "win_rate": 0.723,
+     "shrunk": 0.65
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 29,
+     "wins": 16,
+     "losses": 12,
+     "ties": 1,
+     "win_rate": 0.563,
+     "shrunk": 0.528
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 25,
+     "wins": 8,
+     "losses": 13,
+     "ties": 4,
+     "win_rate": 0.373,
+     "shrunk": 0.419
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 11,
+     "wins": 6,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.576,
+     "shrunk": 0.511
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 20,
+     "wins": 11,
+     "losses": 5,
+     "ties": 4,
+     "win_rate": 0.617,
+     "shrunk": 0.546
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 25,
+     "wins": 13,
+     "losses": 10,
+     "ties": 2,
+     "win_rate": 0.547,
+     "shrunk": 0.515
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 17,
+     "wins": 10,
+     "losses": 6,
+     "ties": 1,
+     "win_rate": 0.608,
+     "shrunk": 0.537
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 21,
+     "wins": 10,
+     "losses": 8,
+     "ties": 3,
+     "win_rate": 0.524,
+     "shrunk": 0.5
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 17,
+     "wins": 4,
+     "losses": 11,
+     "ties": 2,
+     "win_rate": 0.275,
+     "shrunk": 0.383
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 11,
+     "wins": 10,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.939,
+     "shrunk": 0.64
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 23,
+     "wins": 13,
+     "losses": 7,
+     "ties": 3,
+     "win_rate": 0.609,
+     "shrunk": 0.547
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 17,
+     "wins": 11,
+     "losses": 3,
+     "ties": 3,
+     "win_rate": 0.706,
+     "shrunk": 0.582
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 13,
+     "wins": 2,
+     "losses": 10,
+     "ties": 1,
+     "win_rate": 0.179,
+     "shrunk": 0.359
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 9,
+     "wins": 1,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.185,
+     "shrunk": 0.386
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 10,
+     "wins": 5,
+     "losses": 5,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.484
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 8,
+     "wins": 4,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.542,
+     "shrunk": 0.495
+    }
+   ]
+  },
+  "rockets-honchkrow": {
+   "name": "Rocket's Honchkrow",
+   "players": 77,
+   "share": 0.0213,
+   "prev_share": 0.0158,
+   "day2_share": 0.0229,
+   "day2_conversion": 1.07,
+   "top_cut": 0,
+   "record": {
+    "wins": 462,
+    "losses": 443,
+    "ties": 185,
+    "win_rate": 0.48,
+    "tie_rate": 0.17
+   },
+   "day2_record": {
+    "wins": 60,
+    "losses": 60,
+    "ties": 20,
+    "win_rate": 0.476
+   },
+   "expected_vs_field": 0.477,
+   "expected_vs_day2": 0.46,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 194,
+     "wins": 45,
+     "losses": 97,
+     "ties": 52,
+     "win_rate": 0.321,
+     "shrunk": 0.336
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 86,
+     "wins": 40,
+     "losses": 28,
+     "ties": 18,
+     "win_rate": 0.535,
+     "shrunk": 0.524
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 73,
+     "wins": 26,
+     "losses": 37,
+     "ties": 10,
+     "win_rate": 0.402,
+     "shrunk": 0.418
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 76,
+     "wins": 45,
+     "losses": 27,
+     "ties": 4,
+     "win_rate": 0.61,
+     "shrunk": 0.582
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 67,
+     "wins": 17,
+     "losses": 40,
+     "ties": 10,
+     "win_rate": 0.303,
+     "shrunk": 0.343
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 61,
+     "wins": 42,
+     "losses": 13,
+     "ties": 6,
+     "win_rate": 0.721,
+     "shrunk": 0.661
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 57,
+     "wins": 36,
+     "losses": 7,
+     "ties": 14,
+     "win_rate": 0.713,
+     "shrunk": 0.652
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 44,
+     "wins": 17,
+     "losses": 17,
+     "ties": 10,
+     "win_rate": 0.462,
+     "shrunk": 0.466
+    },
+    {
+     "vs": "festival-lead",
+     "games": 38,
+     "wins": 6,
+     "losses": 30,
+     "ties": 2,
+     "win_rate": 0.175,
+     "shrunk": 0.279
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 32,
+     "wins": 7,
+     "losses": 20,
+     "ties": 5,
+     "win_rate": 0.271,
+     "shrunk": 0.35
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 28,
+     "wins": 12,
+     "losses": 10,
+     "ties": 6,
+     "win_rate": 0.5,
+     "shrunk": 0.49
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 45,
+     "wins": 35,
+     "losses": 5,
+     "ties": 5,
+     "win_rate": 0.815,
+     "shrunk": 0.711
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 22,
+     "wins": 12,
+     "losses": 7,
+     "ties": 3,
+     "win_rate": 0.591,
+     "shrunk": 0.536
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 25,
+     "wins": 13,
+     "losses": 8,
+     "ties": 4,
+     "win_rate": 0.573,
+     "shrunk": 0.53
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 9,
+     "wins": 5,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.593,
+     "shrunk": 0.512
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 15,
+     "wins": 7,
+     "losses": 4,
+     "ties": 4,
+     "win_rate": 0.556,
+     "shrunk": 0.51
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 12,
+     "wins": 9,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.75,
+     "shrunk": 0.579
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 16,
+     "wins": 5,
+     "losses": 8,
+     "ties": 3,
+     "win_rate": 0.375,
+     "shrunk": 0.431
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 12,
+     "wins": 1,
+     "losses": 10,
+     "ties": 1,
+     "win_rate": 0.111,
+     "shrunk": 0.339
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 14,
+     "wins": 6,
+     "losses": 5,
+     "ties": 3,
+     "win_rate": 0.5,
+     "shrunk": 0.486
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 16,
+     "wins": 3,
+     "losses": 10,
+     "ties": 3,
+     "win_rate": 0.25,
+     "shrunk": 0.375
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 4,
+     "wins": 1,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.417,
+     "shrunk": 0.466
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 16,
+     "wins": 10,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.667,
+     "shrunk": 0.561
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 8,
+     "wins": 4,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.483
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 12,
+     "wins": 1,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.139,
+     "shrunk": 0.349
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 9,
+     "wins": 5,
+     "losses": 2,
+     "ties": 2,
+     "win_rate": 0.63,
+     "shrunk": 0.524
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 11,
+     "wins": 4,
+     "losses": 4,
+     "ties": 3,
+     "win_rate": 0.455,
+     "shrunk": 0.468
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 6,
+     "wins": 5,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.833,
+     "shrunk": 0.558
+    }
+   ]
+  },
+  "lopunny-dusknoir": {
+   "name": "Lopunny Dusknoir",
+   "players": 60,
+   "share": 0.0166,
+   "prev_share": 0.0077,
+   "day2_share": 0.0229,
+   "day2_conversion": 1.38,
+   "top_cut": 3,
+   "record": {
+    "wins": 363,
+    "losses": 334,
+    "ties": 70,
+    "win_rate": 0.504,
+    "tie_rate": 0.091
+   },
+   "day2_record": {
+    "wins": 66,
+    "losses": 62,
+    "ties": 10,
+    "win_rate": 0.502
+   },
+   "expected_vs_field": 0.495,
+   "expected_vs_day2": 0.493,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 119,
+     "wins": 59,
+     "losses": 37,
+     "ties": 23,
+     "win_rate": 0.56,
+     "shrunk": 0.548
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 68,
+     "wins": 16,
+     "losses": 44,
+     "ties": 8,
+     "win_rate": 0.275,
+     "shrunk": 0.32
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 50,
+     "wins": 34,
+     "losses": 12,
+     "ties": 4,
+     "win_rate": 0.707,
+     "shrunk": 0.641
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 57,
+     "wins": 19,
+     "losses": 36,
+     "ties": 2,
+     "win_rate": 0.345,
+     "shrunk": 0.379
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 63,
+     "wins": 26,
+     "losses": 33,
+     "ties": 4,
+     "win_rate": 0.434,
+     "shrunk": 0.444
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 44,
+     "wins": 25,
+     "losses": 14,
+     "ties": 5,
+     "win_rate": 0.606,
+     "shrunk": 0.565
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 29,
+     "wins": 17,
+     "losses": 11,
+     "ties": 1,
+     "win_rate": 0.598,
+     "shrunk": 0.548
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 28,
+     "wins": 15,
+     "losses": 9,
+     "ties": 4,
+     "win_rate": 0.583,
+     "shrunk": 0.539
+    },
+    {
+     "vs": "festival-lead",
+     "games": 31,
+     "wins": 20,
+     "losses": 10,
+     "ties": 1,
+     "win_rate": 0.656,
+     "shrunk": 0.585
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 21,
+     "wins": 5,
+     "losses": 15,
+     "ties": 1,
+     "win_rate": 0.254,
+     "shrunk": 0.362
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 33,
+     "wins": 14,
+     "losses": 18,
+     "ties": 1,
+     "win_rate": 0.434,
+     "shrunk": 0.45
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 30,
+     "wins": 21,
+     "losses": 4,
+     "ties": 5,
+     "win_rate": 0.756,
+     "shrunk": 0.644
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 20,
+     "wins": 3,
+     "losses": 14,
+     "ties": 3,
+     "win_rate": 0.2,
+     "shrunk": 0.338
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 11,
+     "wins": 4,
+     "losses": 6,
+     "ties": 1,
+     "win_rate": 0.394,
+     "shrunk": 0.447
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 9,
+     "wins": 3,
+     "losses": 5,
+     "ties": 1,
+     "win_rate": 0.37,
+     "shrunk": 0.443
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 14,
+     "wins": 6,
+     "losses": 8,
+     "ties": 0,
+     "win_rate": 0.429,
+     "shrunk": 0.456
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 11,
+     "wins": 4,
+     "losses": 7,
+     "ties": 0,
+     "win_rate": 0.364,
+     "shrunk": 0.436
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 7,
+     "wins": 6,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.857,
+     "shrunk": 0.575
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 8,
+     "wins": 3,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.417,
+     "shrunk": 0.459
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 5,
+     "wins": 3,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.6,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 5,
+     "wins": 4,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.8,
+     "shrunk": 0.541
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 7,
+     "wins": 3,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.429,
+     "shrunk": 0.464
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 11,
+     "wins": 8,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.727,
+     "shrunk": 0.565
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 8,
+     "wins": 7,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.875,
+     "shrunk": 0.59
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 5,
+     "wins": 2,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.4,
+     "shrunk": 0.461
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 1,
+     "wins": 0,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.333,
+     "shrunk": 0.469
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 4,
+     "wins": 3,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.75,
+     "shrunk": 0.522
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    }
+   ]
+  },
+  "sharpedo-toxtricity": {
+   "name": "Sharpedo Toxtricity",
+   "players": 49,
+   "share": 0.0136,
+   "prev_share": 0.014,
+   "day2_share": 0.0107,
+   "day2_conversion": 0.79,
+   "top_cut": 0,
+   "record": {
+    "wins": 324,
+    "losses": 366,
+    "ties": 109,
+    "win_rate": 0.451,
+    "tie_rate": 0.136
+   },
+   "day2_record": {
+    "wins": 36,
+    "losses": 49,
+    "ties": 13,
+    "win_rate": 0.412
+   },
+   "expected_vs_field": 0.465,
+   "expected_vs_day2": 0.455,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 153,
+     "wins": 65,
+     "losses": 63,
+     "ties": 25,
+     "win_rate": 0.479,
+     "shrunk": 0.479
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 56,
+     "wins": 26,
+     "losses": 22,
+     "ties": 8,
+     "win_rate": 0.512,
+     "shrunk": 0.502
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 64,
+     "wins": 23,
+     "losses": 32,
+     "ties": 9,
+     "win_rate": 0.406,
+     "shrunk": 0.423
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 53,
+     "wins": 14,
+     "losses": 36,
+     "ties": 3,
+     "win_rate": 0.283,
+     "shrunk": 0.336
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 46,
+     "wins": 22,
+     "losses": 23,
+     "ties": 1,
+     "win_rate": 0.486,
+     "shrunk": 0.483
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 45,
+     "wins": 32,
+     "losses": 7,
+     "ties": 6,
+     "win_rate": 0.756,
+     "shrunk": 0.669
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 36,
+     "wins": 11,
+     "losses": 23,
+     "ties": 2,
+     "win_rate": 0.324,
+     "shrunk": 0.378
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 35,
+     "wins": 23,
+     "losses": 8,
+     "ties": 4,
+     "win_rate": 0.695,
+     "shrunk": 0.615
+    },
+    {
+     "vs": "festival-lead",
+     "games": 26,
+     "wins": 3,
+     "losses": 21,
+     "ties": 2,
+     "win_rate": 0.141,
+     "shrunk": 0.287
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 26,
+     "wins": 15,
+     "losses": 2,
+     "ties": 9,
+     "win_rate": 0.692,
+     "shrunk": 0.598
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 22,
+     "wins": 2,
+     "losses": 19,
+     "ties": 1,
+     "win_rate": 0.106,
+     "shrunk": 0.282
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 34,
+     "wins": 11,
+     "losses": 13,
+     "ties": 10,
+     "win_rate": 0.422,
+     "shrunk": 0.442
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 13,
+     "wins": 7,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.59,
+     "shrunk": 0.521
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 20,
+     "wins": 5,
+     "losses": 11,
+     "ties": 4,
+     "win_rate": 0.317,
+     "shrunk": 0.396
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 15,
+     "wins": 4,
+     "losses": 7,
+     "ties": 4,
+     "win_rate": 0.356,
+     "shrunk": 0.424
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 14,
+     "wins": 8,
+     "losses": 6,
+     "ties": 0,
+     "win_rate": 0.571,
+     "shrunk": 0.515
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 5,
+     "wins": 1,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.2,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 13,
+     "wins": 2,
+     "losses": 10,
+     "ties": 1,
+     "win_rate": 0.179,
+     "shrunk": 0.359
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 4,
+     "wins": 1,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.417,
+     "shrunk": 0.466
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 5,
+     "wins": 0,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.067,
+     "shrunk": 0.394
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 7,
+     "wins": 2,
+     "losses": 5,
+     "ties": 0,
+     "win_rate": 0.286,
+     "shrunk": 0.427
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 13,
+     "wins": 5,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.436,
+     "shrunk": 0.46
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 6,
+     "wins": 0,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.111,
+     "shrunk": 0.392
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 4,
+     "wins": 3,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.75,
+     "shrunk": 0.522
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    }
+   ]
+  },
+  "mega-lucario-ex": {
+   "name": "Mega Lucario",
+   "players": 46,
+   "share": 0.0127,
+   "prev_share": 0.0102,
+   "day2_share": 0.0107,
+   "day2_conversion": 0.84,
+   "top_cut": 0,
+   "record": {
+    "wins": 270,
+    "losses": 305,
+    "ties": 73,
+    "win_rate": 0.454,
+    "tie_rate": 0.113
+   },
+   "day2_record": {
+    "wins": 18,
+    "losses": 30,
+    "ties": 6,
+    "win_rate": 0.37
+   },
+   "expected_vs_field": 0.464,
+   "expected_vs_day2": 0.455,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 115,
+     "wins": 33,
+     "losses": 64,
+     "ties": 18,
+     "win_rate": 0.339,
+     "shrunk": 0.359
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 52,
+     "wins": 36,
+     "losses": 11,
+     "ties": 5,
+     "win_rate": 0.724,
+     "shrunk": 0.655
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 46,
+     "wins": 18,
+     "losses": 19,
+     "ties": 9,
+     "win_rate": 0.457,
+     "shrunk": 0.462
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 37,
+     "wins": 19,
+     "losses": 18,
+     "ties": 0,
+     "win_rate": 0.514,
+     "shrunk": 0.5
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 40,
+     "wins": 9,
+     "losses": 31,
+     "ties": 0,
+     "win_rate": 0.225,
+     "shrunk": 0.309
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 42,
+     "wins": 24,
+     "losses": 10,
+     "ties": 8,
+     "win_rate": 0.635,
+     "shrunk": 0.584
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 44,
+     "wins": 30,
+     "losses": 11,
+     "ties": 3,
+     "win_rate": 0.705,
+     "shrunk": 0.633
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 30,
+     "wins": 11,
+     "losses": 13,
+     "ties": 6,
+     "win_rate": 0.433,
+     "shrunk": 0.45
+    },
+    {
+     "vs": "festival-lead",
+     "games": 20,
+     "wins": 6,
+     "losses": 10,
+     "ties": 4,
+     "win_rate": 0.367,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 28,
+     "wins": 1,
+     "losses": 23,
+     "ties": 4,
+     "win_rate": 0.083,
+     "shrunk": 0.247
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 15,
+     "wins": 6,
+     "losses": 8,
+     "ties": 1,
+     "win_rate": 0.422,
+     "shrunk": 0.453
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 20,
+     "wins": 5,
+     "losses": 10,
+     "ties": 5,
+     "win_rate": 0.333,
+     "shrunk": 0.405
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 10,
+     "wins": 7,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.7,
+     "shrunk": 0.551
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 25,
+     "wins": 10,
+     "losses": 13,
+     "ties": 2,
+     "win_rate": 0.427,
+     "shrunk": 0.449
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 12,
+     "wins": 3,
+     "losses": 9,
+     "ties": 0,
+     "win_rate": 0.25,
+     "shrunk": 0.391
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 11,
+     "wins": 7,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.636,
+     "shrunk": 0.533
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 5,
+     "wins": 4,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.8,
+     "shrunk": 0.541
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 13,
+     "wins": 2,
+     "losses": 10,
+     "ties": 1,
+     "win_rate": 0.179,
+     "shrunk": 0.359
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 7,
+     "wins": 3,
+     "losses": 1,
+     "ties": 3,
+     "win_rate": 0.571,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 5,
+     "wins": 0,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.067,
+     "shrunk": 0.394
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 5,
+     "wins": 1,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.2,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 4,
+     "wins": 2,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.48
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 7,
+     "wins": 5,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.714,
+     "shrunk": 0.538
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 6,
+     "wins": 1,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.222,
+     "shrunk": 0.417
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 2,
+     "wins": 2,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.524
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 5,
+     "wins": 3,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.667,
+     "shrunk": 0.514
+    }
+   ]
+  },
+  "cynthia-garchomp-ex": {
+   "name": "Cynthia's Garchomp",
+   "players": 46,
+   "share": 0.0127,
+   "prev_share": 0.0107,
+   "day2_share": 0.0152,
+   "day2_conversion": 1.2,
+   "top_cut": 0,
+   "record": {
+    "wins": 274,
+    "losses": 309,
+    "ties": 96,
+    "win_rate": 0.451,
+    "tie_rate": 0.141
+   },
+   "day2_record": {
+    "wins": 33,
+    "losses": 46,
+    "ties": 13,
+    "win_rate": 0.406
+   },
+   "expected_vs_field": 0.462,
+   "expected_vs_day2": 0.45,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 120,
+     "wins": 41,
+     "losses": 51,
+     "ties": 28,
+     "win_rate": 0.419,
+     "shrunk": 0.428
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 42,
+     "wins": 27,
+     "losses": 9,
+     "ties": 6,
+     "win_rate": 0.69,
+     "shrunk": 0.621
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 41,
+     "wins": 18,
+     "losses": 20,
+     "ties": 3,
+     "win_rate": 0.463,
+     "shrunk": 0.467
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 47,
+     "wins": 9,
+     "losses": 35,
+     "ties": 3,
+     "win_rate": 0.213,
+     "shrunk": 0.291
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 44,
+     "wins": 12,
+     "losses": 28,
+     "ties": 4,
+     "win_rate": 0.303,
+     "shrunk": 0.357
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 42,
+     "wins": 20,
+     "losses": 11,
+     "ties": 11,
+     "win_rate": 0.563,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 35,
+     "wins": 18,
+     "losses": 10,
+     "ties": 7,
+     "win_rate": 0.581,
+     "shrunk": 0.543
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 26,
+     "wins": 16,
+     "losses": 6,
+     "ties": 4,
+     "win_rate": 0.667,
+     "shrunk": 0.584
+    },
+    {
+     "vs": "festival-lead",
+     "games": 20,
+     "wins": 4,
+     "losses": 16,
+     "ties": 0,
+     "win_rate": 0.2,
+     "shrunk": 0.338
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 25,
+     "wins": 11,
+     "losses": 11,
+     "ties": 3,
+     "win_rate": 0.48,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 16,
+     "wins": 2,
+     "losses": 12,
+     "ties": 2,
+     "win_rate": 0.167,
+     "shrunk": 0.338
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 26,
+     "wins": 7,
+     "losses": 16,
+     "ties": 3,
+     "win_rate": 0.308,
+     "shrunk": 0.381
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 12,
+     "wins": 8,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.694,
+     "shrunk": 0.558
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 17,
+     "wins": 6,
+     "losses": 10,
+     "ties": 1,
+     "win_rate": 0.373,
+     "shrunk": 0.428
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 16,
+     "wins": 8,
+     "losses": 5,
+     "ties": 3,
+     "win_rate": 0.562,
+     "shrunk": 0.514
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 7,
+     "wins": 1,
+     "losses": 6,
+     "ties": 0,
+     "win_rate": 0.143,
+     "shrunk": 0.39
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 13,
+     "wins": 10,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.795,
+     "shrunk": 0.602
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 13,
+     "wins": 10,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.795,
+     "shrunk": 0.602
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 8,
+     "wins": 3,
+     "losses": 3,
+     "ties": 2,
+     "win_rate": 0.458,
+     "shrunk": 0.471
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 12,
+     "wins": 5,
+     "losses": 6,
+     "ties": 1,
+     "win_rate": 0.444,
+     "shrunk": 0.464
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 8,
+     "wins": 6,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.75,
+     "shrunk": 0.554
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 7,
+     "wins": 2,
+     "losses": 5,
+     "ties": 0,
+     "win_rate": 0.286,
+     "shrunk": 0.427
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 8,
+     "wins": 2,
+     "losses": 6,
+     "ties": 0,
+     "win_rate": 0.25,
+     "shrunk": 0.411
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 2,
+     "wins": 1,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 6,
+     "wins": 0,
+     "losses": 5,
+     "ties": 1,
+     "win_rate": 0.056,
+     "shrunk": 0.379
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 2,
+     "wins": 1,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.667,
+     "shrunk": 0.493
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 2,
+     "wins": 1,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.667,
+     "shrunk": 0.493
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 6,
+     "wins": 0,
+     "losses": 6,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.366
+    }
+   ]
+  },
+  "grimmsnarl-froslass": {
+   "name": "Grimmsnarl Froslass",
+   "players": 44,
+   "share": 0.0122,
+   "prev_share": 0.012,
+   "day2_share": 0.0076,
+   "day2_conversion": 0.63,
+   "top_cut": 0,
+   "record": {
+    "wins": 255,
+    "losses": 306,
+    "ties": 112,
+    "win_rate": 0.434,
+    "tie_rate": 0.166
+   },
+   "day2_record": {
+    "wins": 27,
+    "losses": 24,
+    "ties": 9,
+    "win_rate": 0.5
+   },
+   "expected_vs_field": 0.45,
+   "expected_vs_day2": 0.44,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 121,
+     "wins": 36,
+     "losses": 68,
+     "ties": 17,
+     "win_rate": 0.344,
+     "shrunk": 0.363
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 54,
+     "wins": 13,
+     "losses": 33,
+     "ties": 8,
+     "win_rate": 0.29,
+     "shrunk": 0.34
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 47,
+     "wins": 21,
+     "losses": 19,
+     "ties": 7,
+     "win_rate": 0.496,
+     "shrunk": 0.49
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 42,
+     "wins": 13,
+     "losses": 21,
+     "ties": 8,
+     "win_rate": 0.373,
+     "shrunk": 0.406
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 41,
+     "wins": 17,
+     "losses": 18,
+     "ties": 6,
+     "win_rate": 0.463,
+     "shrunk": 0.467
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 36,
+     "wins": 17,
+     "losses": 18,
+     "ties": 1,
+     "win_rate": 0.481,
+     "shrunk": 0.479
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 39,
+     "wins": 6,
+     "losses": 22,
+     "ties": 11,
+     "win_rate": 0.248,
+     "shrunk": 0.325
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 35,
+     "wins": 16,
+     "losses": 14,
+     "ties": 5,
+     "win_rate": 0.505,
+     "shrunk": 0.494
+    },
+    {
+     "vs": "festival-lead",
+     "games": 25,
+     "wins": 11,
+     "losses": 13,
+     "ties": 1,
+     "win_rate": 0.453,
+     "shrunk": 0.463
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 28,
+     "wins": 17,
+     "losses": 6,
+     "ties": 5,
+     "win_rate": 0.667,
+     "shrunk": 0.587
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 21,
+     "wins": 7,
+     "losses": 10,
+     "ties": 4,
+     "win_rate": 0.397,
+     "shrunk": 0.435
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 23,
+     "wins": 12,
+     "losses": 4,
+     "ties": 7,
+     "win_rate": 0.623,
+     "shrunk": 0.555
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 8,
+     "wins": 1,
+     "losses": 5,
+     "ties": 2,
+     "win_rate": 0.208,
+     "shrunk": 0.399
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 21,
+     "wins": 8,
+     "losses": 10,
+     "ties": 3,
+     "win_rate": 0.429,
+     "shrunk": 0.452
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 12,
+     "wins": 10,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.861,
+     "shrunk": 0.62
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 8,
+     "wins": 4,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.542,
+     "shrunk": 0.495
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 7,
+     "wins": 1,
+     "losses": 3,
+     "ties": 3,
+     "win_rate": 0.286,
+     "shrunk": 0.427
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 8,
+     "wins": 3,
+     "losses": 3,
+     "ties": 2,
+     "win_rate": 0.458,
+     "shrunk": 0.471
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 5,
+     "wins": 3,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.667,
+     "shrunk": 0.514
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 6,
+     "wins": 0,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.111,
+     "shrunk": 0.392
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 6,
+     "wins": 0,
+     "losses": 3,
+     "ties": 3,
+     "win_rate": 0.167,
+     "shrunk": 0.405
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 5,
+     "wins": 1,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.2,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 3,
+     "wins": 3,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.544
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 4,
+     "wins": 2,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.48
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 2,
+     "wins": 1,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.667,
+     "shrunk": 0.493
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 2,
+     "wins": 2,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.524
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 7,
+     "wins": 1,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.238,
+     "shrunk": 0.414
+    }
+   ]
+  },
+  "rocket-mewtwo-ex": {
+   "name": "Rocket's Mewtwo",
+   "players": 38,
+   "share": 0.0105,
+   "prev_share": 0.0084,
+   "day2_share": 0.0015,
+   "day2_conversion": 0.14,
+   "top_cut": 0,
+   "record": {
+    "wins": 189,
+    "losses": 248,
+    "ties": 65,
+    "win_rate": 0.42,
+    "tie_rate": 0.129
+   },
+   "day2_record": {
+    "wins": 20,
+    "losses": 22,
+    "ties": 3,
+    "win_rate": 0.467
+   },
+   "expected_vs_field": 0.439,
+   "expected_vs_day2": 0.433,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 73,
+     "wins": 19,
+     "losses": 41,
+     "ties": 13,
+     "win_rate": 0.32,
+     "shrunk": 0.353
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 40,
+     "wins": 27,
+     "losses": 9,
+     "ties": 4,
+     "win_rate": 0.708,
+     "shrunk": 0.631
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 42,
+     "wins": 14,
+     "losses": 24,
+     "ties": 4,
+     "win_rate": 0.365,
+     "shrunk": 0.401
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 36,
+     "wins": 9,
+     "losses": 25,
+     "ties": 2,
+     "win_rate": 0.269,
+     "shrunk": 0.343
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 37,
+     "wins": 12,
+     "losses": 20,
+     "ties": 5,
+     "win_rate": 0.369,
+     "shrunk": 0.407
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 28,
+     "wins": 19,
+     "losses": 4,
+     "ties": 5,
+     "win_rate": 0.738,
+     "shrunk": 0.629
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 27,
+     "wins": 6,
+     "losses": 19,
+     "ties": 2,
+     "win_rate": 0.247,
+     "shrunk": 0.344
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 32,
+     "wins": 16,
+     "losses": 12,
+     "ties": 4,
+     "win_rate": 0.542,
+     "shrunk": 0.516
+    },
+    {
+     "vs": "festival-lead",
+     "games": 12,
+     "wins": 1,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.139,
+     "shrunk": 0.349
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 19,
+     "wins": 7,
+     "losses": 8,
+     "ties": 4,
+     "win_rate": 0.439,
+     "shrunk": 0.458
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 18,
+     "wins": 3,
+     "losses": 14,
+     "ties": 1,
+     "win_rate": 0.185,
+     "shrunk": 0.338
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 16,
+     "wins": 9,
+     "losses": 4,
+     "ties": 3,
+     "win_rate": 0.625,
+     "shrunk": 0.542
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 5,
+     "wins": 0,
+     "losses": 2,
+     "ties": 3,
+     "win_rate": 0.2,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 17,
+     "wins": 11,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.686,
+     "shrunk": 0.573
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 14,
+     "wins": 5,
+     "losses": 6,
+     "ties": 3,
+     "win_rate": 0.429,
+     "shrunk": 0.456
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 5,
+     "wins": 2,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.4,
+     "shrunk": 0.461
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 4,
+     "wins": 1,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.417,
+     "shrunk": 0.466
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 5,
+     "wins": 4,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.867,
+     "shrunk": 0.554
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 12,
+     "wins": 6,
+     "losses": 5,
+     "ties": 1,
+     "win_rate": 0.528,
+     "shrunk": 0.495
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 5,
+     "wins": 1,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.267,
+     "shrunk": 0.434
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 2,
+     "wins": 0,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.433
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 0,
+     "wins": 0,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": null,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 0,
+     "wins": 0,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": null,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    }
+   ]
+  },
+  "mega-greninja-ex": {
+   "name": "Mega Greninja",
+   "players": 36,
+   "share": 0.01,
+   "prev_share": 0.0059,
+   "day2_share": 0.003,
+   "day2_conversion": 0.31,
+   "top_cut": 0,
+   "record": {
+    "wins": 141,
+    "losses": 213,
+    "ties": 62,
+    "win_rate": 0.389,
+    "tie_rate": 0.149
+   },
+   "day2_record": {
+    "wins": 5,
+    "losses": 10,
+    "ties": 1,
+    "win_rate": 0.333
+   },
+   "expected_vs_field": 0.417,
+   "expected_vs_day2": 0.408,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 56,
+     "wins": 10,
+     "losses": 38,
+     "ties": 8,
+     "win_rate": 0.226,
+     "shrunk": 0.292
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 26,
+     "wins": 6,
+     "losses": 13,
+     "ties": 7,
+     "win_rate": 0.321,
+     "shrunk": 0.388
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 29,
+     "wins": 9,
+     "losses": 18,
+     "ties": 2,
+     "win_rate": 0.333,
+     "shrunk": 0.392
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 20,
+     "wins": 7,
+     "losses": 12,
+     "ties": 1,
+     "win_rate": 0.367,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 21,
+     "wins": 7,
+     "losses": 13,
+     "ties": 1,
+     "win_rate": 0.349,
+     "shrunk": 0.411
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 34,
+     "wins": 12,
+     "losses": 15,
+     "ties": 7,
+     "win_rate": 0.422,
+     "shrunk": 0.442
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 14,
+     "wins": 8,
+     "losses": 3,
+     "ties": 3,
+     "win_rate": 0.643,
+     "shrunk": 0.545
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 13,
+     "wins": 3,
+     "losses": 8,
+     "ties": 2,
+     "win_rate": 0.282,
+     "shrunk": 0.4
+    },
+    {
+     "vs": "festival-lead",
+     "games": 15,
+     "wins": 5,
+     "losses": 10,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.415
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 15,
+     "wins": 6,
+     "losses": 4,
+     "ties": 5,
+     "win_rate": 0.511,
+     "shrunk": 0.491
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 14,
+     "wins": 6,
+     "losses": 5,
+     "ties": 3,
+     "win_rate": 0.5,
+     "shrunk": 0.486
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 17,
+     "wins": 6,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.392,
+     "shrunk": 0.437
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 9,
+     "wins": 4,
+     "losses": 3,
+     "ties": 2,
+     "win_rate": 0.519,
+     "shrunk": 0.489
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 11,
+     "wins": 0,
+     "losses": 10,
+     "ties": 1,
+     "win_rate": 0.03,
+     "shrunk": 0.318
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 16,
+     "wins": 10,
+     "losses": 3,
+     "ties": 3,
+     "win_rate": 0.688,
+     "shrunk": 0.57
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 5,
+     "wins": 1,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.2,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 5,
+     "wins": 4,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.867,
+     "shrunk": 0.554
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 5,
+     "wins": 4,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.8,
+     "shrunk": 0.541
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 8,
+     "wins": 2,
+     "losses": 6,
+     "ties": 0,
+     "win_rate": 0.25,
+     "shrunk": 0.411
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 6,
+     "wins": 4,
+     "losses": 0,
+     "ties": 2,
+     "win_rate": 0.778,
+     "shrunk": 0.546
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 12,
+     "wins": 3,
+     "losses": 8,
+     "ties": 1,
+     "win_rate": 0.278,
+     "shrunk": 0.402
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 4,
+     "wins": 3,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.75,
+     "shrunk": 0.522
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 2,
+     "wins": 0,
+     "losses": 0,
+     "ties": 2,
+     "win_rate": 0.333,
+     "shrunk": 0.463
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 0,
+     "wins": 0,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": null,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 4,
+     "wins": 2,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.48
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 0,
+     "wins": 0,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": null,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    }
+   ]
+  },
+  "raging-bolt-ogerpon": {
+   "name": "Raging Bolt Ogerpon",
+   "players": 35,
+   "share": 0.0097,
+   "prev_share": 0.014,
+   "day2_share": 0.0091,
+   "day2_conversion": 0.94,
+   "top_cut": 0,
+   "record": {
+    "wins": 246,
+    "losses": 330,
+    "ties": 75,
+    "win_rate": 0.416,
+    "tie_rate": 0.115
+   },
+   "day2_record": {
+    "wins": 19,
+    "losses": 31,
+    "ties": 7,
+    "win_rate": 0.374
+   },
+   "expected_vs_field": 0.438,
+   "expected_vs_day2": 0.437,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 127,
+     "wins": 46,
+     "losses": 62,
+     "ties": 19,
+     "win_rate": 0.412,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 49,
+     "wins": 15,
+     "losses": 29,
+     "ties": 5,
+     "win_rate": 0.34,
+     "shrunk": 0.379
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 46,
+     "wins": 21,
+     "losses": 25,
+     "ties": 0,
+     "win_rate": 0.457,
+     "shrunk": 0.462
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 41,
+     "wins": 18,
+     "losses": 20,
+     "ties": 3,
+     "win_rate": 0.463,
+     "shrunk": 0.467
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 48,
+     "wins": 20,
+     "losses": 23,
+     "ties": 5,
+     "win_rate": 0.451,
+     "shrunk": 0.459
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 40,
+     "wins": 7,
+     "losses": 28,
+     "ties": 5,
+     "win_rate": 0.217,
+     "shrunk": 0.303
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 38,
+     "wins": 17,
+     "losses": 21,
+     "ties": 0,
+     "win_rate": 0.447,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 46,
+     "wins": 18,
+     "losses": 19,
+     "ties": 9,
+     "win_rate": 0.457,
+     "shrunk": 0.462
+    },
+    {
+     "vs": "festival-lead",
+     "games": 20,
+     "wins": 6,
+     "losses": 11,
+     "ties": 3,
+     "win_rate": 0.35,
+     "shrunk": 0.413
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 16,
+     "wins": 5,
+     "losses": 5,
+     "ties": 6,
+     "win_rate": 0.438,
+     "shrunk": 0.459
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 17,
+     "wins": 7,
+     "losses": 9,
+     "ties": 1,
+     "win_rate": 0.431,
+     "shrunk": 0.455
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 21,
+     "wins": 2,
+     "losses": 19,
+     "ties": 0,
+     "win_rate": 0.095,
+     "shrunk": 0.281
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 6,
+     "wins": 2,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.389,
+     "shrunk": 0.456
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 23,
+     "wins": 7,
+     "losses": 13,
+     "ties": 3,
+     "win_rate": 0.348,
+     "shrunk": 0.407
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 4,
+     "wins": 1,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.417,
+     "shrunk": 0.466
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 7,
+     "wins": 4,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.571,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 7,
+     "wins": 5,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.714,
+     "shrunk": 0.538
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 4,
+     "wins": 2,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.48
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 7,
+     "wins": 5,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.714,
+     "shrunk": 0.538
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 6,
+     "wins": 3,
+     "losses": 0,
+     "ties": 3,
+     "win_rate": 0.667,
+     "shrunk": 0.52
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 12,
+     "wins": 8,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.694,
+     "shrunk": 0.558
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 7,
+     "wins": 2,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.333,
+     "shrunk": 0.439
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 3,
+     "wins": 0,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.414
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 4,
+     "wins": 1,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.333,
+     "shrunk": 0.452
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 5,
+     "wins": 2,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.467,
+     "shrunk": 0.474
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 2,
+     "wins": 1,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.478
+    }
+   ]
+  },
+  "alakazam-dusknoir": {
+   "name": "Alakazam Dusknoir",
+   "players": 34,
+   "share": 0.0094,
+   "prev_share": 0.0102,
+   "day2_share": 0.0168,
+   "day2_conversion": 1.78,
+   "top_cut": 2,
+   "record": {
+    "wins": 333,
+    "losses": 270,
+    "ties": 53,
+    "win_rate": 0.535,
+    "tie_rate": 0.081
+   },
+   "day2_record": {
+    "wins": 66,
+    "losses": 50,
+    "ties": 9,
+    "win_rate": 0.552
+   },
+   "expected_vs_field": 0.517,
+   "expected_vs_day2": 0.512,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 113,
+     "wins": 48,
+     "losses": 53,
+     "ties": 12,
+     "win_rate": 0.46,
+     "shrunk": 0.463
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 45,
+     "wins": 19,
+     "losses": 20,
+     "ties": 6,
+     "win_rate": 0.467,
+     "shrunk": 0.469
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 55,
+     "wins": 28,
+     "losses": 26,
+     "ties": 1,
+     "win_rate": 0.515,
+     "shrunk": 0.505
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 41,
+     "wins": 29,
+     "losses": 11,
+     "ties": 1,
+     "win_rate": 0.715,
+     "shrunk": 0.637
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 34,
+     "wins": 24,
+     "losses": 10,
+     "ties": 0,
+     "win_rate": 0.706,
+     "shrunk": 0.621
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 32,
+     "wins": 19,
+     "losses": 6,
+     "ties": 7,
+     "win_rate": 0.667,
+     "shrunk": 0.593
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 34,
+     "wins": 30,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.882,
+     "shrunk": 0.732
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 35,
+     "wins": 16,
+     "losses": 17,
+     "ties": 2,
+     "win_rate": 0.476,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "festival-lead",
+     "games": 30,
+     "wins": 13,
+     "losses": 12,
+     "ties": 5,
+     "win_rate": 0.489,
+     "shrunk": 0.484
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 15,
+     "wins": 3,
+     "losses": 10,
+     "ties": 2,
+     "win_rate": 0.244,
+     "shrunk": 0.377
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 22,
+     "wins": 14,
+     "losses": 6,
+     "ties": 2,
+     "win_rate": 0.667,
+     "shrunk": 0.576
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 26,
+     "wins": 6,
+     "losses": 17,
+     "ties": 3,
+     "win_rate": 0.269,
+     "shrunk": 0.359
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 14,
+     "wins": 2,
+     "losses": 10,
+     "ties": 2,
+     "win_rate": 0.19,
+     "shrunk": 0.358
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 17,
+     "wins": 3,
+     "losses": 11,
+     "ties": 3,
+     "win_rate": 0.235,
+     "shrunk": 0.365
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 16,
+     "wins": 4,
+     "losses": 10,
+     "ties": 2,
+     "win_rate": 0.292,
+     "shrunk": 0.394
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 11,
+     "wins": 3,
+     "losses": 8,
+     "ties": 0,
+     "win_rate": 0.273,
+     "shrunk": 0.404
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 13,
+     "wins": 6,
+     "losses": 5,
+     "ties": 2,
+     "win_rate": 0.513,
+     "shrunk": 0.49
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 7,
+     "wins": 2,
+     "losses": 5,
+     "ties": 0,
+     "win_rate": 0.286,
+     "shrunk": 0.427
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 8,
+     "wins": 6,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.75,
+     "shrunk": 0.554
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 5,
+     "wins": 4,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.8,
+     "shrunk": 0.541
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 4,
+     "wins": 1,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.25,
+     "shrunk": 0.438
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 7,
+     "wins": 4,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.619,
+     "shrunk": 0.513
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 4,
+     "wins": 3,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.75,
+     "shrunk": 0.522
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 4,
+     "wins": 4,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.563
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 5,
+     "wins": 4,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.8,
+     "shrunk": 0.541
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 6,
+     "wins": 3,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.481
+    }
+   ]
+  },
+  "seaking-pre": {
+   "name": "Seaking Festival Lead",
+   "players": 23,
+   "share": 0.0064,
+   "prev_share": 0.0056,
+   "day2_share": 0.0122,
+   "day2_conversion": 1.91,
+   "top_cut": 0,
+   "record": {
+    "wins": 172,
+    "losses": 146,
+    "ties": 57,
+    "win_rate": 0.509,
+    "tie_rate": 0.152
+   },
+   "day2_record": {
+    "wins": 26,
+    "losses": 28,
+    "ties": 10,
+    "win_rate": 0.458
+   },
+   "expected_vs_field": 0.486,
+   "expected_vs_day2": 0.483,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 65,
+     "wins": 23,
+     "losses": 33,
+     "ties": 9,
+     "win_rate": 0.4,
+     "shrunk": 0.418
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 21,
+     "wins": 11,
+     "losses": 4,
+     "ties": 6,
+     "win_rate": 0.619,
+     "shrunk": 0.549
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 32,
+     "wins": 9,
+     "losses": 23,
+     "ties": 0,
+     "win_rate": 0.281,
+     "shrunk": 0.356
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 25,
+     "wins": 12,
+     "losses": 9,
+     "ties": 4,
+     "win_rate": 0.533,
+     "shrunk": 0.508
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 26,
+     "wins": 13,
+     "losses": 5,
+     "ties": 8,
+     "win_rate": 0.603,
+     "shrunk": 0.547
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 22,
+     "wins": 12,
+     "losses": 3,
+     "ties": 7,
+     "win_rate": 0.652,
+     "shrunk": 0.568
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 12,
+     "wins": 6,
+     "losses": 4,
+     "ties": 2,
+     "win_rate": 0.556,
+     "shrunk": 0.506
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 16,
+     "wins": 6,
+     "losses": 8,
+     "ties": 2,
+     "win_rate": 0.417,
+     "shrunk": 0.45
+    },
+    {
+     "vs": "festival-lead",
+     "games": 15,
+     "wins": 9,
+     "losses": 6,
+     "ties": 0,
+     "win_rate": 0.6,
+     "shrunk": 0.529
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 13,
+     "wins": 3,
+     "losses": 8,
+     "ties": 2,
+     "win_rate": 0.282,
+     "shrunk": 0.4
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 13,
+     "wins": 8,
+     "losses": 2,
+     "ties": 3,
+     "win_rate": 0.692,
+     "shrunk": 0.561
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 12,
+     "wins": 9,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.806,
+     "shrunk": 0.599
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 9,
+     "wins": 6,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.535
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 13,
+     "wins": 10,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.795,
+     "shrunk": 0.602
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 8,
+     "wins": 4,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.483
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 8,
+     "wins": 1,
+     "losses": 7,
+     "ties": 0,
+     "win_rate": 0.125,
+     "shrunk": 0.376
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 6,
+     "wins": 4,
+     "losses": 0,
+     "ties": 2,
+     "win_rate": 0.778,
+     "shrunk": 0.546
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 6,
+     "wins": 4,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.722,
+     "shrunk": 0.533
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 2,
+     "wins": 1,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 3,
+     "wins": 0,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.414
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 2,
+     "wins": 2,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.524
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 2,
+     "wins": 0,
+     "losses": 0,
+     "ties": 2,
+     "win_rate": 0.333,
+     "shrunk": 0.463
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 4,
+     "wins": 1,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.25,
+     "shrunk": 0.438
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 2,
+     "wins": 1,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 3,
+     "wins": 3,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.544
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 2,
+     "wins": 1,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 2,
+     "wins": 1,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.667,
+     "shrunk": 0.493
+    }
+   ]
+  },
+  "ogerpon-meganium-arboliva": {
+   "name": "Ogerpon Meganium Arboliva",
+   "players": 23,
+   "share": 0.0064,
+   "prev_share": 0.0033,
+   "day2_share": 0.0076,
+   "day2_conversion": 1.2,
+   "top_cut": 0,
+   "record": {
+    "wins": 131,
+    "losses": 117,
+    "ties": 49,
+    "win_rate": 0.496,
+    "tie_rate": 0.165
+   },
+   "day2_record": {
+    "wins": 16,
+    "losses": 10,
+    "ties": 4,
+    "win_rate": 0.578
+   },
+   "expected_vs_field": 0.48,
+   "expected_vs_day2": 0.474,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 61,
+     "wins": 18,
+     "losses": 30,
+     "ties": 13,
+     "win_rate": 0.366,
+     "shrunk": 0.393
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 20,
+     "wins": 9,
+     "losses": 7,
+     "ties": 4,
+     "win_rate": 0.517,
+     "shrunk": 0.496
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 28,
+     "wins": 12,
+     "losses": 12,
+     "ties": 4,
+     "win_rate": 0.476,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 17,
+     "wins": 8,
+     "losses": 6,
+     "ties": 3,
+     "win_rate": 0.529,
+     "shrunk": 0.5
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 21,
+     "wins": 12,
+     "losses": 6,
+     "ties": 3,
+     "win_rate": 0.619,
+     "shrunk": 0.549
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 14,
+     "wins": 6,
+     "losses": 7,
+     "ties": 1,
+     "win_rate": 0.452,
+     "shrunk": 0.466
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 16,
+     "wins": 7,
+     "losses": 7,
+     "ties": 2,
+     "win_rate": 0.479,
+     "shrunk": 0.477
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 16,
+     "wins": 2,
+     "losses": 11,
+     "ties": 3,
+     "win_rate": 0.188,
+     "shrunk": 0.348
+    },
+    {
+     "vs": "festival-lead",
+     "games": 8,
+     "wins": 4,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.542,
+     "shrunk": 0.495
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 7,
+     "wins": 4,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.667,
+     "shrunk": 0.525
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 4,
+     "wins": 0,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.083,
+     "shrunk": 0.41
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 7,
+     "wins": 2,
+     "losses": 2,
+     "ties": 3,
+     "win_rate": 0.429,
+     "shrunk": 0.464
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 9,
+     "wins": 6,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.741,
+     "shrunk": 0.558
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 12,
+     "wins": 9,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.806,
+     "shrunk": 0.599
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 5,
+     "wins": 3,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.6,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 3,
+     "wins": 2,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.667,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 6,
+     "wins": 5,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.889,
+     "shrunk": 0.571
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 4,
+     "wins": 2,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.48
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 0,
+     "wins": 0,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": null,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 0,
+     "wins": 0,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": null,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 3,
+     "wins": 3,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.544
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 2,
+     "wins": 1,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 4,
+     "wins": 1,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.25,
+     "shrunk": 0.438
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    }
+   ]
+  },
+  "ethan-typhlosion": {
+   "name": "Ethan's Typhlosion",
+   "players": 22,
+   "share": 0.0061,
+   "prev_share": 0.0056,
+   "day2_share": 0.0015,
+   "day2_conversion": 0.25,
+   "top_cut": 0,
+   "record": {
+    "wins": 105,
+    "losses": 160,
+    "ties": 43,
+    "win_rate": 0.387,
+    "tie_rate": 0.14
+   },
+   "day2_record": {
+    "wins": 5,
+    "losses": 1,
+    "ties": 1,
+    "win_rate": 0.762
+   },
+   "expected_vs_field": 0.441,
+   "expected_vs_day2": 0.43,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 66,
+     "wins": 14,
+     "losses": 42,
+     "ties": 10,
+     "win_rate": 0.263,
+     "shrunk": 0.312
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 13,
+     "wins": 8,
+     "losses": 2,
+     "ties": 3,
+     "win_rate": 0.692,
+     "shrunk": 0.561
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 20,
+     "wins": 3,
+     "losses": 14,
+     "ties": 3,
+     "win_rate": 0.2,
+     "shrunk": 0.338
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 13,
+     "wins": 5,
+     "losses": 7,
+     "ties": 1,
+     "win_rate": 0.41,
+     "shrunk": 0.45
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 18,
+     "wins": 9,
+     "losses": 7,
+     "ties": 2,
+     "win_rate": 0.537,
+     "shrunk": 0.505
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 11,
+     "wins": 1,
+     "losses": 7,
+     "ties": 3,
+     "win_rate": 0.182,
+     "shrunk": 0.372
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 13,
+     "wins": 12,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.923,
+     "shrunk": 0.652
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 25,
+     "wins": 3,
+     "losses": 19,
+     "ties": 3,
+     "win_rate": 0.16,
+     "shrunk": 0.3
+    },
+    {
+     "vs": "festival-lead",
+     "games": 17,
+     "wins": 3,
+     "losses": 13,
+     "ties": 1,
+     "win_rate": 0.196,
+     "shrunk": 0.347
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 9,
+     "wins": 2,
+     "losses": 6,
+     "ties": 1,
+     "win_rate": 0.259,
+     "shrunk": 0.409
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 13,
+     "wins": 9,
+     "losses": 2,
+     "ties": 2,
+     "win_rate": 0.744,
+     "shrunk": 0.581
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 6,
+     "wins": 4,
+     "losses": 0,
+     "ties": 2,
+     "win_rate": 0.778,
+     "shrunk": 0.546
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 5,
+     "wins": 0,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.067,
+     "shrunk": 0.394
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 10,
+     "wins": 5,
+     "losses": 5,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.484
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 9,
+     "wins": 2,
+     "losses": 5,
+     "ties": 2,
+     "win_rate": 0.296,
+     "shrunk": 0.42
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 1,
+     "wins": 0,
+     "losses": 0,
+     "ties": 1,
+     "win_rate": 0.333,
+     "shrunk": 0.469
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 2,
+     "wins": 0,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.433
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 2,
+     "wins": 0,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.167,
+     "shrunk": 0.448
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 2,
+     "wins": 0,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.167,
+     "shrunk": 0.448
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 4,
+     "wins": 2,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.48
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 4,
+     "wins": 2,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.583,
+     "shrunk": 0.494
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 4,
+     "wins": 0,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.397
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 3,
+     "wins": 0,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.414
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 4,
+     "wins": 3,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.75,
+     "shrunk": 0.522
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 4,
+     "wins": 4,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.563
+    }
+   ]
+  },
+  "dragapult-dudunsparce": {
+   "name": "Dragapult Dudunsparce",
+   "players": 21,
+   "share": 0.0058,
+   "prev_share": 0.0041,
+   "day2_share": 0.0076,
+   "day2_conversion": 1.31,
+   "top_cut": 0,
+   "record": {
+    "wins": 125,
+    "losses": 131,
+    "ties": 36,
+    "win_rate": 0.469,
+    "tie_rate": 0.123
+   },
+   "day2_record": {
+    "wins": 15,
+    "losses": 14,
+    "ties": 7,
+    "win_rate": 0.481
+   },
+   "expected_vs_field": 0.47,
+   "expected_vs_day2": 0.469,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 59,
+     "wins": 24,
+     "losses": 30,
+     "ties": 5,
+     "win_rate": 0.435,
+     "shrunk": 0.445
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 15,
+     "wins": 6,
+     "losses": 7,
+     "ties": 2,
+     "win_rate": 0.444,
+     "shrunk": 0.462
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 22,
+     "wins": 12,
+     "losses": 7,
+     "ties": 3,
+     "win_rate": 0.591,
+     "shrunk": 0.536
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 14,
+     "wins": 2,
+     "losses": 7,
+     "ties": 5,
+     "win_rate": 0.262,
+     "shrunk": 0.388
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 24,
+     "wins": 12,
+     "losses": 12,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.489
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 11,
+     "wins": 4,
+     "losses": 6,
+     "ties": 1,
+     "win_rate": 0.394,
+     "shrunk": 0.447
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 12,
+     "wins": 5,
+     "losses": 6,
+     "ties": 1,
+     "win_rate": 0.444,
+     "shrunk": 0.464
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 20,
+     "wins": 12,
+     "losses": 5,
+     "ties": 3,
+     "win_rate": 0.65,
+     "shrunk": 0.563
+    },
+    {
+     "vs": "festival-lead",
+     "games": 14,
+     "wins": 7,
+     "losses": 3,
+     "ties": 4,
+     "win_rate": 0.595,
+     "shrunk": 0.525
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 3,
+     "wins": 0,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.414
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 7,
+     "wins": 5,
+     "losses": 0,
+     "ties": 2,
+     "win_rate": 0.81,
+     "shrunk": 0.562
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 18,
+     "wins": 7,
+     "losses": 10,
+     "ties": 1,
+     "win_rate": 0.407,
+     "shrunk": 0.443
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 3,
+     "wins": 1,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.444,
+     "shrunk": 0.472
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 11,
+     "wins": 4,
+     "losses": 4,
+     "ties": 3,
+     "win_rate": 0.455,
+     "shrunk": 0.468
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 4,
+     "wins": 1,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.25,
+     "shrunk": 0.438
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 4,
+     "wins": 1,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.25,
+     "shrunk": 0.438
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 2,
+     "wins": 0,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.167,
+     "shrunk": 0.448
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 2,
+     "wins": 0,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.433
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 0,
+     "wins": 0,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": null,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 0,
+     "wins": 0,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": null,
+     "shrunk": 0.476
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 5,
+     "wins": 2,
+     "losses": 2,
+     "ties": 1,
+     "win_rate": 0.467,
+     "shrunk": 0.474
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 5,
+     "wins": 1,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.2,
+     "shrunk": 0.421
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 2,
+     "wins": 1,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-venusaur-ex",
+     "games": 4,
+     "wins": 4,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.563
+    }
+   ]
+  },
+  "mega-venusaur-ex": {
+   "name": "Mega Venusaur",
+   "players": 19,
+   "share": 0.0053,
+   "prev_share": 0.0066,
+   "day2_share": 0.0015,
+   "day2_conversion": 0.29,
+   "top_cut": 0,
+   "record": {
+    "wins": 97,
+    "losses": 156,
+    "ties": 56,
+    "win_rate": 0.374,
+    "tie_rate": 0.181
+   },
+   "day2_record": {
+    "wins": 5,
+    "losses": 8,
+    "ties": 4,
+    "win_rate": 0.373
+   },
+   "expected_vs_field": 0.424,
+   "expected_vs_day2": 0.428,
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "games": 43,
+     "wins": 8,
+     "losses": 26,
+     "ties": 9,
+     "win_rate": 0.256,
+     "shrunk": 0.326
+    },
+    {
+     "vs": "n-zoroark",
+     "games": 26,
+     "wins": 10,
+     "losses": 11,
+     "ties": 5,
+     "win_rate": 0.449,
+     "shrunk": 0.461
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "games": 24,
+     "wins": 9,
+     "losses": 11,
+     "ties": 4,
+     "win_rate": 0.431,
+     "shrunk": 0.451
+    },
+    {
+     "vs": "basic-box-m",
+     "games": 18,
+     "wins": 11,
+     "losses": 7,
+     "ties": 0,
+     "win_rate": 0.611,
+     "shrunk": 0.54
+    },
+    {
+     "vs": "slowking-scr",
+     "games": 20,
+     "wins": 9,
+     "losses": 5,
+     "ties": 6,
+     "win_rate": 0.55,
+     "shrunk": 0.513
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "games": 26,
+     "wins": 4,
+     "losses": 17,
+     "ties": 5,
+     "win_rate": 0.218,
+     "shrunk": 0.33
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "games": 14,
+     "wins": 4,
+     "losses": 5,
+     "ties": 5,
+     "win_rate": 0.405,
+     "shrunk": 0.447
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "games": 19,
+     "wins": 4,
+     "losses": 11,
+     "ties": 4,
+     "win_rate": 0.281,
+     "shrunk": 0.381
+    },
+    {
+     "vs": "festival-lead",
+     "games": 6,
+     "wins": 0,
+     "losses": 5,
+     "ties": 1,
+     "win_rate": 0.056,
+     "shrunk": 0.379
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "games": 5,
+     "wins": 2,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.533,
+     "shrunk": 0.487
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "games": 9,
+     "wins": 4,
+     "losses": 3,
+     "ties": 2,
+     "win_rate": 0.519,
+     "shrunk": 0.489
+    },
+    {
+     "vs": "crustle-dri",
+     "games": 12,
+     "wins": 4,
+     "losses": 8,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.422
+    },
+    {
+     "vs": "lopunny-dudunsparce",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "lucario-hariyama",
+     "games": 8,
+     "wins": 3,
+     "losses": 4,
+     "ties": 1,
+     "win_rate": 0.417,
+     "shrunk": 0.459
+    },
+    {
+     "vs": "rockets-honchkrow",
+     "games": 6,
+     "wins": 1,
+     "losses": 5,
+     "ties": 0,
+     "win_rate": 0.167,
+     "shrunk": 0.405
+    },
+    {
+     "vs": "lopunny-dusknoir",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "sharpedo-toxtricity",
+     "games": 3,
+     "wins": 1,
+     "losses": 2,
+     "ties": 0,
+     "win_rate": 0.333,
+     "shrunk": 0.457
+    },
+    {
+     "vs": "mega-lucario-ex",
+     "games": 5,
+     "wins": 1,
+     "losses": 3,
+     "ties": 1,
+     "win_rate": 0.267,
+     "shrunk": 0.434
+    },
+    {
+     "vs": "cynthia-garchomp-ex",
+     "games": 6,
+     "wins": 6,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.597
+    },
+    {
+     "vs": "grimmsnarl-froslass",
+     "games": 7,
+     "wins": 4,
+     "losses": 1,
+     "ties": 2,
+     "win_rate": 0.667,
+     "shrunk": 0.525
+    },
+    {
+     "vs": "rocket-mewtwo-ex",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "mega-greninja-ex",
+     "games": 1,
+     "wins": 0,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.453
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "games": 2,
+     "wins": 1,
+     "losses": 1,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.478
+    },
+    {
+     "vs": "alakazam-dusknoir",
+     "games": 6,
+     "wins": 3,
+     "losses": 3,
+     "ties": 0,
+     "win_rate": 0.5,
+     "shrunk": 0.481
+    },
+    {
+     "vs": "seaking-pre",
+     "games": 2,
+     "wins": 0,
+     "losses": 1,
+     "ties": 1,
+     "win_rate": 0.167,
+     "shrunk": 0.448
+    },
+    {
+     "vs": "ogerpon-meganium-arboliva",
+     "games": 1,
+     "wins": 1,
+     "losses": 0,
+     "ties": 0,
+     "win_rate": 1.0,
+     "shrunk": 0.501
+    },
+    {
+     "vs": "ethan-typhlosion",
+     "games": 4,
+     "wins": 0,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.397
+    },
+    {
+     "vs": "dragapult-dudunsparce",
+     "games": 4,
+     "wins": 0,
+     "losses": 4,
+     "ties": 0,
+     "win_rate": 0.0,
+     "shrunk": 0.397
+    }
+   ]
+  }
+ }
+}
