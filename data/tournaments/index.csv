@@ -1,4 +1,7 @@
 limitless_id,date,name,type,country,players,format_code,winner,labs_id,rk9_id,dir
+559,2026-05-30,"Regional Indianapolis, IN",regional,US,1974,TEF-POR,Cerys Jones,0068,IN01wT0IVRulcJxVUEZ0,2026-05-30_559_regional-indianapolis-in
+540,2026-06-06,Special Event Turin,special,IT,2033,TEF-CRI,Jose López,0069,TU01w1D52rjGebrE8szS,2026-06-06_540_special-event-turin
+518,2026-06-10,"NAIC 2026, New Orleans",international,US,3752,TEF-CRI,James Kowalski,0070,NA01wMo4vxttnwEyqclr,2026-06-10_518_naic-2026-new-orleans
 515,2026-08-28,World Championships 2026,worlds,US,797,TEF-PBL,Andrew Hedrick,0071,WCS01wI9lfI55wHtvrdy,2026-08-28_515_world-championships-2026
 577,2026-09-19,"Regional Baltimore, MD",regional,US,3122,TEF-PBL,Dylan Kasturi,0072,BA001-nEN1xl5ZJLGtFk,2026-09-19_577_regional-baltimore-md
 578,2026-09-26,Regional Brisbane,regional,AU,817,TEF-30C,Edmund Khoo,0073,BR001-5YdU57MmWxTxaY,2026-09-26_578_regional-brisbane

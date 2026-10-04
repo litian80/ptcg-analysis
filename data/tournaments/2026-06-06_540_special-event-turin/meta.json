@@ -1,0 +1,23 @@
+{
+  "limitless_id": "540",
+  "date": "2026-06-06",
+  "name": "Special Event Turin",
+  "type": "special",
+  "country": "IT",
+  "players": 2033,
+  "winner": "Jose López",
+  "format_code": "TEF-CRI",
+  "format_name": "Temporal Forces - Chaos Rising",
+  "rk9_id": "TU01w1D52rjGebrE8szS",
+  "labs_id": "0069",
+  "counts": {
+    "decklists": 383,
+    "standings": 2033,
+    "matches": 8320
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/540",
+    "https://labs.limitlesstcg.com/0069/standings",
+    "https://rk9.gg/pairings/TU01w1D52rjGebrE8szS"
+  ]
+}
