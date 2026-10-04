@@ -79,11 +79,11 @@ def test_cli_end_to_end_local(board_video, tmp_path, monkeypatch):
         "--window", "15", "--out", str(out),
     ])
     assert rc == 0
-    report = (out / "match" / "report.md").read_text()
+    report = (out / "match" / "report.md").read_text(encoding="utf-8")
     assert "## Match report" in report and "对局概览" in report
     assert "Charizard ex / Pidgeot ex / 5" in report
     assert "| Charizard ex | 1 |" in report
-    timeline = json.loads((out / "match" / "timeline.json").read_text())
+    timeline = json.loads((out / "match" / "timeline.json").read_text(encoding="utf-8"))
     assert timeline[0]["players"][1]["active"] == "Gardevoir ex"
 
 
@@ -91,5 +91,5 @@ def test_cli_no_llm(board_video, tmp_path):
     out = tmp_path / "out"
     assert cli.main(["analyze", str(board_video), "--captions", str(FIXTURES / "simple.srt"),
                      "--no-llm", "--out", str(out)]) == 0
-    report = (out / "match" / "report.md").read_text()
+    report = (out / "match" / "report.md").read_text(encoding="utf-8")
     assert "vision windows: 0" in report

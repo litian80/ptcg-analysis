@@ -26,14 +26,14 @@ def write_outputs(
     summary: str | None,
 ) -> Path:
     out_dir.mkdir(parents=True, exist_ok=True)
-    (out_dir / "transcript.json").write_text(json.dumps([s.to_dict() for s in segments], ensure_ascii=False, indent=1))
-    (out_dir / "caption_events.json").write_text(json.dumps(captions.to_dict(), ensure_ascii=False, indent=1))
-    (out_dir / "frames.json").write_text(json.dumps([f.to_dict() for f in frames], indent=1))
+    (out_dir / "transcript.json").write_text(json.dumps([s.to_dict() for s in segments], ensure_ascii=False, indent=1), encoding="utf-8")
+    (out_dir / "caption_events.json").write_text(json.dumps(captions.to_dict(), ensure_ascii=False, indent=1), encoding="utf-8")
+    (out_dir / "frames.json").write_text(json.dumps([f.to_dict() for f in frames], indent=1), encoding="utf-8")
     if windows:
         (out_dir / "timeline.json").write_text(
-            json.dumps([w.to_dict() for w in windows], ensure_ascii=False, indent=1)
+            json.dumps([w.to_dict() for w in windows], ensure_ascii=False, indent=1), encoding="utf-8"
         )
-    (out_dir / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1, default=str))
+    (out_dir / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1, default=str), encoding="utf-8")
 
     url = meta.get("url")
     lines = [f"# {meta.get('title') or meta.get('video_id')}", ""]

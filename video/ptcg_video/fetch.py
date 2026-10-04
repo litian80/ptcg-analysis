@@ -145,7 +145,7 @@ def from_local(video_path: str | Path | None, captions_path: str | Path | None, 
         raise ValueError("need a video file, a captions file, or both")
     stem = (vp or cp).name.split(".")[0]
     info_path = (vp or cp).with_name(f"{stem}.info.json")
-    info = json.loads(info_path.read_text()) if info_path.exists() else {}
+    info = json.loads(info_path.read_text(encoding="utf-8")) if info_path.exists() else {}
     return VideoSource(
         video_id=info.get("id", stem),
         title=info.get("title", stem),
