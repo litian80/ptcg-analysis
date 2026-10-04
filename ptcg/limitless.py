@@ -24,8 +24,8 @@ from .paths import TOURNAMENTS
 SITE = "https://limitlesstcg.com"
 LABS = "https://labs.limitlesstcg.com"
 
-# Limitless season filter values (season = Aug..Aug). 2324 is the first Scarlet & Violet season.
-SEASONS = ["2324", "2425", "2526", "2627"]
+# Limitless season filter values (Play! Pokémon season, Aug..Aug): 2526 = the 2026 season.
+SEASONS = ["2526", "2627"]
 TYPES = ["regional", "international", "special", "worlds"]
 
 INDEX_FIELDS = ["limitless_id", "date", "name", "type", "country", "players", "format_code",

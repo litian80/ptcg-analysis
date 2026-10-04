@@ -12,7 +12,7 @@ Pokémon TCG 的环境数据、卡组选择分析，以及对局记录/视频分
 | `data/formats/limitless_formats.csv` | 大赛实际使用的卡池窗口（如 `TEF-30C` = 从 Temporal Forces 到 30th Celebration） |
 | `data/cards/sets.csv`, `cards.csv` | Sword & Shield 以来所有系列和卡牌（含 regulation mark） |
 | `data/cards/standard_card_names.txt` | 当前 Standard 合法卡名清单 |
-| `data/tournaments/index.csv` | 已收录的大赛（Regional、International、Special Event、Worlds） |
+| `data/tournaments/index.csv` | 已收录的大赛（2026 赛季起的 Regional、International、Special Event、Worlds） |
 | `data/tournaments/<日期>_<id>_<名称>/` | 每场比赛：`meta.json`、`standings.csv`（名次、战绩、卡组）、`decklists.jsonl`（完整 60 张卡表）、`matches.csv`（每一轮每一桌的双方卡组和胜负） |
 | `video/` | YouTube 对局视频分析（另一条工作线） |
 

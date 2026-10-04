@@ -13,7 +13,7 @@ on:
       seasons:
         description: "Limitless season filters"
         required: false
-        default: "2324,2425,2526,2627"
+        default: "2526,2627"
 
 permissions:
   contents: write
@@ -42,7 +42,7 @@ jobs:
           PTCG_CACHE: ${{ runner.temp }}/http
         run: |
           python -m ptcg tournaments \
-            --seasons "${{ inputs.seasons || '2324,2425,2526,2627' }}" \
+            --seasons "${{ inputs.seasons || '2526,2627' }}" \
             --max "${{ inputs.max || '1000' }}"
 
       - name: Commit
