@@ -59,17 +59,19 @@ def stats(window: str) -> dict:
         by_placing = {}
         for r in _read_csv(d / "standings.csv"):
             slug = r["archetype_slug"]
-            by_placing[r["placing"]] = slug
+            if r["placing"]:
+                by_placing[r["placing"]] = slug
             n_players += 1
             n_day2 += r.get("day2") == "True"
-            if not slug or slug == "other":
+            if not slug or slug == "other" or slug.startswith("?"):   # "?icons" = unresolved
                 continue
             names[slug] = r["archetype"]
             players[slug] += 1
             day2[slug] += r.get("day2") == "True"
         for m in _read_csv(d / "matches.csv"):
             a, b, res = m["p1_archetype_slug"], m["p2_archetype_slug"], m["result"]
-            if res not in ("p1", "p2", "tie") or not a or not b or a == b:
+            if (res not in ("p1", "p2", "tie") or not a or not b or a == b
+                    or a.startswith("?") or b.startswith("?")):
                 continue
             ra = {"p1": 0, "p2": 1, "tie": 2}[res]
             rb = {"p1": 1, "p2": 0, "tie": 2}[res]
@@ -125,6 +127,23 @@ def _num(x):
     return int(x) if x == int(x) else x
 
 
+SECTIONS = {"pokemon": "Pokémon", "trainer": "Trainer", "energy": "Energy"}
+
+
+def _entries(deck: dict) -> list[dict]:
+    """A deck's cards as dicts, from either the list-of-dicts or the {section: ["4 Name SET 12"]} layout."""
+    cards = deck["cards"]
+    if isinstance(cards, list):
+        return cards
+    out = []
+    for key, lines in cards.items():
+        for line in lines:
+            tokens = line.split()
+            out.append({"count": int(tokens[0]), "name": " ".join(tokens[1:-2]), "set": tokens[-2],
+                        "number": tokens[-1], "section": SECTIONS.get(key, key)})
+    return out
+
+
 def _core(decks: list[dict]) -> list[dict]:
     if not decks:
         return []
@@ -133,7 +152,7 @@ def _core(decks: list[dict]) -> list[dict]:
     printing = collections.defaultdict(collections.Counter)
     for deck in decks:
         per = collections.Counter()
-        for c in deck["cards"]:
+        for c in _entries(deck):
             per[c["name"]] += c["count"]
             section[c["name"]] = c["section"]
             printing[c["name"]][f'{c["set"]} {c["number"]}'] += c["count"]
