@@ -49,7 +49,7 @@ support:
 prize_map:
   liability: >-
     Crustle 单奖。真正的风险是 Mega Kangaskhan ex（3 张）：对 ex 卡组时尽量不让它站在战斗场被打。
-    对手的非 ex 攻击手（Moltres、Munkidori、Dhelmise、Dipplin、Alakazam 的指示物）是这套牌的威胁。
+    对手的非 ex 攻击手（Moltres、Munkidori、Dhelmise、Dipplin、Dusknoir 的 Cursed Blast）是这套牌的威胁。Alakazam 的 Powerful Hand 是招式效果，会被 Mist Energy 挡住。
   routes:
     - name: 对只有 ex 攻击手的卡组（默认）
       steps:
@@ -85,7 +85,7 @@ matchups:
     plan: 对手两个主攻都是 ex。注意 Munkidori 挪指示物和 Phantom Dive 的后备区指示物（Mist Energy 挡住后者）。
   - vs: dragapult-ex
     win_rate: 0.677
-    plan: 同上；对手的 Moltres（非 ex）只打 20。
+    plan: 同上；对手的 Moltres（非 ex，火属性）打 20，Crustle 弱火所以是 40。
 
 mistakes:
   - 对 ex 卡组时让 Mega Kangaskhan ex 站在战斗场，被一击送 3 张。

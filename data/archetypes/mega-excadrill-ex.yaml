@@ -102,7 +102,7 @@ matchups:
     plan: 数据上很差，原因没有从卡表推出。
   - vs: dragapult-blaziken
     win_rate: 0.253
-    plan: Excadrill 弱火，对手 Blaziken ex 的 Smolder-sault 200 ×2 = 400 一击。Hero's Cape（440 HP）也不够，尽量换 Skarmory 或 Genesect ex 接招。
+    plan: Excadrill 弱火，对手 Blaziken ex 的 Smolder-sault 200 ×2 = 400 一击。贴 Hero's Cape 后是 440 HP，能扛住一下；没贴就尽量换 Skarmory 或 Genesect ex 接招。
   - vs: crustle-dri
     win_rate: 0.695
     plan: Crustle 挡 ex 的伤害，用 Metagross（非 ex）弃 3 个能量打 300。

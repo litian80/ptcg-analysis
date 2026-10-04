@@ -14,7 +14,7 @@ summary: >-
 setup:
   turn_1:
     - 战斗场放 Latias ex（Skyliner：我方基础宝可梦撤退费 0），后备区放 Teal Mask Ogerpon ex。
-    - Teal Dance 贴草能量抽 1，手贴第 2 个能量；Crispin 找两种不同的基本能量。
+    - Teal Dance 贴草能量抽 1，手贴第 2 个能量；后攻时 Crispin 找两种不同的基本能量（先攻第 1 回合不能用支援者）。
     - 打出 Area Zero Underdepths，把后备区扩到 8 格。
   turn_2:
     - 按对手选主攻：对龙用 Lillie's Clefairy ex 开 Fairy Zone 后 Latias ex 打 400；对单奖用 Raging Bolt ex 或 Iron Leaves ex。
@@ -72,7 +72,7 @@ attackers:
 
 support:
   - card: Lillie's Clefairy ex
-    role: Fairy Zone 让对手龙属性弱超能（Dragapult ex、N's Zekrom/Reshiram、Raging Bolt ex）
+    role: Fairy Zone 让对手龙属性弱超能（Dragapult ex、N's Zekrom/Reshiram 等对手的龙属性宝可梦）
     prizes: 2
   - card: Meowth ex
     role: 每份卡表 3 张；上场找支援者
@@ -113,7 +113,7 @@ matchups:
     plan: 对方单奖，你送 2-3 张它拿 1 张。Wellspring Ogerpon 狙后备区 Abra/Kadabra，早点断进化。
   - vs: crustle-dri
     win_rate: 0.435
-    plan: ex 打不了 Crustle。用 Enamorus（双方都有草属性时 200，够击倒带 Growing Grass Energy 的 170 HP Crustle）；Chien-Pao 只有 120，要两下。
+    plan: ex 打不了 Crustle。用 Enamorus（双方都有草属性时 200，够击倒带 1 个 Growing Grass Energy 的 170 HP Crustle；贴了 Hero's Cape 的 Crustle 有 250 以上，打不倒）；Chien-Pao 只有 120，要两下。
   - vs: dragapult-ex
     win_rate: 0.506
     plan: 见上面"对 Dragapult"路线；Lillie's Clefairy ex 是关键，对手会优先 Boss 它。

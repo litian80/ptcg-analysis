@@ -46,7 +46,9 @@ jobs:
             --max "${{ inputs.max || '1000' }}"
 
       - name: Deck selection numbers
-        run: python -m ptcg.selection
+        run: |
+          python -m ptcg.selection
+          python -m ptcg.matchups
 
       - name: Commit
         run: |

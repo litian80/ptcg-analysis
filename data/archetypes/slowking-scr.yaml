@@ -14,7 +14,7 @@ summary: >-
 setup:
   turn_1:
     - 战斗场的 Slowpoke 手贴 Telepathic Psychic Energy，从牌库拿 2 只基础超能宝可梦（通常 Slowpoke ×2）到后备区。
-    - 打出 Academy at Night。Ciphermaniac's Codebreaking 把下两回合要用的牌叠在牌库顶。
+    - 打出 Academy at Night。后攻时 Ciphermaniac's Codebreaking 把下两回合要用的牌叠在牌库顶（先攻第 1 回合不能用支援者）。
   turn_2:
     - Slowpoke 进化 Slowking，贴第 2 个能量（Boomerang Energy 当无色）。
     - 攻击前的顺序：先用会洗牌的牌（Lillie's Determination、Ultra Ball、Poké Pad），最后用 Academy at Night 把目标宝可梦放到牌库顶，再 Seek Inspiration。
@@ -51,9 +51,10 @@ attackers:
 
 copy_targets:
   - {card: Kyurem, printing: SFA 47, attack: Trifrost, effect: 对手 3 只宝可梦各 110；弃掉 Slowking 身上全部能量（Boomerang Energy 会回来）}
-  - {card: Zeraora, printing: DRI 78, attack: Thunder Raid, effect: 对手后备区一只 ex 210；弃掉全部能量}
+  - {card: Zeraora, printing: DRI 78, attack: Thunder Raid, effect: 对手后备区一只 ex 210；弃掉全部能量。后备区的太晶 ex（Dragapult ex、Teal/Wellspring Mask Ogerpon ex）不受招式伤害，打不了}
   - {card: Metagross, printing: CRI 61, attack: Metallic Hammer, effect: 150（Slowking 没有钢能量，不能 +150）}
   - {card: Annihilape, printing: PBL 41, attack: Ghostly Blow, effect: 100 + 对手后备区一只 5 个指示物}
+  - {card: Annihilape, printing: SSP 100, attack: Destined Fight, effect: 双方战斗场宝可梦都被击倒；约三分之一卡表带，用 1 奖的 Slowking 换对手 2-3 奖}
   - {card: Pawmot, printing: PFL 34, attack: Voltaic Fist, effect: 130，可选自伤 60 让对手麻痹}
 
 support:
@@ -85,7 +86,7 @@ prize_map:
       steps:
         - {turn: 2, take: 0, target: 对手 3 只宝可梦, how: Trifrost 各 110，小怪（110 HP 以下）直接倒}
         - {turn: 3, take: 2, target: 被 Trifrost 打过的 ex, how: Metallic Hammer 150 或 Kangaskhan 200 补刀}
-        - {turn: 4, take: 2, target: 后备区 ex, how: Zeraora 的 Thunder Raid 210 直接打后备区}
+        - {turn: 4, take: 2, target: 后备区 ex, how: Zeraora 的 Thunder Raid 210 直接打后备区（太晶 ex 不行）}
         - {turn: 5, take: 2, target: 剩下的 ex, how: 收尾}
     - name: 对单奖、多小怪卡组
       steps:
@@ -99,7 +100,7 @@ matchups:
     plan: 数据上很差。对手 Battle Cage 挡住 Annihilape 放到后备区的指示物，Alakazam 140 HP 也撑得过 Trifrost。原因是推断的。
   - vs: dhelmise-pbl
     win_rate: 0.231
-    plan: 数据上很差。对手的 Hide 'n' Sneak 挡住 Ghostly Blow 的指示物等招式效果，Dhelmise 的 170 一击就能击倒 120 HP 的 Slowking。原因是推断的。
+    plan: 数据上很差。对手 Shuppet、Banette、Poltchageist、Sinistcha 的 Hide 'n' Sneak 挡住 Ghostly Blow 的指示物等招式效果（Dhelmise 本身没有这个特性），Dhelmise 的 170 一击就能击倒 120 HP 的 Slowking。原因是推断的。
   - vs: basic-box-m
     win_rate: 0.421
     plan: 对手 ex 多，Zeraora 狙后备区 ex 是关键。
