@@ -14,9 +14,6 @@ on:
         description: "Limitless season filters"
         required: false
         default: "2324,2425,2526,2627"
-  push:
-    branches: ["claude/meta-data-foundation-gtijec"]
-    paths: ["ptcg/**", ".github/workflows/collect.yml", "data/formats/standard_rotations.json"]
 
 permissions:
   contents: write
@@ -46,7 +43,7 @@ jobs:
         run: |
           python -m ptcg tournaments \
             --seasons "${{ inputs.seasons || '2324,2425,2526,2627' }}" \
-            --max "${{ inputs.max || (github.event_name == 'push' && '3') || '1000' }}"
+            --max "${{ inputs.max || '1000' }}"
 
       - name: Commit
         run: |
@@ -55,7 +52,7 @@ jobs:
           git add data
           git diff --cached --quiet && exit 0
           git commit -m "data: refresh cards and tournaments [skip ci]"
-          git pull --rebase
+          git pull --rebase -X theirs  # on overlap, this run's fresher data wins
           git push
 
       - name: Rotation check
