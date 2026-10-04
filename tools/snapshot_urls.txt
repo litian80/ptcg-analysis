@@ -1,0 +1,11 @@
+https://limitlesstcg.com/tournaments?time=all&type=all&format=standard
+https://limitlesstcg.com/tournaments/579
+https://limitlesstcg.com/tournaments/579/decklists
+https://limitlesstcg.com/tournaments/515
+https://limitlesstcg.com/tournaments/515/decklists
+https://limitlesstcg.com/decks?tournament=579
+https://rk9.gg/events/pokemon
+https://www.pokemon.com/us/play-pokemon/about/pokemon-tcg-banned-card-list
+https://www.pokemon.com/us/pokemon-news/2026-pokemon-tcg-standard-format-rotation-announcement
+https://bulbapedia.bulbagarden.net/wiki/2026-27_Standard_format_(TCG)
+https://bulbapedia.bulbagarden.net/wiki/Rotation_(TCG)
