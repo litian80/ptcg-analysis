@@ -1,0 +1,116 @@
+slug: dragapult-blaziken
+name: Dragapult Blaziken
+name_zh: 多龙巴鲁托 ex + 火焰鸡 ex
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 30 份卡表；卡牌效果取自 data/cards。打法是据此推断的，见 inferred。
+
+summary: >-
+  Dragapult 骨架（4-4-2）加一条 Torchic → Combusken → Blaziken ex（2-1-2，配 2 张 Rare Candy）。
+  Blaziken ex 的 Seething Spirit 每回合从弃牌区贴 1 个基本能量，让 Dragapult ex 被击倒后下一只立刻能打；
+  它自己的 Smolder-sault（Fire + 无色）打 200，对弱火的钢、草宝可梦就是 400。
+  两个 2 阶攻击手都给 2 张，节奏比纯 Dragapult 慢半拍但后劲足。
+
+setup:
+  turn_1:
+    - Buddy-Buddy Poffin 拿 Dreepy ×2 或 Dreepy + Torchic。后攻时 Budew 首攻锁物品。
+    - Torchic 在战斗场时 Collect 抽 1。
+  turn_2:
+    - Dreepy 进化 Drakloak；Rare Candy 让 Torchic 直接进化 Blaziken ex（不能在 Torchic 刚放下的回合用）。
+    - Crispin 找 Fire + Psychic。Dawn（90% 卡表）一次找三阶段。
+  turn_3:
+    - Dragapult ex 上场 Phantom Dive；Blaziken ex 每回合从弃牌区补能量（Ultra Ball 弃掉的能量正好回收）。
+  key_cards: [Dreepy, Drakloak, Dragapult ex, Torchic, Blaziken ex, Rare Candy, Crispin]
+
+attackers:
+  - card: Dragapult ex
+    printing: TWM 130
+    role: main
+    prizes: 2
+    attack: Phantom Dive
+    cost: Fire + Psychic
+    damage: 战斗场 200，后备区 6 个伤害指示物
+  - card: Blaziken ex
+    printing: JTG 24
+    role: main / energy
+    prizes: 2
+    attack: Smolder-sault
+    cost: Fire + Colorless
+    damage: 200，下回合不能攻击
+    notes: 320 HP，弱水。特性 Seething Spirit：每回合从弃牌区贴 1 个基本能量给任一宝可梦。
+  - card: Munkidori
+    printing: TWM 95
+    role: support-damage
+    prizes: 1
+    attack: Adrena-Brain（特性）
+    cost: 身上有 Darkness 能量
+    damage: 每回合挪 3 个伤害指示物
+  - card: Chi-Yu
+    printing: TWM 39
+    role: tech
+    prizes: 1
+    attack: Ground Melter
+    cost: Fire + Colorless
+    damage: 60；场上有场地卡时 120 并破坏场地
+    notes: 67% 卡表有。用来拆对手的 Battle Cage、Festival Grounds。
+
+support:
+  - card: Drakloak
+    role: Recon Directive 检索
+    prizes: 1
+  - card: Torchic
+    role: Blaziken 的进化前
+    prizes: 1
+  - card: Combusken
+    role: 1 张，正常进化或被 Rare Candy 跳过
+    prizes: 1
+  - card: Budew
+    role: 后攻首回合锁物品
+    prizes: 1
+  - card: Fezandipiti ex
+    role: 被击倒后抽 3
+    prizes: 2
+  - card: Meowth ex
+    role: 上场找支援者
+    prizes: 2
+  - card: Lillie's Clefairy ex
+    role: 50% 卡表有；镜像对局让对手 Dragapult 弱超能
+    prizes: 2
+
+prize_map:
+  liability: >-
+    两个主攻都是 2 奖，加上 Fezandipiti ex / Meowth ex，对手的路线是 2+2+2。
+    Blaziken ex 在后备区是对手 Boss 的首选目标，因为它是能量来源。
+  routes:
+    - name: 默认
+      steps:
+        - {turn: 3, take: 2, target: 战斗场 ex 或后备区两只小怪, how: Phantom Dive}
+        - {turn: 4, take: 2, target: 钢 / 草属性的 ex, how: Blaziken ex 的 Smolder-sault，打弱火对手为 400}
+        - {turn: 5, take: 2, target: 剩下的 ex, how: Dragapult ex（Blaziken 这回合不能攻击）}
+
+matchups:
+  - vs: crustle-dri
+    win_rate: 0.205
+    plan: 最差对局。两个主攻都是 ex，伤害被 Mysterious Rock Inn 挡掉。只能靠后备区指示物、Munkidori、Chi-Yu（非 ex，有场地时 120）。
+  - vs: sharpedo-toxtricity
+    win_rate: 0.292
+    plan: 数据上很差，原因没有从卡表推出。
+  - vs: n-zoroark
+    win_rate: 0.309
+    plan: 对手 Watchtower 关掉 Meowth ex；Zoroark ex 280 HP 要两下。
+  - vs: mega-excadrill-ex
+    win_rate: 0.688
+    plan: Excadrill 弱火，Smolder-sault 400 一击拿 3 张。
+  - vs: ogerpon-meganium-hydrapple
+    win_rate: 0.683
+    plan: 对手全是草，Smolder-sault 400 一击 Hydrapple ex。
+  - vs: dhelmise-pbl
+    win_rate: 0.673
+    plan: Hide 'n' Sneak 挡住 Phantom Dive 的指示物，但 Blaziken ex 的 200 直接击倒 Dhelmise（140）。
+
+mistakes:
+  - Blaziken ex 连续两回合攻击（Smolder-sault 后下回合不能攻击）。
+  - 后备区只有一只 Blaziken ex，被 Boss 击倒后能量断档。
+  - 对 Crustle 时仍让 ex 正面攻击。
+
+inferred:
+  - Blaziken 被当作能量引擎的打法，按卡牌文字和卡表推断。

@@ -1,0 +1,113 @@
+slug: dragapult-dusknoir
+name: Dragapult Dusknoir
+name_zh: 多龙巴鲁托 ex + 黑夜魔灵
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 42 份卡表；卡牌效果取自 data/cards。打法是据此推断的，见 inferred。
+
+summary: >-
+  和 dragapult-ex 同一个骨架（4-4-3 Dragapult 线、Crispin、Munkidori），多放一条
+  Duskull 线（2-2-1）。Dusclops 和 Dusknoir 的 Cursed Blast 让它们自爆，放 5 个 / 13 个伤害指示物，
+  配合 Phantom Dive 在一回合里击倒两只宝可梦，或直接击倒对手藏在后备区的 2 奖 ex。
+  代价是每次自爆送对手 1 张奖赏卡。
+
+setup:
+  turn_1:
+    - Buddy-Buddy Poffin 拿 Dreepy ×2（或 Dreepy + Duskull）。目标是 2 只 Dreepy + 1 只 Duskull 在场。
+    - 后攻时 Budew 首攻锁物品。
+  turn_2:
+    - Dreepy 进化 Drakloak，Duskull 进化 Dusclops。Crispin 找 Fire + Psychic。
+    - 50% 的卡表有 Dawn（基础、1 阶、2 阶各找 1 张），26% 带 2 张 Rare Candy 可直接 Duskull → Dusknoir。
+  turn_3:
+    - 进化 Dragapult ex 开始 Phantom Dive；Dusknoir 留着等能凑出两只击倒的回合再用。
+    - 76% 的卡表有 Jamming Tower，场上的道具全部无效（对付 Hero's Cape、Binding Mochi、Brave Bangle）。
+  key_cards: [Dreepy, Drakloak, Dragapult ex, Duskull, Dusclops, Dusknoir, Crispin]
+
+attackers:
+  - card: Dragapult ex
+    printing: TWM 130
+    role: main
+    prizes: 2
+    attack: Phantom Dive
+    cost: Fire + Psychic
+    damage: 战斗场 200，后备区 6 个伤害指示物
+    notes: 和 dragapult-ex 相同。
+  - card: Dusknoir
+    printing: PRE 37
+    role: burst
+    prizes: 1
+    attack: Cursed Blast（特性）
+    cost: 无，自己被击倒
+    damage: 13 个伤害指示物放在对手任一宝可梦上
+    notes: 自爆后对手拿 1 张。Psyduck 的 Damp 在场时这个特性被关掉。
+  - card: Dusclops
+    printing: PRE 36
+    role: burst
+    prizes: 1
+    attack: Cursed Blast（特性）
+    cost: 无，自己被击倒
+    damage: 5 个伤害指示物
+    notes: 自爆后对手拿 1 张。
+
+support:
+  - card: Drakloak
+    role: Recon Directive 检索
+    prizes: 1
+  - card: Duskull
+    role: Dusclops/Dusknoir 的进化前；Come and Get You 从弃牌区拉回最多 3 只 Duskull
+    prizes: 1
+  - card: Munkidori
+    role: 57% 的卡表有，每回合挪 3 个指示物
+    prizes: 1
+  - card: Patrat
+    role: 40% 的卡表有；Watchful Eye 让双方都不能挪动伤害指示物，主要用来封对手的 Munkidori
+    prizes: 1
+  - card: Fezandipiti ex
+    role: 被击倒后抽 3；注意自己用 Cursed Blast 自爆不算"对手回合被击倒"
+    prizes: 2
+  - card: Meowth ex
+    role: 上场找支援者
+    prizes: 2
+
+prize_map:
+  liability: >-
+    Dragapult ex 2 张；每次 Cursed Blast 自爆送 1 张。整局最多自爆 2-3 次，
+    对手实际只要再击倒 2 只 Dragapult ex 就够了。Dusknoir 留到能直接决定胜负的回合。
+  routes:
+    - name: 默认（对 2 奖 ex）
+      steps:
+        - {turn: 3, take: 2, target: 战斗场的 ex, how: 200 + 后备区放 60；不够时 Dusclops 自爆补 50}
+        - {turn: 4, take: 2, target: 后备区被预先放过指示物的 ex, how: Dusknoir 13 个指示物 + 前回合的 60 可直接击倒后备区 190 HP 的 ex，不用 Boss}
+        - {turn: 5, take: 2, target: 战斗场的 ex, how: Phantom Dive 收尾}
+    - name: 一回合拿 4 张（对手两只 ex 都被预先打过）
+      steps:
+        - {turn: 3, take: 2, target: 战斗场 ex, how: Phantom Dive，60 指示物全放在后备区的另一只 ex 上}
+        - {turn: 4, take: 4, target: 战斗场 ex + 后备区 ex, how: 200 打战斗场，Dusknoir 130 + 之前的 60 击倒后备区 190 HP 以内的 ex（如 Pecharunt ex、Lillie's Clefairy ex、Meowth ex）}
+
+matchups:
+  - vs: lopunny-dusknoir
+    win_rate: 0.195
+    plan: 最差对局，数据明显劣势；对方同样带 Dusknoir，原因没有从卡表里推出来。
+  - vs: n-zoroark
+    win_rate: 0.372
+    plan: Zoroark ex 280 HP，需要 60 指示物 + 200 + Munkidori 30。
+  - vs: dragapult-ex
+    win_rate: 0.382
+    plan: 镜像里对方 Crushing Hammer 更多；自爆送的奖赏卡会让对方先拿完。少用 Cursed Blast。
+  - vs: alakazam-dudunsparce
+    win_rate: 0.553
+    plan: Dusknoir 13 个指示物直接击倒 Alakazam（140 HP）。对方 Battle Cage 挡不住特性放到战斗场的指示物。
+  - vs: ogerpon-meganium-hydrapple
+    win_rate: 0.684
+    plan: Cursed Blast 先击倒 Meganium（160 HP，13 + Phantom Dive 30）。
+  - vs: festival-lead
+    win_rate: 0.695
+    plan: 对方单奖、HP 低，Phantom Dive 每回合拿 2 张；对方 Psyduck 在场时 Cursed Blast 无效，先击倒 Psyduck。
+
+mistakes:
+  - 在无关紧要的回合用 Cursed Blast，白送 1 张奖赏卡。
+  - 以为 Cursed Blast 之后能用 Fezandipiti ex 抽牌（只有对手回合被击倒才行）。
+  - 对手有 Psyduck 时没先处理它。
+
+inferred:
+  - Patrat 的用途（封对手 Munkidori）是按卡牌文字推断的。
+  - 一回合拿 4 张的路线是按伤害计算推的，没有从对局记录验证频率。

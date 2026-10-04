@@ -1,0 +1,124 @@
+slug: slowking-scr
+name: Slowking
+name_zh: 呆呆王（Seek Inspiration 工具箱）
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 50 份卡表；卡牌效果取自 data/cards。打法是据此推断的，见 inferred。
+
+summary: >-
+  Slowking（SCR 58）的 Seek Inspiration 弃掉牌库顶 1 张，是无规则宝可梦就用它的一个招式。
+  卡组用 Poké Pad 把想用的宝可梦拿到手上，再用 Academy at Night 把它放回牌库顶，每回合都能"指定"
+  一个招式：Kyurem 的 Trifrost（3 只各 110）、Zeraora 的 Thunder Raid（后备区 ex 210）、
+  Metagross 的 Metallic Hammer（150）、Annihilape 的 Ghostly Blow（100 + 后备区 5 个指示物）、
+  Pawmot 的 Voltaic Fist（130 + 麻痹）。攻击手 Slowking 只给 1 张奖赏卡。
+
+setup:
+  turn_1:
+    - 战斗场的 Slowpoke 手贴 Telepathic Psychic Energy，从牌库拿 2 只基础超能宝可梦（通常 Slowpoke ×2）到后备区。
+    - 打出 Academy at Night。Ciphermaniac's Codebreaking 把下两回合要用的牌叠在牌库顶。
+  turn_2:
+    - Slowpoke 进化 Slowking，贴第 2 个能量（Boomerang Energy 当无色）。
+    - 攻击前的顺序：先用会洗牌的牌（Lillie's Determination、Ultra Ball、Poké Pad），最后用 Academy at Night 把目标宝可梦放到牌库顶，再 Seek Inspiration。
+    - Wondrous Patch 从弃牌区给后备区 Slowking 补 Psychic 能量。
+  turn_3:
+    - Trifrost 会弃掉 Slowking 身上的能量，只有 Boomerang Energy 回来；下一只 Slowking 要事先备好能量。
+  key_cards: [Slowpoke, Slowking, Academy at Night, Poké Pad, Telepathic Psychic Energy, Kyurem]
+
+attackers:
+  - card: Slowking
+    printing: SCR 58
+    role: main
+    prizes: 1
+    attack: Seek Inspiration
+    cost: Psychic + Colorless
+    damage: 取决于弃掉的宝可梦，见 copy_targets
+    notes: 120 HP，弱恶。弃到 ex 或训练家卡就打空。
+  - card: Mega Kangaskhan ex
+    printing: MEG 104
+    role: secondary / draw
+    prizes: 3
+    attack: Rapid-Fire Combo
+    cost: Colorless ×3
+    damage: 200 起，每次正面 +50
+    notes: 每份卡表 3 张，战斗场时 Run Errand 抽 2；被击倒给 3 张。
+  - card: Mew ex
+    printing: 30C 66
+    role: pivot attacker
+    prizes: 2
+    attack: Memory Helix（特性）
+    cost: 付被借用招式的费用
+    damage: 可以用后备区 Slowking 的 Seek Inspiration
+    notes: 38% 卡表有。撤退费 0。
+
+copy_targets:
+  - {card: Kyurem, printing: SFA 47, attack: Trifrost, effect: 对手 3 只宝可梦各 110；弃掉 Slowking 身上全部能量（Boomerang Energy 会回来）}
+  - {card: Zeraora, printing: DRI 78, attack: Thunder Raid, effect: 对手后备区一只 ex 210；弃掉全部能量}
+  - {card: Metagross, printing: CRI 61, attack: Metallic Hammer, effect: 150（Slowking 没有钢能量，不能 +150）}
+  - {card: Annihilape, printing: PBL 41, attack: Ghostly Blow, effect: 100 + 对手后备区一只 5 个指示物}
+  - {card: Pawmot, printing: PFL 34, attack: Voltaic Fist, effect: 130，可选自伤 60 让对手麻痹}
+
+support:
+  - card: Slowpoke
+    role: Dangle Tail 从弃牌区捡回宝可梦（含被 Seek Inspiration 弃掉的目标）
+    prizes: 1
+  - card: Kyurem
+    role: 复制来源，平时留在牌库
+    prizes: 1
+  - card: Latias ex
+    role: 基础宝可梦撤退费 0（不包括 Slowking）
+    prizes: 2
+  - card: Lillie's Clefairy ex
+    role: 对龙
+    prizes: 2
+  - card: Fezandipiti ex
+    role: 被击倒后抽 3
+    prizes: 2
+  - card: Meowth ex
+    role: 上场找支援者
+    prizes: 2
+
+prize_map:
+  liability: >-
+    Slowking 只给 1 张，对手要击倒 6 次；但 Mega Kangaskhan ex（3）、Latias ex、Mew ex、Fezandipiti ex（各 2）
+    一旦上场就是捷径。只在需要时铺 ex，Kangaskhan 尽量只在战斗场抽牌、不被击倒。
+  routes:
+    - name: 默认（Trifrost 铺伤害后收割）
+      steps:
+        - {turn: 2, take: 0, target: 对手 3 只宝可梦, how: Trifrost 各 110，小怪（110 HP 以下）直接倒}
+        - {turn: 3, take: 2, target: 被 Trifrost 打过的 ex, how: Metallic Hammer 150 或 Kangaskhan 200 补刀}
+        - {turn: 4, take: 2, target: 后备区 ex, how: Zeraora 的 Thunder Raid 210 直接打后备区}
+        - {turn: 5, take: 2, target: 剩下的 ex, how: 收尾}
+    - name: 对单奖、多小怪卡组
+      steps:
+        - {turn: 2, take: 3, target: 3 只 110 HP 以下的宝可梦, how: Trifrost 一次击倒 3 只}
+        - {turn: 3, take: 2, target: 2 只小怪, how: Ghostly Blow 100 打战斗场 + 5 指示物收后备区}
+        - {turn: 4, take: 1, target: 战斗场, how: 收尾}
+
+matchups:
+  - vs: alakazam-dudunsparce
+    win_rate: 0.232
+    plan: 数据上很差。对手 Battle Cage 挡住 Annihilape 放到后备区的指示物，Alakazam 140 HP 也撑得过 Trifrost。原因是推断的。
+  - vs: dhelmise-pbl
+    win_rate: 0.231
+    plan: 数据上很差。对手的 Hide 'n' Sneak 挡住 Ghostly Blow 的指示物等招式效果，Dhelmise 的 170 一击就能击倒 120 HP 的 Slowking。原因是推断的。
+  - vs: basic-box-m
+    win_rate: 0.421
+    plan: 对手 ex 多，Zeraora 狙后备区 ex 是关键。
+  - vs: dragapult-ex
+    win_rate: 0.544
+    plan: Trifrost 一次打 Dreepy/Drakloak 3 只；Slowking 单奖，对手 Phantom Dive 拿不到多张。
+  - vs: crustle-dri
+    win_rate: 0.724
+    plan: Slowking 不是 ex，Crustle 的特性挡不住；Metallic Hammer 150 击倒 Crustle（无 Growing Grass 时）。
+  - vs: mega-lucario-ex
+    win_rate: 0.818
+    plan: 对手斗属性弱超能，Slowking 自己的 Super Psy Bolt 120 ×2 = 240；Mega Lucario ex 给 3 张。
+
+mistakes:
+  - 用 Academy at Night 放好牌库顶后，又打了会洗牌的卡（Lillie's Determination、Ultra Ball、Poké Pad），白放。
+  - 牌库顶不是无规则宝可梦就攻击，Seek Inspiration 打空。
+  - 不必要地铺出 Mega Kangaskhan ex，送对手 3 张。
+
+inferred:
+  - Seek Inspiration 用复制招式时不需支付该招式的能量，按卡牌文字推断。
+  - 各复制目标的使用时机是按卡牌效果推断的，没有对局记录统计。
+  - 对 Alakazam、Dhelmise 劣势的原因是推断的。

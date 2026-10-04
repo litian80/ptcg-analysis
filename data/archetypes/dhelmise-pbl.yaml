@@ -1,0 +1,126 @@
+slug: dhelmise-pbl
+name: Dhelmise
+name_zh: 破破舵轮（Hide 'n' Sneak 弃牌区）
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 17 份卡表；卡牌效果取自 data/cards。打法是据此推断的，见 inferred。
+
+summary: >-
+  先把带 Hide 'n' Sneak 特性的宝可梦（Shuppet、Banette、Poltchageist、Sinistcha）丢进弃牌区，
+  弃牌区有 4 只以上时 Dhelmise 的 Vengeful Anchor 只要 1 个超能能量就打 170。
+  Gwynn（弃最多 2 只无规则宝可梦，每只抽 3）同时完成"填弃牌区"和"抽 6 张"。
+  弃牌区 6 只以上时 Sinistcha 的 Matcha Spin 给对手每只宝可梦放 4 个指示物，用来一次收多只小怪。
+  场上的 Hide 'n' Sneak 宝可梦不受对手招式和特性的效果影响。
+
+setup:
+  turn_1:
+    - 战斗场的超能宝可梦手贴 Telepathic Psychic Energy，从牌库拿 2 只基础超能宝可梦到后备区（Dhelmise、Shuppet）。
+    - Gwynn 弃 2 只 Hide 'n' Sneak 宝可梦抽 6；Ultra Ball、Prism Tower（弃 2 抽 1）、Explorer's Guidance（看 6 拿 2 其余弃掉）继续填弃牌区。
+  turn_2:
+    - 弃牌区凑够 4 只 Hide 'n' Sneak，Dhelmise 贴 1 个超能能量打 170。
+    - 对 Dragapult：后备区放 Lillie's Clefairy ex，Dragapult ex 弱超能，170 ×2 = 340 一击。
+  turn_3:
+    - 弃牌区 6 只以上时，Sinistcha 的 Matcha Spin（1 个无色）给对手全场各 40，配合 Dhelmise 收多只。
+    - Bloodmoon Ursaluna ex（53% 卡表）在对手拿了奖赏卡后费用变低，后期 240。
+  key_cards: [Dhelmise, Shuppet, Banette, Poltchageist, Gwynn, Telepathic Psychic Energy]
+
+attackers:
+  - card: Dhelmise
+    printing: PBL 39
+    role: main
+    prizes: 1
+    attack: Vengeful Anchor
+    cost: Psychic
+    damage: 30；弃牌区有 4 只以上 Hide 'n' Sneak 宝可梦时 170
+    notes: 140 HP，弱恶，撤退费 3。
+  - card: Sinistcha
+    printing: PBL 6
+    role: spread
+    prizes: 1
+    attack: Matcha Spin
+    cost: Colorless
+    damage: 弃牌区有 6 只以上 Hide 'n' Sneak 时，对手每只宝可梦 4 个伤害指示物
+  - card: Banette
+    printing: PBL 34
+    role: secondary
+    prizes: 1
+    attack: Puppet Pull
+    cost: Psychic
+    damage: 80，并可从牌库找任意 1 张
+  - card: Bloodmoon Ursaluna ex
+    printing: TWM 141
+    role: late game
+    prizes: 2
+    attack: Blood Moon
+    cost: 无色 ×5，对手每拿 1 张奖赏卡少 1 个
+    damage: 240，下回合不能攻击
+  - card: Spiritomb
+    printing: PBL 35
+    role: finisher
+    prizes: 1
+    attack: Spiritual End
+    cost: Psychic
+    damage: 弃牌区 13 只以上 Hide 'n' Sneak 时，对手两只宝可梦身上的指示物翻 4 倍
+    notes: 35% 卡表有。
+
+support:
+  - card: Shuppet
+    role: Banette 的进化前，也是弃牌区燃料
+    prizes: 1
+  - card: Poltchageist
+    role: 燃料；Furtive Drop 放 1 个指示物
+    prizes: 1
+  - card: Lillie's Clefairy ex
+    role: 对手龙属性弱超能（Dragapult 系三个卡组）
+    prizes: 2
+  - card: Latias ex
+    role: 47% 卡表有；基础宝可梦撤退费 0，解决 Dhelmise 撤退费 3
+    prizes: 2
+  - card: Shaymin
+    role: 后备区无规则宝可梦不受招式伤害
+    prizes: 1
+
+prize_map:
+  liability: >-
+    主攻 Dhelmise 单奖。2 奖的 Lillie's Clefairy ex、Latias ex、Bloodmoon Ursaluna ex 是对手的捷径。
+    Legacy Energy（65% 卡表）贴在主攻上被击倒时对手少拿 1 张，一局一次。
+  routes:
+    - name: 对 2 奖 ex 卡组
+      steps:
+        - {turn: 2, take: 2, target: 战斗场 170 HP 以内的 ex 或被 Fairy Zone 弄出弱点的龙, how: Vengeful Anchor 170}
+        - {turn: 3, take: 2, target: Boss's Orders 拉出的 ex, how: 同上；不够时先 Matcha Spin 铺 40}
+        - {turn: 4, take: 2, target: 剩下的 ex, how: 同上或 Bloodmoon Ursaluna ex 240}
+    - name: 对单奖、小怪多的卡组
+      steps:
+        - {turn: 2, take: 1, target: 战斗场, how: 170 一击}
+        - {turn: 3, take: 3, target: 战斗场 + 两只 40 HP 以下的后备区小怪, how: Matcha Spin 全场 40，收掉 Applin/Abra 级别的小怪；配合上回合残血}
+        - {turn: 4, take: 1, target: 战斗场, how: 170}
+        - {turn: 5, take: 1, target: 战斗场, how: 收尾}
+
+matchups:
+  - vs: lucario-hariyama
+    win_rate: 0.961
+    plan: 对手斗属性弱超能，Dhelmise 340。
+  - vs: slowking-scr
+    win_rate: 0.699
+    plan: 对手 Slowking 120 HP，170 一击；Hide 'n' Sneak 挡住对手复制招式的附加效果。
+  - vs: n-zoroark
+    win_rate: 0.18
+    plan: 最差对局。全队超能弱恶，对手 Zoroark ex 一击任何东西。
+  - vs: ogerpon-meganium-hydrapple
+    win_rate: 0.238
+    plan: Hydrapple ex 330 HP 每回合回 30，170 打不动。
+  - vs: dragapult-blaziken
+    win_rate: 0.239
+    plan: Blaziken ex 打 Poltchageist/Sinistcha（草）弱火；对手的 200 一击 Dhelmise。
+  - vs: dragapult-ex
+    win_rate: 0.544
+    plan: Hide 'n' Sneak 让 Phantom Dive 的指示物放不上；Lillie's Clefairy ex + Dhelmise 340 一击 Dragapult ex。
+
+mistakes:
+  - 弃牌区还不到 4 只就攻击，只打 30。
+  - Gwynn 弃了 Dhelmise 本身（它不是燃料）。
+  - Lillie's Clefairy ex 放出来却没被利用，白送 2 奖。
+
+inferred:
+  - Hide 'n' Sneak 挡住 Phantom Dive 的后备区指示物，按卡牌文字推断。
+  - Matcha Spin 的多奖回合按 HP 计算推断。

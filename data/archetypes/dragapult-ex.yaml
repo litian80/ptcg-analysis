@@ -1,0 +1,124 @@
+slug: dragapult-ex
+name: Dragapult
+name_zh: 多龙巴鲁托 ex
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 126 份卡表；卡牌效果取自 data/cards 的卡牌数据。打法是据此推断的，见 inferred。
+
+summary: >-
+  第三回合进化出 Dragapult ex，用 Phantom Dive（200 + 后备区放 6 个伤害指示物）
+  每回合同时打战斗场和后备区。Munkidori 每回合再挪 3 个指示物，靠"打一个、
+  顺手收掉后备区小怪"拿多张奖赏卡。卡表里 4 张 Crushing Hammer、2 张 Risky Ruins
+  和 Budew 的锁物品负责拖慢对手。
+
+setup:
+  turn_1:
+    - Buddy-Buddy Poffin 拿 2 只 Dreepy（或 Dreepy + Budew），后备区至少 2 只 Dreepy。
+    - 后攻时首攻 Budew 用 Itchy Pollen，对手下回合不能用物品卡。
+    - 有 Darkness 能量就贴给 Munkidori，没有就留到第 2 回合。
+  turn_2:
+    - Dreepy 进化 Drakloak，用 Recon Directive 每只多看 2 张找 Dragapult ex。
+    - Crispin 找 Fire + Psychic：一张贴在要进化的 Drakloak 上，一张拿到手里。
+    - 放 Meowth ex 用 Last-Ditch Catch 找支援者（多为 Lillie's Determination 或 Crispin）。
+  turn_3:
+    - 进化 Dragapult ex，补第 2 个能量，开始 Phantom Dive。
+    - 落后时 Rosa's Encouragement 从弃牌区给 Dragapult ex 贴 2 个基本能量，下一只马上能打。
+  key_cards: [Dreepy, Drakloak, Dragapult ex, Crispin, Buddy-Buddy Poffin, Poké Pad]
+
+attackers:
+  - card: Dragapult ex
+    printing: TWM 130
+    role: main
+    prizes: 2
+    attack: Phantom Dive
+    cost: Fire + Psychic
+    damage: 战斗场 200，后备区任意分配 6 个伤害指示物
+    notes: 太晶宝可梦，没有弱点；后备区受到的伤害指示物是"放置"，不是伤害，后备区保护类效果另看（见 matchups）。
+  - card: Moltres
+    printing: PFL 14
+    role: tech
+    prizes: 1
+    attack: Fighting Wings
+    cost: Fire
+    damage: 20，对战斗场的宝可梦 ex 为 110
+    notes: 57% 的卡表有。只给 1 张奖赏卡，用来换掉对方的 2 奖宝可梦或补最后一刀。
+  - card: Munkidori
+    printing: TWM 95
+    role: support-damage
+    prizes: 1
+    attack: Adrena-Brain（特性）
+    cost: 身上有 Darkness 能量即可
+    damage: 每回合从自己任一宝可梦挪 3 个伤害指示物到对手任一宝可梦
+    notes: 几乎每份卡表 2 张。挪 Risky Ruins 放在自己 Budew/Dreepy 身上的指示物最划算。
+
+support:
+  - card: Drakloak
+    role: Recon Directive 每回合看 2 拿 1，是这套牌的检索引擎
+    prizes: 1
+  - card: Budew
+    role: 后攻首回合锁物品
+    prizes: 1
+  - card: Fezandipiti ex
+    role: 自己的宝可梦被击倒后抽 3
+    prizes: 2
+  - card: Meowth ex
+    role: 上场时找 1 张支援者；Team Rocket's Watchtower 在场时特性无效
+    prizes: 2
+  - card: Dudunsparce
+    role: 56% 的卡表有，抽 3 后自己洗回牌库，不留奖赏卡
+    prizes: 1
+
+prize_map:
+  liability: >-
+    主攻 Dragapult ex 给 2 张，Fezandipiti ex、Meowth ex 也各给 2 张。
+    对手最快的路线是击倒 3 只 2 奖宝可梦；所以 Fezandipiti ex 和 Meowth ex 用完就别留在
+    后备区当靶子，Dreepy/Drakloak 被狙也会白送 1 张。
+  routes:
+    - name: 对 2 奖 ex 卡组（默认）
+      steps:
+        - {turn: 3, take: 2, target: 后备区 2 只 70 HP 以下的进化前宝可梦, how: 200 打战斗场，同时用 60 指示物收两只；做不到就 200 + Munkidori 30 击倒 230 HP 以内的 ex}
+        - {turn: 4, take: 2, target: 2 奖 ex, how: 前一回合的 60 指示物 + 200 + Munkidori 30 = 290，可击倒 Mega Kangaskhan ex 以外的大部分 ex}
+        - {turn: 5, take: 2, target: Boss's Orders 拉出来的 2 奖 ex, how: 收尾；对手剩 3 张以下时先用 Special Red Card 打乱对手手牌}
+    - name: 对单奖卡组（Festival Lead、Alakazam、Dhelmise 等）
+      steps:
+        - {turn: 3, take: 2, target: 战斗场 + 后备区 1 只小怪, how: 200 打战斗场，60 指示物收掉后备区 60 HP 以下的一只}
+        - {turn: 4, take: 2, target: 同上, how: 同上；Munkidori 补伤害}
+        - {turn: 5, take: 2, target: 同上, how: 对手后备区补不出新小怪时就只能一回合拿 1 张，节奏会慢一回合}
+
+matchups:
+  - vs: crustle-dri
+    win_rate: 0.272
+    plan: >-
+      最差对局。Crustle 的 Mysterious Rock Inn 让 ex 的招式伤害无效，Dragapult ex 只能靠 Phantom Dive 的
+      后备区指示物、Munkidori 和 Moltres（非 ex，打 Crustle 只有 20）。对方 Mist Energy 还会挡住招式效果，
+      指示物放不上去。打法是攒指示物慢慢磨，同时用 Crushing Hammer 拆对方能量。
+  - vs: slowking-scr
+    win_rate: 0.391
+    plan: 对方 Slowking 只给 1 张，还能用 Kyurem 一次打 3 只 110。别把 Dreepy 一次全铺出来。
+  - vs: dhelmise-pbl
+    win_rate: 0.414
+    plan: >-
+      对方大部分宝可梦有 Hide 'n' Sneak，Phantom Dive 的指示物放不上去，Lillie's Clefairy ex 还会让 Dragapult
+      弱超能。优先击倒 Lillie's Clefairy ex（2 奖），再用 200 打 Dhelmise（140 HP）。
+  - vs: n-zoroark
+    win_rate: 0.434
+    plan: N's Zoroark ex 280 HP，要先在后备区放 60 指示物，再 200 + 30 击倒。对方 Watchtower 会关掉 Meowth ex。
+  - vs: basic-box-m
+    win_rate: 0.441
+    plan: 对方 Lillie's Clefairy ex 让 Dragapult 弱超能，先用指示物和 Boss 处理它；Mega Kangaskhan ex 给 3 张，留到最后一击。
+  - vs: dragapult-dusknoir
+    win_rate: 0.583
+    plan: 准镜像。对方 Dusclops/Dusknoir 自爆会送你奖赏卡，数清楚再决定是否先手抢节奏。
+  - vs: alakazam-dudunsparce
+    win_rate: 0.633
+    plan: 用 Phantom Dive 收后备区 Abra（50）和 Kadabra（80）。对方 Battle Cage 在场时指示物放不到后备区，要先换掉场地。
+
+mistakes:
+  - 第 2 回合只有 1 只 Drakloak，第 3 回合进化不出 Dragapult ex。
+  - Phantom Dive 的 6 个指示物没有对准下回合能击倒的目标，平均撒开。
+  - 主动铺出 Fezandipiti ex / Meowth ex 却没用到特性，白给 2 奖靶子。
+  - 对 Crustle、Dhelmise 仍然只用 Dragapult ex 正面打。
+
+inferred:
+  - 第 3 回合起攻的节奏是按进化规则和卡表推的，不是从对局记录统计的。
+  - 对 Crustle 时 Mist Energy 挡住指示物放置，是按卡牌文字推断的规则判断。
+  - Moltres 和 Crushing Hammer 的用途是按卡牌效果推断的。

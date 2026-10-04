@@ -1,0 +1,4144 @@
+{
+ "window": "TEF-PBL",
+ "events": [
+  {
+   "date": "2026-08-28",
+   "name": "World Championships 2026",
+   "players": 797,
+   "dir": "2026-08-28_515_world-championships-2026"
+  },
+  {
+   "date": "2026-09-19",
+   "name": "Regional Baltimore, MD",
+   "players": 3122,
+   "dir": "2026-09-19_577_regional-baltimore-md"
+  }
+ ],
+ "players": 1309,
+ "note": "win_rate counts a tie as 1/3 of a win; mirrors, byes and double losses are excluded. core lists every card in at least 25% of the archetype's lists: in_lists is that fraction, count the median copies among lists that play it, printing the most played set and number (cards with the same name can differ between sets).",
+ "archetypes": {
+  "dragapult-ex": {
+   "name": "Dragapult",
+   "players": 298,
+   "share": 0.228,
+   "day2_share": 0.154,
+   "record": {
+    "wins": 2137,
+    "losses": 1880,
+    "ties": 751,
+    "win_rate": 0.501
+   },
+   "lists": 142,
+   "core": [
+    {
+     "name": "Budew",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "ASC 16"
+    },
+    {
+     "name": "Dragapult ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "TWM 130"
+    },
+    {
+     "name": "Drakloak",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 129"
+    },
+    {
+     "name": "Dreepy",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 128"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Munkidori",
+     "section": "Pokémon",
+     "in_lists": 0.98,
+     "count": 2,
+     "printing": "TWM 95"
+    },
+    {
+     "name": "Meowth ex",
+     "section": "Pokémon",
+     "in_lists": 0.97,
+     "count": 1,
+     "printing": "POR 62"
+    },
+    {
+     "name": "Dudunsparce",
+     "section": "Pokémon",
+     "in_lists": 0.61,
+     "count": 1,
+     "printing": "TEF 129"
+    },
+    {
+     "name": "Dunsparce",
+     "section": "Pokémon",
+     "in_lists": 0.61,
+     "count": 1,
+     "printing": "JTG 120"
+    },
+    {
+     "name": "Moltres",
+     "section": "Pokémon",
+     "in_lists": 0.37,
+     "count": 1,
+     "printing": "PFL 14"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Crispin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "SCR 133"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Unfair Stamp",
+     "section": "Trainer",
+     "in_lists": 0.99,
+     "count": 1,
+     "printing": "TWM 165"
+    },
+    {
+     "name": "Crushing Hammer",
+     "section": "Trainer",
+     "in_lists": 0.96,
+     "count": 4,
+     "printing": "POR 71"
+    },
+    {
+     "name": "Rosa's Encouragement",
+     "section": "Trainer",
+     "in_lists": 0.95,
+     "count": 1,
+     "printing": "POR 84"
+    },
+    {
+     "name": "Risky Ruins",
+     "section": "Trainer",
+     "in_lists": 0.87,
+     "count": 2,
+     "printing": "MEG 127"
+    },
+    {
+     "name": "Judge",
+     "section": "Trainer",
+     "in_lists": 0.75,
+     "count": 1,
+     "printing": "POR 76"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.55,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Fire Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEE 10"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEE 13"
+    },
+    {
+     "name": "Darkness Energy",
+     "section": "Energy",
+     "in_lists": 0.98,
+     "count": 2,
+     "printing": "MEE 15"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "basic-box-m",
+     "wins": 153,
+     "losses": 206,
+     "ties": 53,
+     "win_rate": 0.414
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 204,
+     "losses": 160,
+     "ties": 49,
+     "win_rate": 0.533
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 182,
+     "losses": 151,
+     "ties": 70,
+     "win_rate": 0.51
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 174,
+     "losses": 204,
+     "ties": 80,
+     "win_rate": 0.438
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 124,
+     "losses": 167,
+     "ties": 64,
+     "win_rate": 0.409
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 200,
+     "losses": 110,
+     "ties": 74,
+     "win_rate": 0.585
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 108,
+     "losses": 128,
+     "ties": 50,
+     "win_rate": 0.436
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 54,
+     "losses": 173,
+     "ties": 45,
+     "win_rate": 0.254
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 94,
+     "losses": 44,
+     "ties": 18,
+     "win_rate": 0.641
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "wins": 39,
+     "losses": 28,
+     "ties": 9,
+     "win_rate": 0.553
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 60,
+     "losses": 67,
+     "ties": 32,
+     "win_rate": 0.444
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 80,
+     "losses": 37,
+     "ties": 19,
+     "win_rate": 0.635
+    },
+    {
+     "vs": "clefairy-ogerpon",
+     "wins": 7,
+     "losses": 18,
+     "ties": 3,
+     "win_rate": 0.286
+    }
+   ]
+  },
+  "basic-box-m": {
+   "name": "Basic Box",
+   "players": 118,
+   "share": 0.09,
+   "day2_share": 0.126,
+   "record": {
+    "wins": 931,
+    "losses": 775,
+    "ties": 207,
+    "win_rate": 0.523
+   },
+   "lists": 62,
+   "core": [
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Latias ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "SSP 76"
+    },
+    {
+     "name": "Lillie's Clefairy ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "JTG 56"
+    },
+    {
+     "name": "Mega Kangaskhan ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 104"
+    },
+    {
+     "name": "Meowth ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "POR 62"
+    },
+    {
+     "name": "Teal Mask Ogerpon ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2.5,
+     "printing": "TWM 25"
+    },
+    {
+     "name": "Wellspring Mask Ogerpon ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TWM 64"
+    },
+    {
+     "name": "Chien-Pao",
+     "section": "Pokémon",
+     "in_lists": 0.95,
+     "count": 1,
+     "printing": "SSP 56"
+    },
+    {
+     "name": "Iron Leaves ex",
+     "section": "Pokémon",
+     "in_lists": 0.76,
+     "count": 1,
+     "printing": "TEF 25"
+    },
+    {
+     "name": "Raging Bolt ex",
+     "section": "Pokémon",
+     "in_lists": 0.68,
+     "count": 1,
+     "printing": "TEF 123"
+    },
+    {
+     "name": "Iron Crown ex",
+     "section": "Pokémon",
+     "in_lists": 0.42,
+     "count": 1,
+     "printing": "TEF 81"
+    },
+    {
+     "name": "Enamorus",
+     "section": "Pokémon",
+     "in_lists": 0.35,
+     "count": 1,
+     "printing": "TWM 93"
+    },
+    {
+     "name": "Area Zero Underdepths",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "SCR 131"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Energy Switch",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 115"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Ciphermaniac's Codebreaking",
+     "section": "Trainer",
+     "in_lists": 0.92,
+     "count": 1,
+     "printing": "TEF 145"
+    },
+    {
+     "name": "Cyrano",
+     "section": "Trainer",
+     "in_lists": 0.84,
+     "count": 2,
+     "printing": "SSP 170"
+    },
+    {
+     "name": "Crispin",
+     "section": "Trainer",
+     "in_lists": 0.79,
+     "count": 4,
+     "printing": "SCR 133"
+    },
+    {
+     "name": "Glass Trumpet",
+     "section": "Trainer",
+     "in_lists": 0.68,
+     "count": 1,
+     "printing": "SCR 135"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.52,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Unfair Stamp",
+     "section": "Trainer",
+     "in_lists": 0.47,
+     "count": 1,
+     "printing": "TWM 165"
+    },
+    {
+     "name": "Prime Catcher",
+     "section": "Trainer",
+     "in_lists": 0.4,
+     "count": 1,
+     "printing": "TEF 157"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 0.34,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Grass Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 6,
+     "printing": "MEE 9"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 0.82,
+     "count": 3,
+     "printing": "MEE 13"
+    },
+    {
+     "name": "Water Energy",
+     "section": "Energy",
+     "in_lists": 0.79,
+     "count": 1,
+     "printing": "MEE 11"
+    },
+    {
+     "name": "Fighting Energy",
+     "section": "Energy",
+     "in_lists": 0.74,
+     "count": 2,
+     "printing": "MEE 14"
+    },
+    {
+     "name": "Lightning Energy",
+     "section": "Energy",
+     "in_lists": 0.68,
+     "count": 2,
+     "printing": "MEE 12"
+    },
+    {
+     "name": "Prism Energy",
+     "section": "Energy",
+     "in_lists": 0.27,
+     "count": 4,
+     "printing": "ASC 216"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 206,
+     "losses": 153,
+     "ties": 53,
+     "win_rate": 0.543
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 76,
+     "losses": 48,
+     "ties": 19,
+     "win_rate": 0.576
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 60,
+     "losses": 49,
+     "ties": 22,
+     "win_rate": 0.514
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 91,
+     "losses": 84,
+     "ties": 9,
+     "win_rate": 0.511
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 67,
+     "losses": 62,
+     "ties": 15,
+     "win_rate": 0.5
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 52,
+     "losses": 73,
+     "ties": 13,
+     "win_rate": 0.408
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 46,
+     "losses": 38,
+     "ties": 7,
+     "win_rate": 0.531
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 31,
+     "losses": 40,
+     "ties": 14,
+     "win_rate": 0.42
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 28,
+     "losses": 24,
+     "ties": 6,
+     "win_rate": 0.517
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "wins": 13,
+     "losses": 14,
+     "ties": 0,
+     "win_rate": 0.481
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 29,
+     "losses": 11,
+     "ties": 10,
+     "win_rate": 0.647
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 17,
+     "losses": 23,
+     "ties": 5,
+     "win_rate": 0.415
+    }
+   ]
+  },
+  "dragapult-dusknoir": {
+   "name": "Dragapult Dusknoir",
+   "players": 117,
+   "share": 0.089,
+   "day2_share": 0.056,
+   "record": {
+    "wins": 910,
+    "losses": 979,
+    "ties": 270,
+    "win_rate": 0.463
+   },
+   "lists": 42,
+   "core": [
+    {
+     "name": "Budew",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "ASC 16"
+    },
+    {
+     "name": "Dragapult ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "TWM 130"
+    },
+    {
+     "name": "Drakloak",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 129"
+    },
+    {
+     "name": "Dreepy",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 128"
+    },
+    {
+     "name": "Dusclops",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "PRE 36"
+    },
+    {
+     "name": "Dusknoir",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "PRE 37"
+    },
+    {
+     "name": "Duskull",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "PRE 35"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Meowth ex",
+     "section": "Pokémon",
+     "in_lists": 0.93,
+     "count": 1,
+     "printing": "POR 62"
+    },
+    {
+     "name": "Moltres",
+     "section": "Pokémon",
+     "in_lists": 0.62,
+     "count": 1,
+     "printing": "PFL 14"
+    },
+    {
+     "name": "Patrat",
+     "section": "Pokémon",
+     "in_lists": 0.5,
+     "count": 1,
+     "printing": "CRI 70"
+    },
+    {
+     "name": "Munkidori",
+     "section": "Pokémon",
+     "in_lists": 0.43,
+     "count": 1,
+     "printing": "TWM 95"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Crispin",
+     "section": "Trainer",
+     "in_lists": 0.93,
+     "count": 2,
+     "printing": "SCR 133"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 0.93,
+     "count": 4,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Unfair Stamp",
+     "section": "Trainer",
+     "in_lists": 0.9,
+     "count": 1,
+     "printing": "TWM 165"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.81,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Jamming Tower",
+     "section": "Trainer",
+     "in_lists": 0.76,
+     "count": 1,
+     "printing": "TWM 153"
+    },
+    {
+     "name": "Judge",
+     "section": "Trainer",
+     "in_lists": 0.76,
+     "count": 1,
+     "printing": "POR 76"
+    },
+    {
+     "name": "Dawn",
+     "section": "Trainer",
+     "in_lists": 0.71,
+     "count": 1,
+     "printing": "PFL 87"
+    },
+    {
+     "name": "Rosa's Encouragement",
+     "section": "Trainer",
+     "in_lists": 0.71,
+     "count": 1,
+     "printing": "POR 84"
+    },
+    {
+     "name": "Team Rocket's Watchtower",
+     "section": "Trainer",
+     "in_lists": 0.45,
+     "count": 1,
+     "printing": "DRI 180"
+    },
+    {
+     "name": "Crushing Hammer",
+     "section": "Trainer",
+     "in_lists": 0.26,
+     "count": 3,
+     "printing": "POR 71"
+    },
+    {
+     "name": "Rare Candy",
+     "section": "Trainer",
+     "in_lists": 0.26,
+     "count": 2,
+     "printing": "MEG 125"
+    },
+    {
+     "name": "Fire Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 3.5,
+     "printing": "MEE 10"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 0.93,
+     "count": 4,
+     "printing": "MEE 13"
+    },
+    {
+     "name": "Darkness Energy",
+     "section": "Energy",
+     "in_lists": 0.43,
+     "count": 2,
+     "printing": "MEE 15"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 160,
+     "losses": 204,
+     "ties": 49,
+     "win_rate": 0.427
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 48,
+     "losses": 76,
+     "ties": 19,
+     "win_rate": 0.38
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 62,
+     "losses": 74,
+     "ties": 22,
+     "win_rate": 0.439
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 67,
+     "losses": 91,
+     "ties": 40,
+     "win_rate": 0.406
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 45,
+     "losses": 60,
+     "ties": 17,
+     "win_rate": 0.415
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 64,
+     "losses": 53,
+     "ties": 22,
+     "win_rate": 0.513
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 57,
+     "losses": 57,
+     "ties": 10,
+     "win_rate": 0.487
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 40,
+     "losses": 43,
+     "ties": 24,
+     "win_rate": 0.449
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 41,
+     "losses": 19,
+     "ties": 4,
+     "win_rate": 0.661
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "wins": 14,
+     "losses": 16,
+     "ties": 0,
+     "win_rate": 0.467
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 18,
+     "losses": 43,
+     "ties": 6,
+     "win_rate": 0.299
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 31,
+     "losses": 21,
+     "ties": 5,
+     "win_rate": 0.573
+    }
+   ]
+  },
+  "dragapult-blaziken": {
+   "name": "Dragapult Blaziken",
+   "players": 106,
+   "share": 0.081,
+   "day2_share": 0.077,
+   "record": {
+    "wins": 762,
+    "losses": 728,
+    "ties": 282,
+    "win_rate": 0.483
+   },
+   "lists": 39,
+   "core": [
+    {
+     "name": "Blaziken ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "JTG 24"
+    },
+    {
+     "name": "Budew",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 16"
+    },
+    {
+     "name": "Combusken",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "DRI 41"
+    },
+    {
+     "name": "Dragapult ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TWM 130"
+    },
+    {
+     "name": "Drakloak",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 129"
+    },
+    {
+     "name": "Dreepy",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 128"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Meowth ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "POR 62"
+    },
+    {
+     "name": "Munkidori",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TWM 95"
+    },
+    {
+     "name": "Torchic",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "DRI 40"
+    },
+    {
+     "name": "Lillie's Clefairy ex",
+     "section": "Pokémon",
+     "in_lists": 0.51,
+     "count": 1,
+     "printing": "JTG 56"
+    },
+    {
+     "name": "Chi-Yu",
+     "section": "Pokémon",
+     "in_lists": 0.44,
+     "count": 1,
+     "printing": "TWM 39"
+    },
+    {
+     "name": "Shaymin",
+     "section": "Pokémon",
+     "in_lists": 0.26,
+     "count": 1,
+     "printing": "DRI 10"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Crispin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "SCR 133"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Rare Candy",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 125"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Unfair Stamp",
+     "section": "Trainer",
+     "in_lists": 0.92,
+     "count": 1,
+     "printing": "TWM 165"
+    },
+    {
+     "name": "Dawn",
+     "section": "Trainer",
+     "in_lists": 0.9,
+     "count": 1,
+     "printing": "PFL 87"
+    },
+    {
+     "name": "Team Rocket's Watchtower",
+     "section": "Trainer",
+     "in_lists": 0.77,
+     "count": 1,
+     "printing": "DRI 180"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.72,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Judge",
+     "section": "Trainer",
+     "in_lists": 0.59,
+     "count": 1,
+     "printing": "POR 76"
+    },
+    {
+     "name": "Risky Ruins",
+     "section": "Trainer",
+     "in_lists": 0.56,
+     "count": 1,
+     "printing": "MEG 127"
+    },
+    {
+     "name": "Area Zero Underdepths",
+     "section": "Trainer",
+     "in_lists": 0.36,
+     "count": 1,
+     "printing": "SCR 131"
+    },
+    {
+     "name": "Darkness Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEE 15"
+    },
+    {
+     "name": "Fire Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEE 10"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEE 13"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 151,
+     "losses": 182,
+     "ties": 70,
+     "win_rate": 0.433
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 49,
+     "losses": 60,
+     "ties": 22,
+     "win_rate": 0.43
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 74,
+     "losses": 62,
+     "ties": 22,
+     "win_rate": 0.515
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 41,
+     "losses": 71,
+     "ties": 23,
+     "win_rate": 0.36
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 51,
+     "losses": 51,
+     "ties": 13,
+     "win_rate": 0.481
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 60,
+     "losses": 47,
+     "ties": 27,
+     "win_rate": 0.515
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 49,
+     "losses": 9,
+     "ties": 11,
+     "win_rate": 0.763
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 17,
+     "losses": 46,
+     "ties": 14,
+     "win_rate": 0.281
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 22,
+     "losses": 16,
+     "ties": 8,
+     "win_rate": 0.536
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "wins": 13,
+     "losses": 13,
+     "ties": 6,
+     "win_rate": 0.469
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 28,
+     "losses": 14,
+     "ties": 4,
+     "win_rate": 0.638
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 29,
+     "losses": 13,
+     "ties": 4,
+     "win_rate": 0.659
+    }
+   ]
+  },
+  "n-zoroark": {
+   "name": "N's Zoroark",
+   "players": 102,
+   "share": 0.078,
+   "day2_share": 0.084,
+   "record": {
+    "wins": 976,
+    "losses": 925,
+    "ties": 314,
+    "win_rate": 0.488
+   },
+   "lists": 54,
+   "core": [
+    {
+     "name": "Munkidori",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TWM 95"
+    },
+    {
+     "name": "N's Zekrom",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1.5,
+     "printing": "ASC 155"
+    },
+    {
+     "name": "N's Zoroark ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "JTG 98"
+    },
+    {
+     "name": "N's Zorua",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "JTG 97"
+    },
+    {
+     "name": "Pecharunt ex",
+     "section": "Pokémon",
+     "in_lists": 0.94,
+     "count": 1,
+     "printing": "SFA 39"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 0.93,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "N's Reshiram",
+     "section": "Pokémon",
+     "in_lists": 0.91,
+     "count": 1,
+     "printing": "JTG 116"
+    },
+    {
+     "name": "Tatsugiri",
+     "section": "Pokémon",
+     "in_lists": 0.72,
+     "count": 1,
+     "printing": "TWM 131"
+    },
+    {
+     "name": "Yveltal",
+     "section": "Pokémon",
+     "in_lists": 0.46,
+     "count": 1,
+     "printing": "MEG 88"
+    },
+    {
+     "name": "N's Darmanitan",
+     "section": "Pokémon",
+     "in_lists": 0.26,
+     "count": 1,
+     "printing": "JTG 27"
+    },
+    {
+     "name": "N's Darumaka",
+     "section": "Pokémon",
+     "in_lists": 0.26,
+     "count": 1,
+     "printing": "JTG 26"
+    },
+    {
+     "name": "N's Purrloin",
+     "section": "Pokémon",
+     "in_lists": 0.26,
+     "count": 1,
+     "printing": "JTG 96"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "N's PP Up",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "JTG 153"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Black Belt's Training",
+     "section": "Trainer",
+     "in_lists": 0.98,
+     "count": 1,
+     "printing": "JTG 143"
+    },
+    {
+     "name": "Cyrano",
+     "section": "Trainer",
+     "in_lists": 0.98,
+     "count": 2,
+     "printing": "SSP 170"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.98,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Binding Mochi",
+     "section": "Trainer",
+     "in_lists": 0.89,
+     "count": 1,
+     "printing": "PRE 95"
+    },
+    {
+     "name": "Team Rocket's Watchtower",
+     "section": "Trainer",
+     "in_lists": 0.81,
+     "count": 3,
+     "printing": "DRI 180"
+    },
+    {
+     "name": "Secret Box",
+     "section": "Trainer",
+     "in_lists": 0.8,
+     "count": 1,
+     "printing": "TWM 163"
+    },
+    {
+     "name": "Judge",
+     "section": "Trainer",
+     "in_lists": 0.7,
+     "count": 2,
+     "printing": "POR 76"
+    },
+    {
+     "name": "Air Balloon",
+     "section": "Trainer",
+     "in_lists": 0.59,
+     "count": 1,
+     "printing": "ASC 181"
+    },
+    {
+     "name": "N's Castle",
+     "section": "Trainer",
+     "in_lists": 0.5,
+     "count": 2,
+     "printing": "JTG 152"
+    },
+    {
+     "name": "Xerosic's Machinations",
+     "section": "Trainer",
+     "in_lists": 0.31,
+     "count": 1,
+     "printing": "SFA 64"
+    },
+    {
+     "name": "Ruffian",
+     "section": "Trainer",
+     "in_lists": 0.28,
+     "count": 1,
+     "printing": "JTG 157"
+    },
+    {
+     "name": "Darkness Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 8,
+     "printing": "MEE 15"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 204,
+     "losses": 174,
+     "ties": 80,
+     "win_rate": 0.504
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 84,
+     "losses": 91,
+     "ties": 9,
+     "win_rate": 0.473
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 91,
+     "losses": 67,
+     "ties": 40,
+     "win_rate": 0.527
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 71,
+     "losses": 41,
+     "ties": 23,
+     "win_rate": 0.583
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 80,
+     "losses": 62,
+     "ties": 28,
+     "win_rate": 0.525
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 69,
+     "losses": 53,
+     "ties": 24,
+     "win_rate": 0.527
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 33,
+     "losses": 62,
+     "ties": 15,
+     "win_rate": 0.345
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 25,
+     "losses": 62,
+     "ties": 16,
+     "win_rate": 0.294
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 10,
+     "losses": 43,
+     "ties": 3,
+     "win_rate": 0.196
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "wins": 14,
+     "losses": 9,
+     "ties": 2,
+     "win_rate": 0.587
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 55,
+     "losses": 7,
+     "ties": 8,
+     "win_rate": 0.824
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 13,
+     "losses": 36,
+     "ties": 3,
+     "win_rate": 0.269
+    }
+   ]
+  },
+  "slowking-scr": {
+   "name": "Slowking",
+   "players": 86,
+   "share": 0.066,
+   "day2_share": 0.077,
+   "record": {
+    "wins": 789,
+    "losses": 696,
+    "ties": 217,
+    "win_rate": 0.506
+   },
+   "lists": 50,
+   "core": [
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Kyurem",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "SFA 47"
+    },
+    {
+     "name": "Latias ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "SSP 76"
+    },
+    {
+     "name": "Mega Kangaskhan ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 104"
+    },
+    {
+     "name": "Meowth ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "POR 62"
+    },
+    {
+     "name": "Metagross",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "CRI 61"
+    },
+    {
+     "name": "Slowking",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "SCR 58"
+    },
+    {
+     "name": "Slowpoke",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "SCR 57"
+    },
+    {
+     "name": "Lillie's Clefairy ex",
+     "section": "Pokémon",
+     "in_lists": 0.98,
+     "count": 1,
+     "printing": "JTG 56"
+    },
+    {
+     "name": "Annihilape",
+     "section": "Pokémon",
+     "in_lists": 0.7,
+     "count": 1,
+     "printing": "PBL 41"
+    },
+    {
+     "name": "Zeraora",
+     "section": "Pokémon",
+     "in_lists": 0.6,
+     "count": 1,
+     "printing": "DRI 78"
+    },
+    {
+     "name": "Munkidori",
+     "section": "Pokémon",
+     "in_lists": 0.28,
+     "count": 1,
+     "printing": "TWM 95"
+    },
+    {
+     "name": "Academy at Night",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "SFA 54"
+    },
+    {
+     "name": "Ciphermaniac's Codebreaking",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 145"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Wondrous Patch",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "PFL 94"
+    },
+    {
+     "name": "Switch",
+     "section": "Trainer",
+     "in_lists": 0.92,
+     "count": 1,
+     "printing": "MEG 130"
+    },
+    {
+     "name": "Secret Box",
+     "section": "Trainer",
+     "in_lists": 0.7,
+     "count": 1,
+     "printing": "TWM 163"
+    },
+    {
+     "name": "Lucky Helmet",
+     "section": "Trainer",
+     "in_lists": 0.52,
+     "count": 1,
+     "printing": "TWM 158"
+    },
+    {
+     "name": "Surfer",
+     "section": "Trainer",
+     "in_lists": 0.4,
+     "count": 1,
+     "printing": "SSP 187"
+    },
+    {
+     "name": "Crispin",
+     "section": "Trainer",
+     "in_lists": 0.26,
+     "count": 1,
+     "printing": "SCR 133"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEE 13"
+    },
+    {
+     "name": "Telepathic Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 88"
+    },
+    {
+     "name": "Boomerang Energy",
+     "section": "Energy",
+     "in_lists": 0.88,
+     "count": 2,
+     "printing": "TWM 166"
+    },
+    {
+     "name": "Darkness Energy",
+     "section": "Energy",
+     "in_lists": 0.28,
+     "count": 2,
+     "printing": "MEE 15"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 167,
+     "losses": 124,
+     "ties": 64,
+     "win_rate": 0.531
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 62,
+     "losses": 67,
+     "ties": 15,
+     "win_rate": 0.465
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 60,
+     "losses": 45,
+     "ties": 17,
+     "win_rate": 0.538
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 51,
+     "losses": 51,
+     "ties": 13,
+     "win_rate": 0.481
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 62,
+     "losses": 80,
+     "ties": 28,
+     "win_rate": 0.42
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 35,
+     "losses": 71,
+     "ties": 13,
+     "win_rate": 0.331
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 48,
+     "losses": 18,
+     "ties": 9,
+     "win_rate": 0.68
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 40,
+     "losses": 21,
+     "ties": 4,
+     "win_rate": 0.636
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 18,
+     "losses": 13,
+     "ties": 5,
+     "win_rate": 0.546
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "wins": 13,
+     "losses": 11,
+     "ties": 3,
+     "win_rate": 0.519
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 19,
+     "losses": 26,
+     "ties": 7,
+     "win_rate": 0.41
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 14,
+     "losses": 17,
+     "ties": 4,
+     "win_rate": 0.438
+    }
+   ]
+  },
+  "alakazam-dudunsparce": {
+   "name": "Alakazam Dudunsparce",
+   "players": 76,
+   "share": 0.058,
+   "day2_share": 0.098,
+   "record": {
+    "wins": 700,
+    "losses": 770,
+    "ties": 287,
+    "win_rate": 0.453
+   },
+   "lists": 36,
+   "core": [
+    {
+     "name": "Abra",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 54"
+    },
+    {
+     "name": "Alakazam",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 56"
+    },
+    {
+     "name": "Dudunsparce",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TEF 129"
+    },
+    {
+     "name": "Dunsparce",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "JTG 120"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Genesect",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "SFA 40"
+    },
+    {
+     "name": "Kadabra",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 55"
+    },
+    {
+     "name": "Shaymin",
+     "section": "Pokémon",
+     "in_lists": 0.56,
+     "count": 1,
+     "printing": "DRI 10"
+    },
+    {
+     "name": "Dedenne",
+     "section": "Pokémon",
+     "in_lists": 0.47,
+     "count": 1,
+     "printing": "SSP 87"
+    },
+    {
+     "name": "Psyduck",
+     "section": "Pokémon",
+     "in_lists": 0.39,
+     "count": 1,
+     "printing": "ASC 39"
+    },
+    {
+     "name": "Lillie's Clefairy ex",
+     "section": "Pokémon",
+     "in_lists": 0.31,
+     "count": 1,
+     "printing": "JTG 56"
+    },
+    {
+     "name": "Elgyem",
+     "section": "Pokémon",
+     "in_lists": 0.28,
+     "count": 1,
+     "printing": "BLK 40"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Dawn",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "PFL 87"
+    },
+    {
+     "name": "Hilda",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "WHT 84"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Rare Candy",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 125"
+    },
+    {
+     "name": "Sacred Ash",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "DRI 168"
+    },
+    {
+     "name": "Eri",
+     "section": "Trainer",
+     "in_lists": 0.97,
+     "count": 1,
+     "printing": "TEF 146"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 0.83,
+     "count": 1,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Air Balloon",
+     "section": "Trainer",
+     "in_lists": 0.81,
+     "count": 2,
+     "printing": "ASC 181"
+    },
+    {
+     "name": "Lana's Aid",
+     "section": "Trainer",
+     "in_lists": 0.72,
+     "count": 1,
+     "printing": "TWM 155"
+    },
+    {
+     "name": "Battle Cage",
+     "section": "Trainer",
+     "in_lists": 0.69,
+     "count": 3,
+     "printing": "PFL 85"
+    },
+    {
+     "name": "Handheld Fan",
+     "section": "Trainer",
+     "in_lists": 0.56,
+     "count": 2,
+     "printing": "TWM 150"
+    },
+    {
+     "name": "Nighttime Mine",
+     "section": "Trainer",
+     "in_lists": 0.5,
+     "count": 3,
+     "printing": "ASC 197"
+    },
+    {
+     "name": "Enhanced Hammer",
+     "section": "Trainer",
+     "in_lists": 0.42,
+     "count": 2,
+     "printing": "TWM 148"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.42,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Wondrous Patch",
+     "section": "Trainer",
+     "in_lists": 0.31,
+     "count": 2,
+     "printing": "PFL 94"
+    },
+    {
+     "name": "Lucky Helmet",
+     "section": "Trainer",
+     "in_lists": 0.28,
+     "count": 1,
+     "printing": "TWM 158"
+    },
+    {
+     "name": "Enriching Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "SSP 191"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "MEE 13"
+    },
+    {
+     "name": "Telepathic Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 88"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 110,
+     "losses": 200,
+     "ties": 74,
+     "win_rate": 0.351
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 73,
+     "losses": 52,
+     "ties": 13,
+     "win_rate": 0.56
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 53,
+     "losses": 64,
+     "ties": 22,
+     "win_rate": 0.434
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 47,
+     "losses": 60,
+     "ties": 27,
+     "win_rate": 0.418
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 53,
+     "losses": 69,
+     "ties": 24,
+     "win_rate": 0.418
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 71,
+     "losses": 35,
+     "ties": 13,
+     "win_rate": 0.633
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 55,
+     "losses": 20,
+     "ties": 16,
+     "win_rate": 0.663
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 18,
+     "losses": 46,
+     "ties": 12,
+     "win_rate": 0.289
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 17,
+     "losses": 12,
+     "ties": 9,
+     "win_rate": 0.526
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "wins": 14,
+     "losses": 6,
+     "ties": 4,
+     "win_rate": 0.639
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 7,
+     "losses": 33,
+     "ties": 6,
+     "win_rate": 0.196
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 18,
+     "losses": 13,
+     "ties": 3,
+     "win_rate": 0.559
+    }
+   ]
+  },
+  "mega-excadrill-ex": {
+   "name": "Mega Excadrill",
+   "players": 52,
+   "share": 0.04,
+   "day2_share": 0.056,
+   "record": {
+    "wins": 557,
+    "losses": 598,
+    "ties": 180,
+    "win_rate": 0.462
+   },
+   "lists": 28,
+   "core": [
+    {
+     "name": "Beldum",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 113"
+    },
+    {
+     "name": "Drilbur",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "PBL 46"
+    },
+    {
+     "name": "Genesect ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "BLK 67"
+    },
+    {
+     "name": "Mega Excadrill ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "PBL 65"
+    },
+    {
+     "name": "Metagross",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "CRI 61"
+    },
+    {
+     "name": "Metang",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 114"
+    },
+    {
+     "name": "Mega Skarmory ex",
+     "section": "Pokémon",
+     "in_lists": 0.89,
+     "count": 1,
+     "printing": "POR 55"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 0.68,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Shaymin",
+     "section": "Pokémon",
+     "in_lists": 0.57,
+     "count": 1,
+     "printing": "DRI 10"
+    },
+    {
+     "name": "Team Rocket's Petrel",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "DRI 176"
+    },
+    {
+     "name": "Jumbo Ice Cream",
+     "section": "Trainer",
+     "in_lists": 0.96,
+     "count": 3,
+     "printing": "PFL 91"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 0.93,
+     "count": 4,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Energy Recycler",
+     "section": "Trainer",
+     "in_lists": 0.79,
+     "count": 1,
+     "printing": "DRI 164"
+    },
+    {
+     "name": "Switch",
+     "section": "Trainer",
+     "in_lists": 0.75,
+     "count": 1,
+     "printing": "MEG 130"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 0.71,
+     "count": 1,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Brock's Scouting",
+     "section": "Trainer",
+     "in_lists": 0.71,
+     "count": 3,
+     "printing": "JTG 146"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 0.68,
+     "count": 2,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Hero's Cape",
+     "section": "Trainer",
+     "in_lists": 0.64,
+     "count": 1,
+     "printing": "TEF 152"
+    },
+    {
+     "name": "Kieran",
+     "section": "Trainer",
+     "in_lists": 0.64,
+     "count": 1,
+     "printing": "TWM 154"
+    },
+    {
+     "name": "Pokégear 3.0",
+     "section": "Trainer",
+     "in_lists": 0.64,
+     "count": 2,
+     "printing": "SVI 186"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 0.57,
+     "count": 1,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.39,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Gravity Mountain",
+     "section": "Trainer",
+     "in_lists": 0.25,
+     "count": 1,
+     "printing": "SSP 177"
+    },
+    {
+     "name": "Precious Trolley",
+     "section": "Trainer",
+     "in_lists": 0.25,
+     "count": 1,
+     "printing": "SSP 185"
+    },
+    {
+     "name": "Team Rocket's Transceiver",
+     "section": "Trainer",
+     "in_lists": 0.25,
+     "count": 4,
+     "printing": "DRI 178"
+    },
+    {
+     "name": "Metal Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 17,
+     "printing": "MEE 16"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 128,
+     "losses": 108,
+     "ties": 50,
+     "win_rate": 0.506
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 38,
+     "losses": 46,
+     "ties": 7,
+     "win_rate": 0.443
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 57,
+     "losses": 57,
+     "ties": 10,
+     "win_rate": 0.487
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 9,
+     "losses": 49,
+     "ties": 11,
+     "win_rate": 0.184
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 62,
+     "losses": 33,
+     "ties": 15,
+     "win_rate": 0.609
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 18,
+     "losses": 48,
+     "ties": 9,
+     "win_rate": 0.28
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 20,
+     "losses": 55,
+     "ties": 16,
+     "win_rate": 0.278
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 47,
+     "losses": 5,
+     "ties": 9,
+     "win_rate": 0.82
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 17,
+     "losses": 15,
+     "ties": 7,
+     "win_rate": 0.496
+    },
+    {
+     "vs": "raging-bolt-ogerpon",
+     "wins": 13,
+     "losses": 14,
+     "ties": 0,
+     "win_rate": 0.481
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 19,
+     "losses": 17,
+     "ties": 5,
+     "win_rate": 0.504
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 7,
+     "losses": 11,
+     "ties": 3,
+     "win_rate": 0.381
+    }
+   ]
+  },
+  "crustle-dri": {
+   "name": "Crustle",
+   "players": 43,
+   "share": 0.033,
+   "day2_share": 0.056,
+   "record": {
+    "wins": 571,
+    "losses": 465,
+    "ties": 201,
+    "win_rate": 0.516
+   },
+   "lists": 31,
+   "core": [
+    {
+     "name": "Crustle",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "DRI 12"
+    },
+    {
+     "name": "Dwebble",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "DRI 11"
+    },
+    {
+     "name": "Mega Kangaskhan ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 104"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Eri",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "TEF 146"
+    },
+    {
+     "name": "Hero's Cape",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TEF 152"
+    },
+    {
+     "name": "Hilda",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "WHT 84"
+    },
+    {
+     "name": "Jumbo Ice Cream",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "PFL 91"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Pokégear 3.0",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "SVI 186"
+    },
+    {
+     "name": "Switch",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "MEG 130"
+    },
+    {
+     "name": "Team Rocket's Petrel",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "DRI 176"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Handheld Fan",
+     "section": "Trainer",
+     "in_lists": 0.97,
+     "count": 1,
+     "printing": "TWM 150"
+    },
+    {
+     "name": "Xerosic's Machinations",
+     "section": "Trainer",
+     "in_lists": 0.97,
+     "count": 1,
+     "printing": "SFA 64"
+    },
+    {
+     "name": "Lumiose City",
+     "section": "Trainer",
+     "in_lists": 0.94,
+     "count": 1,
+     "printing": "POR 77"
+    },
+    {
+     "name": "Pokémon Center Lady",
+     "section": "Trainer",
+     "in_lists": 0.87,
+     "count": 1,
+     "printing": "MEG 123"
+    },
+    {
+     "name": "Team Rocket's Factory",
+     "section": "Trainer",
+     "in_lists": 0.87,
+     "count": 1,
+     "printing": "DRI 173"
+    },
+    {
+     "name": "Festival Grounds",
+     "section": "Trainer",
+     "in_lists": 0.65,
+     "count": 1,
+     "printing": "TWM 149"
+    },
+    {
+     "name": "Bianca's Devotion",
+     "section": "Trainer",
+     "in_lists": 0.48,
+     "count": 1,
+     "printing": "TEF 142"
+    },
+    {
+     "name": "Prism Tower",
+     "section": "Trainer",
+     "in_lists": 0.42,
+     "count": 1,
+     "printing": "CRI 80"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.42,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Growing Grass Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 86"
+    },
+    {
+     "name": "Mist Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 161"
+    },
+    {
+     "name": "Spiky Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "JTG 159"
+    },
+    {
+     "name": "Grass Energy",
+     "section": "Energy",
+     "in_lists": 0.87,
+     "count": 1,
+     "printing": "MEE 9"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 173,
+     "losses": 54,
+     "ties": 45,
+     "win_rate": 0.691
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 40,
+     "losses": 31,
+     "ties": 14,
+     "win_rate": 0.525
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 43,
+     "losses": 40,
+     "ties": 24,
+     "win_rate": 0.477
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 46,
+     "losses": 17,
+     "ties": 14,
+     "win_rate": 0.658
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 62,
+     "losses": 25,
+     "ties": 16,
+     "win_rate": 0.654
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 21,
+     "losses": 40,
+     "ties": 4,
+     "win_rate": 0.344
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 46,
+     "losses": 18,
+     "ties": 12,
+     "win_rate": 0.658
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 5,
+     "losses": 47,
+     "ties": 9,
+     "win_rate": 0.131
+    },
+    {
+     "vs": "festival-lead",
+     "wins": 6,
+     "losses": 23,
+     "ties": 6,
+     "win_rate": 0.229
+    },
+    {
+     "vs": "dhelmise-pbl",
+     "wins": 14,
+     "losses": 14,
+     "ties": 7,
+     "win_rate": 0.467
+    },
+    {
+     "vs": "ogerpon-meganium-hydrapple",
+     "wins": 11,
+     "losses": 11,
+     "ties": 10,
+     "win_rate": 0.448
+    }
+   ]
+  },
+  "festival-lead": {
+   "name": "Festival Lead",
+   "players": 33,
+   "share": 0.025,
+   "day2_share": 0.035,
+   "record": {
+    "wins": 328,
+    "losses": 342,
+    "ties": 89,
+    "win_rate": 0.471
+   },
+   "lists": 15,
+   "core": [
+    {
+     "name": "Applin",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 17"
+    },
+    {
+     "name": "Dipplin",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "TWM 18"
+    },
+    {
+     "name": "Goldeen",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TWM 44"
+    },
+    {
+     "name": "Grookey",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 14"
+    },
+    {
+     "name": "Rabsca",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TEF 24"
+    },
+    {
+     "name": "Rellor",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TEF 23"
+    },
+    {
+     "name": "Seaking",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "PRE 21"
+    },
+    {
+     "name": "Thwackey",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 15"
+    },
+    {
+     "name": "Shaymin",
+     "section": "Pokémon",
+     "in_lists": 0.67,
+     "count": 1,
+     "printing": "DRI 10"
+    },
+    {
+     "name": "Psyduck",
+     "section": "Pokémon",
+     "in_lists": 0.33,
+     "count": 1,
+     "printing": "ASC 39"
+    },
+    {
+     "name": "Air Balloon",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "ASC 181"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Brave Bangle",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "WHT 80"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Festival Grounds",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 149"
+    },
+    {
+     "name": "Gladion's Final Battle",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "PBL 77"
+    },
+    {
+     "name": "Kieran",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TWM 154"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Secret Box",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TWM 163"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Sacred Ash",
+     "section": "Trainer",
+     "in_lists": 0.73,
+     "count": 1,
+     "printing": "DRI 168"
+    },
+    {
+     "name": "Tool Scrapper",
+     "section": "Trainer",
+     "in_lists": 0.73,
+     "count": 1,
+     "printing": "ASC 212"
+    },
+    {
+     "name": "Switch",
+     "section": "Trainer",
+     "in_lists": 0.67,
+     "count": 1,
+     "printing": "MEG 130"
+    },
+    {
+     "name": "Bug Catching Set",
+     "section": "Trainer",
+     "in_lists": 0.6,
+     "count": 2,
+     "printing": "TWM 143"
+    },
+    {
+     "name": "Forest of Vitality",
+     "section": "Trainer",
+     "in_lists": 0.27,
+     "count": 1,
+     "printing": "MEG 117"
+    },
+    {
+     "name": "Lana's Aid",
+     "section": "Trainer",
+     "in_lists": 0.27,
+     "count": 1,
+     "printing": "TWM 155"
+    },
+    {
+     "name": "Grass Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEE 9"
+    },
+    {
+     "name": "Growing Grass Energy",
+     "section": "Energy",
+     "in_lists": 0.87,
+     "count": 1,
+     "printing": "POR 86"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 44,
+     "losses": 94,
+     "ties": 18,
+     "win_rate": 0.321
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 24,
+     "losses": 28,
+     "ties": 6,
+     "win_rate": 0.448
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 19,
+     "losses": 41,
+     "ties": 4,
+     "win_rate": 0.318
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 16,
+     "losses": 22,
+     "ties": 8,
+     "win_rate": 0.406
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 43,
+     "losses": 10,
+     "ties": 3,
+     "win_rate": 0.786
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 13,
+     "losses": 18,
+     "ties": 5,
+     "win_rate": 0.407
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 12,
+     "losses": 17,
+     "ties": 9,
+     "win_rate": 0.395
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 15,
+     "losses": 17,
+     "ties": 7,
+     "win_rate": 0.444
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 23,
+     "losses": 6,
+     "ties": 6,
+     "win_rate": 0.714
+    }
+   ]
+  },
+  "raging-bolt-ogerpon": {
+   "name": "Raging Bolt Ogerpon",
+   "players": 28,
+   "share": 0.021,
+   "day2_share": 0.021,
+   "record": {
+    "wins": 149,
+    "losses": 195,
+    "ties": 36,
+    "win_rate": 0.424
+   },
+   "lists": 6,
+   "core": [
+    {
+     "name": "Raging Bolt ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TEF 123"
+    },
+    {
+     "name": "Teal Mask Ogerpon ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "TWM 25"
+    },
+    {
+     "name": "Chien-Pao",
+     "section": "Pokémon",
+     "in_lists": 0.83,
+     "count": 1,
+     "printing": "SSP 56"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 0.83,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Iron Leaves ex",
+     "section": "Pokémon",
+     "in_lists": 0.83,
+     "count": 1,
+     "printing": "TEF 25"
+    },
+    {
+     "name": "Latias ex",
+     "section": "Pokémon",
+     "in_lists": 0.83,
+     "count": 2,
+     "printing": "SSP 76"
+    },
+    {
+     "name": "Lillie's Clefairy ex",
+     "section": "Pokémon",
+     "in_lists": 0.83,
+     "count": 2,
+     "printing": "JTG 56"
+    },
+    {
+     "name": "Mega Kangaskhan ex",
+     "section": "Pokémon",
+     "in_lists": 0.83,
+     "count": 4,
+     "printing": "MEG 104"
+    },
+    {
+     "name": "Meowth ex",
+     "section": "Pokémon",
+     "in_lists": 0.83,
+     "count": 3,
+     "printing": "POR 62"
+    },
+    {
+     "name": "Wellspring Mask Ogerpon ex",
+     "section": "Pokémon",
+     "in_lists": 0.83,
+     "count": 1,
+     "printing": "TWM 64"
+    },
+    {
+     "name": "Iron Crown ex",
+     "section": "Pokémon",
+     "in_lists": 0.5,
+     "count": 1,
+     "printing": "TEF 81"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Crispin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "SCR 133"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Area Zero Underdepths",
+     "section": "Trainer",
+     "in_lists": 0.83,
+     "count": 3,
+     "printing": "SCR 131"
+    },
+    {
+     "name": "Ciphermaniac's Codebreaking",
+     "section": "Trainer",
+     "in_lists": 0.83,
+     "count": 1,
+     "printing": "TEF 145"
+    },
+    {
+     "name": "Cyrano",
+     "section": "Trainer",
+     "in_lists": 0.83,
+     "count": 2,
+     "printing": "SSP 170"
+    },
+    {
+     "name": "Energy Switch",
+     "section": "Trainer",
+     "in_lists": 0.83,
+     "count": 4,
+     "printing": "MEG 115"
+    },
+    {
+     "name": "Glass Trumpet",
+     "section": "Trainer",
+     "in_lists": 0.83,
+     "count": 2,
+     "printing": "SCR 135"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 0.83,
+     "count": 2,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Unfair Stamp",
+     "section": "Trainer",
+     "in_lists": 0.67,
+     "count": 1,
+     "printing": "TWM 165"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 0.33,
+     "count": 2.5,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Prime Catcher",
+     "section": "Trainer",
+     "in_lists": 0.33,
+     "count": 1,
+     "printing": "TEF 157"
+    },
+    {
+     "name": "Fighting Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEE 14"
+    },
+    {
+     "name": "Grass Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 7,
+     "printing": "MEE 9"
+    },
+    {
+     "name": "Lightning Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEE 12"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 0.83,
+     "count": 2,
+     "printing": "MEE 13"
+    },
+    {
+     "name": "Water Energy",
+     "section": "Energy",
+     "in_lists": 0.83,
+     "count": 1,
+     "printing": "MEE 11"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 28,
+     "losses": 39,
+     "ties": 9,
+     "win_rate": 0.408
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 14,
+     "losses": 13,
+     "ties": 0,
+     "win_rate": 0.519
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 16,
+     "losses": 14,
+     "ties": 0,
+     "win_rate": 0.533
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 13,
+     "losses": 13,
+     "ties": 6,
+     "win_rate": 0.469
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 9,
+     "losses": 14,
+     "ties": 2,
+     "win_rate": 0.387
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 11,
+     "losses": 13,
+     "ties": 3,
+     "win_rate": 0.444
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 6,
+     "losses": 14,
+     "ties": 4,
+     "win_rate": 0.306
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 14,
+     "losses": 13,
+     "ties": 0,
+     "win_rate": 0.519
+    }
+   ]
+  },
+  "dhelmise-pbl": {
+   "name": "Dhelmise",
+   "players": 25,
+   "share": 0.019,
+   "day2_share": 0.014,
+   "record": {
+    "wins": 356,
+    "losses": 332,
+    "ties": 126,
+    "win_rate": 0.489
+   },
+   "lists": 19,
+   "core": [
+    {
+     "name": "Banette",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "PBL 34"
+    },
+    {
+     "name": "Dhelmise",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "PBL 39"
+    },
+    {
+     "name": "Lillie's Clefairy ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "JTG 56"
+    },
+    {
+     "name": "Shuppet",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "PBL 33"
+    },
+    {
+     "name": "Poltchageist",
+     "section": "Pokémon",
+     "in_lists": 0.95,
+     "count": 4,
+     "printing": "PBL 5"
+    },
+    {
+     "name": "Sinistcha",
+     "section": "Pokémon",
+     "in_lists": 0.95,
+     "count": 4,
+     "printing": "PBL 6"
+    },
+    {
+     "name": "Dudunsparce",
+     "section": "Pokémon",
+     "in_lists": 0.79,
+     "count": 2,
+     "printing": "TEF 129"
+    },
+    {
+     "name": "Dunsparce",
+     "section": "Pokémon",
+     "in_lists": 0.79,
+     "count": 2,
+     "printing": "JTG 120"
+    },
+    {
+     "name": "Patrat",
+     "section": "Pokémon",
+     "in_lists": 0.68,
+     "count": 1,
+     "printing": "CRI 70"
+    },
+    {
+     "name": "Latias ex",
+     "section": "Pokémon",
+     "in_lists": 0.58,
+     "count": 1,
+     "printing": "SSP 76"
+    },
+    {
+     "name": "Spiritomb",
+     "section": "Pokémon",
+     "in_lists": 0.58,
+     "count": 1,
+     "printing": "PBL 35"
+    },
+    {
+     "name": "Shaymin",
+     "section": "Pokémon",
+     "in_lists": 0.53,
+     "count": 1,
+     "printing": "DRI 10"
+    },
+    {
+     "name": "Bloodmoon Ursaluna ex",
+     "section": "Pokémon",
+     "in_lists": 0.42,
+     "count": 1,
+     "printing": "TWM 141"
+    },
+    {
+     "name": "Dudunsparce ex",
+     "section": "Pokémon",
+     "in_lists": 0.26,
+     "count": 1,
+     "printing": "JTG 121"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Gwynn",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "PBL 78"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Prism Tower",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "CRI 80"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Explorer's Guidance",
+     "section": "Trainer",
+     "in_lists": 0.47,
+     "count": 4,
+     "printing": "TEF 147"
+    },
+    {
+     "name": "Brilliant Blender",
+     "section": "Trainer",
+     "in_lists": 0.26,
+     "count": 1,
+     "printing": "SSP 164"
+    },
+    {
+     "name": "Buddy-Buddy Poffin",
+     "section": "Trainer",
+     "in_lists": 0.26,
+     "count": 2,
+     "printing": "TEF 144"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEE 13"
+    },
+    {
+     "name": "Telepathic Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "POR 88"
+    },
+    {
+     "name": "Legacy Energy",
+     "section": "Energy",
+     "in_lists": 0.58,
+     "count": 1,
+     "printing": "TWM 167"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 67,
+     "losses": 60,
+     "ties": 32,
+     "win_rate": 0.488
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 11,
+     "losses": 29,
+     "ties": 10,
+     "win_rate": 0.287
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 43,
+     "losses": 18,
+     "ties": 6,
+     "win_rate": 0.672
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 14,
+     "losses": 28,
+     "ties": 4,
+     "win_rate": 0.333
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 7,
+     "losses": 55,
+     "ties": 8,
+     "win_rate": 0.138
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 26,
+     "losses": 19,
+     "ties": 7,
+     "win_rate": 0.545
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 33,
+     "losses": 7,
+     "ties": 6,
+     "win_rate": 0.761
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 17,
+     "losses": 19,
+     "ties": 5,
+     "win_rate": 0.455
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 14,
+     "losses": 14,
+     "ties": 7,
+     "win_rate": 0.467
+    }
+   ]
+  },
+  "ogerpon-meganium-hydrapple": {
+   "name": "Ogerpon Meganium Hydrapple",
+   "players": 20,
+   "share": 0.015,
+   "day2_share": 0.007,
+   "record": {
+    "wins": 276,
+    "losses": 297,
+    "ties": 78,
+    "win_rate": 0.464
+   },
+   "lists": 9,
+   "core": [
+    {
+     "name": "Applin",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TWM 17"
+    },
+    {
+     "name": "Bayleef",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 9"
+    },
+    {
+     "name": "Chikorita",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "ASC 8"
+    },
+    {
+     "name": "Dipplin",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TWM 18"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Hydrapple ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "SCR 14"
+    },
+    {
+     "name": "Meganium",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 10"
+    },
+    {
+     "name": "Meowth ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "POR 62"
+    },
+    {
+     "name": "Teal Mask Ogerpon ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 25"
+    },
+    {
+     "name": "Celebi",
+     "section": "Pokémon",
+     "in_lists": 0.89,
+     "count": 1,
+     "printing": "MEG 12"
+    },
+    {
+     "name": "Tapu Bulu",
+     "section": "Pokémon",
+     "in_lists": 0.78,
+     "count": 1,
+     "printing": "SFA 6"
+    },
+    {
+     "name": "Hoothoot",
+     "section": "Pokémon",
+     "in_lists": 0.44,
+     "count": 1,
+     "printing": "SCR 114"
+    },
+    {
+     "name": "Noctowl",
+     "section": "Pokémon",
+     "in_lists": 0.44,
+     "count": 1,
+     "printing": "SCR 115"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Bug Catching Set",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "TWM 143"
+    },
+    {
+     "name": "Forest of Vitality",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEG 117"
+    },
+    {
+     "name": "Lana's Aid",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TWM 155"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 0.89,
+     "count": 1,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Poké Pad",
+     "section": "Trainer",
+     "in_lists": 0.89,
+     "count": 2,
+     "printing": "POR 81"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.89,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Dawn",
+     "section": "Trainer",
+     "in_lists": 0.78,
+     "count": 2,
+     "printing": "PFL 87"
+    },
+    {
+     "name": "Unfair Stamp",
+     "section": "Trainer",
+     "in_lists": 0.78,
+     "count": 1,
+     "printing": "TWM 165"
+    },
+    {
+     "name": "Briar",
+     "section": "Trainer",
+     "in_lists": 0.67,
+     "count": 1,
+     "printing": "SCR 132"
+    },
+    {
+     "name": "Judge",
+     "section": "Trainer",
+     "in_lists": 0.56,
+     "count": 1,
+     "printing": "POR 76"
+    },
+    {
+     "name": "Ciphermaniac's Codebreaking",
+     "section": "Trainer",
+     "in_lists": 0.33,
+     "count": 1,
+     "printing": "TEF 145"
+    },
+    {
+     "name": "Grass Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 13,
+     "printing": "MEE 9"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 37,
+     "losses": 80,
+     "ties": 19,
+     "win_rate": 0.319
+    },
+    {
+     "vs": "basic-box-m",
+     "wins": 23,
+     "losses": 17,
+     "ties": 5,
+     "win_rate": 0.548
+    },
+    {
+     "vs": "dragapult-dusknoir",
+     "wins": 21,
+     "losses": 31,
+     "ties": 5,
+     "win_rate": 0.398
+    },
+    {
+     "vs": "dragapult-blaziken",
+     "wins": 13,
+     "losses": 29,
+     "ties": 4,
+     "win_rate": 0.312
+    },
+    {
+     "vs": "n-zoroark",
+     "wins": 36,
+     "losses": 13,
+     "ties": 3,
+     "win_rate": 0.712
+    },
+    {
+     "vs": "slowking-scr",
+     "wins": 17,
+     "losses": 14,
+     "ties": 4,
+     "win_rate": 0.524
+    },
+    {
+     "vs": "alakazam-dudunsparce",
+     "wins": 13,
+     "losses": 18,
+     "ties": 3,
+     "win_rate": 0.412
+    },
+    {
+     "vs": "mega-excadrill-ex",
+     "wins": 11,
+     "losses": 7,
+     "ties": 3,
+     "win_rate": 0.571
+    },
+    {
+     "vs": "crustle-dri",
+     "wins": 11,
+     "losses": 11,
+     "ties": 10,
+     "win_rate": 0.448
+    }
+   ]
+  },
+  "clefairy-ogerpon": {
+   "name": "Clefairy Ogerpon",
+   "players": 15,
+   "share": 0.011,
+   "day2_share": 0.021,
+   "record": {
+    "wins": 88,
+    "losses": 58,
+    "ties": 16,
+    "win_rate": 0.576
+   },
+   "lists": 7,
+   "core": [
+    {
+     "name": "Chien-Pao",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "SSP 56"
+    },
+    {
+     "name": "Fezandipiti ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "ASC 142"
+    },
+    {
+     "name": "Latias ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "SSP 76"
+    },
+    {
+     "name": "Lillie's Clefairy ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "JTG 56"
+    },
+    {
+     "name": "Mega Kangaskhan ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 104"
+    },
+    {
+     "name": "Meowth ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "POR 62"
+    },
+    {
+     "name": "Teal Mask Ogerpon ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "TWM 25"
+    },
+    {
+     "name": "Wellspring Mask Ogerpon ex",
+     "section": "Pokémon",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TWM 64"
+    },
+    {
+     "name": "Iron Crown ex",
+     "section": "Pokémon",
+     "in_lists": 0.86,
+     "count": 1,
+     "printing": "TEF 81"
+    },
+    {
+     "name": "Iron Leaves ex",
+     "section": "Pokémon",
+     "in_lists": 0.86,
+     "count": 1,
+     "printing": "TEF 25"
+    },
+    {
+     "name": "Paldean Tauros",
+     "section": "Pokémon",
+     "in_lists": 0.86,
+     "count": 1,
+     "printing": "SSP 18"
+    },
+    {
+     "name": "Passimian",
+     "section": "Pokémon",
+     "in_lists": 0.43,
+     "count": 1,
+     "printing": "SSP 111"
+    },
+    {
+     "name": "Area Zero Underdepths",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "SCR 131"
+    },
+    {
+     "name": "Boss's Orders",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "MEG 114"
+    },
+    {
+     "name": "Ciphermaniac's Codebreaking",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "TEF 145"
+    },
+    {
+     "name": "Crispin",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "SCR 133"
+    },
+    {
+     "name": "Cyrano",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "SSP 170"
+    },
+    {
+     "name": "Energy Switch",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 115"
+    },
+    {
+     "name": "Lillie's Pearl",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "JTG 151"
+    },
+    {
+     "name": "Ultra Ball",
+     "section": "Trainer",
+     "in_lists": 1.0,
+     "count": 4,
+     "printing": "MEG 131"
+    },
+    {
+     "name": "Night Stretcher",
+     "section": "Trainer",
+     "in_lists": 0.86,
+     "count": 1.5,
+     "printing": "ASC 196"
+    },
+    {
+     "name": "Unfair Stamp",
+     "section": "Trainer",
+     "in_lists": 0.71,
+     "count": 1,
+     "printing": "TWM 165"
+    },
+    {
+     "name": "Dusk Ball",
+     "section": "Trainer",
+     "in_lists": 0.57,
+     "count": 2,
+     "printing": "SSP 175"
+    },
+    {
+     "name": "Energy Retrieval",
+     "section": "Trainer",
+     "in_lists": 0.29,
+     "count": 1,
+     "printing": "SVI 171"
+    },
+    {
+     "name": "Judge",
+     "section": "Trainer",
+     "in_lists": 0.29,
+     "count": 1,
+     "printing": "POR 76"
+    },
+    {
+     "name": "Lillie's Determination",
+     "section": "Trainer",
+     "in_lists": 0.29,
+     "count": 1.5,
+     "printing": "MEG 119"
+    },
+    {
+     "name": "Prime Catcher",
+     "section": "Trainer",
+     "in_lists": 0.29,
+     "count": 1,
+     "printing": "TEF 157"
+    },
+    {
+     "name": "Special Red Card",
+     "section": "Trainer",
+     "in_lists": 0.29,
+     "count": 1,
+     "printing": "CRI 82"
+    },
+    {
+     "name": "Grass Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 5,
+     "printing": "MEE 9"
+    },
+    {
+     "name": "Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 3,
+     "printing": "MEE 13"
+    },
+    {
+     "name": "Telepathic Psychic Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 2,
+     "printing": "POR 88"
+    },
+    {
+     "name": "Water Energy",
+     "section": "Energy",
+     "in_lists": 1.0,
+     "count": 1,
+     "printing": "MEE 11"
+    },
+    {
+     "name": "Fire Energy",
+     "section": "Energy",
+     "in_lists": 0.86,
+     "count": 1,
+     "printing": "MEE 10"
+    },
+    {
+     "name": "Fighting Energy",
+     "section": "Energy",
+     "in_lists": 0.57,
+     "count": 1,
+     "printing": "MEE 14"
+    }
+   ],
+   "matchups": [
+    {
+     "vs": "dragapult-ex",
+     "wins": 18,
+     "losses": 7,
+     "ties": 3,
+     "win_rate": 0.679
+    }
+   ]
+  }
+ }
+}

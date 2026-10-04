@@ -1,0 +1,120 @@
+slug: ogerpon-meganium-hydrapple
+name: Ogerpon Meganium Hydrapple
+name_zh: 厄鬼椪 + 大竺葵 + 蜜集大蛇 ex
+window: TEF-30C
+basis: Frankfurt 与 Brisbane 区域赛（2026-09-26）的 24 份卡表（Limitless 卡表里叫 "Hydrapple"）；卡牌效果取自 data/cards。打法是据此推断的，见 inferred。
+
+summary: >-
+  13 个基本草能量的能量堆叠卡组。Meganium 的 Wild Growth 让每个基本草能量当 2 个草能量用，
+  Teal Mask Ogerpon ex（每回合特性贴草并抽 1）和 Hydrapple ex（每回合特性贴草并回 30）
+  每回合额外贴能量。Myriad Leaf Shower 按双方战斗场能量数加伤害，Hydrapple ex 的 Syrup Storm
+  按我方全场草能量加伤害。Forest of Vitality 让草宝可梦放下当回合就能进化，2 阶第 2 回合就能上场。
+
+setup:
+  turn_1:
+    - 后备区放 Teal Mask Ogerpon ex、Chikorita、Applin；Celebi 的 Traverse Time 找 3 张草宝可梦或场地。
+    - Teal Dance 贴草抽 1，手贴第 2 个。
+  turn_2:
+    - 打出 Forest of Vitality，把 Chikorita → Bayleef → Meganium、Applin → Dipplin → Hydrapple ex 一回合进化到底。
+    - Meganium 在场后，Ogerpon 身上的每个草能量算 2 个，Myriad Leaf Shower 伤害翻倍增长。
+  turn_3:
+    - Hydrapple ex 每回合贴草回 30，用 Syrup Storm 或继续 Ogerpon 攻击。
+    - 对手剩 2 张奖赏卡时 Briar：Ogerpon（太晶）击倒对手战斗场宝可梦时多拿 1 张。
+  key_cards: [Teal Mask Ogerpon ex, Chikorita, Bayleef, Meganium, Forest of Vitality, Hydrapple ex]
+
+attackers:
+  - card: Teal Mask Ogerpon ex
+    printing: TWM 25
+    role: main
+    prizes: 2
+    attack: Myriad Leaf Shower
+    cost: Grass ×3（Meganium 在场时 2 个基本草能量即可）
+    damage: 30 + 双方战斗场每个能量 30
+    notes: 210 HP，弱火。
+  - card: Hydrapple ex
+    printing: SCR 14
+    role: main / tank
+    prizes: 2
+    attack: Syrup Storm
+    cost: Colorless ×2
+    damage: 30 + 我方全场每个草能量 30
+    notes: 330 HP，弱火，撤退费 3。特性 Ripening Charge 每回合贴草回 30。
+  - card: Tapu Bulu
+    printing: SFA 6
+    role: non-ex attacker
+    prizes: 1
+    attack: Wood Hammer
+    cost: Grass ×2 + Colorless ×2
+    damage: 220，自伤 30
+    notes: 单奖攻击手，打 Crustle（挡 ex 伤害）用。
+
+support:
+  - card: Meganium
+    role: Wild Growth，基本草能量各当 2 个；被击倒后伤害骤降，是对手首要目标
+    prizes: 1
+  - card: Chikorita
+    role: Meganium 的进化前
+    prizes: 1
+  - card: Bayleef
+    role: Meganium 的 1 阶
+    prizes: 1
+  - card: Applin
+    role: Hydrapple 的进化前
+    prizes: 1
+  - card: Dipplin
+    role: Hydrapple 的 1 阶（这里不用 Festival Lead）
+    prizes: 1
+  - card: Celebi
+    role: Traverse Time 找草宝可梦和场地
+    prizes: 1
+  - card: Meowth ex
+    role: 每份卡表 2 张；上场找支援者
+    prizes: 2
+  - card: Fezandipiti ex
+    role: 被击倒后抽 3
+    prizes: 2
+
+prize_map:
+  liability: >-
+    Ogerpon ex ×4、Hydrapple ex、Meowth ex、Fezandipiti ex 都是 2 奖；Meganium 只给 1 张但它倒了伤害就掉。
+    对手的路线通常是先 Boss Meganium，再连续击倒 Ogerpon ex。
+  routes:
+    - name: 默认
+      steps:
+        - {turn: 2, take: 2, target: 战斗场的 ex, how: Meganium 在场 + Ogerpon 4 个草能量 = 至少 8 个能量计数}
+        - {turn: 3, take: 2, target: Boss's Orders 拉出的 ex, how: 同上}
+        - {turn: 4, take: 2, target: 剩下的 ex, how: 同上}
+    - name: 落后时（Briar 翻盘）
+      steps:
+        - {turn: 3, take: 2, target: 战斗场的 ex, how: 正常击倒}
+        - {turn: 4, take: 1, target: 战斗场单奖, how: 正常击倒}
+        - {turn: 5, take: 3, target: 战斗场的 ex, how: 对手剩 2 张时打 Briar，Ogerpon 击倒 ex 多拿 1 张}
+
+matchups:
+  - vs: dragapult-blaziken
+    win_rate: 0.268
+    plan: 全队弱火，Blaziken ex 的 200 打草就是 400。
+  - vs: dragapult-dusknoir
+    win_rate: 0.287
+    plan: Phantom Dive 和 Cursed Blast 直接打后备区的 Chikorita/Bayleef/Meganium，引擎起不来。
+  - vs: dragapult-ex
+    win_rate: 0.317
+    plan: 同上；先放 Bayleef 前不要在后备区摆多只 70 HP 以下的小怪。
+  - vs: basic-box-m
+    win_rate: 0.692
+    plan: Hydrapple ex 每回合回 30，对手 Kangaskhan 打不穿；对手的大量能量让 Myriad Leaf Shower 伤害更高。
+  - vs: dhelmise-pbl
+    win_rate: 0.695
+    plan: Dhelmise 170 打不动 330 HP 的 Hydrapple ex。
+  - vs: n-zoroark
+    win_rate: 0.616
+    plan: Zoroark ex 弱草。
+
+mistakes:
+  - 没打出 Forest of Vitality 就在第 2 回合试图上 2 阶。
+  - Meganium 在后备区没有保护，被 Boss 击倒后伤害不足。
+  - 对手剩 2 张时手里有 Briar 却用别的支援者。
+
+inferred:
+  - "Wild Growth 让每个基本草能量在 Myriad Leaf Shower / Syrup Storm 的计数里算 2 个，按卡牌文字\"provides GrassGrass Energy\"推断，需裁定确认。"
+  - Briar 翻盘路线按卡牌文字推断。

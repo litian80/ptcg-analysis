@@ -14,6 +14,7 @@ Pokémon TCG 的环境数据、卡组选择分析，以及对局记录/视频分
 | `data/cards/standard_card_names.txt` | 当前 Standard 合法卡名清单 |
 | `data/tournaments/index.csv` | 已收录的大赛（2026 赛季起的 Regional、International、Special Event、Worlds） |
 | `data/tournaments/<日期>_<id>_<名称>/` | 每场比赛：`meta.json`、`standings.csv`（名次、战绩、卡组）、`decklists.jsonl`（完整 60 张卡表）、`matches.csv`（每一轮每一桌的双方卡组和胜负） |
+| `data/archetypes/` | 主流卡组的打法（展开、攻击手、奖赏卡顺序、关键对局）和每个卡池窗口的份额/胜率/核心卡表，见其中 README |
 | `video/` | YouTube 对局视频分析（另一条工作线） |
 
 ## 数据来源
