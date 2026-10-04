@@ -115,8 +115,9 @@ PACK_INTRO = """Everything needed to read this match by eye, without an API key:
 window, the frames where the board changed, what the casters said, and the card \
 names they mentioned. Open the frames in order. On Play! Pokémon streams the side \
 overlays carry the board: the LEFT panel is P1 and the RIGHT panel is P2, each with \
-player name, prizes taken, the Active Pokémon and its HP, the Bench, and the Stadium. \
-The middle camera shows what is being played. Commentary is auto-captioned, so card \
+player name, a column of six small prize markers, the Active Pokémon and its HP, the \
+Bench, and the Stadium. The large number beside the name is games won in the match, \
+not prizes. The middle camera shows what is being played. Commentary is auto-captioned, so card \
 names can be misspelled; trust the overlay over the captions."""
 
 

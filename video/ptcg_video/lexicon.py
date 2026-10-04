@@ -89,6 +89,11 @@ class CardMatcher:
                 # "Pikachu (Promo)" when both normalize the same).
                 if v not in self.index or len(name) < len(self.index[v]):
                     self.index[v] = name
+        legal = set(names)
+        for heard, name in CAPTION_ALIASES.items():
+            # Only when the misheard words are not a card in this pool themselves.
+            if name in legal and heard not in self.index:
+                self.index[heard] = name
         self.max_words = max((len(k.split()) for k in self.index), default=1)
         self.fuzzy_threshold = fuzzy_threshold
         self._fuzzy_keys = [k for k in self.index if len(k) >= 7]
@@ -139,6 +144,17 @@ class CardMatcher:
             else:
                 i += 1
         return found
+
+
+# What YouTube's auto-captions wrote for a card on real broadcasts (normalized),
+# beyond what spelling variants and fuzzy matching catch.
+CAPTION_ALIASES = {
+    "fessentipity": "Fezandipiti ex",  # Worlds 2026 Masters final
+    "fez": "Fezandipiti ex",  # casters' short name
+    "bidoof": "Budew",
+    "dragalge": "Drakloak",
+    "dragapult v": "Drakloak",
+}
 
 
 # One-word card names that are also everyday English words. In captions that

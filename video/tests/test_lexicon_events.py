@@ -115,3 +115,11 @@ def test_hedged_game_end_does_not_split_games():
         Segment(1000, 1002, "game two"),
     ]
     assert analyze_captions(segs, None).games == [(0, 900), (1000, None)]
+
+
+def test_caption_aliases_only_when_not_a_card_themselves():
+    m = CardMatcher(["Fezandipiti ex", "Drakloak", "Budew", "Dragalge"])
+    found = [n for n, _, _ in m.find("Fessentipity draws three, Bidoof attacks, Dragalge is benched")]
+    assert found == ["Fezandipiti ex", "Budew", "Dragalge"]
+    # Not in the pool, so no alias: "fez" stays a word.
+    assert CardMatcher(["Drakloak"]).find("he wears a fez") == []

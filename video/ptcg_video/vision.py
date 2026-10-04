@@ -89,12 +89,15 @@ the frame is ambiguous; never invent a card you cannot see or that is not said.
 - Prize count: read the prize cards or overlay; if unreadable, carry the previous \
 value forward unless a Knock Out clearly happened.
 - Official Play! Pokémon broadcasts draw each player's board as a digital overlay \
-down the side of the screen: player name, prizes taken, Active Pokémon with remaining \
-HP and attacks, Benched Pokémon with HP, the Stadium in play, and markers for the \
-Energy attachment, Supporter and retreat used this turn. When the overlay is there, \
-read the board from it rather than from the table camera, and convert prizes taken \
-to prizes_remaining = 6 - taken. The camera in the middle is useful for what is \
-being played right now (cards in hand, the card being resolved).
+down the side of the screen: player name, a column of six small prize markers next \
+to the name, Active Pokémon with remaining HP and attacks, Benched Pokémon with HP, \
+the Stadium in play, and markers for the Energy attachment, Supporter and retreat \
+used this turn. The large number beside the name is games won in the match, NOT \
+prizes; read prizes from the six markers. When the overlay is there, read the board \
+from it rather than from the table camera. The camera in the middle is useful for \
+what is being played right now (cards in hand, the card being resolved). Zoomed \
+cards and banners sometimes cover a panel for a moment; read the board from a frame \
+where the panel is clear.
 - If the frames show no game board (desk, interview, ads, bracket), set \
 board_visible false, keep players from the previous state, and leave actions empty.
 - Use null for anything you cannot determine. Do not guess hand sizes."""

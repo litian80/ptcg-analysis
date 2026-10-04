@@ -60,15 +60,8 @@ def broadcast_video(tmp_path_factory):
     return path
 
 
-@pytest.fixture(scope="session")
-def overlay_video(tmp_path_factory):
-    """60 s 'broadcast' with noisy, gradient side panels (re-encoded twice, like
-    YouTube) and small overlay changes: an HP bar shrinks at t=20, two prize
-    icons disappear at t=40. A hand-cam bar moves in the middle every 2 s."""
-    if not shutil.which("ffmpeg"):
-        pytest.skip("ffmpeg not installed")
-    d = tmp_path_factory.mktemp("video")
-    first, path = d / "first.mp4", d / "overlay.mp4"
+def _overlay_video(path: Path, extra: str = "") -> Path:
+    first = path.with_name(path.stem + "_first.mp4")
     filt = (
         "[0:v]format=gray,geq=lum='30+4*X/W+3*sin(Y/40)+2*cos(X/90)',format=yuv420p,"
         # HP bar: 60 px wide until t=20, then 20 px.
@@ -78,7 +71,8 @@ def overlay_video(tmp_path_factory):
         "drawbox=x=520:y=250:w=16:h=22:color=white:t=fill,drawbox=x=540:y=250:w=16:h=22:color=white:t=fill,"
         "drawbox=x=560:y=250:w=16:h=22:color=white:t=fill,drawbox=x=580:y=250:w=16:h=22:color=white:t=fill,"
         "drawbox=x=520:y=276:w=16:h=22:color=white:t=fill:enable='lt(t,40)',"
-        "drawbox=x=540:y=276:w=16:h=22:color=white:t=fill:enable='lt(t,40)'[base];"
+        "drawbox=x=540:y=276:w=16:h=22:color=white:t=fill:enable='lt(t,40)'"
+        + extra + "[base];"
         "[base][1:v]overlay=x='150+mod(floor(t/2),3)*110':y=0:eval=frame[v]"
     )
     subprocess.run(
@@ -94,6 +88,32 @@ def overlay_video(tmp_path_factory):
         check=True,
     )
     return path
+
+
+@pytest.fixture(scope="session")
+def overlay_video(tmp_path_factory):
+    """60 s 'broadcast' with noisy, gradient side panels (re-encoded twice, like
+    YouTube) and small overlay changes: an HP bar shrinks at t=20, two prize
+    icons disappear at t=40. A hand-cam bar moves in the middle every 2 s."""
+    if not shutil.which("ffmpeg"):
+        pytest.skip("ffmpeg not installed")
+    return _overlay_video(tmp_path_factory.mktemp("video") / "overlay.mp4")
+
+
+@pytest.fixture(scope="session")
+def live_overlay_video(tmp_path_factory):
+    """overlay_video plus what real Worlds overlays do: both panel borders glow
+    on and off (period 3.4 s), and a zoomed card pops up over the left panel
+    from 33 s to 37 s."""
+    if not shutil.which("ffmpeg"):
+        pytest.skip("ffmpeg not installed")
+    glow = "enable='lt(mod(t,3.4),1.7)'"
+    extra = (
+        f",drawbox=x=4:y=4:w=124:h=352:color=white:t=4:{glow}"
+        f",drawbox=x=510:y=4:w=124:h=352:color=white:t=4:{glow}"
+        ",drawbox=x=10:y=40:w=110:h=260:color=orange:t=fill:enable='between(t,33,37)'"
+    )
+    return _overlay_video(tmp_path_factory.mktemp("video") / "live.mp4", extra)
 
 
 @pytest.fixture

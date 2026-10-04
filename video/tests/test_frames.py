@@ -41,8 +41,20 @@ def test_side_regions_ignore_handcam(broadcast_video, tmp_path):
 def test_sides_catch_small_overlay_changes_but_not_noise(overlay_video, tmp_path):
     sides = REGION_PRESETS["sides"]
     frames = sample_frames(overlay_video, tmp_path / "o", every=5.0, layout=sides)
-    keys = mark_keyframes(frames, threshold=sides.threshold, max_gap=1e9)
+    keys = mark_keyframes(frames, threshold=sides.threshold, max_gap=1e9, dead_band=sides.dead_band)
     assert [round(k.t) for k in keys] == [0, 20, 40]
+
+
+def test_sides_ignore_glow_and_popups(live_overlay_video, tmp_path):
+    sides = REGION_PRESETS["sides"]
+    frames = sample_frames(live_overlay_video, tmp_path / "l", every=5.0, layout=sides)
+    # Without the animation mask and the steadiness check, the glow and the
+    # pop-up turn most samples into keyframes.
+    noisy = mark_keyframes(frames, threshold=sides.threshold, max_gap=1e9, dead_band=sides.dead_band, steady=False)
+    assert len(noisy) > 6
+    keys = mark_keyframes(frames, threshold=sides.threshold, max_gap=1e9, dead_band=sides.dead_band)
+    assert [round(k.t) for k in keys] == [0, 20, 40]
+    assert max(f.change for f in frames) > 0
 
 
 def test_max_gap_keeps_periodic_frames(broadcast_video, tmp_path):

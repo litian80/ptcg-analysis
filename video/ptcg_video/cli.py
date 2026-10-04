@@ -72,7 +72,8 @@ def cmd_analyze(args) -> int:
             src.video_path, work / "frames", args.every, clip_start, clip_end, offset=src.offset, layout=layout
         )
         threshold = layout.threshold if args.change_threshold is None else args.change_threshold
-        mark_keyframes(frames, threshold=threshold)
+        dead_band = layout.dead_band if args.dead_band is None else args.dead_band
+        mark_keyframes(frames, threshold=threshold, dead_band=dead_band)
         _log(f"frames: {len(frames)} sampled, {sum(f.keyframe for f in frames)} keyframes")
 
     windows, summary = [], None
@@ -190,6 +191,9 @@ def build_parser() -> argparse.ArgumentParser:
     a.add_argument("--change-threshold", type=float,
                    help="fraction of a region's pixels that must change to count as a board change "
                         "(default 0.05 for 'full', 0.005 for 'sides' and custom regions)")
+    a.add_argument("--dead-band", type=int,
+                   help="gray levels a pixel must change by to count (default 8 for 'full', 24 for 'sides' "
+                        "and custom regions); raise it if static overlays still make keyframes")
     a.add_argument("--captions-only", action="store_true", help="skip video download and frames")
     a.add_argument("--max-height", type=int, default=720)
     a.add_argument("--no-llm", dest="llm", action="store_false", help="skip Claude (captions + frames only)")
