@@ -1,0 +1,23 @@
+{
+  "limitless_id": "533",
+  "date": "2026-03-28",
+  "name": "Special Event Sevilla",
+  "type": "special",
+  "country": "ES",
+  "players": 1337,
+  "winner": "Ted Tobyn",
+  "format_code": "SVI-ASC",
+  "format_name": "Scarlet & Violet - Ascended Heroes",
+  "rk9_id": "SV01wTkt9yQGVSt6nlcu",
+  "labs_id": "0059",
+  "counts": {
+    "decklists": 243,
+    "standings": 1337,
+    "matches": 5454
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/533",
+    "https://labs.limitlesstcg.com/0059/standings",
+    "https://rk9.gg/pairings/SV01wTkt9yQGVSt6nlcu"
+  ]
+}

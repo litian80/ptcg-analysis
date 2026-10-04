@@ -1,0 +1,23 @@
+{
+  "limitless_id": "519",
+  "date": "2025-09-13",
+  "name": "Regional Frankfurt",
+  "type": "regional",
+  "country": "DE",
+  "players": 2433,
+  "winner": "Rune Heiremans",
+  "format_code": "SVI-BLK",
+  "format_name": "Scarlet & Violet - Black Bolt",
+  "rk9_id": "FR01mpvNDKVaPxTTkdam",
+  "labs_id": "0036",
+  "counts": {
+    "decklists": 430,
+    "standings": 2433,
+    "matches": 10473
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/519",
+    "https://labs.limitlesstcg.com/0036/standings",
+    "https://rk9.gg/pairings/FR01mpvNDKVaPxTTkdam"
+  ]
+}

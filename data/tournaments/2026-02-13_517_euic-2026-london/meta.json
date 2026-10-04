@@ -1,0 +1,23 @@
+{
+  "limitless_id": "517",
+  "date": "2026-02-13",
+  "name": "EUIC 2026, London",
+  "type": "international",
+  "country": "GB",
+  "players": 4010,
+  "winner": "Edwyn Mesman",
+  "format_code": "SVI-PFL",
+  "format_name": "Scarlet & Violet - Phantasmal Flames",
+  "rk9_id": "EU01mU0Z1galE2FATDYs",
+  "labs_id": "0054",
+  "counts": {
+    "decklists": 741,
+    "standings": 4010,
+    "matches": 16807
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/517",
+    "https://labs.limitlesstcg.com/0054/standings",
+    "https://rk9.gg/pairings/EU01mU0Z1galE2FATDYs"
+  ]
+}

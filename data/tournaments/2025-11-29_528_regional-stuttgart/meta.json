@@ -1,0 +1,23 @@
+{
+  "limitless_id": "528",
+  "date": "2025-11-29",
+  "name": "Regional Stuttgart",
+  "type": "regional",
+  "country": "DE",
+  "players": 2200,
+  "winner": "Nicolai Stiborg",
+  "format_code": "SVI-PFL",
+  "format_name": "Scarlet & Violet - Phantasmal Flames",
+  "rk9_id": "SG0167ss5UCjklsDaPrA",
+  "labs_id": "0047",
+  "counts": {
+    "decklists": 383,
+    "standings": 2200,
+    "matches": 9287
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/528",
+    "https://labs.limitlesstcg.com/0047/standings",
+    "https://rk9.gg/pairings/SG0167ss5UCjklsDaPrA"
+  ]
+}

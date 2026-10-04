@@ -1,0 +1,23 @@
+{
+  "limitless_id": "544",
+  "date": "2026-05-16",
+  "name": "Regional Campinas",
+  "type": "regional",
+  "country": "BR",
+  "players": 1725,
+  "winner": "Matias Matricardi",
+  "format_code": "TEF-POR",
+  "format_name": "Temporal Forces - Perfect Order",
+  "rk9_id": "CA01wQsCrDh1mbLzRAcv",
+  "labs_id": "0065",
+  "counts": {
+    "decklists": 316,
+    "standings": 1725,
+    "matches": 7058
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/544",
+    "https://labs.limitlesstcg.com/0065/standings",
+    "https://rk9.gg/pairings/CA01wQsCrDh1mbLzRAcv"
+  ]
+}

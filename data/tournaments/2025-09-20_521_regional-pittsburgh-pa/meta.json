@@ -1,0 +1,23 @@
+{
+  "limitless_id": "521",
+  "date": "2025-09-20",
+  "name": "Regional Pittsburgh, PA",
+  "type": "regional",
+  "country": "US",
+  "players": 2691,
+  "winner": "Liam Halliburton",
+  "format_code": "SVI-BLK",
+  "format_name": "Scarlet & Violet - Black Bolt",
+  "rk9_id": "PT01klFH0Nj5f17R5myQ",
+  "labs_id": "0038",
+  "counts": {
+    "decklists": 488,
+    "standings": 2691,
+    "matches": 10846
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/521",
+    "https://labs.limitlesstcg.com/0038/standings",
+    "https://rk9.gg/pairings/PT01klFH0Nj5f17R5myQ"
+  ]
+}

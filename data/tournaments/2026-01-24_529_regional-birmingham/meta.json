@@ -1,0 +1,23 @@
+{
+  "limitless_id": "529",
+  "date": "2026-01-24",
+  "name": "Regional Birmingham",
+  "type": "regional",
+  "country": "GB",
+  "players": 2344,
+  "winner": "Ethan Wilde",
+  "format_code": "SVI-PFL",
+  "format_name": "Scarlet & Violet - Phantasmal Flames",
+  "rk9_id": "BH01mjIWeSb7vxkM9Aer",
+  "labs_id": "0049",
+  "counts": {
+    "decklists": 433,
+    "standings": 2344,
+    "matches": 9968
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/529",
+    "https://labs.limitlesstcg.com/0049/standings",
+    "https://rk9.gg/pairings/BH01mjIWeSb7vxkM9Aer"
+  ]
+}

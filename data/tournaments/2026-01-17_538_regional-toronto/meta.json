@@ -1,0 +1,23 @@
+{
+  "limitless_id": "538",
+  "date": "2026-01-17",
+  "name": "Regional Toronto",
+  "type": "regional",
+  "country": "CA",
+  "players": 2270,
+  "winner": "Giovanny Sasso",
+  "format_code": "SVI-PFL",
+  "format_name": "Scarlet & Violet - Phantasmal Flames",
+  "rk9_id": "TO01yAfakDVFFDFAV2AS",
+  "labs_id": "0048",
+  "counts": {
+    "decklists": 416,
+    "standings": 2270,
+    "matches": 9022
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/538",
+    "https://labs.limitlesstcg.com/0048/standings",
+    "https://rk9.gg/pairings/TO01yAfakDVFFDFAV2AS"
+  ]
+}

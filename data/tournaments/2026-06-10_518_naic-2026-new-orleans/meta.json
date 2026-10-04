@@ -1,0 +1,23 @@
+{
+  "limitless_id": "518",
+  "date": "2026-06-10",
+  "name": "NAIC 2026, New Orleans",
+  "type": "international",
+  "country": "US",
+  "players": 3752,
+  "winner": "James Kowalski",
+  "format_code": "TEF-CRI",
+  "format_name": "Temporal Forces - Chaos Rising",
+  "rk9_id": "NA01wMo4vxttnwEyqclr",
+  "labs_id": "0070",
+  "counts": {
+    "decklists": 675,
+    "standings": 3752,
+    "matches": 14438
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/518",
+    "https://labs.limitlesstcg.com/0070/standings",
+    "https://rk9.gg/pairings/NA01wMo4vxttnwEyqclr"
+  ]
+}

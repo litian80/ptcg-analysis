@@ -1,0 +1,22 @@
+{
+  "limitless_id": "560",
+  "date": "2026-03-07",
+  "name": "Special Event San Juan",
+  "type": "special",
+  "country": "PR",
+  "players": 356,
+  "winner": "Miguel Alejandro Hernández García",
+  "format_code": "SVI-ASC",
+  "format_name": "Scarlet & Violet - Ascended Heroes",
+  "rk9_id": "",
+  "labs_id": "0056",
+  "counts": {
+    "decklists": 63,
+    "standings": 356,
+    "matches": 1398
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/560",
+    "https://labs.limitlesstcg.com/0056/standings"
+  ]
+}

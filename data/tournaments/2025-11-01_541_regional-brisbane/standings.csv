@@ -1,0 +1,618 @@
+placing,labs_player_id,name,country,wins,losses,ties,points,day2,top_cut,archetype,archetype_slug,icons
+1,0054,RYUKI OKADA,JP,13,1,2,41,True,True,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+2,0410,Sotaro Mizutani,JP,13,1,2,41,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+3,0616,WAIPAN MAK,HK,11,2,2,35,True,True,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+4,0364,Jordan Palmer,AU,11,3,1,34,True,True,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+5,0334,max kunde,AU,10,2,2,32,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+6,0086,Shun Akita,JP,10,2,2,32,True,True,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+7,0216,Layton Rumble,NZ,9,1,4,31,True,True,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+8,0169,TAISEI KODAMA,JP,10,3,1,31,True,True,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+9,0181,Brent Tonisson,AU,9,3,1,28,True,True,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+10,0319,Andi Cheung,AU,9,3,0,27,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+11,0163,Keisuke Eguchi,JP,9,3,0,27,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+12,0580,Angus Johnson,AU,8,1,3,27,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+13,0384,Akira Kurasaki,JP,8,1,3,27,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+14,0067,shinnosuke sato,JP,8,2,2,26,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+15,0147,Neo Erlandsson,US,8,2,2,26,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+16,0019,Yohei Takeda,JP,8,2,2,26,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+17,0171,Shun Takahashi,JP,8,2,2,26,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+18,0563,Michael Shin,AU,8,2,2,26,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+19,0284,Riku Nakajima,JP,7,0,5,26,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+20,0168,Gareth Murphy,AU,8,2,2,26,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+21,0219,harunori yamamoto,JP,8,2,2,26,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+22,0288,HIROMICHI TANAKA,JP,8,2,2,26,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+23,0533,Victor Su,AU,8,3,1,25,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+24,0141,Roman Addamo,AU,8,3,1,25,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+25,0570,Kian Amini,US,7,1,4,25,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+26,0160,Toshihiro Kai,JP,8,3,1,25,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+27,0453,Shoichi Saito,JP,8,3,1,25,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+28,0339,Hayden Matthews,AU,8,3,1,25,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+29,0057,Hiro Yaoka,JP,8,3,1,25,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+30,0356,Christian Viti,AU,8,3,1,25,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+31,0298,Nicholas Fox,AU,8,3,1,25,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+32,0184,Charlie Queen,AU,8,3,1,25,True,False,Slowking,slowking-scr,slowking
+33,0438,Sophie Seeary,AU,8,3,1,25,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+34,0473,Jeremy Lim,AU,8,3,1,25,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+35,0266,Jamison Bulloch,AU,8,3,1,25,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+36,0117,Joshua Sparks,AU,8,3,1,25,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+37,0314,Hakim Moussaoui,AU,8,3,1,25,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+38,0614,Stephen Lowe,US,8,3,1,25,True,False,Ceruledge,ceruledge-ex,ceruledge
+39,0081,Ethan Cooper,AU,8,3,1,25,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+40,0304,William Seifert,AU,7,2,3,24,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+41,0584,James Goreing,AU,8,4,0,24,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+42,0192,Asaki Hasegawa,JP,8,4,0,24,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+43,0124,Sylvie Gallager,AU,8,4,0,24,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+44,0495,Nigel Tan,NZ,7,2,3,24,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+45,0061,Daiki Fukushima,JP,7,2,3,24,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+46,0355,Soichiro Kawano,JP,7,3,2,23,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+47,0307,Yuki Kawahito,JP,7,3,2,23,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+48,0590,Kirara Koroishi,JP,7,3,2,23,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+49,0389,Connor Maguire,AU,7,3,2,23,True,False,Ceruledge,ceruledge-ex,ceruledge
+50,0111,Adam Paterson,NZ,7,3,2,23,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+51,0091,Reo. Yamada,JP,7,3,2,23,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+52,0044,heddi Brahmi,FR,7,3,2,23,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+53,0026,Jovan Owen Santoso,AU,7,3,2,23,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+54,0152,Alex Crockford,AU,7,3,2,23,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+55,0102,Ilya Polkovnichenko,JP,7,3,2,23,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+56,0387,Vignesh Krishnan,AU,7,4,1,22,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+57,0010,Kurt Spiteri,AU,7,4,1,22,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+58,0362,Daniel Ouyang,AU,7,4,1,22,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+59,0403,Shuto Kogawa,JP,6,2,4,22,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+60,0285,Tim Franklin,AU,7,4,1,22,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+61,0550,Blake Davies,AU,7,4,1,22,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+62,0055,Yanqiu Han,AU,7,4,1,22,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+63,0541,Rahul Reddy,US,7,4,1,22,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+64,0108,David Frans Daritan,AU,7,4,1,22,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+65,0599,Xander Shepherd,AU,7,4,1,22,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+66,0243,Gakuto Shiina,JP,7,4,1,22,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+67,0525,Yuhao Xia,AU,7,4,1,22,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+68,0397,Ding LiJun,CN,7,4,1,22,True,False,Greninja,greninja-ex,greninja
+69,0317,Josh Machiela,AU,7,4,1,22,True,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+70,0539,Jake Dunstan,AU,7,4,1,22,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+71,0519,xingyu huang,AU,7,4,1,22,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+72,0279,Shang Jun Chua,AU,7,4,1,22,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+73,0515,Jan Timothy Yang,AU,7,4,1,22,True,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+74,0007,Cameron Chandler,AU,7,4,1,22,True,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+75,0129,Liam Gannon,AU,7,4,1,22,True,False,Joltik Box,joltik-box,joltik|pikachu
+76,0156,Nunzio Marrone,IT,7,4,1,22,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+77,0043,Akihiro Urata,JP,7,5,0,21,True,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+78,0530,Edmund Khoo,SG,6,3,3,21,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+79,0127,Ben Wallace,ID,6,3,3,21,True,False,N's Zoroark,n-zoroark,zoroark
+80,0447,Regan Benedetti,AU,6,3,3,21,True,False,Ceruledge,ceruledge-ex,ceruledge
+81,0429,Jettano Posani,AU,6,3,3,21,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+82,0115,Johnathan Heng,AU,6,3,3,21,True,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+83,0418,Matthew Fernandez,AU,6,3,3,21,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+84,0347,Sean Takemoto,AU,5,1,6,21,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+85,0489,Reiji Nishiguchi,JP,6,4,2,20,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+86,0186,Jonathan Cheong,AU,5,2,5,20,True,False,N's Zoroark,n-zoroark,zoroark
+87,0558,Peter Royle,AU,6,4,2,20,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+88,0170,Jesse Becker,AU,6,4,2,20,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+89,0145,Rob Spiller,AU,6,4,2,20,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+90,0162,Alistair Menzies,AU,6,4,2,20,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+91,0322,Aaron Day,AU,6,4,2,20,True,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+92,0034,Jackson Tardrew,AU,6,4,2,20,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+93,0353,Callum Reed,AU,6,4,2,20,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+94,0038,Kelvin Nguyen,AU,6,5,1,19,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+95,0374,Aiden Harrison,AU,6,5,1,19,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+96,0341,Evie Collins,AU,6,5,1,19,True,False,Gholdengo,gholdengo-ex,gholdengo
+97,0423,James Williams,AU,6,5,1,19,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+98,0594,Max McInnis,AU,6,5,1,19,True,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+99,0228,Shawn Zillmann,AU,5,3,4,19,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+100,0328,Matthew Burris,AU,6,5,1,19,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+101,0483,Patrick Bouyer,AU,6,5,1,19,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+102,0411,Ben Anderson,AU,6,5,1,19,True,False,Ceruledge,ceruledge-ex,ceruledge
+103,0572,Tomas Stevens,AU,6,5,1,19,True,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+104,0336,Samantha Turner,AU,5,3,4,19,True,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+105,0218,Kenny Muljadi,AU,6,5,1,19,True,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+106,0416,Kirryn Hatch,AU,6,5,1,19,True,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+107,0148,Ethan Stoeckert,AU,5,4,3,18,True,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+108,0126,Devan Kyle Timbol,AU,5,4,3,18,True,False,N's Zoroark,n-zoroark,zoroark
+109,0159,Hirotsugu Takakura,JP,5,4,3,18,True,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+110,0431,Joshua Smart,AU,5,5,2,17,True,False,Gholdengo,gholdengo-ex,gholdengo
+111,0003,Takeru Yamano,JP,4,3,5,17,True,False,Gardevoir,gardevoir-ex-sv,gardevoir
+112,0318,Doug Bailey,AU,5,5,2,17,True,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+113,0413,NATALIE Millar,AU,5,4,1,16,True,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+114,0098,Ryan Spry,AU,5,6,1,16,True,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+115,0497,Joseph Sergi,AU,5,6,1,16,True,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+116,0559,Mitch Knuckey,AU,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+117,0407,Takuya Yoneda,JP,5,3,0,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+118,0088,Billy Coles,AU,5,3,0,15,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+119,0005,Toshihiro TSUBOI,JP,5,3,0,15,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+120,0230,ZIJIE YE,AU,5,3,0,15,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+121,0113,シュンタ フタエサク,JP,5,3,0,15,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+122,0071,Charlie Ashton Rafferty,AU,5,3,0,15,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+123,0591,義武 檜垣,JP,5,3,0,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+124,0499,Lachlan Russell,AU,5,3,0,15,False,False,Ceruledge,ceruledge-ex,ceruledge
+125,0237,Nathan Spry,AU,5,3,0,15,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+126,0586,Corey Tuddenham,AU,5,3,0,15,False,False,Ceruledge,ceruledge-ex,ceruledge
+127,0502,jesse mccully,AU,5,3,0,15,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+128,0311,Leigh Edwards,AU,5,3,0,15,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+129,0246,Aaron van der Kolk,AU,5,3,0,15,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+130,0487,Kaede Waki,JP,5,3,0,15,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+131,0073,Jake Cruwys,AU,5,3,0,15,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+132,0121,Ehren Roebuck,AU,5,3,0,15,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+133,0195,Taisei Iha,JP,4,1,3,15,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+134,0476,NORIFUMI MORI,JP,5,3,0,15,False,False,Crustle,crustle-dri,crustle
+135,0259,xuancheng chen,AU,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+136,0248,Sameer Sangwan,AU,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+137,0083,Sota Kasai,JP,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+138,0188,Satoya Takagi,JP,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+139,0474,Shaun Murphy,AU,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+140,0144,Jordan Gil Goncalves De Miranda,UK,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+141,0352,Akihiro Sato,JP,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+142,0139,Olivier Mendil,AU,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+143,0513,Bailey Rieck,AU,4,2,2,14,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+144,0434,Christopher Fox,AU,4,2,2,14,False,False,Dragapult,dragapult-ex,dragapult
+145,0479,Tuan Ni,TW,4,2,2,14,False,False,Ceruledge,ceruledge-ex,ceruledge
+146,0371,Austin Wang,AU,4,2,2,14,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+147,0286,Nathan Topping,AU,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+148,0251,Duy Le,AU,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+149,0378,Davy Lam,HK,4,2,2,14,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+150,0359,Jim Tsaousoglou,AU,4,2,2,14,False,False,Slaking,slaking-ex,slaking
+151,0106,Rio Tanabe,JP,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+152,0199,Genki Taketomi,JP,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+153,0190,Andrew Coey,AU,4,2,2,14,False,False,Iron Thorns,iron-thorns-ex,iron-thorns
+154,0207,Deacan Page,AU,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+155,0090,Yasuyuki Handa,AU,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+156,0449,Matthew Bray,AU,4,2,2,14,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+157,0567,Anton Piccio,AU,4,2,2,14,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+158,0329,Tyler Clynes,AU,4,2,2,14,False,False,Ancient Box,ancient-box,roaring-moon|flutter-mane
+159,0478,Robin Sangwan,AU,4,2,2,14,False,False,Ceruledge,ceruledge-ex,ceruledge
+160,0316,Anthony Smith,AU,4,2,2,14,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+161,0589,Sineth Akmeemana,AU,4,2,2,14,False,False,Pidgeot Control,pidgeot-control,pidgeot
+162,0247,Paul Ashton,AU,4,2,2,14,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+163,0240,Jade Moss,AU,4,2,2,14,False,False,Roaring Moon,roaring-moon-ex,roaring-moon
+164,0074,HIROKI KOBAYASHI,JP,4,3,1,13,False,False,Hop's Zacian,hop-zacian,zacian-crowned|snorlax
+165,0002,Oliver Hadley,AU,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+166,0146,Daniel Fray,AU,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+167,0522,Takuya Wakiyama,JP,4,3,1,13,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+168,0469,Tyler Bishop,AU,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+169,0605,Jorge Soria,AU,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+170,0047,Marcus Ibbotson,AU,4,3,1,13,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+171,0287,Chia-Chen Hung,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+172,0137,Ziang Chai,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+173,0049,Sophia Crunkhorn,AU,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+174,0414,Sam Hendle,AU,3,1,4,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+175,0179,Hiromichi Imatani,JP,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+176,0252,Samuel Gianakis,AU,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+177,0335,Shaun Sewell,AU,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+178,0036,Chung-Yin Johnny Chan,AU,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+179,0125,Peter Lo,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+180,0300,Lucas Hamilton-Foster,AU,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+181,0056,Addison Yip,AU,4,3,1,13,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+182,0105,Tyson Whaleboat,AU,4,3,1,13,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+183,0394,Piero Vallejo,AU,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+184,0290,SOTA TERASAKI,JP,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+185,0093,James Field,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+186,0501,Archie de Vries,AU,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+187,0180,Cody Bell,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+188,0391,Callum Walker,AU,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+189,0033,Satoshi Kunishima,JP,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+190,0419,Tan Loc Thuan Nguyen,AU,4,3,1,13,False,False,Joltik Box,joltik-box,joltik|pikachu
+191,0465,Gregorius Andrew Winata,AU,4,3,1,13,False,False,Conkeldurr,conkeldurr-twm,conkeldurr
+192,0460,Joseph Mousaed,US,4,3,1,13,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+193,0508,Peter Bennett,AU,4,3,1,13,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+194,0068,Ryan Burt,AU,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+195,0024,Steven Love,AU,4,3,1,13,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+196,0577,Fergus Bell,AU,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+197,0433,Alexander Thorvaldson,AU,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+198,0303,Matthew Themelco,AU,4,3,1,13,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+199,0089,Nathan Morgan,AU,4,3,1,13,False,False,Joltik Box,joltik-box,joltik|pikachu
+200,0549,Miles Busfield,AU,4,3,1,13,False,False,Gholdengo,gholdengo-ex,gholdengo
+201,0268,Hieu Tran,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+202,0265,Vincent Sutinah,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+203,0493,Magnus Morrish,AU,4,3,1,13,False,False,Slowking,slowking-scr,slowking
+204,0477,Ashton Grant,AU,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+205,0408,Jacob Faria,AU,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+206,0491,AKATOKI SAKAMOTO,JP,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+207,0451,ryutaro ueda,JP,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+208,0470,Geoff Abel,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+209,0166,Blake Wightman,AU,4,3,1,13,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+210,0114,Qiyuan Huang,CN,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+211,0428,Jit Chang Bak,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+212,0224,jade hoye,AU,4,3,1,13,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+213,0295,James Breene,AU,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+214,0066,David Boyd,AU,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+215,0553,Takahiro Yamazaki,JP,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+216,0466,Gil Yahalom,AU,4,3,1,13,False,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+217,0264,Srikar Jha,AU,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+218,0358,DEVLIN VAWDREY,AU,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+219,0063,Hadyn Joyce,AU,4,3,1,13,False,False,Ceruledge,ceruledge-ex,ceruledge
+220,0472,Maddison Miller,AU,4,3,1,13,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+221,0018,Ben Tattersfield,AU,4,3,1,13,False,False,Yanmega,yanmega-ex,yanmega
+222,0016,Ethan Luu,AU,4,3,1,13,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+223,0402,Jacob King,UK,4,3,1,13,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+224,0157,SHUO YANG,CN,4,3,1,13,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+225,0131,Ollie Price,AU,4,3,1,13,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+226,0602,Anthony Chan,AU,4,3,1,13,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+227,0245,Maclean Staden,AU,4,3,1,13,False,False,Alakazam,alakazam-meg,alakazam
+228,0012,Douglas Chong,AU,4,3,1,13,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+229,0556,Bradley Ireland,US,3,1,4,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+230,0582,Chris Little,AU,4,3,1,13,False,False,N's Zoroark,n-zoroark,zoroark
+231,0361,Michael Whiting,AU,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+232,0608,Justin Hoy,AU,4,3,1,13,False,False,Joltik Box,joltik-box,joltik|pikachu
+233,0485,Bailey Faith,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+234,0535,Isaac Chau,AU,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+235,0158,LIANGZHOU GOU,CN,4,3,1,13,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+236,0484,Siu Chun Lee,AU,4,3,1,13,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+237,0048,Joshua Sagar,AU,4,3,1,13,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+238,0272,Tyson Ashkenazy,AU,4,4,0,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+239,0211,Michael Gennaccaro,AU,4,4,0,12,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+240,0235,Jake Austin,AU,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+241,0482,yusuke koara,JP,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+242,0223,Calum Thatcher,AU,4,4,0,12,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+243,0344,Jacob Smyth,AU,4,4,0,12,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+244,0028,Brittany Mitchell,AU,3,1,3,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+245,0069,Scott Campbell,AU,4,4,0,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+246,0386,Shinnosuke Komiya,US,3,2,3,12,False,False,Zoroark Crustle,zoroark-crustle,zoroark|crustle
+247,0456,Jayden Hill,AU,4,4,0,12,False,False,Yanmega,yanmega-ex,yanmega
+248,0500,Joel Westrup,AU,3,2,3,12,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+249,0201,Yupeng Yang,AU,3,2,3,12,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+250,0112,Zachary Vella,AU,3,2,3,12,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+251,0096,Harrison Coughran,AU,4,3,0,12,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+252,0406,Mitchell Pengilly,AU,4,4,0,12,False,False,Gholdengo,gholdengo-ex,gholdengo
+253,0540,Alex Lonnecker,UK,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+254,0526,Jacob Pulleine,AU,4,4,0,12,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+255,0310,louis heath nation,AU,4,4,0,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+256,0271,Thomas Wohlsen,AU,4,3,0,12,False,False,Joltik Box,joltik-box,joltik|pikachu
+257,0360,Zitong Yan,CN,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+258,0020,Matt Bain,AU,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+259,0301,Ty Farry,AU,3,2,3,12,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+260,0417,Chang Lu,AU,4,4,0,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+261,0507,Diego Paciaroni,AR,4,4,0,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+262,0058,Christopher Budd,AU,3,2,3,12,False,False,Crustle,crustle-dri,crustle
+263,0214,Lewis Stevens,AU,3,2,3,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+264,0274,Solomon Foo,AU,3,2,3,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+265,0210,Tyriek mousaco,AU,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+266,0395,Brayden S,AU,3,2,3,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+267,0520,Thien Tong,AU,4,4,0,12,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+268,0253,Ryoya Naito,JP,4,4,0,12,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+269,0308,Connor Gilbert,AU,3,2,3,12,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+270,0444,Alicia Keizer,AU,4,4,0,12,False,False,Hydrapple Ogerpon,hydrapple-ogerpon,hydrapple|ogerpon
+271,0342,Chen Junhan,AU,4,4,0,12,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+272,0075,Dylan Dang,AU,4,4,0,12,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+273,0087,Alvin Hall,AU,4,4,0,12,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+274,0041,Jai Harland,AU,4,4,0,12,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+275,0562,Mark Takahashi,JP,4,4,0,12,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+276,0234,Alfie Worgan,AU,4,4,0,12,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+277,0051,Hayden Peters,AU,4,4,0,12,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+278,0212,Yow-Cherng Chang,AU,4,4,0,12,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+279,0134,Xiao long Martin,AU,4,4,0,12,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+280,0595,Russell Binstead,AU,3,2,3,12,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+281,0173,Dante Sun,AU,3,2,3,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+282,0399,Gerard van Bergen,AU,4,4,0,12,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+283,0302,Mohamad Zayied,AU,3,2,3,12,False,False,Ceruledge,ceruledge-ex,ceruledge
+284,0471,Dylan Williams,AU,3,3,2,11,False,False,Slowking,slowking-scr,slowking
+285,0015,Harley Treverton,AU,3,3,2,11,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+286,0600,Kyle Lamont,AU,3,3,2,11,False,False,Joltik Box,joltik-box,joltik|pikachu
+287,0441,Rory Beniuk,AU,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+288,0220,Brendan Cobner,AU,3,3,2,11,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+289,0027,Christofer Gozali,AU,3,3,2,11,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+290,0379,Jorja Doenau,AU,3,3,2,11,False,False,Ceruledge,ceruledge-ex,ceruledge
+291,0405,troy fisher,AU,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+292,0143,Connor Kinkead,AU,3,3,2,11,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+293,0568,Kenny Liu,AU,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+294,0052,Jason Yip,AU,3,3,2,11,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+295,0573,Liam Thomas,AU,3,3,2,11,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+296,0401,Jonico Dealca,AU,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+297,0193,Carlos Jara,AU,3,3,2,11,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+298,0388,Ethan L,AU,3,3,2,11,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+299,0122,Tom Bourke,AU,3,3,2,11,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+300,0516,Victor Liu,AU,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+301,0309,Haoqing Hu,CN,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+302,0440,Geoff Giddings,AU,3,3,2,11,False,False,Festival Lead,festival-lead,dipplin|thwackey
+303,0461,Jiahe Liang,AU,3,3,2,11,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+304,0574,Simon Tian,AU,3,3,2,11,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+305,0523,Corey Grimshaw,AU,3,2,2,11,False,False,Rocket's Mewtwo,rocket-mewtwo-ex,mewtwo|spidops
+306,0528,Yunkai Shi,CN,2,1,5,11,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+307,0079,Gabriel Perez,AU,3,3,2,11,False,False,N's Zoroark,n-zoroark,zoroark
+308,0593,Angelo Carrizo,NZ,3,3,2,11,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+309,0059,Noah Lewis,AU,3,3,2,11,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+310,0325,Brendan Dorney,AU,3,3,2,11,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+311,0321,Kin Long Yu,AU,3,3,2,11,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+312,0480,Elliot Backstrom,AU,3,3,2,11,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+313,0305,Terance Chong,AU,3,3,2,11,False,False,Conkeldurr,conkeldurr-twm,conkeldurr
+314,0256,Andy Tran,AU,3,3,2,11,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+315,0232,Shane Quinn,AU,3,3,2,11,False,False,Chien-Pao Baxcalibur,chien-pao-baxcalibur,chien-pao|baxcalibur
+316,0427,Corey Munro,AU,3,4,1,10,False,False,Ceruledge,ceruledge-ex,ceruledge
+317,0270,Ryan Anderson,AU,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+318,0241,Isaac Reeves,AU,3,4,1,10,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+319,0053,Hudson Fraser,AU,3,3,1,10,False,False,Ceruledge,ceruledge-ex,ceruledge
+320,0598,Jesse Perkins,AU,3,4,1,10,False,False,Slowking,slowking-scr,slowking
+321,0178,Tze Sum Foong,AU,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+322,0376,Benjamin Moulday,AU,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+323,0025,Reily Pychtin,AU,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+324,0373,Laughlan Skinner,AU,3,4,1,10,False,False,Ceruledge,ceruledge-ex,ceruledge
+325,0557,Javahn Santosha,AU,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+326,0492,Harrison Tran,AU,3,4,1,10,False,False,Gholdengo,gholdengo-ex,gholdengo
+327,0293,Brady Moore,AU,3,4,1,10,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+328,0185,Scott Minnekeer,AU,3,3,1,10,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+329,0296,Pierre Isnard,AU,2,2,4,10,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+330,0082,Blake Jacka,AU,3,4,1,10,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+331,0569,Masaya Yokota,JP,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+332,0544,Connor Rose,AU,3,4,1,10,False,False,Joltik Box,joltik-box,joltik|pikachu
+333,0510,Yaosheng Zhou,CN,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+334,0346,Jan Vincent Llaguno,AU,3,4,1,10,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+335,0463,Jessica-Rae Cooper,AU,3,4,1,10,False,False,Gholdengo,gholdengo-ex,gholdengo
+336,0151,Jeremy White,AU,3,4,1,10,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+337,0543,Bradley Gardner,AU,3,4,1,10,False,False,Ceruledge,ceruledge-ex,ceruledge
+338,0306,Jack underwood,AU,3,4,1,10,False,False,Other,other,substitute
+339,0370,Dylan Riseley,AU,3,4,1,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+340,0227,Wonwoo Jo,AU,3,4,1,10,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+341,0104,James Boynton,AU,3,4,1,10,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+342,0368,QUOC Vinh Pham,AU,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+343,0445,Alan Gibbons,AU,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+344,0103,Harry Morgan-spooner,AU,3,4,1,10,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+345,0080,Amy Hunt,AU,3,4,1,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+346,0348,zhijie shen,AU,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+347,0464,Xander Llewellyn,AU,3,4,1,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+348,0109,Pete Scott,AU,3,4,1,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+349,0583,Gustavo da Silva Picirilo,BR,3,3,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+350,0426,Mason Stamford,AU,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+351,0060,Cody Thorne,AU,3,4,1,10,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+352,0194,Ryan Kyriazis,AU,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+353,0545,Rohan Sinclair,AU,3,4,1,10,False,False,Crustle,crustle-dri,crustle
+354,0404,Emry Williams,AU,3,4,1,10,False,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+355,0215,Jack Hewitt,AU,3,4,1,10,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+356,0294,Kurt Luck,AU,3,4,1,10,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+357,0383,Adam Rust,AU,3,4,1,10,False,False,Mega Camerupt,mega-camerupt-ex,camerupt-mega
+358,0521,Makovin Tep,AU,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+359,0481,Thomas Reaston,AU,3,4,1,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+360,0050,Dalton Thompson,AU,3,4,1,10,False,False,Dragapult,dragapult-ex,dragapult
+361,0459,Orlando Noble,AU,3,4,1,10,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+362,0076,Yee Xuan Chai,AU,3,4,1,10,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+363,0140,Benjamin Kouzas,AU,3,4,1,10,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+364,0014,Duy Ong,AU,3,4,1,10,False,False,Gholdengo,gholdengo-ex,gholdengo
+365,0612,Alyssa Jones,AU,3,4,1,10,False,False,Festival Lead,festival-lead,dipplin|thwackey
+366,0604,Jimmy Lam,AU,3,4,1,10,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+367,0587,jiaqi peng,CN,3,4,1,10,False,False,N's Zoroark,n-zoroark,zoroark
+368,0592,Troy Hamilton,AU,3,4,0,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+369,0017,Keegan Burt,AU,3,5,0,9,False,False,Ceruledge,ceruledge-ex,ceruledge
+370,0561,Seng Chang Bak,MY,3,5,0,9,False,False,Other,other,substitute
+371,0064,Joseph Steine,AU,3,3,0,9,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+372,0421,Ibrahim Abdul Wajid,AU,3,3,0,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+373,0226,Blake Bollen,AU,3,5,0,9,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+374,0363,Abel Munoz Retamal,CL,3,5,0,9,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+375,0101,Michael Hammond,AU,3,5,0,9,False,False,Greninja,greninja-ex,greninja
+376,0517,Josiah Blackmore,AU,2,3,3,9,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+377,0123,Edan Zhao,AU,3,5,0,9,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+378,0128,Deane Stratford-Mcloughlin,AU,2,3,3,9,False,False,Other,other,substitute
+379,0260,Blake Gillespie,AU,3,5,0,9,False,False,Ogerpon,ogerpon-ex,ogerpon|ogerpon-wellspring
+380,0529,Jonathan Chai,AU,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+381,0420,Liam Briigmann,AU,3,5,0,9,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+382,0504,Iris Forknall,AU,3,4,0,9,False,False,Slowking,slowking-scr,slowking
+383,0490,Andrew Grech,AU,3,5,0,9,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+384,0312,Cohen Grimshaw,AU,3,4,0,9,False,False,Conkeldurr,conkeldurr-twm,conkeldurr
+385,0244,Jer-Shyan Hwa,AU,2,3,3,9,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+386,0001,Caleb Harper,AU,2,3,3,9,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+387,0546,Jaclyn Elliott,AU,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+388,0333,lachlan barratt,AU,2,3,3,9,False,False,Okidogi,okidogi-twm,okidogi
+389,0424,Diana Johari,AU,3,5,0,9,False,False,Flareon,flareon-ex,flareon
+390,0039,Joshua Grob,AU,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+391,0576,Diane Schemanske,US,2,2,3,9,False,False,Crustle,crustle-dri,crustle
+392,0030,Lewis Tolley,AU,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+393,0107,maximiliano eyssautier,AU,3,5,0,9,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+394,0045,Damian Mattiuzzo,AU,3,5,0,9,False,False,Pidgeot Control,pidgeot-control,pidgeot
+395,0565,Jose Torres,AU,2,3,3,9,False,False,Ceruledge,ceruledge-ex,ceruledge
+396,0380,Stuart Hoff,AU,3,4,0,9,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+397,0330,Steven Cheal,AU,3,5,0,9,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+398,0396,Malik Hannan,AU,3,5,0,9,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+399,0375,Carlos Williams,AU,3,5,0,9,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+400,0165,Evara May,AU,2,3,3,9,False,False,Greninja,greninja-ex,greninja
+401,0023,Joshua Makin,AU,3,5,0,9,False,False,Ceruledge,ceruledge-ex,ceruledge
+402,0040,Angus Coates,AU,3,5,0,9,False,False,Other,other,substitute
+403,0552,Oscar Hibbs,AU,3,5,0,9,False,False,Gholdengo,gholdengo-ex,gholdengo
+404,0601,Manuel Diaz,AU,3,5,0,9,False,False,Archaludon,archaludon-ex,archaludon
+405,0077,Charlotte Ayris,AU,2,3,2,8,False,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+406,0250,Matthew Anderson,AU,2,2,2,8,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+407,0120,Alexander van Heusden,AU,2,3,2,8,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+408,0566,Franco Takahashi,US,2,4,2,8,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+409,0340,Christopher Cheung,AU,2,4,2,8,False,False,Ceruledge,ceruledge-ex,ceruledge
+410,0442,Andre Wong,AU,2,3,2,8,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+411,0196,Ryan Kratzmann,AU,2,4,2,8,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+412,0065,Aaron Connolly,AU,2,4,2,8,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+413,0560,Alex Bey,AU,2,2,2,8,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+414,0597,William Simpson,AU,2,4,2,8,False,False,Hydreigon,hydreigon-ex,hydreigon
+415,0327,Kye Baker-Natoli,AU,2,4,2,8,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+416,0606,Brenton Turner,AU,2,4,2,8,False,False,Dragapult,dragapult-ex,dragapult
+417,0153,Alan Shao,AU,2,2,2,8,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+418,0269,Patrick Arnull,AU,2,4,2,8,False,False,Dragapult,dragapult-ex,dragapult
+419,0299,Serena Griffin,AU,2,4,2,8,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+420,0578,Isaac Robertson,AU,2,4,2,8,False,False,Mega Lucario,mega-lucario-ex,lucario-mega
+421,0343,Han Juan Lim,MY,2,4,2,8,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+422,0575,Flynn Everall,AU,2,4,2,8,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+423,0531,Lewis Paholski,AU,2,2,2,8,False,False,Ceruledge,ceruledge-ex,ceruledge
+424,0161,Janice Ross,AU,2,4,2,8,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+425,0400,Matt Adams,AU,2,4,2,8,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+426,0385,Nelson Jofre,AU,2,4,2,8,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+427,0524,Tomas Ahlers,AU,1,2,5,8,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+428,0610,George Glover,NZ,2,3,1,7,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+429,0315,Di Drew,AU,2,4,1,7,False,False,Joltik Box,joltik-box,joltik|pikachu
+430,0094,Luke Maticic,AU,2,3,1,7,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+431,0615,Ida Nero,AU,2,3,1,7,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+432,0534,David Morgan,AU,2,3,1,7,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+433,0197,Caylam Lovercio,AU,2,3,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+434,0581,Cathy Kleingeld,AU,2,5,1,7,False,False,Gholdengo,gholdengo-ex,gholdengo
+435,0004,Nick Murtagh,AU,2,5,1,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+436,0369,Jamie Watterson,AU,2,5,1,7,False,False,Other,other,substitute
+437,0564,Stefan Sakir,AU,2,5,1,7,False,False,Ceruledge,ceruledge-ex,ceruledge
+438,0062,Brandon Potts,AU,2,5,1,7,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+439,0276,Pearl Grimshaw,AU,2,0,1,7,False,False,Slowking,slowking-scr,slowking
+440,0189,Caitlin Housman,AU,2,3,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+441,0176,Nicholas Cruickshank,AU,1,3,4,7,False,False,Slowking,slowking-scr,slowking
+442,0116,Sean Patten,AU,2,5,1,7,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+443,0213,Jeffrey Liu,AU,2,4,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+444,0008,Loren Blakeley,NZ,2,3,1,7,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+445,0262,Drue Rizzardo,AU,2,5,1,7,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+446,0009,Cheree Spowart,AU,2,5,1,7,False,False,Ceruledge,ceruledge-ex,ceruledge
+447,0488,Miles Wilson,AU,1,3,4,7,False,False,Dragapult,dragapult-ex,dragapult
+448,0297,Reilly Jackson-Elliott,AU,2,5,1,7,False,False,Ceruledge,ceruledge-ex,ceruledge
+449,0446,Anthony Cheah,AU,2,5,1,7,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+450,0443,Jakob Hansen,AU,2,4,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+451,0135,Felipe Santander Lagos,NZ,2,5,1,7,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+452,0172,Dan Smith,AU,2,5,1,7,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+453,0372,Joshua Arthur,AU,2,5,1,7,False,False,Hydrapple Ogerpon,hydrapple-ogerpon,hydrapple|ogerpon
+454,0032,Annu Martikainen,NZ,2,5,1,7,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+455,0231,Nicholas Laws-Ballinger,AU,2,5,1,7,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+456,0527,ZHI XIN YAP,AU,1,3,4,7,False,False,Ceruledge,ceruledge-ex,ceruledge
+457,0468,Nikita Simonov,AU,2,4,1,7,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+458,0496,Primo Mawn,AU,2,5,1,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+459,0571,Anthony Christo,AU,2,5,1,7,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+460,0118,Caleb Obaid,AU,2,5,1,7,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+461,0551,Jesse Brownrigg,AU,2,3,0,6,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+462,0603,Fletcher Konynenburg,AU,2,3,0,6,False,False,N's Zoroark,n-zoroark,zoroark
+463,0381,Nick Bell,AU,2,3,0,6,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+464,0217,Joshua Glen,AU,2,4,0,6,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+465,0133,Christopher Mathers,AU,2,4,0,6,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+466,0132,Andrew Daniels,AU,2,6,0,6,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+467,0412,Daniel Faulkner,AU,2,3,0,6,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+468,0236,masahiro iwamoto,JP,2,3,0,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+469,0512,Connor Murphy,AU,2,3,0,6,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+470,0337,jack everall,AU,2,4,0,6,False,False,Gholdengo Joltik Box,gholdengo-joltik-box,gholdengo|joltik
+471,0324,Bodine Cooper,AU,2,4,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+472,0292,Noah Foster,AU,2,5,0,6,False,False,Joltik Box,joltik-box,joltik|pikachu
+473,0393,Alex Ferron,AU,1,4,3,6,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+474,0085,Jacob Dwyer,AU,2,4,0,6,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+475,0150,Justin Eldridge,AU,2,3,0,6,False,False,Other,other,substitute
+476,0455,Jamie O'Brien,AU,2,4,0,6,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+477,0021,Chase Konings,AU,2,3,0,6,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+478,0174,Jai Munzone,AU,1,4,3,6,False,False,Other,other,substitute
+479,0100,wayde Webster,AU,2,5,0,6,False,False,Feraligatr,feraligatr-tef,feraligatr
+480,0035,Brian Eichenberger,AU,2,4,0,6,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+481,0475,Marcus Girard,AU,2,5,0,6,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+482,0313,Ignacio Rivera,AU,1,4,3,6,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+483,0238,Zheng Wei Gerrard Ng,SG,2,4,0,6,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+484,0084,Blaine Winchester,AU,2,6,0,6,False,False,Great Tusk Mill,great-tusk-tef,great-tusk
+485,0095,Brock Curtis,AU,2,5,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+486,0611,Belinda Jennings,AU,2,5,0,6,False,False,Joltik Box,joltik-box,joltik|pikachu
+487,0183,Ryan Joyce,AU,2,4,0,6,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+488,0167,Jessica Riggien,AU,2,6,0,6,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+489,0357,Jason Nguyen,AU,2,6,0,6,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+490,0029,Aaron Cuta,AU,1,3,3,6,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+491,0332,Johnson Lee,AU,2,3,0,6,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+492,0366,Ryan Bateman,AU,1,3,3,6,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+493,0046,Scott Slimmon,AU,2,6,0,6,False,False,Hydrapple Ogerpon,hydrapple-ogerpon,hydrapple|ogerpon
+494,0070,Tommy Simpson,AU,2,4,0,6,False,False,N's Zoroark,n-zoroark,zoroark
+495,0225,Scott Davies,AU,2,6,0,6,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+496,0511,Brandon Deem,AU,1,1,2,5,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+497,0097,Paul Coletta,AU,1,3,2,5,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+498,0555,william wang,AU,1,2,2,5,False,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+499,0354,Chris Lehnert,AU,1,3,2,5,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+500,0037,Zhenhao Peng,AU,1,2,2,5,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+501,0409,Lily Shamsullah,AU,1,2,2,5,False,False,Mega Venusaur,mega-venusaur-ex,venusaur-mega
+502,0514,Joshua Ferguson,AU,1,4,2,5,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+503,0200,Bailey Smith,AU,1,3,2,5,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+504,0136,Peter Rennie,AU,1,3,2,5,False,False,Mega Camerupt,mega-camerupt-ex,camerupt-mega
+505,0258,Tighe Brown-Malsem,AU,1,5,2,5,False,False,Dragapult Charizard,dragapult-charizard,dragapult|charizard
+506,0609,Jess Owers,AU,1,2,2,5,False,False,Ceruledge,ceruledge-ex,ceruledge
+507,0130,Sean Mabb,AU,1,2,2,5,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+508,0291,Liam Grier,AU,1,5,2,5,False,False,Other,other,substitute
+509,0202,Arnouluck Sirisay,AU,1,5,2,5,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+510,0254,Harrison Took,AU,1,2,2,5,False,False,Wugtrio Mill,wugtrio-svi,wugtrio
+511,0205,Patrick Chuang,AU,1,5,2,5,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+512,0177,Noah Perret,AU,1,5,2,5,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0494,Ryujin Fukui,JP,7,3,1,22,False,False,unknown,?,
+,0323,Fox Upton,AU,1,2,2,5,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0257,Jordan Gallagher,AU,1,5,2,5,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0204,Adam Herbert,AU,1,4,1,4,False,False,Ursaluna Lunatone,ursaluna-lunatone,ursaluna-bloodmoon|lunatone
+,0267,Alexander (alex) Paterson,AU,1,3,1,4,False,False,Alakazam Dudunsparce,alakazam-dudunsparce,alakazam|dudunsparce
+,0261,Alyssa Lock,AU,1,2,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0377,Calin McIntyre,AU,1,2,1,4,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0233,Conor Oates,AU,1,6,1,4,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0072,Daichi Tamai,JP,1,4,1,4,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0099,Dakota Cavanough,AU,1,5,1,4,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0338,Efim Zelmanovich,AU,1,4,1,4,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0275,Fletcher Mason-Vidler,AU,1,3,1,4,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0278,Jack Goundry,AU,1,3,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0435,Jack-William Wright,AU,1,3,1,4,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0042,Jacob Baldock,AU,0,4,4,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0596,Jordan Wilson,AU,1,4,1,4,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0031,Lachie Venville,AU,1,5,1,4,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0280,Lachlain Gibson,AU,1,3,1,4,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0221,Maddison Gillam,AU,1,3,1,4,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0351,Matthew Triffett,AU,1,2,1,4,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0281,Milos Baker Nagy,AU,1,3,1,4,False,False,Dragapult,dragapult-ex,dragapult
+,0437,Renae Lovell,AU,1,6,1,4,False,False,Kangaskhan Forretress,kangaskhan-forretress,kangaskhan-mega|forretress
+,0548,Scott Gillam,AU,1,2,1,4,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0458,Thomas Gant,AU,1,4,1,4,False,False,Greninja,greninja-ex,greninja
+,0537,Thomas Gohr,AU,1,6,1,4,False,False,Kangaskhan Bouffalant,kangaskhan-bouffalant,kangaskhan-mega|bouffalant
+,0013,Tony Locke,AU,1,3,1,4,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+,0149,William Rue,AU,1,4,1,4,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0154,adam Beevours,AU,1,4,1,4,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0430,ian irish,AU,1,4,1,4,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0532,stephen harris,AU,1,3,1,4,False,False,N's Zoroark,n-zoroark,zoroark
+,0588,Andre Pollacchi,AU,1,4,0,3,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0229,Andrew Zeller,AU,1,6,0,3,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0506,Ayaka Hase,JP,1,3,0,3,False,False,Lucario Hariyama,lucario-hariyama,lucario-mega|hariyama
+,0457,Blair Smith,AU,1,3,0,3,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0155,Brandon Dreyer,AU,1,5,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0331,Brayden Bagley,AU,1,4,0,3,False,False,Other,other,substitute
+,0518,Brodie Gardiner,AU,1,5,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0503,Caitlin Lunnon,AU,1,3,0,3,False,False,Mega Lucario,mega-lucario-ex,lucario-mega
+,0208,Coby Murray,AU,1,3,0,3,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0206,Cody Matthews,AU,1,4,0,3,False,False,Ho-Oh Armarouge,ho-oh-armarouge,ho-oh|armarouge
+,0450,Dan Reichelt,AU,0,3,3,3,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0467,David Oates,AU,0,5,3,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0119,Dragon Ka Lung Wat,AU,1,5,0,3,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0486,Ella McMahon,AU,0,5,3,3,False,False,Hydrapple Ogerpon,hydrapple-ogerpon,hydrapple|ogerpon
+,0255,Heather Vance-Winkler,US,1,4,0,3,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0554,Hugo Pace,AU,1,5,0,3,False,False,Crustle,crustle-dri,crustle
+,0542,Ismaael Farhad,AU,1,3,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0263,Jacob McGeachie,AU,1,3,0,3,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0349,Jason Ryan,AU,1,3,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0585,Jhett Cowley,AU,1,3,0,3,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+,0092,Keanna Capuno,AU,1,4,0,3,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0110,Kyle Beaumont,AU,1,2,0,3,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0142,Mathew Moore,AU,1,3,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0382,Maximus Toh,AU,1,3,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0282,Michael Morrison,AU,1,3,0,3,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0175,Mitchell de Courcy,AU,1,4,0,3,False,False,Greninja,greninja-ex,greninja
+,0209,Nakai Hibbard,AU,1,4,0,3,False,False,Dragapult,dragapult-ex,dragapult
+,0536,Nathan Woodcock,AU,1,4,0,3,False,False,Gholdengo Lunatone,gholdengo-lunatone,gholdengo|lunatone
+,0398,Niklas Pakleppa,AU,1,3,0,3,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0367,Philip Hoang,AU,1,3,0,3,False,False,N's Zoroark,n-zoroark,zoroark
+,0538,Rowan Cassidy,AU,1,3,0,3,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0138,Siyuan Yan,CN,1,4,0,3,False,False,N's Zoroark,n-zoroark,zoroark
+,0462,Timothy Ball,AU,1,5,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0239,Xander Pucci,AU,1,3,0,3,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0425,Xiaojin Ma,AU,1,3,0,3,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0350,daniel bazzana,AU,1,3,0,3,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0249,xinzhe hou,AU,1,2,0,3,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0273,Jacob Herrity,AU,0,2,2,2,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0326,Martin Bender,DE,0,4,2,2,False,False,Ethan's Typhlosion,ethan-typhlosion,typhlosion
+,0613,zackariah snarsberry,AU,0,4,2,2,False,False,Raging Bolt Ogerpon,raging-bolt-ogerpon,raging-bolt|ogerpon
+,0182,Adam Knoblauch,AU,0,3,1,1,False,False,N's Zoroark,n-zoroark,zoroark
+,0509,Brittany CLIFFORD-HOWARD,AU,0,4,1,1,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0203,Carmela Nucifora,AU,0,3,1,1,False,False,Gholdengo,gholdengo-ex,gholdengo
+,0191,Daniel Simmich,AU,0,3,1,1,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0415,Joel Royall-West,AU,0,3,1,1,False,False,Cynthia's Garchomp,cynthia-garchomp-ex,garchomp
+,0454,Jordan Fischer,AU,0,3,1,1,False,False,Flareon Noctowl,flareon-noctowl,flareon|noctowl
+,0011,Rosa Ellis,AU,0,5,1,1,False,False,Other,other,substitute
+,0579,Shanshan Tao,CN,0,3,1,1,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0365,Thomas Ball,AU,0,4,1,1,False,False,Archaludon,archaludon-ex,archaludon
+,0289,Timothy Uyeda,AU,0,3,1,1,False,False,Other,other,substitute
+,0277,Zak Grummitt,AU,0,4,1,1,False,False,Blissey,blissey-ex,blissey
+,0078,Andrew Pender,AU,0,1,0,0,False,False,Gholdengo,gholdengo-ex,gholdengo
+,0547,Brendan Costello,AU,0,3,0,0,False,False,Mega Absol Box,mega-absol-box,absol-mega|kangaskhan-mega
+,0607,Chun yu Ng,AU,0,3,0,0,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0187,Daal Jaffers,AU,0,1,0,0,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0345,Fuuga Takahasi,JP,0,1,0,0,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0222,Geoff Thompson,AU,0,5,0,0,False,False,Dragapult Dusknoir,dragapult-dusknoir,dragapult|dusknoir
+,0392,Ian Aguayo,AU,0,4,0,0,False,False,Joltik Box,joltik-box,joltik|pikachu
+,0505,Izzul Haziq Bin Murad,SG,0,1,0,0,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0198,Jack Vellacott,AU,0,3,0,0,False,False,Slowking,slowking-scr,slowking
+,0320,Jessica Ho,AU,0,3,0,0,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0436,Kajaani Jaffers,AU,0,2,0,0,False,False,Gholdengo,gholdengo-ex,gholdengo
+,0432,Liam Bennett,AU,0,2,0,0,False,False,Ceruledge,ceruledge-ex,ceruledge
+,0006,Loren Dennett,AU,0,4,0,0,False,False,Gardevoir,gardevoir-ex-sv,gardevoir
+,0439,Mark Irvine,AU,0,1,0,0,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0617,Matthew Hall,,0,2,0,0,False,False,unknown,?,
+,0452,Max Scott,AU,0,4,0,0,False,False,Tera Box,tera-box,noctowl|ogerpon-wellspring
+,0164,Paulo Jun Alvear Fujii,AU,0,5,0,0,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot
+,0498,Rebecca Gorton,AU,0,5,0,0,False,False,Wugtrio Mill,wugtrio-svi,wugtrio
+,0022,Robert Seymour,AU,0,1,0,0,False,False,Ogerpon Meganium,ogerpon-meganium,ogerpon|meganium
+,0283,Scott Fitzpatrick,AU,0,3,0,0,False,False,Pidgeot Control,pidgeot-control,pidgeot
+,0422,Sonny Graham,AU,0,4,0,0,False,False,Other,other,substitute
+,0390,Thomas Homer,AU,0,4,0,0,False,False,Gardevoir Jellicent,gardevoir-jellicent,gardevoir|jellicent
+,0448,Xiaochun Chen,AU,0,3,0,0,False,False,Grimmsnarl Froslass,grimmsnarl-froslass,grimmsnarl|froslass
+,0242,wonwoo choi,AU,0,2,0,0,False,False,Charizard Pidgeot,charizard-pidgeot,charizard|pidgeot

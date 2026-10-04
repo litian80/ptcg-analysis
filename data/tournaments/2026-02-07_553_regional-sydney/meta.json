@@ -1,0 +1,23 @@
+{
+  "limitless_id": "553",
+  "date": "2026-02-07",
+  "name": "Regional Sydney",
+  "type": "regional",
+  "country": "AU",
+  "players": 699,
+  "winner": "Lucas Hamilton-Foster",
+  "format_code": "SVI-PFL",
+  "format_name": "Scarlet & Violet - Phantasmal Flames",
+  "rk9_id": "SY01X6aiblBgAp8tfhjx",
+  "labs_id": "0052",
+  "counts": {
+    "decklists": 125,
+    "standings": 699,
+    "matches": 2846
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/553",
+    "https://labs.limitlesstcg.com/0052/standings",
+    "https://rk9.gg/pairings/SY01X6aiblBgAp8tfhjx"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "limitless_id": "558",
+  "date": "2026-05-09",
+  "name": "Regional Los Angeles, CA",
+  "type": "regional",
+  "country": "US",
+  "players": 1849,
+  "winner": "Andrew Hedrick",
+  "format_code": "TEF-POR",
+  "format_name": "Temporal Forces - Perfect Order",
+  "rk9_id": "LS01wQe8A4VHbkNmRSRG",
+  "labs_id": "0063",
+  "counts": {
+    "decklists": 331,
+    "standings": 1849,
+    "matches": 7035
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/558",
+    "https://labs.limitlesstcg.com/0063/standings",
+    "https://rk9.gg/pairings/LS01wQe8A4VHbkNmRSRG"
+  ]
+}

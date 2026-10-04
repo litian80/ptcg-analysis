@@ -1,0 +1,23 @@
+{
+  "limitless_id": "526",
+  "date": "2025-11-15",
+  "name": "Regional Las Vegas, NV",
+  "type": "regional",
+  "country": "US",
+  "players": 2919,
+  "winner": "Tord Reklev",
+  "format_code": "SVI-MEG",
+  "format_name": "Scarlet & Violet - Mega Evolution",
+  "rk9_id": "LV01YShqrqjMo62PxZPg",
+  "labs_id": "0044",
+  "counts": {
+    "decklists": 521,
+    "standings": 2919,
+    "matches": 11433
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/526",
+    "https://labs.limitlesstcg.com/0044/standings",
+    "https://rk9.gg/pairings/LV01YShqrqjMo62PxZPg"
+  ]
+}
