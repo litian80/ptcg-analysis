@@ -91,8 +91,13 @@ class CardMatcher:
     def __len__(self) -> int:
         return len(set(self.index.values()))
 
-    def find(self, text: str) -> list[tuple[str, str, float]]:
-        """Return (card name, matched text, score) for each mention, longest match first."""
+    def find(self, text: str, cased: bool | None = None) -> list[tuple[str, str, float]]:
+        """Return (card name, matched text, score) for each mention, longest match first.
+
+        cased: whether the caption track uses capitals at all (default: guess from text).
+        """
+        if cased is None:
+            cased = text != text.lower()
         words = normalize(text).split()
         found = []
         i = 0
@@ -100,7 +105,13 @@ class CardMatcher:
             hit = None
             for n in range(min(self.max_words, len(words) - i), 0, -1):
                 gram = " ".join(words[i : i + n])
-                name = self.index.get(gram) or self.index.get(gram.replace(" ", ""))
+                name = self.index.get(gram)
+                collapsed = gram.replace(" ", "")
+                # ASR splits long names ("garde voir"); don't glue short words ("be a" -> Bea).
+                if not name and n > 1 and len(collapsed) >= 6:
+                    name = self.index.get(collapsed)
+                if name and n == 1 and len(name) <= 4 and cased and not _capitalized_in(name, text):
+                    name = None  # "will" / "may" are words, "Will" / "May" are cards
                 if name:
                     hit = (name, gram, 100.0, n)
                     break
@@ -117,6 +128,11 @@ class CardMatcher:
         return found
 
 
+def _capitalized_in(name: str, text: str) -> bool:
+    """Short one-word names must keep their capital in cased captions."""
+    return re.search(rf"\b{re.escape(name)}\b", text) is not None
+
+
 # Game-action vocabulary for commentary. Each pattern is matched on normalized
 # text. Kept here (not in the card data) because it is about how casters talk.
 ACTION_PATTERNS: dict[str, list[str]] = {
@@ -129,7 +145,8 @@ ACTION_PATTERNS: dict[str, list[str]] = {
     "supporter": [r"\bsupporter\b", r"\bplays? (?:a |the )?[a-z]+ (?:orders|research|request)\b"],
     "turn": [r"\bturn (?:one|two|three|four|five|\d+)\b", r"\bgoing (?:first|second)\b", r"\bpasses? (?:the )?turn\b"],
     "game_start": [r"\bgame (?:one|two|three|1|2|3)\b", r"\bshuffle up\b", r"\bopening hand\b", r"\bmulligan\b"],
-    "game_end": [r"\b(?:that s|that is) game\b", r"\bwins? (?:game|the game|the set|the match)\b", r"\bconcede[sd]?\b", r"\bscoop(?:s|ed)?\b", r"\bextends? the hand\b", r"\bdecks? out\b"],
+    "game_end": [r"\b(?:that s|that is) game\b", r"\bwins? (?:game|the game|the set|the match)\b", r"\bconcede[sd]?\b", r"\bscoop(?:s|ed)?\b", r"\bextends? the hand\b", r"\bdecked out\b",
+                 r"\btakes? game (?:number )?(?:one|two|three|\d)\b"],
 }
 _COMPILED = {k: [re.compile(p) for p in v] for k, v in ACTION_PATTERNS.items()}
 

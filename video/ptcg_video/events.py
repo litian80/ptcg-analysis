@@ -6,6 +6,8 @@ the vision step look at the right frames and gives it card-name hints.
 
 from __future__ import annotations
 
+import re
+
 from collections import Counter
 from dataclasses import dataclass, field
 
@@ -44,15 +46,24 @@ class CaptionAnalysis:
 
 def analyze_captions(segments: list[Segment], matcher: CardMatcher | None) -> CaptionAnalysis:
     result = CaptionAnalysis()
+    cased = any(seg.text != seg.text.lower() for seg in segments)
     for seg in segments:
         if matcher is not None:
-            for name, _matched, _score in matcher.find(seg.text):
+            for name, _matched, _score in matcher.find(seg.text, cased):
                 result.events.append(Event(seg.start, "card", name, seg.text))
                 result.card_counts[name] += 1
         for kind, phrase in find_actions(seg.text):
             result.events.append(Event(seg.start, kind, phrase, seg.text))
     result.games = _game_spans(result.events)
     return result
+
+
+_NUMBERS = {"one": 1, "two": 2, "three": 3, "1": 1, "2": 2, "3": 3}
+
+
+def _game_number(phrase: str) -> int | None:
+    m = re.search(r"\bgame (one|two|three|1|2|3)\b", phrase)
+    return _NUMBERS[m.group(1)] if m else None
 
 
 def _game_spans(events: list[Event], min_gap: float = 120.0) -> list[tuple[float, float | None]]:
@@ -71,7 +82,8 @@ def _game_spans(events: list[Event], min_gap: float = 120.0) -> list[tuple[float
     start = events[0].t
     for end in ends:
         spans.append((start, end))
-        nxt = [e.t for e in events if e.kind == "game_start" and e.t > end]
+        # "game one" after game one ended is a recap, not the start of game two.
+        nxt = [e.t for e in events if e.kind == "game_start" and e.t > end and _game_number(e.detail) in (None, len(spans) + 1)]
         start = nxt[0] if nxt else end
     after = [e for e in events if ends and e.t > ends[-1]]
     if not ends or any(e.kind == "game_start" for e in after) or (after and after[-1].t - start > min_gap):

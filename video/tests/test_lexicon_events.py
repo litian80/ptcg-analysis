@@ -1,6 +1,6 @@
 from conftest import FIXTURES
 
-from ptcg_video.captions import load_captions
+from ptcg_video.captions import load_captions, parse_captions
 from ptcg_video.events import analyze_captions
 from ptcg_video.lexicon import CardMatcher, find_actions, load_card_names, normalize
 
@@ -41,3 +41,26 @@ def test_caption_analysis_games_and_counts():
     assert len(result.games) == 2
     assert result.games[0] == (0.0, 180.0)
     assert result.cards_between(0, 10) == ["Charizard", "Charizard ex", "Gardevoir", "Rare Candy"]
+
+
+def test_short_names_need_case_and_words_are_not_glued():
+    m = CardMatcher(["Will", "May", "Bea", "Gardevoir", "Gardevoir ex", "Abra"])
+    assert m.find("Diego will start to sift through his deck") == []
+    assert [n for n, *_ in m.find("He plays Will and flips")] == ["Will"]
+    assert [n for n, *_ in m.find("he plays will and flips")] == ["Will"]  # caseless captions
+    assert m.find("priority will be finding", cased=True) == []  # lowercase line in a cased track
+    assert m.find("That would be a decent sacrificial") == []
+    assert [n for n, *_ in m.find("knock out on the garde voir")] == ["Gardevoir"]
+
+
+def test_game_split_ignores_deck_out_talk_and_recaps():
+    segs = parse_captions(
+        "00:00:20.000 --> 00:00:22.000\nDiego is going first\n\n"
+        "00:28:36.000 --> 00:28:38.000\nand Andrew is going to take game number one\n\n"
+        "00:29:06.000 --> 00:29:08.000\nlet's go back to the whole of game one\n\n"
+        "00:30:49.000 --> 00:30:51.000\nhe has to take a mulligan\n\n"
+        "00:52:02.000 --> 00:52:04.000\nto make sure he wasn't going to deck out\n\n"
+        "00:54:30.000 --> 00:54:32.000\nDiego is counting his cards\n"
+    )
+    games = analyze_captions(segs, None).games
+    assert games == [(20.0, 1716.0), (1849.0, None)]
