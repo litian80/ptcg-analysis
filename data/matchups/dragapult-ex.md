@@ -533,6 +533,8 @@
 **常见失误**
 - 把 6 个指示物花在 Kadabra / Alakazam 上，放过了吃过 Ruins、一碰就倒的 Abra 和 Duskull。
 - 没算 Dusknoir 的 130：对手手牌 10 张就够一击 Dragapult ex。
+- 只养一只 Drakloak：录像（Frankfurt 区域赛第 15 轮，Lattanzi 0-2 Łaszkiewicz）两局 Drakloak 都被单独打掉，我们没有 Rare Candy，只能从 Dreepy 重来，两局一次 Phantom Dive 都没打出来（[4:20:24](https://www.youtube.com/watch?v=NOi0qAFjnME&t=15624s)）。宁可慢一回合也要同时铺两到三只 Dreepy（推断）。
+- 拿 Budew 之争当主线：对手的 Dusclops 自爆 50 正好击倒 Budew，录像里 Lattanzi 放的两只 Budew 被连续两次 Cursed Blast 打掉，之后只有对手在锁物品（[4:33:28](https://www.youtube.com/watch?v=NOi0qAFjnME&t=16408s)）。
 
 ---
 
