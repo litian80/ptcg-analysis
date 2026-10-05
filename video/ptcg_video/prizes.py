@@ -232,8 +232,10 @@ def prize_timeline(
     never given back, so a count that goes up is a replay of an earlier board
     and is ignored, unless it holds long enough to be a new game: ``reset_hold``
     seconds for a fresh 6-6 board (short sudden-death games included),
-    ``new_game_hold`` for any other count. Caption-based game spans are not
-    used; on long streams they miss games.
+    ``new_game_hold`` for any other count. A count with a 0 in it only ever
+    ends a game, so it never opens one; a shot that isn't the board can read
+    that way (NAIC 2026's pre-match player cam read 0-2). Caption-based game
+    spans are not used; on long streams they miss games.
     """
     out: list[PrizeChange] = []
     run_value, run_start, run_len = None, 0.0, 0
@@ -251,12 +253,14 @@ def prize_timeline(
             continue
         last = out[-1] if out else None
         left, right = run_value
-        if last is None:
-            out.append(PrizeChange(run_start, left, right))
-        elif (left, right) == (last.left, last.right):
+        if last is not None and (left, right) == (last.left, last.right):
             continue
-        elif left <= last.left and right <= last.right:
+        if last is not None and left <= last.left and right <= last.right:
             out.append(PrizeChange(run_start, left, right, last.game, state_seen))
+        elif 0 in run_value:
+            continue
+        elif last is None:
+            out.append(PrizeChange(run_start, left, right))
         elif f.t - run_start >= (reset_hold if run_value == (6, 6) else new_game_hold):
             out.append(PrizeChange(run_start, left, right, last.game + 1, state_seen))
         else:
