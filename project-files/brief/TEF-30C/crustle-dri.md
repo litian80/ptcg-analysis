@@ -47,7 +47,7 @@
 - 后备区不放 Kangaskhan ex（Zeraora 210 + Trifrost 110 送 3 张），Dwebble 只放 1-2 只尽快进化（防 Trifrost）
 - 战斗场的 Crustle 一定贴 Mist，挡 Destined Fight、Law of the Underworld、Drapion 的效果
 - Superb Scissors 120 正好打倒 Slowking；对手 Kangaskhan 在战斗场抽牌时连打 3 下拿 3 张，被换下就 Boss 拉回（推断）
-- Metallic Hammer 300 一击任何 Crustle（最高 290），挡不住，只能不让 Metagross 上牌库顶
+- Metallic Hammer 300 一击 2 张 Growing Grass 加 Hero's Cape 的 Crustle（290）；只有 3 张 Growing Grass 加 Cape（310）撑得住一下，主要还是别让 Metagross 上牌库顶
 - 卡表：带 Bianca's Devotion 34.8%（23 局）对不带 68.9%（15 局）
 - 卡表：带 Prism Tower 42.4%（22 局）对不带 56.2%（16 局）
 

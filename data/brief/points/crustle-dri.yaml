@@ -38,7 +38,7 @@ matchups:
     - text: "战斗场的 Crustle 一定贴 Mist，挡 Destined Fight、Law of the Underworld、Drapion 的效果"
     - text: "Superb Scissors 120 正好打倒 Slowking；对手 Kangaskhan 在战斗场抽牌时连打 3 下拿 3 张，被换下就 Boss 拉回"
       inferred: true
-    - text: "Metallic Hammer 300 一击任何 Crustle（最高 290），挡不住，只能不让 Metagross 上牌库顶"
+    - text: "Metallic Hammer 300 一击 2 张 Growing Grass 加 Hero's Cape 的 Crustle（290）；只有 3 张 Growing Grass 加 Cape（310）撑得住一下，主要还是别让 Metagross 上牌库顶"
   alakazam-dudunsparce:
     - text: "对手 Alakazam 上场前战斗场要么是 Crustle，要么是贴 Mist 的 Kangaskhan ex；第一个手贴能量优先给战斗场贴 Mist"
       inferred: true

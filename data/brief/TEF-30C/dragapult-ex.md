@@ -26,7 +26,7 @@
 
 - 第一发 Phantom Dive 打不死 280 的 Zoroark ex：6 个指示物 + Munkidori 30 集中铺在一只 Zoroark / Zorua 上，下回合收（推断）
 - 对手后备区有 N's Reshiram 时别留一只吃过 200 还活着的 Zoroark ex，复制 Powerful Rage 打 400；改 Boss 拉 Reshiram 击倒（推断）
-- 先击倒 Pecharunt ex 和对手 Munkidori：少一块加成对手 250 + 剩下一块最多 290，一击不了 Dragapult ex（推断）
+- Pecharunt ex 和对手 Munkidori 两只都要先击倒：只少一只，对手靠 Black Belt's Training 还能打到 320 或 330，一击 Dragapult ex；两只都没了最多 290（推断）
 - Watchtower 落地前用掉 Meowth ex；已在场时先打 Risky Ruins 换掉再放 Meowth ex
 - 对手 Munkidori 有 Darkness 且有指示物可挪时，Budew（30）放前场锁物品要和送 1 张比一比（推断）
 - 卡表：带 Team Rocket's Watchtower 49.1%（53 局）对不带 61.7%（196 局）

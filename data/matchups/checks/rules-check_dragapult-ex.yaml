@@ -1,0 +1,767 @@
+scope: （推断） passages in data/matchups/dragapult-ex.md, checked against PokemonTCG/pokemon-tcg-data card text
+uncertain_rules: []
+passages:
+- file: data/matchups/dragapult-ex.md
+  line: 49
+  class: R
+  verdict: verified
+  cards:
+  - N's Zoroark ex JTG 98
+  - N's Reshiram JTG 116
+  note: Night Joker copies Powerful Rage; "this Pokémon" = Zoroark; 20 counters x20 = 400, 16 = 320.
+- file: data/matchups/dragapult-ex.md
+  line: 55
+  class: I
+  verdict: still-inferred
+  cards:
+  - Budew ASC 16
+  - Munkidori TWM 95
+  note: Budew 30 HP and Adrena-Brain 3 counters confirmed; trade-off judgment unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 56
+  class: I
+  verdict: still-inferred
+  cards:
+  - Budew ASC 16
+  - Binding Mochi SFA 55
+  - N's PP Up ASC 195
+  - Secret Box TWM 163
+  note: All listed cards are Items; first/second choice unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 60
+  class: A
+  verdict: verified
+  cards:
+  - N's Zorua JTG 97
+  - N's Zoroark ex JTG 98
+  - Drakloak TWM 129
+  - Dragapult ex TWM 130
+  - Munkidori TWM 95
+  - Pecharunt ex SFA 39
+  - N's Zekrom ASC 155
+  - Special Red Card CRI 82
+  - Risky Ruins MEG 127
+  note: 'Route header; arithmetic in lines 61-68 checked. Header now: damage verified, turn plan 推断.'
+- file: data/matchups/dragapult-ex.md
+  line: 63
+  class: R
+  verdict: verified
+  cards:
+  - N's Reshiram JTG 116
+  - N's Zekrom ASC 155
+  - N's Castle JTG 152
+  - Pecharunt ex SFA 39
+  - Binding Mochi SFA 55
+  note: Restriction ends when it leaves Active; free retreat; Chains switches back + Poison.
+- file: data/matchups/dragapult-ex.md
+  line: 65
+  class: R
+  verdict: verified
+  cards:
+  - N's Zekrom ASC 155
+  - N's Zoroark ex JTG 98
+  - N's Castle JTG 152
+  note: Copied attack effect applies to the Pokémon using it; 200+60+30=290>=280.
+- file: data/matchups/dragapult-ex.md
+  line: 72
+  class: A
+  verdict: corrected
+  cards:
+  - Pecharunt ex SFA 39
+  - Binding Mochi SFA 55
+  - Black Belt's Training ASC 255
+  - Janine's Secret Art SFA 59
+  - Munkidori TWM 95
+  note: 'Old: removing either piece caps them at 290. New: must remove both; BBT 40 + Munkidori 30 = 320 and Mochi 40 + BBT 40 = 330 still KO; with both gone max 250+40 = 290 (BBT and Janine are both Supporters).'
+  change:
+    old: 少了任何一块，250 + 剩下一块最多 290
+    new: 两块都要拆；只拆一块仍有 320 / 330；两块都没了才是 250 + 40 = 290
+- file: data/matchups/dragapult-ex.md
+  line: 75
+  class: R
+  verdict: verified
+  cards:
+  - Black Belt's Training ASC 255
+  - Drakloak TWM 129
+  - Moltres PFL 14
+  note: BBT only boosts vs Active Pokémon ex. Strategic clause keeps 推断.
+- file: data/matchups/dragapult-ex.md
+  line: 76
+  class: I
+  verdict: still-inferred
+  cards:
+  - N's Darmanitan ASC 33
+  note: Back Draft 30 per Basic Energy in our discard confirmed; advice unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 79
+  class: I
+  verdict: still-inferred
+  cards:
+  - Unfair Stamp TWM 165
+  - Boss's Orders
+  note: Reading of video; Stamp condition confirmed.
+- file: data/matchups/dragapult-ex.md
+  line: 82
+  class: I
+  verdict: still-inferred
+  cards:
+  - Judge POR 76
+  note: Judge = each player shuffles hand, draws 4.
+- file: data/matchups/dragapult-ex.md
+  line: 84
+  class: R
+  verdict: verified
+  cards:
+  - Team Rocket's Watchtower ASC 210
+  - N's Zoroark ex JTG 98
+  - Pecharunt ex SFA 39
+  - Munkidori TWM 95
+  - Meowth ex POR 62
+  - Dudunsparce TEF 129
+  note: Zoroark/Pecharunt Darkness, Munkidori Psychic; Meowth ex and Dudunsparce Colorless.
+- file: data/matchups/dragapult-ex.md
+  line: 95
+  class: A
+  verdict: verified
+  cards:
+  - N's Reshiram JTG 116
+  - Dragapult ex TWM 130
+  note: 200 damage = 20 counters -> 400.
+- file: data/matchups/dragapult-ex.md
+  line: 110
+  class: I
+  verdict: still-inferred
+  cards:
+  - Energy Switch MEG 115
+  - Prime Catcher TEF 157
+  - Glass Trumpet ASC 189
+  note: All Items; choice unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 114
+  class: A
+  verdict: verified
+  cards:
+  - Area Zero Underdepths SCR 131
+  - Lillie's Clefairy ex JTG 56
+  - Meowth ex POR 62
+  - Latias ex SSP 76
+  - Teal Mask Ogerpon ex TWM 25
+  - Iron Leaves ex TEF 25
+  - Mega Kangaskhan ex MEG 104
+  - Raging Bolt ex TEF 123
+  - Moltres PFL 14
+  note: Route header; lines 115-120 checked (player who played Area Zero discards first; 310/320 vs 300 etc.).
+- file: data/matchups/dragapult-ex.md
+  line: 123
+  class: A
+  verdict: verified
+  cards:
+  - Lillie's Clefairy ex JTG 56
+  - Risky Ruins MEG 127
+  - Munkidori TWM 95
+  note: 60+60+20+60 = 200 >= 190.
+- file: data/matchups/dragapult-ex.md
+  line: 128
+  class: I
+  verdict: still-inferred
+  cards:
+  - Rosa's Encouragement POR 84
+  - Unfair Stamp TWM 165
+- file: data/matchups/dragapult-ex.md
+  line: 131
+  class: I
+  verdict: still-inferred
+  cards:
+  - Wellspring Mask Ogerpon ex TWM 64
+  note: Torrential Pump 100 + 120 to Bench confirmed; bench-count advice unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 132
+  class: I
+  verdict: still-inferred
+  cards:
+  - Chien-Pao SSP 56
+  note: Snow Sink discards a Stadium when played from hand to Bench; timing advice unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 133
+  class: R
+  verdict: verified
+  cards:
+  - Glass Trumpet ASC 189
+  note: '"Only if you have any Tera Pokémon in play" (the Basic Box player''s own Tera).'
+- file: data/matchups/dragapult-ex.md
+  line: 136
+  class: L
+  verdict: still-inferred
+  cards:
+  - Dudunsparce ex JTG 121
+  - Latias ex SSP 76
+  note: 270 HP Colorless, Tenacious Tail 60 per opp ex confirmed; build advice unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 139
+  class: I
+  verdict: still-inferred
+  cards:
+  - Team Rocket's Watchtower ASC 210
+  - Area Zero Underdepths SCR 131
+  note: 'First mark: Stadium timing.'
+- file: data/matchups/dragapult-ex.md
+  line: 139
+  class: I
+  verdict: still-inferred
+  cards:
+  - Special Red Card CRI 82
+  - Unfair Stamp TWM 165
+  note: 'Second mark. Note: SRC does put a held Stamp on the deck bottom; it only "fails to stop" Stamp if redrawn later. Left as interpretation.'
+- file: data/matchups/dragapult-ex.md
+  line: 140
+  class: I
+  verdict: still-inferred
+  cards:
+  - Jamming Tower ASC 261
+- file: data/matchups/dragapult-ex.md
+  line: 158
+  class: I
+  verdict: still-inferred
+  cards:
+  - Munkidori TWM 95
+  - Crushing Hammer POR 71
+  note: 320 arithmetic correct; cause-of-edge judgment unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 163
+  class: I
+  verdict: still-inferred
+  cards:
+  - Budew ASC 16
+  - Rare Candy MEG 125
+- file: data/matchups/dragapult-ex.md
+  line: 165
+  class: I
+  verdict: still-inferred
+  cards:
+  - Risky Ruins MEG 127
+  - Dreepy TWM 128
+  note: Dreepy 70-20 = 50 = 6 counters is correct.
+- file: data/matchups/dragapult-ex.md
+  line: 168
+  class: A
+  verdict: verified
+  cards:
+  - Duskull PRE 35
+  - Dusclops PRE 36
+  - Dusknoir PRE 37
+  - Patrat CRI 70
+  - Dreepy TWM 128
+  - Drakloak TWM 129
+  note: Route header; lines 169-174 checked.
+- file: data/matchups/dragapult-ex.md
+  line: 174
+  class: R
+  verdict: verified
+  cards:
+  - Munkidori TWM 95
+  note: Adrena-Brain moves from the owner's Pokémon to ours, so counters we leave are their ammo.
+- file: data/matchups/dragapult-ex.md
+  line: 178
+  class: I
+  verdict: still-inferred
+  cards:
+  - Duskull PRE 35
+  note: 'Come and Get You: up to 3 Duskull from discard to Bench, an attack.'
+- file: data/matchups/dragapult-ex.md
+  line: 182
+  class: R
+  verdict: verified
+  cards:
+  - Patrat CRI 70
+  - Team Rocket's Watchtower ASC 210
+  note: Patrat is Colorless; Watchful Eye stops all counter moving.
+- file: data/matchups/dragapult-ex.md
+  line: 185
+  class: L
+  verdict: still-inferred
+  cards:
+  - Hero's Cape TEF 152
+  - Dusknoir PRE 37
+  note: 420 vs 330 correct; value judgment unchanged.
+- file: data/matchups/dragapult-ex.md
+  line: 186
+  class: I
+  verdict: still-inferred
+  cards:
+  - Judge POR 76
+- file: data/matchups/dragapult-ex.md
+  line: 210
+  class: I
+  verdict: still-inferred
+  cards:
+  - Battle Cage PFL 85
+  - Nighttime Mine ASC 197
+- file: data/matchups/dragapult-ex.md
+  line: 211
+  class: R
+  verdict: verified
+  cards:
+  - Battle Cage PFL 85
+  - Munkidori TWM 95
+  note: Battle Cage only protects Benched Pokémon.
+- file: data/matchups/dragapult-ex.md
+  line: 214
+  class: R
+  verdict: verified
+  cards:
+  - Rare Candy MEG 125
+  - Alakazam MEG 56
+  note: 'Rule: a Pokémon evolves once per turn, so T2 Stage 2 needs Rare Candy.'
+- file: data/matchups/dragapult-ex.md
+  line: 220
+  class: A
+  verdict: verified
+  cards:
+  - Abra MEG 54
+  - Kadabra MEG 55
+  - Alakazam MEG 56
+  - Fezandipiti ex ASC 142
+  - Risky Ruins MEG 127
+  note: Route header; lines 221-227 checked.
+- file: data/matchups/dragapult-ex.md
+  line: 226
+  class: I
+  verdict: still-inferred
+  cards:
+  - Lucky Helmet TWM 158
+  note: Deck-out precondition advice.
+- file: data/matchups/dragapult-ex.md
+  line: 227
+  class: A
+  verdict: verified
+  cards:
+  - Fezandipiti ex ASC 142
+  - Alakazam MEG 56
+  - Nighttime Mine ASC 197
+  note: Cruel Arrow 100 x2 vs Darkness weakness = 200 >= 140; Mine only taxes Tera. "替代攻击手" choice keeps 推断.
+- file: data/matchups/dragapult-ex.md
+  line: 231
+  class: I
+  verdict: still-inferred
+  cards:
+  - Genesect SFA 40
+  note: 'First mark: target priority.'
+- file: data/matchups/dragapult-ex.md
+  line: 231
+  class: R
+  verdict: verified
+  cards:
+  - Genesect SFA 40
+  - Special Red Card CRI 82
+  - Unfair Stamp TWM 165
+  - Tool Scrapper ASC 212
+  note: ACE Nullifier blocks ACE SPEC only while Genesect has a Tool; SRC is a plain Item.
+- file: data/matchups/dragapult-ex.md
+  line: 232
+  class: R
+  verdict: verified
+  cards:
+  - Tool Scrapper ASC 212
+  - Genesect SFA 40
+  note: Up to 2 Tools.
+- file: data/matchups/dragapult-ex.md
+  line: 236
+  class: L
+  verdict: still-inferred
+  cards:
+  - Enhanced Hammer TWM 148
+  - Telepathic Psychic Energy POR 88
+  - Enriching Energy SSP 191
+- file: data/matchups/dragapult-ex.md
+  line: 237
+  class: R
+  verdict: verified
+  cards:
+  - Handheld Fan TWM 150
+  note: Moves 1 Energy off the attacker; advice clause keeps 推断.
+- file: data/matchups/dragapult-ex.md
+  line: 238
+  class: I
+  verdict: still-inferred
+  cards:
+  - Kadabra MEG 55
+  - Lillie's Clefairy ex JTG 56
+  note: Super Psy Bolt 30 -> 60 confirmed.
+- file: data/matchups/dragapult-ex.md
+  line: 240
+  class: I
+  verdict: still-inferred
+  cards: []
+  note: Motive reading (推断其动机).
+- file: data/matchups/dragapult-ex.md
+  line: 243
+  class: I
+  verdict: still-inferred
+  cards:
+  - Team Rocket's Watchtower ASC 210
+- file: data/matchups/dragapult-ex.md
+  line: 244
+  class: I
+  verdict: still-inferred
+  cards: []
+  note: Noise judgment.
+- file: data/matchups/dragapult-ex.md
+  line: 254
+  class: I
+  verdict: still-inferred
+  cards:
+  - Alakazam MEG 56
+  - Drakloak TWM 129
+  note: 5 cards x2 counters = 100 >= 90 correct.
+- file: data/matchups/dragapult-ex.md
+  line: 266
+  class: R
+  verdict: verified
+  cards:
+  - Slowking SCR 58
+  - Annihilape SSP 100
+  note: Seek Inspiration copies attacks of non-Rule-Box Pokémon; Destined Fight KOs both Actives.
+- file: data/matchups/dragapult-ex.md
+  line: 270
+  class: I
+  verdict: still-inferred
+  cards:
+  - Budew ASC 16
+  - Wondrous Patch PFL 94
+  - Secret Box TWM 163
+  note: First mark.
+- file: data/matchups/dragapult-ex.md
+  line: 270
+  class: I
+  verdict: still-inferred
+  cards:
+  - Lucky Helmet TWM 158
+  note: Second mark.
+- file: data/matchups/dragapult-ex.md
+  line: 271
+  class: I
+  verdict: still-inferred
+  cards:
+  - Kyurem SFA 47
+  note: Trifrost 110 to 3 Pokémon confirmed.
+- file: data/matchups/dragapult-ex.md
+  line: 275
+  class: A
+  verdict: verified
+  cards:
+  - Slowpoke SCR 57
+  - Slowking SCR 58
+  - Lillie's Clefairy ex JTG 56
+  - Mega Kangaskhan ex MEG 104
+  - Mew ex 30C 66
+  - Kyurem SFA 47
+  note: Route header; lines 276-283 checked.
+- file: data/matchups/dragapult-ex.md
+  line: 287
+  class: R
+  verdict: verified
+  cards:
+  - Judge POR 76
+  - Ciphermaniac's Codebreaking TEF 145
+  - Academy at Night SFA 54
+  note: Judge shuffles the deck; timing clause keeps 推断.
+- file: data/matchups/dragapult-ex.md
+  line: 290
+  class: I
+  verdict: still-inferred
+  cards:
+  - Metagross CRI 61
+  - Moltres PFL 14
+- file: data/matchups/dragapult-ex.md
+  line: 313
+  class: I
+  verdict: still-inferred
+  cards:
+  - Blaziken ex JTG 24
+  note: Seething Spirit 1 Basic Energy from discard per turn confirmed.
+- file: data/matchups/dragapult-ex.md
+  line: 315
+  class: I
+  verdict: still-inferred
+  cards: []
+- file: data/matchups/dragapult-ex.md
+  line: 321
+  class: A
+  verdict: verified
+  cards:
+  - Torchic DRI 40
+  - Combusken DRI 41
+  - Blaziken ex JTG 24
+  - Rare Candy MEG 125
+  note: Route header; lines 322-326 checked.
+- file: data/matchups/dragapult-ex.md
+  line: 330
+  class: I
+  verdict: still-inferred
+  cards:
+  - Blaziken ex JTG 24
+- file: data/matchups/dragapult-ex.md
+  line: 335
+  class: A
+  verdict: verified
+  cards:
+  - Moltres PFL 14
+  - Blaziken ex JTG 24
+  - Dragapult ex TWM 130
+  note: Blaziken weak Water, Dragapult no weakness; 110 < 320.
+- file: data/matchups/dragapult-ex.md
+  line: 357
+  class: I
+  verdict: still-inferred
+  cards:
+  - Team Rocket's Transceiver ASC 209
+  - Pokégear 3.0 SVI 186
+  - Jumbo Ice Cream PFL 91
+  - Team Rocket's Petrel ASC 207
+- file: data/matchups/dragapult-ex.md
+  line: 359
+  class: I
+  verdict: still-inferred
+  cards:
+  - Moltres PFL 14
+- file: data/matchups/dragapult-ex.md
+  line: 361
+  class: A
+  verdict: verified
+  cards:
+  - Drilbur PBL 46
+  - Beldum TEF 113
+  - Metang TEF 114
+  - Mega Excadrill ex PBL 65
+  - Mega Skarmory ex POR 55
+  - Genesect ex BLK 67
+  - Moltres PFL 14
+  note: Route header; lines 362-366 checked.
+- file: data/matchups/dragapult-ex.md
+  line: 366
+  class: A
+  verdict: verified
+  cards:
+  - Hero's Cape TEF 152
+  - Jumbo Ice Cream PFL 91
+  - Mega Excadrill ex PBL 65
+  note: 340+100 = 440; Ice Cream heals 80.
+- file: data/matchups/dragapult-ex.md
+  line: 370
+  class: A
+  verdict: verified
+  cards:
+  - Mega Excadrill ex PBL 65
+  - Crushing Hammer POR 71
+  note: +130 needs 2 extra Energy (5 total); 320-200 = 120.
+- file: data/matchups/dragapult-ex.md
+  line: 401
+  class: I
+  verdict: still-inferred
+  cards: []
+- file: data/matchups/dragapult-ex.md
+  line: 405
+  class: A
+  verdict: corrected
+  cards:
+  - Dwebble DRI 11
+  - Crustle DRI 12
+  - Growing Grass Energy POR 86
+  - Mist Energy TEF 161
+  - Pokémon Center Lady MEG 123
+  - Mega Kangaskhan ex MEG 104
+  note: Route header; arithmetic in 406-409 correct. Line 406 reworded.
+  change:
+    old: 后备区的 Dwebble 要等下回合正常进化
+    new: 后备区的 Dwebble 只能用手上的 Crustle 正常进化，刚放下的当回合不能进化
+- file: data/matchups/dragapult-ex.md
+  line: 413
+  class: A
+  verdict: verified
+  cards:
+  - Crustle DRI 12
+  - Crushing Hammer POR 71
+  - Jumbo Ice Cream PFL 91
+  note: Cost 3; 50% heads -> 1 per 2 Hammers. "多花一回合" keeps 推断.
+- file: data/matchups/dragapult-ex.md
+  line: 415
+  class: R
+  verdict: verified
+  cards:
+  - Handheld Fan TWM 150
+  note: Attacker loses 1 Energy.
+- file: data/matchups/dragapult-ex.md
+  line: 421
+  class: L
+  verdict: still-inferred
+  cards: []
+- file: data/matchups/dragapult-ex.md
+  line: 441
+  class: I
+  verdict: still-inferred
+  cards: []
+- file: data/matchups/dragapult-ex.md
+  line: 444
+  class: A
+  verdict: verified
+  cards:
+  - Applin TWM 17
+  - Dipplin TWM 18
+  - Grookey TWM 14
+  - Goldeen TWM 44
+  - Rellor TEF 23
+  - Rabsca TEF 24
+  - Growing Grass Energy POR 86
+  note: Route header; lines 445-448 checked.
+- file: data/matchups/dragapult-ex.md
+  line: 479
+  class: I
+  verdict: still-inferred
+  cards:
+  - Sinistcha PBL 6
+- file: data/matchups/dragapult-ex.md
+  line: 482
+  class: A
+  verdict: verified
+  cards:
+  - Dhelmise PBL 39
+  - Lillie's Clefairy ex JTG 56
+  - Latias ex SSP 76
+  - Bloodmoon Ursaluna ex TWM 141
+  - Legacy Energy TWM 167
+  note: Route header; lines 483-486 checked.
+- file: data/matchups/dragapult-ex.md
+  line: 485
+  class: I
+  verdict: still-inferred
+  cards:
+  - Legacy Energy TWM 167
+- file: data/matchups/dragapult-ex.md
+  line: 486
+  class: A
+  verdict: verified
+  cards:
+  - Fezandipiti ex ASC 142
+  - Dhelmise PBL 39
+  note: 100 x2 = 200 >= 140. Choice keeps 推断.
+- file: data/matchups/dragapult-ex.md
+  line: 490
+  class: I
+  verdict: still-inferred
+  cards:
+  - Dhelmise PBL 39
+  note: Cost 1 Psychic, retreat 3 confirmed.
+- file: data/matchups/dragapult-ex.md
+  line: 491
+  class: I
+  verdict: still-inferred
+  cards:
+  - Moltres PFL 14
+- file: data/matchups/dragapult-ex.md
+  line: 519
+  class: I
+  verdict: still-inferred
+  cards:
+  - Celebi MEG 12
+- file: data/matchups/dragapult-ex.md
+  line: 522
+  class: A
+  verdict: verified
+  cards:
+  - Chikorita ASC 8
+  - Applin TWM 17
+  - Meganium MEG 10
+  - Hydrapple ex SCR 14
+  - Teal Mask Ogerpon ex TWM 25
+  - Moltres PFL 14
+  note: Route header; lines 523-527 checked.
+- file: data/matchups/dragapult-ex.md
+  line: 527
+  class: I
+  verdict: still-inferred
+  cards:
+  - Briar SCR 132
+- file: data/matchups/dragapult-ex.md
+  line: 532
+  class: I
+  verdict: still-inferred
+  cards: []
+- file: data/matchups/dragapult-ex.md
+  line: 559
+  class: A
+  verdict: verified
+  cards:
+  - Abra MEG 54
+  - Abra TWM 80
+  - Duskull PRE 35
+  note: Route header; 3+3 / 2+4 correct.
+- file: data/matchups/dragapult-ex.md
+  line: 565
+  class: R
+  verdict: verified
+  cards:
+  - Strange Timepiece MEG 128
+  - Kadabra MEG 55
+  - Alakazam MEG 56
+  note: Devolve to hand, can't evolve this turn; Psychic Draw triggers on evolving from hand.
+- file: data/matchups/dragapult-ex.md
+  line: 568
+  class: R
+  verdict: verified
+  cards:
+  - Dusknoir PRE 37
+  - Switch MEG 130
+  note: Shadow Bind = can't retreat; Switch is not retreating. Build clause (带 1 张) keeps 推断.
+- file: data/matchups/dragapult-ex.md
+  line: 568
+  class: I
+  verdict: still-inferred
+  cards:
+  - Prime Catcher TEF 157
+  - Meowth ex POR 62
+  note: Second mark.
+- file: data/matchups/dragapult-ex.md
+  line: 576
+  class: I
+  verdict: still-inferred
+  cards: []
+- file: data/matchups/dragapult-ex.md
+  line: 594
+  class: I
+  verdict: still-inferred
+  cards:
+  - Risky Ruins MEG 127
+  - Buddy-Buddy Poffin MEG 167
+  note: Ruins only triggers during a player's turn; Poffin benching triggers it.
+- file: data/matchups/dragapult-ex.md
+  line: 601
+  class: I
+  verdict: still-inferred
+  cards: []
+- file: data/matchups/dragapult-ex.md
+  line: 613
+  class: I
+  verdict: still-inferred
+  cards:
+  - Judge POR 76
+- file: data/matchups/dragapult-ex.md
+  line: 616
+  class: I
+  verdict: still-inferred
+  cards: []
+- file: data/matchups/dragapult-ex.md
+  line: 618
+  class: I
+  verdict: still-inferred
+  cards:
+  - Unfair Stamp TWM 165
+  - Fezandipiti ex ASC 142
+  - Rosa's Encouragement POR 84
+  note: Prose "推断的"; card conditions confirmed.
+- file: data/matchups/dragapult-ex.md
+  line: 630
+  class: R
+  verdict: verified
+  cards:
+  - Munkidori TWM 95
+  note: Each Munkidori up to 3 once per turn; "要先算" keeps 推断.

@@ -1,0 +1,368 @@
+playbook: data/matchups/crustle-dri.md
+checked_on: '2026-10-05'
+card_source: github.com/PokemonTCG/pokemon-tcg-data cards/en (master)
+verdict_legend:
+  verified: card text / rules confirm it; mark changed to （核对卡牌原文）
+  corrected: factual part was wrong; fixed and marked （核对卡牌原文，已改正）
+  still-inferred: I/P/L judgment; （推断） kept
+  uncertain-rule: needs an official ruling; （推断） kept
+passages:
+- file: data/matchups/crustle-dri.md
+  line: 13
+  class: R
+  verdict: verified
+  cards_checked:
+  - Mist Energy TEF 161
+  - Dragapult ex TWM 130
+  - Alakazam MEG 56
+- file: data/matchups/crustle-dri.md
+  line: 14
+  class: R
+  verdict: verified
+  cards_checked:
+  - Crustle DRI 12
+  - Iron Crown ex TEF 81
+  note: Weakness/Resistance are not "effects on the Active Pokemon"; Iron Crown ex text lists them separately
+- file: data/matchups/crustle-dri.md
+  line: 22
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+  note: section heading "（没有数据，按卡牌文字推断）"; first-turn rules in it are correct
+- file: data/matchups/crustle-dri.md
+  line: 22
+  class: R
+  verdict: uncertain-rule
+  cards_checked:
+  - Dwebble DRI 11
+  note: can an attack effect (Ascension) evolve on the second player's first turn / the turn Dwebble was played? needs official ruling; kept （推断）
+- file: data/matchups/crustle-dri.md
+  line: 50
+  class: R
+  verdict: verified
+  cards_checked:
+  - Mist Energy TEF 161
+  - Dragapult ex TWM 130
+- file: data/matchups/crustle-dri.md
+  line: 55
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Mega Kangaskhan ex MEG 104
+  - Budew PRE 4
+  note: retreat 3 and Item lock facts correct
+- file: data/matchups/crustle-dri.md
+  line: 57
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 65
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 76
+  class: A
+  verdict: verified
+  cards_checked:
+  - Dragapult ex TWM 130
+  - Mega Kangaskhan ex MEG 104
+  - Hero's Cape TEF 152
+  - Jumbo Ice Cream PFL 91
+  note: '400: 200+200; with +80 heal needs 3 hits'
+- file: data/matchups/crustle-dri.md
+  line: 80
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 83
+  class: L
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 115
+  class: A
+  verdict: corrected
+  cards_checked:
+  - N's Zekrom ASC 155
+  - Yveltal MEG 88
+  - Handheld Fan TWM 150
+  old: Fan 挪走 1 个，下回合往往凑不齐
+  new: Fan 挪走 1 个后，对手下回合要用掉手贴才能补回 3 个再打
+  note: one manual attachment restores the cost
+- file: data/matchups/crustle-dri.md
+  line: 145
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dusclops PRE 36
+  - Duskull PRE 35
+- file: data/matchups/crustle-dri.md
+  line: 151
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 154
+  class: R
+  verdict: verified
+  cards_checked:
+  - Psyduck ASC 39
+  - Dusclops PRE 36
+  - Dusknoir PRE 37
+  - Munkidori TWM 95
+  note: Damp text and 60+30>=70 verified; "useful in this matchup" kept （推断）
+- file: data/matchups/crustle-dri.md
+  line: 159
+  class: L
+  verdict: still-inferred
+  cards_checked:
+  - Bianca's Devotion TEF 142
+- file: data/matchups/crustle-dri.md
+  line: 173
+  class: R
+  verdict: uncertain-rule
+  cards_checked:
+  - Iron Crown ex TEF 81
+  - Crustle DRI 12
+  note: whether "not affected by any effects on those Pokemon" ignores Mysterious Rock Inn needs official ruling; kept （推断，需裁定）
+- file: data/matchups/crustle-dri.md
+  line: 191
+  class: A
+  verdict: verified
+  cards_checked:
+  - Chien-Pao SSP 56
+  - Handheld Fan TWM 150
+  note: 3 Energy -1 Icicle Loop -1 Fan = 1; +1 attach = 2 < 3
+- file: data/matchups/crustle-dri.md
+  line: 198
+  class: L
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 217
+  class: R
+  verdict: verified
+  cards_checked:
+  - Mist Energy TEF 161
+  - Annihilape SSP 100
+  - Cofagrigus SSP 83
+  - Pawmot PFL 34
+  - Drapion POR 52
+  - Annihilape PBL 41
+- file: data/matchups/crustle-dri.md
+  line: 220
+  class: I
+  verdict: corrected
+  cards_checked:
+  - Metagross CRI 61
+  - Crustle DRI 12
+  - Growing Grass Energy POR 86
+  - Hero's Cape TEF 152
+  - Kyurem SFA 47
+  - Zeraora DRI 78
+  old: Metallic Hammer 300 一击任何 Crustle（最高 290）
+  new: 一击 2 张 Growing Grass 加 Cape（290）以下的 Crustle，3 张 Growing Grass 加 Cape（310）撑得住
+  note: causal heading kept （推断）
+- file: data/matchups/crustle-dri.md
+  line: 230
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Latias ex SSP 76
+- file: data/matchups/crustle-dri.md
+  line: 235
+  class: I
+  verdict: corrected
+  cards_checked:
+  - Metagross CRI 61
+  - Slowpoke SCR 57
+  - Growing Grass Energy POR 86
+  - Hero's Cape TEF 152
+  old: Growing Grass 和 Hero's Cape 都挡不住（Crustle 最高 290）
+  new: 2 张 Growing Grass 加 Cape 290 挡不住；3 张加 Cape 310 能挡一下
+  note: Dangle Tail clause verified; count-tracking advice kept （推断）
+- file: data/matchups/crustle-dri.md
+  line: 238
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Festival Grounds TWM 149
+- file: data/matchups/crustle-dri.md
+  line: 243
+  class: L
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 256
+  class: R
+  verdict: verified
+  cards_checked:
+  - Alakazam MEG 56
+  - Mist Energy TEF 161
+  - Crustle DRI 12
+- file: data/matchups/crustle-dri.md
+  line: 263
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 274
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 275
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dedenne SSP 87
+- file: data/matchups/crustle-dri.md
+  line: 275
+  class: I
+  verdict: corrected
+  cards_checked:
+  - Boss's Orders (Supporter)
+  - Eri TEF 146
+  - Dedenne SSP 87
+  old: Boss 拉出来，120 一下打倒，然后再用 Eri
+  new: 下一回合再用 Eri（两张都是支援者，一回合只能用一张）
+  note: judgment cru-adu-01 mark untouched; strategy kept （推断）
+- file: data/matchups/crustle-dri.md
+  line: 283
+  class: L
+  verdict: still-inferred
+  cards_checked:
+  - Xerosic's Machinations SFA 64
+- file: data/matchups/crustle-dri.md
+  line: 296
+  class: R
+  verdict: corrected
+  cards_checked:
+  - Mega Excadrill ex PBL 65
+  - Genesect ex BLK 67
+  - Mega Skarmory ex POR 55
+  - Crustle DRI 12
+  old: 它们都是钢属性，抗草。Superb Scissors 打它们只有 90
+  new: Excadrill ex、Genesect ex 抗草打 90；Mega Skarmory ex 抗斗不抗草，打 120
+- file: data/matchups/crustle-dri.md
+  line: 297
+  class: R
+  verdict: verified
+  cards_checked:
+  - Mega Excadrill ex PBL 65
+  - Mist Energy TEF 161
+- file: data/matchups/crustle-dri.md
+  line: 306
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+  note: section heading "下面是推断的最佳尝试"
+- file: data/matchups/crustle-dri.md
+  line: 311
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 344
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Chi-Yu TWM 39
+  note: 240 vs 190 verified
+- file: data/matchups/crustle-dri.md
+  line: 350
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Blaziken ex JTG 24
+- file: data/matchups/crustle-dri.md
+  line: 354
+  class: A
+  verdict: corrected
+  cards_checked:
+  - Chi-Yu TWM 39
+  - Handheld Fan TWM 150
+  - Blaziken ex JTG 24
+  old: 下回合就打不出第二次
+  new: 对手要再手贴一个，或用 Seething Spirit 补，才能打第二次
+  note: cost is 2; one attachment restores it
+- file: data/matchups/crustle-dri.md
+  line: 359
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Chi-Yu TWM 39
+- file: data/matchups/crustle-dri.md
+  line: 361
+  class: L
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 381
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 385
+  class: R
+  verdict: verified
+  cards_checked:
+  - Dipplin TWM 18
+  - Handheld Fan TWM 150
+  note: Do the Wave costs 1 Grass; Fan moves it after the first hit, second attack cannot be paid
+- file: data/matchups/crustle-dri.md
+  line: 399
+  class: L
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/crustle-dri.md
+  line: 412
+  class: R
+  verdict: verified
+  cards_checked:
+  - Sinistcha PBL 6
+  - Spiritomb PBL 35
+  - Mist Energy TEF 161
+- file: data/matchups/crustle-dri.md
+  line: 415
+  class: R
+  verdict: verified
+  cards_checked:
+  - Spiky Energy JTG 159
+  - Banette PBL 34
+  - Dhelmise PBL 39
+  note: 'added: Dhelmise itself has no Hide n Sneak'
+- file: data/matchups/crustle-dri.md
+  line: 426
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Prism Tower CRI 80
+- file: data/matchups/crustle-dri.md
+  line: 462
+  class: A
+  verdict: corrected
+  cards_checked:
+  - Tapu Bulu SFA 6
+  - Handheld Fan TWM 150
+  - Meganium MEG 10
+  old: 它要 4 个能量，下回合打不出来
+  new: 对手下回合要再补一个才能打（Wild Growth 下更容易）
+- file: data/matchups/crustle-dri.md
+  line: 478
+  class: R
+  verdict: verified
+  cards_checked:
+  - Alakazam MEG 56
+  - Mist Energy TEF 161
+- file: data/matchups/crustle-dri.md
+  line: 492
+  class: R
+  verdict: verified
+  cards_checked:
+  - Psyduck ASC 39
+  - Dusknoir PRE 37
+  - Dusclops PRE 36

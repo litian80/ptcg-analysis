@@ -1,0 +1,493 @@
+playbook: data/matchups/basic-box-m.md
+checked: '2026-10-05'
+card_source: PokemonTCG/pokemon-tcg-data cards/en
+passages:
+- file: data/matchups/basic-box-m.md
+  line: 3
+  class: '-'
+  verdict: not-a-claim
+  note: Legend; left unchanged.
+- file: data/matchups/basic-box-m.md
+  line: 28
+  class: R
+  verdict: verified
+  cards_checked:
+  - Glass Trumpet SCR 135
+  - Energy Switch MEG 115
+  - Night Stretcher ASC 196
+  - Mega Kangaskhan ex MEG 104 (Colorless)
+  note: Glass Trumpet needs a Tera in play and targets Benched Colorless Pokemon; Energy Switch moves Basic Energy.
+- file: data/matchups/basic-box-m.md
+  line: 29
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Area Zero Underdepths SCR 131
+  note: Stadium rules described before the mark are correct.
+- file: data/matchups/basic-box-m.md
+  line: 30
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Latias ex SSP 76
+  - Crispin SCR 133
+  - Teal Mask Ogerpon ex TWM 25
+  - Energy Switch MEG 115
+  note: The turn-1 Eon Blade sequence (P manual + P via Crispin + G via Teal Dance moved by Energy Switch) checks out; mark covers the go-second recommendation.
+- file: data/matchups/basic-box-m.md
+  line: 31
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Chien-Pao SSP 56
+  - Area Zero Underdepths SCR 131
+- file: data/matchups/basic-box-m.md
+  line: 32
+  class: L
+  verdict: still-inferred
+  note: Variant inferred from data co-occurrence.
+- file: data/matchups/basic-box-m.md
+  line: 45
+  class: I
+  verdict: still-inferred
+  note: Carries 信心 55% bbm-dpx-01; untouched.
+- file: data/matchups/basic-box-m.md
+  line: 47
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 61
+  class: R+I
+  verdict: verified (first mark) / still-inferred (second mark)
+  cards_checked:
+  - Teal Mask Ogerpon ex TWM 25 (Tera Bench protection)
+  - Dragapult ex TWM 130
+  - Munkidori TWM 95
+  - Meowth ex POR 62 (Tuck Tail)
+  note: Tera prevents damage only; counters are not damage. Second mark (Snow Sink discard trick) stays.
+- file: data/matchups/basic-box-m.md
+  line: 63
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 64
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Munkidori TWM 95
+- file: data/matchups/basic-box-m.md
+  line: 67
+  class: A+I
+  verdict: verified (arithmetic) / still-inferred (two strategic marks)
+  cards_checked:
+  - Mega Kangaskhan ex MEG 104
+  - Moltres PFL 14 (Fighting Wings 20+90)
+  - Dragapult ex TWM 130
+  - Rosa's Encouragement POR 84
+  note: 200+30 < 300; 110+200 = 310 >= 300. Arithmetic clause now marked verified; the tank recommendation and the "don't stay active" advice keep （推断）.
+- file: data/matchups/basic-box-m.md
+  line: 68
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Moltres PFL 14
+  - Iron Leaves ex TEF 25
+  - Teal Mask Ogerpon ex TWM 25
+  note: 110 x2 = 220 KOs both (stated without a mark); mark covers the positioning advice.
+- file: data/matchups/basic-box-m.md
+  line: 71
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Wellspring Mask Ogerpon ex TWM 64
+  note: Causal explanation of data.
+- file: data/matchups/basic-box-m.md
+  line: 72
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Jamming Tower TWM 153
+- file: data/matchups/basic-box-m.md
+  line: 73
+  class: L
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 95
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 105
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Team Rocket's Watchtower DRI 180
+- file: data/matchups/basic-box-m.md
+  line: 107
+  class: R+I
+  verdict: still-inferred (first mark) / verified (second mark)
+  cards_checked:
+  - N's Zoroark ex JTG 98
+  - N's Reshiram JTG 116 (Powerful Rage 20x per counter on this Pokemon)
+  - Mega Kangaskhan ex MEG 104
+  note: Copied attack counts counters on the attacking Zoroark; 15 x 20 = 300. First mark (Run Errand then attack) stays.
+- file: data/matchups/basic-box-m.md
+  line: 108
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - N's Darmanitan JTG 27 (Back Draft)
+  note: Back Draft text verified; mark covers the play advice.
+- file: data/matchups/basic-box-m.md
+  line: 109
+  class: A
+  verdict: verified
+  cards_checked:
+  - Wellspring Mask Ogerpon ex TWM 64
+  - Iron Crown ex TEF 81
+  - N's Zekrom ASC 155
+  - N's Reshiram JTG 116
+  note: 50 + 120 = 170 >= 130; wording made explicit.
+- file: data/matchups/basic-box-m.md
+  line: 114
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 115
+  class: L
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 134
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 138
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Duskull PRE 35 (Come and Get You)
+- file: data/matchups/basic-box-m.md
+  line: 146
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 156
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 160
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dusknoir PRE 37
+- file: data/matchups/basic-box-m.md
+  line: 170
+  class: R
+  verdict: verified
+  cards_checked:
+  - Alakazam MEG 56
+  note: Placing counters is not damage.
+- file: data/matchups/basic-box-m.md
+  line: 174
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Rare Candy MEG 125
+  - Abra MEG 54
+  note: Rare Candy first-turn restriction correct.
+- file: data/matchups/basic-box-m.md
+  line: 180
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 184
+  class: P
+  verdict: still-inferred
+  cards_checked:
+  - Unfair Stamp TWM 165
+  - Special Red Card CRI 82
+- file: data/matchups/basic-box-m.md
+  line: 187
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 189
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Genesect SFA 40
+  note: 110 HP vs 120 correct; mark is on priority.
+- file: data/matchups/basic-box-m.md
+  line: 193
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 202
+  class: L
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 224
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 232
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Metagross CRI 61
+  - Hero's Cape TEF 152
+- file: data/matchups/basic-box-m.md
+  line: 233
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Annihilape SSP 100 (Destined Fight)
+- file: data/matchups/basic-box-m.md
+  line: 236
+  class: R+I
+  verdict: verified (type) / still-inferred (usage)
+  cards_checked:
+  - Kyurem SFA 47 (Dragon)
+  - Lillie's Clefairy ex JTG 56
+- file: data/matchups/basic-box-m.md
+  line: 237
+  class: R
+  verdict: verified
+  cards_checked:
+  - Special Red Card CRI 82
+  - Unfair Stamp TWM 165
+  - Academy at Night SFA 54
+- file: data/matchups/basic-box-m.md
+  line: 240
+  class: I
+  verdict: still-inferred
+  note: Causal explanation of data.
+- file: data/matchups/basic-box-m.md
+  line: 242
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 260
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 270
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Blaziken ex JTG 24
+- file: data/matchups/basic-box-m.md
+  line: 275
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 294
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Drilbur PBL 46
+  - Metang TEF 114
+- file: data/matchups/basic-box-m.md
+  line: 298
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 301
+  class: A
+  verdict: verified
+  cards_checked:
+  - Mega Excadrill ex PBL 65
+  - Hero's Cape TEF 152
+  - Latias ex SSP 76
+  - Raging Bolt ex TEF 123
+  - Jumbo Ice Cream PFL 91
+  note: 200 + 280 = 480 >= 440. Added the verified caveat that a Jumbo Ice Cream heal (80) leaves 320, needing discard-5 (350).
+- file: data/matchups/basic-box-m.md
+  line: 305
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Mega Skarmory ex POR 55
+- file: data/matchups/basic-box-m.md
+  line: 307
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Jumbo Ice Cream PFL 91
+- file: data/matchups/basic-box-m.md
+  line: 312
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 313
+  class: L
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 331
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dwebble DRI 11
+- file: data/matchups/basic-box-m.md
+  line: 338
+  class: R
+  verdict: uncertain-rule
+  cards_checked:
+  - Iron Crown ex TEF 81
+  - Crustle DRI 12 (Mysterious Rock Inn)
+  note: Needs an official ruling on whether Twin Shotels ignores the target's own damage-prevention Ability.
+- file: data/matchups/basic-box-m.md
+  line: 341
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 343
+  class: R
+  verdict: corrected
+  cards_checked:
+  - Handheld Fan TWM 150
+  - Crustle DRI 12
+  - Raging Bolt ex TEF 123
+  note: Fan moves (not discards) 1 Energy to our Bench, and only when the holder is damaged; on Crustle it never triggers vs our ex because Mysterious Rock Inn prevents the damage.
+  old: 会拆掉 Raging Bolt 的 Lightning / Fighting（推断影响）
+  new: 挪到我们的后备区，不是弃掉；挂在 Crustle 上时不触发，会触发的是被 Raging Bolt 打的 Kangaskhan（核对卡牌原文，已改正）
+- file: data/matchups/basic-box-m.md
+  line: 344
+  class: A+I
+  verdict: verified (arithmetic) / still-inferred (judgment)
+  cards_checked:
+  - Crustle DRI 12
+  - Mega Kangaskhan ex MEG 104
+  note: 120 x3 >= 300; ex damage to Crustle prevented.
+- file: data/matchups/basic-box-m.md
+  line: 349
+  class: L
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 367
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 371
+  class: R
+  verdict: verified
+  cards_checked:
+  - Chien-Pao SSP 56 (Snow Sink)
+  - Dipplin TWM 18 (Festival Lead)
+  - Festival Grounds TWM 149
+  note: 'Added caveat: opponent can re-play another Festival Grounds (they run multiple).'
+- file: data/matchups/basic-box-m.md
+  line: 372
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Rabsca TEF 24 (Spherical Shield)
+- file: data/matchups/basic-box-m.md
+  line: 374
+  class: R
+  verdict: uncertain-rule
+  cards_checked:
+  - Iron Crown ex TEF 81
+  - Rabsca TEF 24
+  - Rellor TEF 23
+  note: 'Twin Shotels vs Spherical Shield needs a ruling. Fixed a factual error outside the mark: Rellor TEF 23 (in 50/51 lists) is 50 HP, not 40 (still KO''d by 50).'
+  old: Rellor（40）
+  new: Rellor（TEF 23，50）
+- file: data/matchups/basic-box-m.md
+  line: 384
+  class: L
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 403
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 408
+  class: A+I
+  verdict: verified (arithmetic) / still-inferred (judgment)
+  cards_checked:
+  - Dhelmise PBL 39 (Vengeful Anchor 170)
+  - Mega Kangaskhan ex MEG 104
+  note: 170 x2 >= 300; 200 >= 140. Mark moved onto the judgment.
+- file: data/matchups/basic-box-m.md
+  line: 411
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Sinistcha PBL 6
+- file: data/matchups/basic-box-m.md
+  line: 437
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 441
+  class: R
+  verdict: verified
+  cards_checked:
+  - Chien-Pao SSP 56
+  - Forest of Vitality MEG 117
+  note: 'Added caveat: unless they play another Forest of Vitality.'
+- file: data/matchups/basic-box-m.md
+  line: 444
+  class: A+I
+  verdict: verified (heal) / still-inferred (judgment)
+  cards_checked:
+  - Hydrapple ex SCR 14
+  - Raging Bolt ex TEF 123
+  - Teal Mask Ogerpon ex TWM 25
+- file: data/matchups/basic-box-m.md
+  line: 450
+  class: R+I
+  verdict: verified (rule) / still-inferred (judgment)
+  cards_checked:
+  - Raging Bolt ex TEF 123 (Bellowing Thunder)
+  - Teal Mask Ogerpon ex TWM 25 (Myriad Leaf Shower)
+- file: data/matchups/basic-box-m.md
+  line: 451
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Briar SCR 132
+  note: Briar conditions stated correctly without a mark.
+- file: data/matchups/basic-box-m.md
+  line: 452
+  class: A+I
+  verdict: corrected (arithmetic) / still-inferred (judgment)
+  cards_checked:
+  - Mega Kangaskhan ex MEG 104
+  - Hydrapple ex SCR 14
+  note: Two 200+ hits do KO Hydrapple even with one 30 heal (330-200+30 = 160 <= 200).
+  old: Kangaskhan 200 起 + 正面在对手 Hydrapple 回血下很难两下打穿，而它本身给 3 张（推断）
+  new: Kangaskhan 两下 200 起就能打穿 Hydrapple ex…（核对卡牌原文，已改正）。问题是…Teal Mask 的 300 正好一击满血 Kangaskhan，而它本身给 3 张（推断）
+- file: data/matchups/basic-box-m.md
+  line: 453
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 458
+  class: L
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 475
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 482
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dusclops PRE 36
+- file: data/matchups/basic-box-m.md
+  line: 485
+  class: I
+  verdict: still-inferred
+- file: data/matchups/basic-box-m.md
+  line: 487
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Unfair Stamp TWM 165
+  note: Stamp condition stated correctly without a mark.
+- file: data/matchups/basic-box-m.md
+  line: 491
+  class: L
+  verdict: still-inferred
