@@ -12,7 +12,7 @@
 | N's Zoroark | 48.9%（341） | Zoroark ex 弱草，Iron Leaves ex 180×2 一击；Latias ex 弱恶别站前面；Kangaskhan 吃得住单发 250。 |
 | Dragapult Dusknoir | 52.9%（263） | Dusknoir 130 + Phantom Dive 60 正好收掉后备区 190 HP 的 Clefairy；后备区 ex 越少越好。 |
 | Alakazam Dudunsparce | 42.1%（259） | 对手全单奖、伤害看手牌数：用 Iron Crown ex 狙 Abra，用 Enamorus 打单奖，用 Unfair Stamp / Special Red Card 削手牌。 |
-| Slowking | 51.3%（254） | 先 Boss 对手的 Mega Kangaskhan ex 拿 3 张；自己的 Kangaskhan 别站前面吃 Destined Fight。 |
+| Slowking | 51.3%（254） | 先 Boss 对手的 Mega Kangaskhan ex 拿 3 张；自己的 Kangaskhan 别站前面吃 Metallic Hammer 300 或 Destined Fight。 |
 | Dragapult Blaziken | 52.6%（222） | 和打 Dragapult 一样用 Fairy Zone；Blaziken ex 弱水但我们的水攻击手打不满 320，Torchic 线在后备区先狙掉。 |
 | Mega Excadrill ex | 54.0%（190） | 两只 Mega 各给 3 张：Raging Bolt ex 弃 5 能量 350 一击 Excadrill；先狙 Metang 断能量。 |
 | Crustle | 42.6%（147） | ex 的招式伤害打不进 Crustle；主线是 Boss 对手的两只 Mega Kangaskhan ex 直接拿 6 张。 |
@@ -199,7 +199,7 @@
 
 **对局性质**
 - 对手主攻 Slowking（SCR 58，120 HP，超能，弱恶）只给 1 张，但卡表里有 3 只 Mega Kangaskhan ex（3 奖）、2 只 Latias ex、Lillie's Clefairy ex、Meowth ex、Fezandipiti ex，ex 很多。
-- Seek Inspiration（Psychic + 1 无色）弃牌库顶 1 张，是无规则宝可梦就用它的招式。对手用 Academy at Night 把想要的宝可梦放回牌库顶。复制目标：Kyurem 的 Trifrost（3 只各 110，后备区不算弱点抗性）、Zeraora（DRI 78）的 Thunder Raid（后备区 ex 210）、Metagross（CRI 61）的 Metallic Hammer 150 / Bounce Back 60、Annihilape。
+- Seek Inspiration（Psychic + 1 无色）弃牌库顶 1 张，是无规则宝可梦就用它的招式。对手用 Academy at Night 把想要的宝可梦放回牌库顶。复制目标：Kyurem 的 Trifrost（3 只各 110，后备区不算弱点抗性）、Zeraora（DRI 78）的 Thunder Raid（后备区 ex 210）、Metagross（CRI 61）的 Metallic Hammer 300（官方裁定：Slowking 没有钢能量也能 +150，不用弃能量）/ Bounce Back 60、Annihilape。
 - Annihilape 多数是 SSP 100：Tantrum 130；Destined Fight（Fighting + 无色）"双方战斗场宝可梦都被击倒"。Slowking 复制 Destined Fight 时，对手只送 1 张，我们战斗场是 Kangaskhan 就丢 3 张。
 - 我方 Tera Ogerpon 在后备区时 Trifrost 和 Thunder Raid 对它们无效（都是招式伤害）。
 - 奖赏账：最快路线是击倒对手的 Mega Kangaskhan ex（3 张）+ 一只 2 奖 ex + 一只 Slowking。
@@ -214,6 +214,7 @@
 - 路线示例：第 2 回合击倒战斗场 Slowpoke / Slowking（1）；第 3 回合 Boss 对手 Kangaskhan 用 Raging Bolt 一击（3）；第 4 回合 Boss Latias ex / Meowth ex / Fezandipiti ex 一击（2）。
 
 **对手的套路，怎么防**
+- Metallic Hammer 300：我方战斗场上 300 HP 以内的宝可梦都会被一击，包括满血 Mega Kangaskhan ex（送 3 张）；只有挂 Hero's Cape（400）的 Kangaskhan 扛得住。对手回合留在战斗场的最好是 1 奖的 Chien-Pao / Enamorus（推断）。
 - Destined Fight：对手牌库顶被 Academy at Night 放了 Annihilape 时，我方战斗场是什么就会被击倒。战斗场放 1 奖的 Chien-Pao / Enamorus，或刚用完的低价值宝可梦；Kangaskhan 不要在对手回合留在战斗场（推断）。
 - Trifrost 打 3 只：后备区不要排 3 只 110 HP 以上但 220 以下的 ex 让对手两轮收 3 只；太晶 Ogerpon 放后备区是安全的。
 - Zeraora 的 Thunder Raid 只能打后备区 ex，Kangaskhan（300）在后备区吃 210 不倒。
@@ -226,7 +227,7 @@
 - 构筑建议：这局带 Unfair Stamp 更好，数据支持，卡牌文字上它能洗乱对手预先叠好的牌库顶并把对手手牌压到 2 张（推断其原因）。
 
 **常见失误**
-- 让 Kangaskhan 在战斗场过回合，被复制的 Destined Fight 一换三。
+- 让 Kangaskhan 在战斗场过回合，被复制的 Metallic Hammer 300 或 Destined Fight 送 3 张。
 - 用 2 奖 ex 去打 1 奖的 Slowking，而不是先找对手的 Kangaskhan / ex。
 - 后备区排了多只 210 HP 的 ex，被 Zeraora 和 Trifrost 连续收。
 

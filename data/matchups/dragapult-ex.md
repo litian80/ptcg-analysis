@@ -238,7 +238,8 @@
 
 **对局性质**
 - Slowking 的 Seek Inspiration（Psychic + 1 无色）弃掉牌库顶 1 张，是无规则宝可梦就用它的一个招式。对手用 Academy at Night 和 Ciphermaniac's Codebreaking 把要用的宝可梦叠在牌库顶。
-- 关键：攻击的是 Slowking，属性是超能。Fairy Zone 在场时，复制来的招式打我方战斗场的龙属性都翻倍：Metagross 的 Metallic Hammer 150 → 300；Pawmot 的 Voltaic Fist 130 → 260；Kyurem 的 Trifrost 对战斗场 110 → 220，另外两只后备区各 110（后备区不算弱点）；Annihilape（PBL 41）的 Ghostly Blow 100 → 200 并在后备区放 5 个。Latias ex 的 Eon Blade 是 400。没有 Clefairy 时，最高只有 Metallic Hammer 150，Dragapult ex 能吃两下。
+- 关键：攻击的是 Slowking，属性是超能。Fairy Zone 在场时，复制来的招式打我方战斗场的龙属性都翻倍：Metagross 的 Metallic Hammer 300 → 600；Pawmot 的 Voltaic Fist 130 → 260；Kyurem 的 Trifrost 对战斗场 110 → 220，另外两只后备区各 110（后备区不算弱点）；Annihilape（PBL 41）的 Ghostly Blow 100 → 200 并在后备区放 5 个。Latias ex 的 Eon Blade 是 400。
+- 复制来的 Metallic Hammer 是 300，不是 150。官方裁定（[Chaos Rising FAQ](https://pokegym.net/2026/05/08/me-chaos-rising-faq/)，日本官方 Q&A 相同）：Slowking 身上没有钢能量也能选 +150，什么都不用弃；身上有钢能量时才要弃，最多 3 个。英文卡面读起来像要先弃 3 个钢能量，是翻译造成的误会。所以没有 Clefairy 时，满血 Dragapult ex 吃一下剩 20；有 Clefairy 就是一击。
 - Annihilape SSP 100 的 Destined Fight（Fighting + 1 无色）让双方战斗场都被击倒：对手丢 1 奖的 Slowking 换我们 2 奖的 Dragapult ex（推断：通过 Seek Inspiration 复制可用）。
 - 奖赏卡：Slowking 和 Slowpoke 都是 1 奖。我们要靠每回合"Slowking + 后备区 Slowpoke"拿 2 张。对手的 2 奖目标（Clefairy、Latias、Mew ex、Meowth ex、Fezandipiti ex）和 3 奖的 Kangaskhan 是我们的捷径。
 
@@ -263,7 +264,7 @@
 - Judge 是这个对局的干扰卡：它让对手把手牌洗回牌库，整个牌库被洗乱，叠好的牌库顶就没了。在对手用 Ciphermaniac's / Academy 叠好牌的下一个我方回合打出（推断，按卡牌文字）。
 - Crushing Hammer：Slowking 要 2 个能量。Boomerang Energy 只有在被自己招式效果弃掉（例如 Trifrost）时才回来，被 Hammer 拆掉就没了。录像：同一局 Hedrick 的两张 Crushing Hammer 都是正面，第一张拆的就是 Boomerang Energy；加上 Budew 锁住 Wondrous Patch，对手的 Trifrost 一次都没打出来。
 - Drapion（POR 52，19% 卡表）：Slowking 复制 Hazardous Tail 打 100，我方战斗场麻痹加中毒（Slowking 自己吃 70）。麻痹的 Dragapult ex 下回合不能攻击也不能撤退。录像：Hedrick 被麻痹的那回合用 Boss's Orders 把对手刚进化、能量不够、撤退 3 的 Slowking 拉到战斗场，对手下回合也打不出攻击。
-- Clefairy 不在场时让 Dragapult ex 站前面换血；Clefairy 在场时先 Boss 它，暂时没 Boss 就用 Drakloak / Moltres 这类 1 奖挡一下（推断）。
+- Clefairy 不在场时让 Dragapult ex 站前面换血（满血吃 Metallic Hammer 剩 20，能撑一下）；Clefairy 在场时先 Boss 它，暂时没 Boss 就用 Drakloak / Moltres 这类 1 奖挡一下（推断）。
 
 **关键卡与构筑**
 - Judge：带的 54.6%（194 局）对不带的 45.7%（43 局），+8.9。Hedrick 在 Baltimore 比世界赛的卡表多带了 1 张 Judge，第 1 局对 Slowking 用上了（[0:42:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=2520s)）。
@@ -273,7 +274,8 @@
 
 **常见失误**
 - 把 Phantom Dive 的指示物花在打不死的 Latias ex / Kangaskhan 上，放过了后备区能收的 Slowpoke（除非像 Hedrick 那样算好了哪一回合一次收完）。
-- Clefairy 在场、对手 Slowking 已有 2 个能量时，还让满血 Dragapult ex 站前面，以为 150 打不死。（Metallic Hammer 翻倍是 300，满血 320 正好剩 20：录像第 2 局 Carullo 复制 Metagross 打 300 没击倒，Hedrick 下回合一次拿 4 张，[1:06:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3960s)；Latias ex 的 400 才是一击。）
+- Clefairy 在场、对手 Slowking 已有 2 个能量时，还让满血 Dragapult ex 站前面。复制来的 Metallic Hammer 在 Fairy Zone 下是 600，Latias ex 的 Eon Blade 400 也是一击。
+- 按英文卡面把复制来的 Metallic Hammer 当 150 算。录像里两次都是 300：Baltimore 2026 第 1 天第 4 轮，Hedrick 第 1 局剩 180 血又中毒的 Dragapult ex 被一下打倒；第 2 局对手场上没有 Clefairy，满血 Dragapult ex 被打到剩 20（[1:06:30](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3990s)）。
 - 后备区铺 3 只以上 Dreepy / Drakloak，被 Trifrost 一次收 2 张。
 - 对手刚叠好牌库顶时手里有 Judge 却没打。
 

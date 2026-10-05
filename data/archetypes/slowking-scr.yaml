@@ -8,7 +8,7 @@ summary: >-
   Slowking（SCR 58）的 Seek Inspiration 弃掉牌库顶 1 张，是无规则宝可梦就用它的一个招式。
   卡组用 Poké Pad 把想用的宝可梦拿到手上，再用 Academy at Night 把它放回牌库顶，每回合都能"指定"
   一个招式：Kyurem 的 Trifrost（3 只各 110）、Zeraora 的 Thunder Raid（后备区 ex 210）、
-  Metagross 的 Metallic Hammer（150）、Annihilape 的 Ghostly Blow（100 + 后备区 5 个指示物）、
+  Metagross 的 Metallic Hammer（300，没有钢能量也能 +150）、Annihilape 的 Ghostly Blow（100 + 后备区 5 个指示物）、
   Pawmot 的 Voltaic Fist（130 + 麻痹）。攻击手 Slowking 只给 1 张奖赏卡。
 
 setup:
@@ -52,7 +52,7 @@ attackers:
 copy_targets:
   - {card: Kyurem, printing: SFA 47, attack: Trifrost, effect: 对手 3 只宝可梦各 110；弃掉 Slowking 身上全部能量（Boomerang Energy 会回来）}
   - {card: Zeraora, printing: DRI 78, attack: Thunder Raid, effect: 对手后备区一只 ex 210；弃掉全部能量。后备区的太晶 ex（Dragapult ex、Teal/Wellspring Mask Ogerpon ex）不受招式伤害，打不了}
-  - {card: Metagross, printing: CRI 61, attack: Metallic Hammer, effect: 150（Slowking 没有钢能量，不能 +150）}
+  - {card: Metagross, printing: CRI 61, attack: Metallic Hammer, effect: 300（官方裁定：Slowking 没有钢能量也能 +150，不用弃能量；见 Chaos Rising FAQ）}
   - {card: Annihilape, printing: PBL 41, attack: Ghostly Blow, effect: 100 + 对手后备区一只 5 个指示物}
   - {card: Annihilape, printing: SSP 100, attack: Destined Fight, effect: 双方战斗场宝可梦都被击倒；约三分之一卡表带，用 1 奖的 Slowking 换对手 2-3 奖}
   - {card: Pawmot, printing: PFL 34, attack: Voltaic Fist, effect: 130，可选自伤 60 让对手麻痹}
@@ -85,7 +85,7 @@ prize_map:
     - name: 默认（Trifrost 铺伤害后收割）
       steps:
         - {turn: 2, take: 0, target: 对手 3 只宝可梦, how: Trifrost 各 110，小怪（110 HP 以下）直接倒}
-        - {turn: 3, take: 2, target: 被 Trifrost 打过的 ex, how: Metallic Hammer 150 或 Kangaskhan 200 补刀}
+        - {turn: 3, take: 2, target: 被 Trifrost 打过的 ex, how: Metallic Hammer 300（满血 300 HP 以内的 ex 也一击）或 Kangaskhan 200 补刀}
         - {turn: 4, take: 2, target: 后备区 ex, how: Zeraora 的 Thunder Raid 210 直接打后备区（太晶 ex 不行）}
         - {turn: 5, take: 2, target: 剩下的 ex, how: 收尾}
     - name: 对单奖、多小怪卡组
@@ -103,13 +103,13 @@ matchups:
     plan: 数据上很差。对手 Shuppet、Banette、Poltchageist、Sinistcha 的 Hide 'n' Sneak 挡住 Ghostly Blow 的指示物等招式效果（Dhelmise 本身没有这个特性），Dhelmise 的 170 一击就能击倒 120 HP 的 Slowking。原因是推断的。
   - vs: basic-box-m
     win_rate: 0.421
-    plan: 对手 ex 多，Zeraora 狙后备区 ex 是关键。
+    plan: 对手 ex 多：战斗场的 ex（包括 300 HP 的 Kangaskhan）Metallic Hammer 一击，后备区的 ex 用 Zeraora 狙。
   - vs: dragapult-ex
     win_rate: 0.544
     plan: Trifrost 一次打 Dreepy/Drakloak 3 只；Slowking 单奖，对手 Phantom Dive 拿不到多张。
   - vs: crustle-dri
     win_rate: 0.724
-    plan: Slowking 不是 ex，Crustle 的特性挡不住；Metallic Hammer 150 击倒 Crustle（无 Growing Grass 时）。
+    plan: Slowking 不是 ex，Crustle 的特性挡不住；Metallic Hammer 300 一击任何 Crustle（最高 290）。
   - vs: mega-lucario-ex
     win_rate: 0.818
     plan: 对手斗属性弱超能，Slowking 自己的 Super Psy Bolt 120 ×2 = 240；Mega Lucario ex 给 3 张。

@@ -285,7 +285,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - 对方主攻 Slowking（SCR 58）：120 HP，弱恶，1 奖。Seek Inspiration（Psychic + Colorless）弃牌库顶 1 张，是无规则宝可梦就用它的一个招式。Academy at Night 让对方把手上的牌放到牌库顶，Ciphermaniac's Codebreaking 排好牌库顶两张。
 - 对方能用的伤害（都由 Slowking 打出，属于超能属性，我方不弱超能）：
   - Kyurem 的 Trifrost：3 只宝可梦各 110。打不倒战斗场 Alakazam（140），后备区的部分被 Shaymin 挡住。
-  - Metagross（CRI 61）的 Metallic Hammer 150：能击倒 Alakazam。
+  - Metagross（CRI 61）的 Metallic Hammer 300（官方裁定：Slowking 没有钢能量也能 +150，不用弃能量）：一击 Alakazam（140）和 Dusknoir（160）。
   - Annihilape（PBL 41）的 Ghostly Blow 100 + 后备区 5 个指示物；Annihilape（SSP 100）的 Tantrum 130。都打不倒满血 Alakazam。
   - Zeraora（DRI 78）的 Thunder Raid：只能打后备区的宝可梦 ex，210。
   - Slowking 自己的 Super Psy Bolt 120 也打不倒 Alakazam。
@@ -304,7 +304,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - 示例：Slowking（1）+ Kangaskhan（3）+ Slowking（1）+ Slowking（1）= 6，或 Slowking（1）+ Latias（2）+ Latias / Meowth（2）+ 1。
 
 **对手的套路，怎么防**
-- **Metallic Hammer 150**：对方需要把 Metagross 放到牌库顶。我方 Special Red Card 只重置手牌，不影响牌库顶。
+- **Metallic Hammer 300**：对方需要把 Metagross 放到牌库顶。我方 Special Red Card 只重置手牌，不影响牌库顶。
 - **Ghostly Blow 的 5 个指示物**：能击倒后备区的 Abra（50），Shaymin 挡不住。所以后备区的 Abra 尽快进化。
 - **Kangaskhan / Latias ex 打 Alakazam**：Eon Blade 200 用完下回合不能攻击，对方需要轮换。击倒用过 Eon Blade 的 Latias ex（210）可以拿 2 张。
 - **Lucky Helmet**（47%）：在战斗场的宝可梦"受到招式伤害"时抽 2。Powerful Hand 放的是指示物，不是伤害，所以不触发（推断）。

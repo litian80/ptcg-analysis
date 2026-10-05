@@ -202,7 +202,7 @@
 **对局性质**
 - 对手的攻击手 Slowking（SCR 58，120 HP）不是 ex。它的 Seek Inspiration（超无）弃掉牌库顶一张，如果是无规则宝可梦就用它的一个招式。可复制的目标（这四场的卡表）：
   - Kyurem（SFA 47）Trifrost：对你 3 只宝可梦各 110；
-  - Metagross（CRI 61）Metallic Hammer：150（Slowking 没有钢能量，不能加 150）；
+  - Metagross（CRI 61）Metallic Hammer：300（官方裁定：Slowking 没有钢能量也能加 150，不用弃能量），一击任何 Crustle；
   - Annihilape（PBL 41）Ghostly Blow：100，并在你后备区一只身上放 5 个指示物；
   - Annihilape（SSP 100，约三分之一的卡表）Destined Fight：双方战斗场宝可梦都昏厥；Tantrum 130；
   - Zeraora（DRI 78）Thunder Raid：打你后备区一只 ex 210；
@@ -210,7 +210,7 @@
 - 这些都是非 ex 的招式，Rock Inn 不管。Mist 能挡住其中的效果部分：Destined Fight 的昏厥、Law of the Underworld 的指示物、麻痹和中毒、Ghostly Blow 放在贴了 Mist 的后备区宝可梦身上的指示物（推断）。
 - 对手的 Mega Kangaskhan ex（×3）、Latias ex 打不动 Crustle。
 - 你的伤害：Superb Scissors 120 正好打倒 Slowking（120）、Slowpoke（70～80）。对手每只 Slowking 你一下拿 1 张。
-- 为什么输这么多（推断）：Trifrost 一下打 3 只，后备区的 Dwebble（70）全倒，一回合送多张；Zeraora 210 加 Trifrost 110 打倒后备区的 Kangaskhan ex 送 3 张；Metallic Hammer 150 正好打倒只贴 0 张 Growing Grass 的 Crustle；对手有 Academy at Night 和 Ciphermaniac's Codebreaking，能按需要安排牌库顶。
+- 为什么输这么多（推断）：Trifrost 一下打 3 只，后备区的 Dwebble（70）全倒，一回合送多张；Zeraora 210 加 Trifrost 110 打倒后备区的 Kangaskhan ex 送 3 张；Metallic Hammer 300 一击任何 Crustle（最高 290）；对手有 Academy at Night 和 Ciphermaniac's Codebreaking，能按需要安排牌库顶。
 
 **开局与先后攻**
 - 不要把 Kangaskhan ex 放在后备区。开局如果只能放它，第 1～2 回合用它抽牌，之后尽快换成 Crustle，再让它待在战斗场之外的时间越短越好。
@@ -225,7 +225,7 @@
 
 **对手的套路，怎么防**
 - **Trifrost 清后备区**：后备区少放基础宝可梦，Dwebble 尽快进化。Trifrost 会弃掉 Slowking 身上全部能量（只有 Boomerang Energy 回来），对手下一只 Slowking 要另外备能量。
-- **Metallic Hammer 150**：Crustle 至少贴 1 张 Growing Grass（170），最好 2 张（190）。
+- **Metallic Hammer 300**：Growing Grass 和 Hero's Cape 都挡不住（Crustle 最高 290）。能做的是不让对手把 Metagross 放到牌库顶：换掉 Academy at Night，Eri 弃掉 Poké Pad。对手卡表只有 2 张 Metagross，用掉的会被 Slowpoke 的 Dangle Tail 捡回，要算它还剩几次（推断）。
 - **Zeraora 打后备区 ex**：后备区不放 Kangaskhan ex。
 - **Destined Fight / Law of the Underworld / Drapion**：战斗场的 Crustle 一定贴 Mist。
 - **Academy at Night 安排牌库顶**：场地换掉它；对手只剩 Ciphermaniac's Codebreaking 时，弃牌顶命中率会掉很多（推断）。Festival Grounds 还会让带能量的宝可梦不受特殊状态影响，正好挡 Pawmot 和 Drapion 的麻痹和中毒。

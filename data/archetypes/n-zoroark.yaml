@@ -123,3 +123,14 @@ evidence:
       - 对手的 Bronzong（TEF 69）Evolution Jammer 让下回合不能从手上进化，第 2 局 Scott 握着 Zoroark 进化不了（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=31800s）。Bronzor（TEF 68）80 HP、弱恶：Pecharunt ex 换上中毒的 N's Zorua，带 Binding Mochi 的 Scratch 是 (20 + 40) ×2 = 120，能在它进化前击倒（推断，按卡牌文字）
       - 对 Dusknoir 卡组找不到 Boss's Orders 时，不往后备区多放单奖宝可梦，少给 Cursed Blast 目标，再用 Special Red Card 反打（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=31320s）
     caveat: 一场比赛；第 2 局 Borda 只差 1 张时被判罚 2 张奖赏卡（击倒后多看了一张牌），胜负受判罚影响。
+  - source: video-reviews/baltimore-2026-day1.md（项目共享文件夹）
+    game: Baltimore 区域赛（2026-09-19）第 1 天第 4 轮 B 桌，Osterkatz（N's Zoroark，4 张 Watchtower、带 N's Purrloin）2-0 Smith（Slowking），只播了第 2 局
+    window: TEF-PBL
+    confirms:
+      - Watchtower 盖掉对手的 Academy at Night 并关掉 Mega Kangaskhan ex 的 Run Errand（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5130s）
+    adds:
+      - Night Joker 复制 N's Purrloin 的 Thieving Swipe（看对手手牌，挑 1 张放到牌库底），加 Watchtower 和 Judge 锁住对手的手牌，Slowking 之后再没打出攻击（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5130s）
+      - 不打战斗场带 Lucky Helmet 的 Kangaskhan，Boss's Orders 拉后备区的 Fezandipiti ex 拿 2 张（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=4980s）
+      - 构筑分两种（四场比赛 112 份卡表）：3 到 4 张 Watchtower 的 51 份里 33 份带 N's Purrloin，只有 2 份带 N's Castle、没有 N's Darmanitan；带 N's Castle 的 57 份里 Watchtower 多是 0 到 1 张，31 份带 N's Darmanitan，只有 2 份带 Purrloin。解说也把它们叫作两个版本
+      - 战斗场的满血 Zoroark ex 会被 Slowking 复制的 Metallic Hammer 一击：复制来的 Hammer 是 300（官方裁定，Slowking 没有钢能量也能 +150），Zoroark ex 只有 280（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s）
+    caveat: 一局；第 1 局没有播出。
