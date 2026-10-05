@@ -1,0 +1,35 @@
+deck: alakazam-dusknoir
+judgments:
+  - id: akd-dpx-01
+    vs: dragapult-ex
+    text: 只在 Unfair Stamp 之后还接得上时才去收对方的 Budew（场上已有 Dusclops 或 Dusknoir，Fezandipiti ex 在后备区）
+    confidence: 0.6
+    basis: 录像：2026 世界赛八强第 1 局收 Budew 后被 Stamp 输掉，第 2 局不碰 Budew；Frankfurt 一局清掉两只 Budew 后赢了。条件部分是推断
+    window: TEF-30C
+    depends_on: [Budew, Unfair Stamp]
+    where: data/matchups/alakazam-dusknoir.md
+  - id: akd-fes-01
+    vs: festival-lead
+    text: 对 Festival Lead 先清带 Festival Lead 特性的宝可梦（Dipplin、Goldeen、Seaking），对方一回合就只能攻击一次
+    confidence: 0.75
+    basis: 特性文字 + 录像：Frankfurt 四强第 2 局
+    window: TEF-30C
+    depends_on: [Dipplin, Goldeen, Seaking]
+    where: data/matchups/alakazam-dusknoir.md
+  - id: akd-mir-01
+    vs: alakazam-dusknoir
+    text: 镜像选后攻
+    confidence: 0.6
+    weight: 3
+    basis: 录像：Frankfurt 决赛三局，有选择权的一方都选了后攻（只是选手的选择，不是结果）
+    window: TEF-30C
+    depends_on: [Budew, Dawn]
+    where: data/matchups/alakazam-dusknoir.md
+  - id: akd-mir-02
+    vs: alakazam-dusknoir
+    text: 镜像里尽量别让 Fezandipiti ex 起手留在战斗场
+    confidence: 0.7
+    basis: 录像：Frankfurt 决赛第 1、3 局 Fez 起手的一方都输在 Fez 被击倒上
+    window: TEF-30C
+    depends_on: [Fezandipiti ex]
+    where: data/matchups/alakazam-dusknoir.md

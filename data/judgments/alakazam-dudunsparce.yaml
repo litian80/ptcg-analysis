@@ -1,0 +1,26 @@
+deck: alakazam-dudunsparce
+judgments:
+  - id: adu-dpx-01
+    vs: dragapult-ex
+    text: 对 Dragapult 先放 Battle Cage，挡住 Phantom Dive 放到后备区的伤害指示物
+    confidence: 0.8
+    basis: 录像：2026 世界赛决赛第 1 局（Battle Cage 被 Risky Ruins 换掉后一回合丢 3 奖）、Brisbane 第 10 轮
+    window: TEF-30C
+    depends_on: [Battle Cage, Dragapult ex, Risky Ruins]
+    where: data/archetypes/alakazam-dudunsparce.yaml
+  - id: adu-dpx-02
+    vs: dragapult-ex
+    text: 对 Dragapult，第 2 回合有没有 Rare Candy 基本决定这局
+    confidence: 0.6
+    basis: 录像：2026 世界赛决赛第 1 局，Rare Candy 没抽到，Alakazam 晚一回合，是第一个转折点
+    window: TEF-30C
+    depends_on: [Rare Candy, Budew]
+    where: data/archetypes/alakazam-dudunsparce.yaml
+  - id: adu-dpx-03
+    vs: dragapult-ex
+    text: 对 Dragapult 用 Eri 看手牌，弃掉 Special Red Card 和 Night Stretcher
+    confidence: 0.7
+    basis: 录像：2026 世界赛决赛第 1 局、Brisbane 第 10 轮第 1 局
+    window: TEF-30C
+    depends_on: [Eri, Special Red Card, Night Stretcher]
+    where: data/archetypes/alakazam-dudunsparce.yaml

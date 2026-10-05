@@ -208,7 +208,7 @@
 
 **开局与先后攻**
 - 后备区 Dreepy ×3、Munkidori。后攻时 Budew 锁物品能挡对手第 2 回合的 Rare Candy、Buddy-Buddy Poffin、Poké Pad（推断，Rare Candy 是对手第 2 回合上 Alakazam 的唯一途径）。
-- 先后攻：数据里没有先后攻记录。Brisbane 第 3 名 BrentyMon 认为这个对局后攻吃亏：对手先攻、先打出 6-4 的奖赏差后很难追（视频复盘里他的判断）。他第 2 局主动认输，换第 3 局的先攻。
+- 先后攻：数据里没有先后攻记录。Brisbane 第 3 名 BrentyMon 认为这个对局后攻吃亏（信心 55%，dpx-adu-01）：对手先攻、先打出 6-4 的奖赏差后很难追（视频复盘里他的判断）。他第 2 局主动认输，换第 3 局的先攻。
 - 2 张 Risky Ruins 至少留 1 张到对手打出 Battle Cage 之后再用。对手第一张场地打下来前，不要用 Ultra Ball 把 Ruins 弃掉。
 - 开局奖赏卡很差时的备用打法：录像（2026 世界赛决赛第 2 局）Hedrick 的两只 Budew、Risky Ruins 和唯一的 Dunsparce 都在奖赏卡里，他用 Ultra Ball 弃掉 Drakloak 和 Dreepy，再用 Night Stretcher 拿回 Drakloak，后备区铺 4 只 Dreepy；需要一回合时把 Meowth ex 撤到战斗场送 2 张换时间。
 - Nighttime Mine 在场时，要攻击的 Dragapult ex 需要 3 个能量：Crispin 一次给 1 贴 1 进手，Rosa's Encouragement 落后时一次贴 2。
@@ -219,7 +219,7 @@
 - T4：再一发：战斗场 1 只 + 后备区 1-2 只，累计 6 张。Kadabra 是 80 HP，若它的 Abra 吃过 Ruins，进化后只差 60，正好 6 个指示物。
 - Fezandipiti ex：打到只剩 10 HP、不击倒（世界赛决赛第 1 局里用过）。它倒下时对手不能用 Flip the Script 抽 3，我们也保持落后，好用 Rosa's Encouragement。最后一回合再用 1 个指示物收它的 2 张。
 - Risky Ruins 之后，Phantom Dive 的指示物按对手进化后的 HP 分配：BrentyMon 在两只 Abra 上各放 3 个，算的是它们进化成 80 HP 的 Kadabra 后的击倒线（[1:08:10](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4090s)，分配理由来自他的解说）。
-- 牌库耗尽也是一条路线：Alakazam 方靠抽牌养手牌，后期牌库很薄。对手战斗场的宝可梦挂着 Lucky Helmet（在战斗场受到招式伤害就抽 2）时，用最小的招式反复打它，它退下去就用 Boss's Orders 拉回来。前提是数清对手牌库还剩几张，并确认对手没有办法把牌放回牌库（推断）。录像：2026 世界赛决赛第 2 局，Cassiraga 牌库只剩 4 张时把 Lucky Helmet 挂在战斗场，Hedrick 摸到 Special Red Card 也不打、也不用 Phantom Dive，只用 70 的小招式让对手抽牌，最后 Boss's Orders 拉回挂 Helmet 的宝可梦再打一次，对手牌库耗尽（[51:30](https://www.youtube.com/watch?v=KQ-32rHXKM8&t=3090s)）。这一局 Hedrick 一张奖赏卡都没拿，2-0 成为世界冠军。
+- 牌库耗尽也是一条路线（信心 55%，dpx-adu-02）：Alakazam 方靠抽牌养手牌，后期牌库很薄。对手战斗场的宝可梦挂着 Lucky Helmet（在战斗场受到招式伤害就抽 2）时，用最小的招式反复打它，它退下去就用 Boss's Orders 拉回来。前提是数清对手牌库还剩几张，并确认对手没有办法把牌放回牌库（推断）。录像：2026 世界赛决赛第 2 局，Cassiraga 牌库只剩 4 张时把 Lucky Helmet 挂在战斗场，Hedrick 摸到 Special Red Card 也不打、也不用 Phantom Dive，只用 70 的小招式让对手抽牌，最后 Boss's Orders 拉回挂 Helmet 的宝可梦再打一次，对手牌库耗尽（[51:30](https://www.youtube.com/watch?v=KQ-32rHXKM8&t=3090s)）。这一局 Hedrick 一张奖赏卡都没拿，2-0 成为世界冠军。
 - 替代攻击手（推断）：Fezandipiti ex 是恶属性，Cruel Arrow（3 个无色）打战斗场 100，对弱恶的 Alakazam 是 200，一击。Fezandipiti 不是太晶，Nighttime Mine 不加它的费用。代价是它站前面会被对手打，给 2 张。
 
 **对手的套路，怎么防**
@@ -581,7 +581,7 @@
 - Munkidori 的 Adrena-Brain 是双方的额外伤害来源，前提是它身上有 Darkness 能量；多数卡表只有 2 个 Darkness，所以它们是 Crushing Hammer 的首要目标。
 
 **开局**
-- 保住自己能用物品比锁住对手更重要：第 1 局 Khoo 宁可不再锁 Brent，也先让自己能打物品；Brent 在锁物品下卡死，只能用 Mind Bend 拿奖，最后手牌打空认输（[1:19:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4740s)）。
+- 保住自己能用物品比锁住对手更重要（信心 65%，dpx-mir-01）：第 1 局 Khoo 宁可不再锁 Brent，也先让自己能打物品；Brent 在锁物品下卡死，只能用 Mind Bend 拿奖，最后手牌打空认输（[1:19:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4740s)）。
 - Risky Ruins 先削对方新放下的基础宝可梦：Dreepy 70 HP 吃 20 后，Phantom Dive 的指示物更容易收掉。
 - 第 1 局 Khoo 的收尾顺序：Crushing Hammer 拆掉 Brent 的 Darkness，打出 Risky Ruins，Unfair Stamp，再上 Dragapult ex。
 - Meowth ex 尽量别在开局摆放时放下：那样用不了 Last-Ditch Catch，只剩一个 2 奖靶子。世界赛四强第 1 局 Tonisson 开局就放下了 Meowth ex；两局最后的 2 张都是 Hedrick 用 Boss's Orders 拉出他的 Meowth ex 拿的。

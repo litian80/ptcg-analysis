@@ -42,10 +42,10 @@
 - 奖赏账：我们要拿 6 张，最直接是两只 Dragapult ex（2+2）+ 一只 2 奖（Fezandipiti ex 或 Meowth ex）或两只 1 奖。对手要击倒我方 3 只 2 奖 ex。
 
 **开局与先后攻**
-- 倾向后攻（推断）：后攻时我们第 1 回合就能用支援者和攻击，而且这一回合不会被锁物品（对手先攻第 1 回合不能攻击）。Budew 的 Itchy Pollen 无论先后攻都可能锁住我们第 2 回合的物品；区别是我们选先攻时，第 1 回合既不能攻击也不能用支援者，第 2 回合又可能被锁，前两回合都很弱。录像（Frankfurt 2026 第 1 天第 7 轮，Christen 2-0 Kamerman）：第 2 局 Kamerman 先攻，Christen 后攻第 1 回合用 Crispin 和 Energy Switch 凑齐 3 个能量，Mega Kangaskhan ex 第 1 回合就攻击（[5:54:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21270s)），之后一直用 Boss's Orders 点掉对手唯一的 Drakloak（[5:59:45](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21585s)）。
+- 倾向后攻（推断）（信心 55%，bbm-dpx-01）：后攻时我们第 1 回合就能用支援者和攻击，而且这一回合不会被锁物品（对手先攻第 1 回合不能攻击）。Budew 的 Itchy Pollen 无论先后攻都可能锁住我们第 2 回合的物品；区别是我们选先攻时，第 1 回合既不能攻击也不能用支援者，第 2 回合又可能被锁，前两回合都很弱。录像（Frankfurt 2026 第 1 天第 7 轮，Christen 2-0 Kamerman）：第 2 局 Kamerman 先攻，Christen 后攻第 1 回合用 Crispin 和 Energy Switch 凑齐 3 个能量，Mega Kangaskhan ex 第 1 回合就攻击（[5:54:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21270s)），之后一直用 Boss's Orders 点掉对手唯一的 Drakloak（[5:59:45](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21585s)）。
 - 战斗场：Latias ex（开 Skyliner，之后谁都能免费撤退）。后备区：Teal Mask Ogerpon ex（太晶，在后备区不受招式伤害），再放 Area Zero Underdepths。
 - Lillie's Clefairy ex 第 1 回合不要放（推断）：它只在我们攻击 Dragapult ex 的那一回合需要在场，早放就是对手 Boss + 200 的 2 奖靶子。
-- 例外是带 Hero's Cape（ACE SPEC，+100 HP）：Clefairy 挂上后是 290，Phantom Dive 200 打不倒，第 1 回合就放下当主攻手。录像：Baltimore 2026 四强第 2 局，Kasturi 第 1 回合就给 Clefairy 挂上 Cape，[7:05:37](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=25537s) Full Moon Rondo 击倒 Dragapult ex，Potti 打不倒 290 的 Clefairy，投降；同一天八强 White 带的是 Prime Catcher，Clefairy 两局都被一击。数据的方向相反，见"关键卡与构筑"。
+- 例外是带 Hero's Cape（ACE SPEC，+100 HP）：Clefairy 挂上后是 290，Phantom Dive 200 打不倒，第 1 回合就放下当主攻手（信心 65%，bbm-dpx-02）。录像：Baltimore 2026 四强第 2 局，Kasturi 第 1 回合就给 Clefairy 挂上 Cape，[7:05:37](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=25537s) Full Moon Rondo 击倒 Dragapult ex，Potti 打不倒 290 的 Clefairy，投降；同一天八强 White 带的是 Prime Catcher，Clefairy 两局都被一击。数据的方向相反，见"关键卡与构筑"。
 
 **奖赏卡路线**
 - 第 1-2 回合（对手还没 Dragapult ex）：Latias ex 或 Kangaskhan 击倒战斗场的 Dreepy（70）/ Drakloak（90），拿 1 张；如果对手后备区有 Meowth ex（170）或 Fezandipiti ex（210），用 Boss's Orders 拉出来用 Latias 200 / Kangaskhan 200 起击倒拿 2 张。

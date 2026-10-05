@@ -209,7 +209,7 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 - **Cursed Blast 加 Jet Headbutt 打战斗场**：对方不需要 Dragapult ex 的完整能量就能击倒我方战斗场的 Alakazam，代价是送我方 1 张。
 - **Fezandipiti ex**：对方的自爆是在对方自己回合，不触发对方的 Flip the Script；我方用 Cursed Blast 自爆也不触发我方的 Flip the Script。
 - **Unfair Stamp 和 Special Red Card**：同 Dragapult ex。
-- **收对方的 Budew 等于给对方 Unfair Stamp**（录像）：Stamp 的条件是对方的宝可梦上回合被击倒，用 Kadabra 或 Cursed Blast 收 Budew 也算。2026 世界赛八强第 1 局，Łaszkiewicz 用 Kadabra 击倒 Chao 的 Budew 解锁物品，Chao 下回合就打 Stamp，他只剩 2 张手牌；Chao 接着用 Cursed Blast 加 Phantom Dive 收光他的 Abra 和 Alakazam，他投降。第 2 局他不再碰 Budew，Chao 整局没机会打 Stamp。被锁物品时 Kadabra、Alakazam、Dusknoir 照样能从手上进化，用不了的是 Rare Candy 和铺场物品。所以只在 Stamp 之后还接得上时才去收 Budew：场上已经有不靠手牌的 Dusclops 或 Dusknoir，Fezandipiti ex 在后备区（推断）。vs Dragapult ex 一节 Frankfurt 的录像里，用 Cursed Blast 清掉两只 Budew 后赢了，两种结果都有。
+- **收对方的 Budew 等于给对方 Unfair Stamp**（录像）：Stamp 的条件是对方的宝可梦上回合被击倒，用 Kadabra 或 Cursed Blast 收 Budew 也算。2026 世界赛八强第 1 局，Łaszkiewicz 用 Kadabra 击倒 Chao 的 Budew 解锁物品，Chao 下回合就打 Stamp，他只剩 2 张手牌；Chao 接着用 Cursed Blast 加 Phantom Dive 收光他的 Abra 和 Alakazam，他投降。第 2 局他不再碰 Budew，Chao 整局没机会打 Stamp。被锁物品时 Kadabra、Alakazam、Dusknoir 照样能从手上进化，用不了的是 Rare Candy 和铺场物品。所以只在 Stamp 之后还接得上时才去收 Budew：场上已经有不靠手牌的 Dusclops 或 Dusknoir，Fezandipiti ex 在后备区（推断）（信心 60%，akd-dpx-01）。vs Dragapult ex 一节 Frankfurt 的录像里，用 Cursed Blast 清掉两只 Budew 后赢了，两种结果都有。
 - **手牌不够时分两回合击倒 Dragapult ex**（录像）：同一场第 2 局，Łaszkiewicz 用 Boss's Orders 拉出 Dragapult ex，Powerful Hand 打 240（12 张手牌），留它 80，准备下回合用 Dusknoir 的 Cursed Blast（130）收掉（他最后确实是用 Dusknoir 和 Dusclops 的两次 Cursed Blast 拿完了奖赏卡，见下面"拖进突然死亡"）。这一回合不击倒，对方下回合就没有 Stamp 可打；Cursed Blast 是特性，不看手牌，对方中间用 Judge 或 Special Red Card 打乱手牌也挡不住（推断）。
 
 **落后时的翻盘：Shadow Bind 锁人**（录像）
@@ -467,7 +467,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 2. **我方第 3、4 回合**（每回合 2 张）：每回合 Cursed Blast 或 Dusclops（50，能击倒 Applin、Goldeen、Rellor）击倒一只后备区宝可梦，再用 Powerful Hand 击倒战斗场。
 3. **我方第 5 回合**：收尾。
 - **压缩后备区的计算**：对方后备区 5 只时 Do the Wave 是 100 × 2 = 200，击倒 Alakazam；4 只时 80 × 2 = 160，仍然击倒；3 只时 60 × 2 = 120，Alakazam 能活下来（推断，按卡牌文字计算，不算 Gladion's Final Battle）。所以每击倒对方一只后备区宝可梦，都在降低对方下回合的伤害。
-- **先清 Festival Lead 宝可梦**：一回合攻击两次的是战斗场上带 Festival Lead 特性的宝可梦，也就是 Dipplin、Goldeen、Seaking；Grookey、Thwackey、Applin 没有。场上没有它们、也没有能进化成 Dipplin 的 Applin 时，对方一回合只能攻击一次。录像：Frankfurt 四强第 2 局，Duclos 场上唯一的 Festival Lead 宝可梦是 Goldeen（50），Chałupka 第 2 回合先用 Dusclops 的 Cursed Blast 击倒它（[6:47:20](https://www.youtube.com/watch?v=NOi0qAFjnME&t=24440s)），第二次 Cursed Blast 击倒一只已经受伤、剩 50 的 Grookey，满血的 Grookey（70）没打。
+- **先清 Festival Lead 宝可梦**：一回合攻击两次的是战斗场上带 Festival Lead 特性的宝可梦，也就是 Dipplin、Goldeen、Seaking；Grookey、Thwackey、Applin 没有。场上没有它们、也没有能进化成 Dipplin 的 Applin 时，对方一回合只能攻击一次（信心 75%，akd-fes-01）。录像：Frankfurt 四强第 2 局，Duclos 场上唯一的 Festival Lead 宝可梦是 Goldeen（50），Chałupka 第 2 回合先用 Dusclops 的 Cursed Blast 击倒它（[6:47:20](https://www.youtube.com/watch?v=NOi0qAFjnME&t=24440s)），第二次 Cursed Blast 击倒一只已经受伤、剩 50 的 Grookey，满血的 Grookey（70）没打。
 - **自爆打开 Special Red Card**：Cursed Blast 每次送对方 1 张。同一局双方都剩 5 张，两次自爆让 Duclos 降到 3 张，正好满足 Special Red Card 的条件。Chałupka 当回合打出 Special Red Card 重置他的手牌，再用 Powerful Hand 击倒战斗场的 Applin（[6:48:04](https://www.youtube.com/watch?v=NOi0qAFjnME&t=24484s)），对方场上只剩一只 Grookey，认输（录像）。用 Cursed Blast 前先算对方会不会因此降到 3 张以下，是的话 Special Red Card 同一回合就能用。
 
 **对手的套路，怎么防**
@@ -614,8 +614,8 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - 双方都带 2 张 Special Red Card。谁先剩 3 张以下，谁的手牌就可能被重置成 3 张。
 
 **开局与先后攻**
-- 选后攻（录像：决赛三局有选择权的一方都选了后攻）。后攻第 1 回合用 Dawn 拿齐进化线，Budew 先锁对方（[7:37:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=27420s)）。
-- 尽量别让 Fezandipiti ex 起手在战斗场：撤退要 1 个能量（整副只有 5 个），留在前场就是送对方的 2 奖目标。决赛第 1、3 局 Łaszkiewicz 都是 Fez 起手，两局都输在 Fez 被击倒上（录像）。
+- 选后攻（录像：决赛三局有选择权的一方都选了后攻）（信心 60%，akd-mir-01）。后攻第 1 回合用 Dawn 拿齐进化线，Budew 先锁对方（[7:37:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=27420s)）。
+- 尽量别让 Fezandipiti ex 起手在战斗场：撤退要 1 个能量（整副只有 5 个），留在前场就是送对方的 2 奖目标。决赛第 1、3 局 Łaszkiewicz 都是 Fez 起手，两局都输在 Fez 被击倒上（录像）（信心 70%，akd-mir-02）。
 
 **奖赏卡路线**（录像 + 推断）
 1. **前两回合**：用 Dusclops 的 Cursed Blast 或 Kadabra 打掉对方的 Budew。别的对局里 Cursed Blast 只用来"击倒 2 奖、一回合两次击倒、拆引擎"；镜像里对方的物品锁就是引擎，第 2、3 回合用它打 Budew 值得。决赛第 2 局双方都这样互打 Budew（[7:56:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=28560s)）。
