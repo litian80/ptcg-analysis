@@ -36,6 +36,9 @@ class ReplayTag:
     patches: tuple[tuple[int, int, int, int], ...]  # (x0, x1, y0, y1); all the same height
     rgb: tuple[tuple[float, float], tuple[float, float], tuple[float, float]]  # mean R, G, B ranges
     max_std: float = 25.0  # a flat banner, not a busy picture that happens to average the same
+    # Patches just outside the banner (same height). When they are the banner's
+    # colour too, the frame is a full-screen transition in that colour, not a replay.
+    outside: tuple[tuple[int, int, int, int], ...] = ()
 
 
 @dataclass(frozen=True)
@@ -62,11 +65,15 @@ PRIZE_PRESETS: dict[str, PrizeLayout] = {
     # Worlds): lit balls (white ring) read 115-165, empty slots (dark navy) 38-65.
     # The REPLAY banner (x 552-727, y 26-53) is light blue, about (109, 174, 223),
     # with white text in the middle; the patches sit either side of the text.
-    # On the final it matched every replay frame and nothing else.
+    # On the final it matched every replay frame, and otherwise only the blue
+    # full-screen "Regional Championships" transition, which the patch left of
+    # the banner (grey table during a replay) tells apart. That transition
+    # would otherwise read as a 6-6 board.
     "sides": PrizeLayout(
         columns=((276, 300), (980, 1004)), y0=4, pitch=19, ball=17,
         replay=ReplayTag(patches=((565, 605, 32, 50), (680, 715, 32, 50)),
-                         rgb=((10.0, 120.0), (135.0, 180.0), (205.0, 230.0))),
+                         rgb=((10.0, 120.0), (135.0, 180.0), (205.0, 230.0)),
+                         outside=((520, 545, 32, 50),)),
     ),
 }
 
@@ -91,7 +98,8 @@ def count_column(column: np.ndarray, layout: PrizeLayout) -> int | None:
 def read_prizes(frames: list[Frame], layout: PrizeLayout) -> None:
     """Set ``frame.prizes`` to (left, right) prizes left, or None where the overlay isn't readable.
 
-    Frames showing the REPLAY banner get ``frame.replay`` and no prizes.
+    Frames showing the REPLAY banner get ``frame.replay`` and no prizes, as do
+    full-screen transitions in the banner's colour (without ``frame.replay``).
     """
     if not frames:
         return
@@ -100,12 +108,13 @@ def read_prizes(frames: list[Frame], layout: PrizeLayout) -> None:
     (lx0, lx1), (rx0, rx1) = layout.columns
     lw = lx1 - lx0
     strips = _crops(frames, layout, "gray", [(lx0, lx1, 0, layout.height), (rx0, rx1, 0, layout.height)])
-    tags = _crops(frames, layout, "rgb24", layout.replay.patches) if layout.replay else None
+    tags = _crops(frames, layout, "rgb24", layout.replay.patches + layout.replay.outside) if layout.replay else None
     for i, (f, strip) in enumerate(zip(frames, strips)):
-        f.replay = tags is not None and _is_replay(tags[i], layout.replay)
+        banner = _banner(tags[i], layout.replay) if tags is not None else None
+        f.replay = banner == "replay"
         left, right = count_column(strip[:, :lw], layout), count_column(strip[:, lw:], layout)
         # Both columns dark is a dark screen, not a 0-0 board.
-        f.prizes = None if f.replay or left is None or right is None or (left, right) == (0, 0) else (left, right)
+        f.prizes = None if banner or left is None or right is None or (left, right) == (0, 0) else (left, right)
 
 
 def _crops(frames: list[Frame], layout: PrizeLayout, pix_fmt: str, boxes) -> np.ndarray:
@@ -140,17 +149,19 @@ def _crops(frames: list[Frame], layout: PrizeLayout, pix_fmt: str, boxes) -> np.
     return out
 
 
-def _is_replay(tag: np.ndarray, replay: ReplayTag) -> bool:
-    """True if every patch is a flat area in the banner's colour."""
-    x = 0
-    for x0, x1, _, _ in replay.patches:
+def _banner(tag: np.ndarray, replay: ReplayTag) -> str | None:
+    """"replay" if every banner patch is a flat area in the banner's colour and no outside patch is that
+    colour; "screen" if the outside patches are that colour too (a full-screen transition); else None."""
+    x, outside_coloured = 0, False
+    for i, (x0, x1, _, _) in enumerate(replay.patches + replay.outside):
         patch = tag[:, x : x + x1 - x0].reshape(-1, 3).astype(float)
         x += x1 - x0
-        if patch.std(axis=0).max() >= replay.max_std:
-            return False
-        if any(not lo <= m <= hi for m, (lo, hi) in zip(patch.mean(axis=0), replay.rgb)):
-            return False
-    return True
+        coloured = all(lo <= m <= hi for m, (lo, hi) in zip(patch.mean(axis=0), replay.rgb))
+        if i >= len(replay.patches):
+            outside_coloured = outside_coloured or coloured
+        elif not coloured or patch.std(axis=0).max() >= replay.max_std:
+            return None
+    return "screen" if outside_coloured else "replay"
 
 
 def _quote(path: str) -> str:

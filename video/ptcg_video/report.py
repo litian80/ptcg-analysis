@@ -125,7 +125,8 @@ PRIZE_NOTE = ("Prizes left, read from the overlay's six prize markers per player
               "new game once it holds (20 s for a fresh 6-6 board, a minute otherwise). The markers are set by "
               "hand, usually 20-30 s after the knockout, so look just before the time shown; a time range means "
               "a pop-up or banner also hid the panel. The last prize of a game is often missing because the "
-              "broadcast cuts away on the winning knockout.")
+              "broadcast cuts away on the winning knockout, and a sudden-death game that ends without a prize "
+              "taken runs into the next game.")
 
 
 def _games(meta: dict, captions: CaptionAnalysis, prizes: list[PrizeChange]):

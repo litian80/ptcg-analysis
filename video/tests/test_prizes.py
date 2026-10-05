@@ -83,11 +83,12 @@ REPLAY_BLUE = (109, 174, 223)  # the REPLAY banner on the Frankfurt stream
 @pytest.fixture
 def overlay_frames(tmp_path):
     """1280x720 JPEGs of the sides overlay: prize columns at 6-6, then 4-5, then a white pop-up over them,
-    then 2-3 under the REPLAY banner, then a stadium banner of another colour in the same place."""
+    then 2-3 under the REPLAY banner, then a stadium banner of another colour in the same place, then a
+    full-screen transition in the banner's blue."""
     if not shutil.which("ffmpeg"):
         pytest.skip("ffmpeg not installed")
     paths = []
-    for i, (left, right) in enumerate([(6, 6), (4, 5), (6, 6), (2, 3), (4, 5)]):
+    for i, (left, right) in enumerate([(6, 6), (4, 5), (6, 6), (2, 3), (4, 5), (4, 5)]):
         img = np.full((720, 1280, 3), 70, dtype=np.uint8)  # the hand-cam and panels around the columns
         for (x0, x1), n in zip(SIDES.columns, (left, right)):
             img[: SIDES.height, x0 - 4 : x1 + 4] = DARK
@@ -99,6 +100,8 @@ def overlay_frames(tmp_path):
             img[32:48, 610:672] = 250  # the white "REPLAY" text
         if i == 4:
             img[26:53, 552:727] = (150, 90, 160)
+        if i == 5:
+            img[:, :] = REPLAY_BLUE
         path = tmp_path / f"frame_{i + 1:05d}.jpg"
         subprocess.run(
             ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24",
@@ -111,8 +114,8 @@ def overlay_frames(tmp_path):
 
 def test_read_prizes_from_jpegs(overlay_frames, tmp_path):
     read_prizes(overlay_frames, SIDES)
-    assert [f.prizes for f in overlay_frames] == [(6, 6), (4, 5), None, None, (4, 5)]
-    assert [f.replay for f in overlay_frames] == [False, False, False, True, False]
+    assert [f.prizes for f in overlay_frames] == [(6, 6), (4, 5), None, None, (4, 5), None]
+    assert [f.replay for f in overlay_frames] == [False, False, False, True, False, False]
     assert overlay_frames[1].to_dict()["prizes"] == [4, 5]
     assert overlay_frames[3].to_dict()["replay"] is True and "replay" not in overlay_frames[1].to_dict()
 
