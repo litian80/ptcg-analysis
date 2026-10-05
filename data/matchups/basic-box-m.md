@@ -25,7 +25,7 @@
 
 - 全部是基础宝可梦。Latias ex 在场时 Skyliner 让我方所有基础宝可梦撤退费为 0，所以 Kangaskhan（撤退 3）也能随时换上换下。
 - 能量来源：Teal Mask Ogerpon ex 的 Teal Dance 每回合从手上贴 1 个草并抽 1；Crispin 找两种不同的基本能量，一张贴、一张进手；Energy Switch ×4 把基本能量从一只挪到另一只；Glass Trumpet（场上有太晶宝可梦时）从弃牌区给后备区最多 2 只无色宝可梦（Kangaskhan、Meowth ex）各贴 1 个基本能量；Iron Leaves ex 从手上放到后备区时可换到战斗场并把其他宝可梦的能量任意挪过来。
-- Psychic Energy 只有 3 张（加 Crispin 检索），Latias ex 每次 Eon Blade 要 2 个 Psychic。Psychic 能量要循环使用：Energy Switch 挪、Night Stretcher 捡、Glass Trumpet 贴到后备区 Kangaskhan 身上再 Energy Switch 挪给 Latias（推断，按卡牌文字组合）。
+- Psychic Energy 只有 3 张（加 Crispin 检索），Latias ex 每次 Eon Blade 要 2 个 Psychic。Psychic 能量要循环使用：Energy Switch 挪、Night Stretcher 捡、Glass Trumpet 贴到后备区 Kangaskhan 身上再 Energy Switch 挪给 Latias（核对卡牌原文）。
 - Area Zero Underdepths 只在我方有太晶宝可梦（两种 Ogerpon）时让后备区到 8 格。对手每打出一张场地卡替换它，双方都要弃到 5 只，打出 Area Zero 的一方先弃。所以后备区第 6-8 格只放"丢了也无所谓"的宝可梦（推断）。Dragapult ex 也是太晶宝可梦，对 Dragapult 系时对手同样能放 8 只。
 - 先后攻：后攻时第 1 回合可以用支援者也可以攻击。按卡牌文字，后攻第 1 回合 Latias ex 能凑出 Eon Blade：手上 1 个 Psychic 手贴，Crispin 找 Psychic（贴给 Latias）+ Grass（进手），Teal Dance 把 Grass 贴给 Ogerpon 并抽 1，再 Energy Switch 把 Grass 挪给 Latias，凑成 Psychic Psychic + 1。对进化卡组（Dragapult、Alakazam、Zoroark）这是领先一回合的机会，所以多数对局倾向选后攻（推断，没有先后攻数据）。
 - 奖赏卡负担：几乎全是 2 奖 ex，Kangaskhan 给 3 张。对手击倒 3 只 2 奖 ex，或 Kangaskhan + 一只 2 奖 + 一只 1 奖就赢。单奖的只有 Chien-Pao（120 HP）和 Enamorus（120 HP）。对手全是单奖宝可梦时（Team Rocket's Honchkrow、Hop's Trevenant，现在都不在主流卡组里），Kangaskhan 的 3 张就是对手最划算的目标：用完 Run Errand 就撤下来，受伤后用 Chien-Pao 的 Snow Sink 弃掉 Area Zero，后备区弃到 5 只时把它一起弃掉（推断）。录像里已经三次：NAIC 2026 青少年组决赛 Bumler 的 Honchkrow 一击 Kangaskhan 拿 3 张；Turin 2026 八强 López 的 Hop's Trevenant 收掉 Hagen 的两只 Kangaskhan，各拿 3 张；Utrecht 2026 八强 Vanoverschelde 的 Honchkrow 两局都盯着 Battistella 的 Kangaskhan（[23:00](https://www.youtube.com/watch?v=8P1sYYaNX8A&t=1380s)），解说的话是"对 Honchkrow 时，Kangaskhan 不是盾"。
@@ -58,13 +58,13 @@
 
 **对手的套路，怎么防**
 - Boss's Orders 拉 Lillie's Clefairy ex（190）用 200 击倒，同时让我们失去 Fairy Zone：带 2 张 Clefairy，第二张留在手上或牌库里（Cyrano、Ultra Ball 可找）；一回合场上只放一只。挂 Hero's Cape 的 Clefairy（290）不怕这一下，对手的办法是 Crushing Hammer 拆掉它的 Psychic 能量，或者用 Fezandipiti ex 的 Cruel Arrow 和 Munkidori 先把它磨进 200 的范围。录像：Baltimore 2026 八强 Halliburton 把 290 的 Clefairy 磨到 130，Kasturi 靠后备区的第二只 Clefairy 收尾。
-- Phantom Dive 的 6 个指示物 + Munkidori 每回合 3 个，专门磨后备区：放置伤害指示物不是"伤害"，太晶 Ogerpon 在后备区的保护挡的是"伤害"，所以挡不住指示物（推断，按规则）。后备区只摆真正要用的 ex，用完的 Meowth ex 可以让它待在战斗场后用 Tuck Tail（3 无色，60）收回手上。Chien-Pao 的 Snow Sink 弃掉 Area Zero Underdepths 时，后备区要弃到 5 只，可以趁机弃掉身上有指示物的宝可梦，不让对手收（推断；Baltimore 八强 White 想这样做，没找到 Chien-Pao）。
+- Phantom Dive 的 6 个指示物 + Munkidori 每回合 3 个，专门磨后备区：放置伤害指示物不是"伤害"，太晶 Ogerpon 在后备区的保护挡的是"伤害"，所以挡不住指示物（核对卡牌原文）。后备区只摆真正要用的 ex，用完的 Meowth ex 可以让它待在战斗场后用 Tuck Tail（3 无色，60）收回手上。Chien-Pao 的 Snow Sink 弃掉 Area Zero Underdepths 时，后备区要弃到 5 只，可以趁机弃掉身上有指示物的宝可梦，不让对手收（推断；Baltimore 八强 White 想这样做，没找到 Chien-Pao）。
 - Risky Ruins（90%，2 张）：我方把非恶属性的基础宝可梦放到后备区时放 2 个指示物，几乎我们每只宝可梦都中。打出自己的 Area Zero 就能把它换掉；Chien-Pao 放下时的 Snow Sink 也能弃掉场地。
 - Crushing Hammer ×4（96% 卡表）：抛硬币弃我们一个能量。不要把能量全堆在一只身上，Teal Dance 和 Energy Switch 让能量分散后再集中（推断）。录像里这是对手翻盘的关键：Baltimore 2026 四强三局，Potti 每次翻盘都是 Hammer 拆掉 Clefairy 唯一的 Psychic 能量；第 1 局 Kasturi 剩下的 Psychic 能量都在奖赏卡里，投降。Psychic 能量只有 3 张，压进奖赏卡 2 张就打不出 Full Moon Rondo 和 Eon Blade，八强的 White 第 2 局也卡在这里。
 - 领先时别为了凑击倒去赌 Rapid-Fire Combo 的正面：抛出反面只打 200，留在对手宝可梦身上的伤害会被它的 Munkidori 挪到我方（推断；Baltimore 八强 Kasturi 领先时就不这样打）。
 - Budew 锁物品：被锁的那回合靠支援者（Crispin、Cyrano）和特性（Teal Dance）推进。
 - Team Rocket's Watchtower（四场比赛 19% 的 Dragapult 卡表带）：关掉 Kangaskhan 的 Run Errand 和 Meowth ex 的 Last-Ditch Catch。打出自己的 Area Zero Underdepths 换掉它（录像：同一场第 1 局 Christen 就是这样做的）。
-- 对手 Moltres（46%，Fighting Wings 对战斗场 ex 110）、Unfair Stamp 在我们击倒对手宝可梦后会用来翻盘：Kangaskhan 300 HP，200 + Munkidori 30 + Moltres 不同回合累计才能击倒，Kangaskhan 吃对手两下，适合在对手只剩两三张奖赏卡时作为最后的坦克（推断）。录像：2026 世界赛八强第 1 局，Tonisson 先用 Moltres 打 Spry 战斗场的 Kangaskhan 110，它剩 190，进了 Phantom Dive 200 的范围；Spry 击倒 Moltres 拿 1 张，Tonisson 落后、宝可梦又刚被击倒，同一回合打出 Rosa's Encouragement 和 Unfair Stamp，Phantom Dive 击倒 Kangaskhan 拿 3 张（[8:14:41](https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s)）。Kangaskhan 吃过 Moltres 之后，收 Moltres 那 1 张换来的是对手拿 3 张的回合。收之前先算对手下回合能不能一击它（对手落后时，Rosa's Encouragement 能从弃牌区给 Dragapult ex 贴 2 个能量），能的话别让它留在战斗场（推断）。
+- 对手 Moltres（46%，Fighting Wings 对战斗场 ex 110）、Unfair Stamp 在我们击倒对手宝可梦后会用来翻盘：Kangaskhan 300 HP，200 + Munkidori 30 + Moltres 不同回合累计才能击倒，Kangaskhan 吃对手两下（核对卡牌原文），适合在对手只剩两三张奖赏卡时作为最后的坦克（推断）。录像：2026 世界赛八强第 1 局，Tonisson 先用 Moltres 打 Spry 战斗场的 Kangaskhan 110，它剩 190，进了 Phantom Dive 200 的范围；Spry 击倒 Moltres 拿 1 张，Tonisson 落后、宝可梦又刚被击倒，同一回合打出 Rosa's Encouragement 和 Unfair Stamp，Phantom Dive 击倒 Kangaskhan 拿 3 张（[8:14:41](https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s)）。Kangaskhan 吃过 Moltres 之后，收 Moltres 那 1 张换来的是对手拿 3 张的回合。收之前先算对手下回合能不能一击它（对手落后时，Rosa's Encouragement 能从弃牌区给 Dragapult ex 贴 2 个能量），能的话别让它留在战斗场（推断）。
 - 对手的 Moltres 打弱火的 Iron Leaves ex（220）和 Teal Mask Ogerpon ex（210）是 110 × 2 = 220，一击。对手带 Moltres 时，这两只别站在战斗场（推断）。录像：同一场第 2 局 Spry 起手 Iron Leaves ex，Tonisson 就拿 Moltres 对付它。
 
 **关键卡与构筑**
@@ -104,9 +104,9 @@
 **对手的套路，怎么防**
 - Team Rocket's Watchtower（78%，3 张）：无色宝可梦没有特性，Kangaskhan 的 Run Errand 和 Meowth ex 的 Last-Ditch Catch 失效。用 Area Zero 或 Chien-Pao 的 Snow Sink 换掉/弃掉它，并且 Meowth ex 先留在手上，等场地清掉再放（推断）。
 - 不要让 Latias ex 或 Iron Crown ex 站在战斗场当攻击手：弱恶，连 Reshiram 170 都翻倍 340。
-- Kangaskhan 是本对局最好的"挡箭牌"：Rampaging Thunder 250 单发打不倒它，对手要凑齐中毒 + Mochi + Munkidori 或 Black Belt。对手凑不齐时，Kangaskhan 能在战斗场 Run Errand 抽 2 后再打一下（推断）。但它倒下就送 3 张，对手剩 3 张以下时别再用它。例外（推断，按卡牌文字）：Night Joker 复制 N's Reshiram（84% 卡表）的 Powerful Rage，伤害是 Zoroark 自己身上每个伤害指示物 20，身上 15 个以上就是 300，一击 Kangaskhan。所以打 Zoroark ex 要一击打死，别留一只吃过伤害还活着的。
+- Kangaskhan 是本对局最好的"挡箭牌"：Rampaging Thunder 250 单发打不倒它，对手要凑齐中毒 + Mochi + Munkidori 或 Black Belt。对手凑不齐时，Kangaskhan 能在战斗场 Run Errand 抽 2 后再打一下（推断）。但它倒下就送 3 张，对手剩 3 张以下时别再用它。例外（核对卡牌原文）：Night Joker 复制 N's Reshiram（84% 卡表）的 Powerful Rage，伤害是 Zoroark 自己身上每个伤害指示物 20，身上 15 个以上就是 300，一击 Kangaskhan。所以打 Zoroark ex 要一击打死，别留一只吃过伤害还活着的。
 - N's Darmanitan（28%）的 Back Draft 按我方弃牌区的基本能量每张 30。Raging Bolt ex 弃能量越多，Darmanitan 越痛，这局少用 Raging Bolt 大量弃能（推断）。
-- 后备区的 Zekrom / Reshiram 是对手的复制来源，用 Wellspring Ogerpon 的 120 狙后备区打不倒 130，但可以配合 Iron Crown ex 的 Twin Shotels（两只各 50，无视效果）先垫血（推断）。
+- 后备区的 Zekrom / Reshiram 是对手的复制来源，用 Wellspring Ogerpon 的 120 狙后备区打不倒 130，但可以配合 Iron Crown ex 的 Twin Shotels（两只各 50，无视效果）先垫血，50 + 120 = 170 收得掉（核对卡牌原文）。
 
 **关键卡与构筑**
 - Iron Leaves ex：带 60.7%（135 局）对不带 47.4%（19 局），符合"Zoroark 弱草"的卡牌逻辑。
@@ -167,7 +167,7 @@
 **对局性质**
 - 对手全部单奖（除 Fezandipiti ex 和 36% 卡表的 Lillie's Clefairy ex），我们要击倒 6 次；我们几乎全是 2 奖 ex，对手只要击倒 3 次。这是本卡组主流对局里最差的一个。
 - Alakazam（MEG 56，140 HP，弱恶）的 Powerful Hand 只要 1 个超能能量，按对手手牌数每张放 2 个指示物。打倒我方各宝可梦需要的手牌数：Kangaskhan 300 要 15 张，Iron Leaves / Iron Crown 220 要 11 张，Latias / Ogerpon / Fezandipiti 210 要 11 张，Clefairy 190 要 10 张，Meowth ex 170 要 9 张，Chien-Pao / Enamorus 120 要 6 张。
-- 放指示物不是伤害，不吃任何减伤（推断，按规则）。
+- 放指示物不是伤害，不吃任何减伤（核对卡牌原文）。
 - 对手 Kadabra 进化时抽 2、Alakazam 进化时抽 3、Dudunsparce 抽 3，手牌只会越来越大。
 
 **开局与先后攻**
@@ -215,7 +215,7 @@
 **对局性质**
 - 对手主攻 Slowking（SCR 58，120 HP，超能，弱恶）只给 1 张，但卡表里有 3 只 Mega Kangaskhan ex（3 奖）、2 只 Latias ex、Lillie's Clefairy ex、Meowth ex、Fezandipiti ex，ex 很多。
 - Seek Inspiration（Psychic + 1 无色）弃牌库顶 1 张，是无规则宝可梦就用它的招式。对手用 Academy at Night 把想要的宝可梦放回牌库顶。复制目标：Kyurem 的 Trifrost（3 只各 110，后备区不算弱点抗性）、Zeraora（DRI 78）的 Thunder Raid（后备区 ex 210）、Metagross（CRI 61）的 Metallic Hammer 300（官方裁定：Slowking 没有钢能量也能 +150，不用弃能量）/ Bounce Back 60、Annihilape。
-- Annihilape 多数是 SSP 100：Tantrum 130；Destined Fight（Fighting + 无色）"双方战斗场宝可梦都被击倒"。Slowking 复制 Destined Fight 时，对手只送 1 张，我们战斗场是 Kangaskhan 就丢 3 张。
+- Annihilape 有两个版本（核对卡牌原文）：PBL 41 用得更多（世界赛到法兰克福 59 份卡表），Ghostly Blow 打 100，再在后备区放 5 个指示物；SSP 100（34 份）有 Tantrum 130 和 Destined Fight，后者（Fighting + 无色）让"双方战斗场宝可梦都被击倒"。Slowking 复制 Destined Fight 时，对手只送 1 张，我们战斗场是 Kangaskhan 就丢 3 张。
 - 我方 Tera Ogerpon 在后备区时 Trifrost 和 Thunder Raid 对它们无效（都是招式伤害）。
 - 奖赏账：最快路线是击倒对手的 Mega Kangaskhan ex（3 张）+ 一只 2 奖 ex + 一只 Slowking。
 
@@ -233,8 +233,8 @@
 - Destined Fight：对手牌库顶被 Academy at Night 放了 Annihilape 时，我方战斗场是什么就会被击倒。战斗场放 1 奖的 Chien-Pao / Enamorus，或刚用完的低价值宝可梦；Kangaskhan 不要在对手回合留在战斗场（推断）。
 - Trifrost 打 3 只：后备区不要排 3 只 110 HP 以上但 220 以下的 ex 让对手两轮收 3 只；太晶 Ogerpon 放后备区是安全的。
 - Zeraora 的 Thunder Raid 只能打后备区 ex，Kangaskhan（300）在后备区吃 210 不倒。
-- Kyurem 是龙属性，有 Clefairy 在场时弱超能，但它通常不上场，只被复制（推断）。
-- 牌库顶布局：Unfair Stamp 让双方把手牌洗回牌库，会洗乱对手用 Ciphermaniac's Codebreaking 预先叠好的牌库顶；但 Academy at Night 是对手在自己回合当场把牌放上去再攻击，挡不住。Special Red Card 只把手牌放到牌库底，不动牌库顶（推断，按卡牌文字）。
+- Kyurem 是龙属性，有 Clefairy 在场时弱超能（核对卡牌原文），但它通常不上场，只被复制（推断）。
+- 牌库顶布局：Unfair Stamp 让双方把手牌洗回牌库，会洗乱对手用 Ciphermaniac's Codebreaking 预先叠好的牌库顶；但 Academy at Night 是对手在自己回合当场把牌放上去再攻击，挡不住。Special Red Card 只把手牌放到牌库底，不动牌库顶（核对卡牌原文）。
 
 **关键卡与构筑**
 - 我方：Glass Trumpet 带 52.9%（80 局）对不带 76.9%（26 局）；Raging Bolt ex / Lightning Energy 带 53.6%（79）对 74.1%（27）；Fighting Energy 54.0%（84）对 77.3%（22）；Prism Energy 带 77.3%（22）对 54.0%（84）；Pecharunt 76.2%（21）对 54.5%（85）；Munkidori 77.1%（16）对 55.6%（90）；N's Plan 73.7%（19）对 55.6%（87）；Unfair Stamp 66.1%（59）对 49.6%（47）。这一组差距一致指向：不带 Raging Bolt / Glass Trumpet、带 Pecharunt（SVP 149）/ Munkidori 的变体打 Slowking 更好（推断其原因，样本只有约 20 局）。录像旁证：Turin 2026 四强 Clark 带 2 只 Raging Bolt ex、2 张 Glass Trumpet，0-2 输给 Kamerman；第 1 局他唯一的 Wellspring Ogerpon 和唯一的 Water Energy 都在奖赏卡里，Raging Bolt ex 差 1 个能量打不出击倒，也没摸到 Unfair Stamp（一场只是旁证）。
@@ -298,7 +298,7 @@
 - 断引擎：Wellspring Ogerpon 后备区 120 击倒 Metang（TEF 114，100 HP）或 Drilbur（PBL 46，70）。Metang 是 Metal Maker 能量引擎，Drilbur 是 Excadrill 的进化前（推断优先顺序：Drilbur 在 Excadrill 还没进化前，Metang 在之后）。
 - Mega Excadrill ex：Raging Bolt ex 弃 5 个基本能量（从我方任意宝可梦上弃）350 一击，拿 3 张。之前用 Glass Trumpet、Teal Dance、Crispin 把能量铺在后备区。
 - Mega Skarmory ex（260）：Raging Bolt 弃 4（280）一击，拿 3 张；或 Latias 200 + Iron Crown 50 + 下回合补刀。
-- 对手带 Hero's Cape（58%，+100 HP）时 Excadrill 是 440：先 Latias 200，再 Raging Bolt 弃 4（280），两回合（推断）。
+- 对手带 Hero's Cape（58%，+100 HP）时 Excadrill 是 440：先 Latias 200，再 Raging Bolt 弃 4（280），两回合（核对卡牌原文）。中间对手用 Jumbo Ice Cream 回 80 时剩 320，第二回合要弃 5（350）。
 - 第二条路：Genesect ex（220，2 张）+ 一只 Mega（3）+ 一只 1 奖。
 
 **对手的套路，怎么防**
@@ -340,8 +340,8 @@
 **对手的套路，怎么防**
 - Eri（100%，2 张）弃我们 2 张物品，Xerosic's Machinations（98%）让我们弃到 3 张：关键的 Boss's Orders 是支援者，不会被 Eri 弃；Energy Switch 和 Ultra Ball 当回合用掉（推断）。
 - Mist Energy 挡招式效果：Wellspring Ogerpon 的 Sob（不能撤退）对贴了 Mist 的 Crustle 无效。
-- 对手 Handheld Fan（73%）在战斗场被打时把我们攻击手的能量挪到我们后备区，会拆掉 Raging Bolt 的 Lightning / Fighting（推断影响）。
-- 不要让 Kangaskhan 站在战斗场对 Crustle：Crustle 打 Kangaskhan 要三下，但 Kangaskhan 对 Crustle 打不出伤害，白白占位（推断）。
+- 对手 Handheld Fan（73%）在战斗场受到招式伤害时（被击倒也算），把我们攻击手身上 1 个能量挪到我们的后备区，不是弃掉，能用 Energy Switch 挪回。挂在 Crustle 上时，我们 ex 的招式伤害被 Mysterious Rock Inn 防止，Crustle 没有受到伤害，Fan 不触发；会触发的是被 Raging Bolt 打的 Kangaskhan（核对卡牌原文，已改正）。
+- 不要让 Kangaskhan 站在战斗场对 Crustle：Crustle 打 Kangaskhan 要三下，但 Kangaskhan 对 Crustle 打不出伤害（核对卡牌原文），白白占位（推断）。
 
 **关键卡与构筑**
 - 本对局所有关键卡的"不带"一侧样本都在 15 局以下（例如 Fighting Energy 不带只有 11 局，Raging Bolt ex 不带 13 局），不引用。
@@ -368,10 +368,10 @@
 - 战斗场 Latias ex，后备区 Ogerpon，Chien-Pao 留在手上（等对手打出 Festival Grounds 再从手上放下用 Snow Sink）。
 
 **奖赏卡路线**
-- 关键动作：对手打出 Festival Grounds 后，我们回合从手上放 Chien-Pao 到后备区，Snow Sink 弃掉它，Dipplin 这回合只能打一次（推断收益）。之后再打出我们的 Area Zero 占住场地位。
+- 关键动作：对手打出 Festival Grounds 后，我们回合从手上放 Chien-Pao 到后备区，Snow Sink 弃掉它，对手下回合除非再打出一张 Festival Grounds，否则 Dipplin 只能打一次（核对卡牌原文）。之后再打出我们的 Area Zero 占住场地位。
 - 击倒顺序：Thwackey（100，每只每回合找任意 1 张）> Dipplin（80）> Rabsca（70，Spherical Shield 让后备区不受招式伤害）。录像：同一局 Fritz 先用 Boss's Orders 打 Applin（[6:23:15](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=22995s)），再用 Meowth ex 找 Boss's Orders 打 Thwackey（[6:26:15](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=23175s)），Prime Catcher 打第二只 Thwackey 后接 Judge（[6:30:25](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=23425s)），三回合拿 3 张，但对手只要摸到 Festival Grounds 和一只 Dipplin 就能一回合追回来。Rabsca 在场时我们的后备区狙击（Wellspring 120）无效，要先 Boss 拉 Rabsca 打掉（推断顺序）。
 - 单奖换单奖：Enamorus（双方都有草属性时 200）和 Chien-Pao（120）都只给 1 张，打 80-110 HP 的对手正好。
-- Iron Crown ex 的 Twin Shotels 50 + 50 能同时击倒 Applin（40）、Rellor（40）、Goldeen（50）这类（Rabsca 在场时能否打后备区需裁定，推断）。
+- Iron Crown ex 的 Twin Shotels 50 + 50 能同时击倒 Applin（40）、Rellor（TEF 23，50）、Goldeen（50）这类（Rabsca 在场时能否打后备区需裁定，推断）。
 
 **对手的套路，怎么防**
 - 对手后备区越多伤害越高；我们打后备区的小怪同时降低 Do the Wave 的伤害。
@@ -405,7 +405,7 @@
 **奖赏卡路线**
 - 每回合击倒战斗场 Dhelmise（1）；有机会就 Boss 对手的 2 奖：Latias ex（47%），Lillie's Clefairy ex（100%），Bloodmoon Ursaluna ex（47%，260 HP，用 Raging Bolt 弃 4 或 Kangaskhan 200 + 2 次正面）。
 - 示例：Dhelmise（1）→ Boss Clefairy（2，Latias 200 一击 190）→ Dhelmise（1）→ Boss Latias ex（2，Kangaskhan 200 + 1 次正面 / Raging Bolt 弃 3）。
-- Kangaskhan 在这局很合适：300 HP 要两发 Vengeful Anchor，每回合 Run Errand 抽 2 并一击 Dhelmise（推断）。
+- Kangaskhan 在这局很合适（推断）：300 HP 要两发 Vengeful Anchor，每回合 Run Errand 抽 2 并一击 Dhelmise（核对卡牌原文）。
 
 **对手的套路，怎么防**
 - Sinistcha 的 Matcha Spin（弃牌区 6 只以上时）给我们每只宝可梦放 4 个指示物，配合 170 收掉残血的后备区 ex：被打过一次的 ex 及时撤到后备区后，注意总血量（推断）。
@@ -438,18 +438,18 @@
 - 战斗场 Latias ex，后备区 Ogerpon；Chien-Pao 留手。
 
 **奖赏卡路线**
-- 关键动作 1：对手 Forest of Vitality 在场时，从手上放 Chien-Pao 用 Snow Sink 弃掉，对手当回合不能放下即进化（推断收益）。
+- 关键动作 1：对手 Forest of Vitality 在场时，从手上放 Chien-Pao 用 Snow Sink 弃掉，对手下回合除非再打出一张 Forest of Vitality，否则不能放下即进化（核对卡牌原文）。
 - 关键动作 2：Meganium 先倒。Boss 拉 Meganium（160），Latias 200 / Kangaskhan 200 / Iron Leaves 180 一击（1）。Meganium 倒后对手每个草能量只算 1 个，伤害骤降。
 - Bayleef（110）/ Chikorita / Applin / Dipplin（90）：Wellspring 后备区 120 一击（1），或 Iron Crown 50 + 50 打两只 Applin / Chikorita 垫血。
-- Ogerpon ex：Raging Bolt 弃 3 一击（2）；Hydrapple ex：Raging Bolt 弃 5 一击（2）。不要分两回合打 Hydrapple，它每回合回 30（推断）。
+- Ogerpon ex：Raging Bolt 弃 3 一击（2）；Hydrapple ex：Raging Bolt 弃 5 一击（2）。不要分两回合打 Hydrapple（推断），它每回合能用 Ripening Charge 贴草回 30（核对卡牌原文）。
 - 示例：Meganium（1）→ Bayleef 或 Celebi（1）→ Ogerpon ex（2）→ Hydrapple ex（2）。
 - Raging Bolt ex 弃 5 一击 Hydrapple 的录像：Baltimore 2026 决赛第 2 局 Kasturi 弃掉全场能量一击 Hydrapple ex（[0:27:31](https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=1651s)），对手两张 Night Stretcher 都已用掉，这局再也做不出 Hydrapple。最后一张也是 Boss's Orders 拉 Meganium。
 - Lillie's Clefairy ex 挂 Hero's Cape（290）当前期攻击手，连续拿对手的单奖进化前（同一场第 2 局 Applin、Chikorita，[0:19:06](https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=1146s)）。对手控制后备区数量时，Full Moon Rondo 要靠 Area Zero 才打得够。
 
 **对手的套路，怎么防**
-- Raging Bolt 的 Bellowing Thunder 可以从"我方任何宝可梦"弃能量，所以 Raging Bolt 自己身上只放 Lightning + Fighting 两个，其他能量放在后备区，战斗场能量少，对手的 Myriad Leaf Shower 吃不到我们的能量加成（推断）。
+- Raging Bolt 的 Bellowing Thunder 可以从"我方任何宝可梦"弃能量（核对卡牌原文），所以 Raging Bolt 自己身上只放 Lightning + Fighting 两个，其他能量放在后备区，战斗场能量少，对手的 Myriad Leaf Shower 吃不到我们的能量加成（推断）。
 - 对手的 Briar 只能在我们剩余奖赏卡正好 2 张时用：当回合对手的太晶宝可梦击倒我方战斗场宝可梦时多拿 1 张。我们剩 2 张时，战斗场尽量放 1 奖宝可梦（推断）。
-- Kangaskhan 200 起 + 正面在对手 Hydrapple 回血下很难两下打穿，而它本身给 3 张（推断）。例外是挂 Hero's Cape：400 HP 挡得住 Teal Mask 的 300。录像：Baltimore 2026 决赛第 3 局 Kasturi 的 Cape Kangaskhan 连续 3 次正面打出 350，击倒 Hydrapple ex，对手 Teal Mask 的 300 打不倒它（[0:56:28](https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=3388s)）。
+- Kangaskhan 两下 200 起就能打穿 Hydrapple ex：330 吃 200 剩 130，回 30 后 160，第二下照样击倒（核对卡牌原文，已改正）。问题是第一下之后它要在战斗场扛对手一回合，Teal Mask 的 300 正好一击满血 Kangaskhan，而它本身给 3 张（推断）。例外是挂 Hero's Cape：400 HP 挡得住 Teal Mask 的 300。录像：Baltimore 2026 决赛第 3 局 Kasturi 的 Cape Kangaskhan 连续 3 次正面打出 350，击倒 Hydrapple ex，对手 Teal Mask 的 300 打不倒它（[0:56:28](https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=3388s)）。
 - 对手的 Unfair Stamp 陷阱：先把 Tapu Bulu 或 Celebi 这类单奖放到战斗场当诱饵，我们击倒后马上 Stamp，我们手牌只剩 2 张。决赛三局里打了两次：第 1 局 Kasturi 被 Stamp 后场上没有 Fezandipiti ex 也没有 Kangaskhan，抽不回来，投降；第 2 局场上有这两只，就抽出来了。吃诱饵之前先把 Fezandipiti ex 或 Kangaskhan 放好（推断）。我们的核心卡表没有抽牌支援者，被 Stamp 时只能靠这两只。
 
 **关键卡与构筑**

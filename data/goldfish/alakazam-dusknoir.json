@@ -1,0 +1,227 @@
+{
+ "slug": "alakazam-dusknoir",
+ "name": "Alakazam Dusknoir",
+ "list_source": "Frankfurt 区域赛 2026-09-26 冠军 Tomasz Chałupka",
+ "games_per_side": 20000,
+ "seed": 1,
+ "list": {
+  "Duskull": 4,
+  "Dusclops": 2,
+  "Dusknoir": 2,
+  "Abra": 4,
+  "Kadabra": 4,
+  "Alakazam": 3,
+  "Budew": 2,
+  "Shaymin": 1,
+  "Fezandipiti ex": 1,
+  "Hilda": 4,
+  "Dawn": 4,
+  "Gwynn": 3,
+  "Boss's Orders": 1,
+  "Rare Candy": 4,
+  "Poke Pad": 4,
+  "Buddy-Buddy Poffin": 3,
+  "Strange Timepiece": 3,
+  "Special Red Card": 2,
+  "Night Stretcher": 2,
+  "Sacred Ash": 1,
+  "Prime Catcher": 1,
+  "Telepathic Psychic Energy": 4,
+  "Psychic Energy": 1
+ },
+ "modelled": "Alakazam Dusknoir: Tomasz Chałupka, Regional Frankfurt 2026-09-26, 1st.\n\nModelled (printed text): Abra/Kadabra/Alakazam (MEG 54-56, Psychic Draw 2/3), Duskull/\nDusclops/Dusknoir (PRE 35-37, only as \"Cursed Blast available\"), Dawn (PFL 87), Hilda (WHT 84),\nGwynn (PBL 78), Rare Candy (MEG 125), Poke Pad (POR 81), Buddy-Buddy Poffin (TEF 144),\nTelepathic Psychic Energy (POR 88), Prime Catcher (TEF 157, only as a free switch).\nAbra TWM 80 (Teleporter) is counted as a plain Abra.",
+ "blanks": [
+  "Budew",
+  "Shaymin",
+  "Fezandipiti ex",
+  "Boss's Orders",
+  "Strange Timepiece",
+  "Special Red Card",
+  "Night Stretcher",
+  "Sacred Ash",
+  "Abra TWM 80 的 Teleporter"
+ ],
+ "notes": [
+  "攻击 = Alakazam 身上有超能量且在战斗场或能换上来（Budew 撤退 0；Prime Catcher 当免费换位；其他按撤退费弃能量）。",
+  "手牌数 = 攻击时的手牌（手贴能量后）。打法先打完所有能进化抽牌的牌，Poffin 等会减手牌的牌也照打（贪心，偏保守）。",
+  "Dusknoir 只统计“当回合能用 Cursed Blast”：场上有 Dusknoir，或手上有 Dusknoir 且有 Rare Candy+可进化的 Duskull / 可进化的 Dusclops（或 Poké Pad 能拿到 Dusknoir）。打法本身不进化 Dusknoir（会减 2 张手牌）。"
+ ],
+ "results": {
+  "先攻": {
+   "5 个能量里≥2 个在奖赏卡": 0.0757,
+   "起手只有 Fezandipiti ex 能放战斗场": 0.0394,
+   "第2回合 Alakazam 能攻击": 0.216,
+   "第2回合攻击时手牌（均值）": 7.203,
+   "第2回合能用 Cursed Blast": 0.0732,
+   "第3回合 Alakazam 能攻击": 0.7009,
+   "第3回合攻击时手牌（均值）": 12.2644,
+   "第3回合能用 Cursed Blast": 0.3066,
+   "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": 0.5877,
+   "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.0862,
+   "第4回合 Alakazam 能攻击": 0.8675,
+   "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.5105,
+   "起手重抽": 0.1885
+  },
+  "后攻": {
+   "5 个能量里≥2 个在奖赏卡": 0.0775,
+   "起手只有 Fezandipiti ex 能放战斗场": 0.0401,
+   "第2回合 Alakazam 能攻击": 0.3941,
+   "第2回合攻击时手牌（均值）": 9.7183,
+   "第2回合能用 Cursed Blast": 0.1592,
+   "第3回合 Alakazam 能攻击": 0.8686,
+   "第3回合攻击时手牌（均值）": 15.5777,
+   "第3回合能用 Cursed Blast": 0.5551,
+   "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": 0.8376,
+   "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.4652,
+   "第4回合 Alakazam 能攻击": 0.9352,
+   "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.7709,
+   "起手重抽": 0.1933
+  }
+ },
+ "tuning": [
+  {
+   "question": "Dawn 4 张 → 3 张（多 1 张 Gwynn，22 份卡表中位数的配法）",
+   "source": "data/matchups/alakazam-dusknoir.md:38",
+   "change": {
+    "Dawn": -1,
+    "Gwynn": 1
+   },
+   "results": {
+    "先攻": {
+     "5 个能量里≥2 个在奖赏卡": 0.0757,
+     "起手只有 Fezandipiti ex 能放战斗场": 0.0394,
+     "第2回合 Alakazam 能攻击": 0.213,
+     "第2回合攻击时手牌（均值）": 7.1385,
+     "第2回合能用 Cursed Blast": 0.0751,
+     "第3回合 Alakazam 能攻击": 0.6821,
+     "第3回合攻击时手牌（均值）": 12.1188,
+     "第3回合能用 Cursed Blast": 0.3008,
+     "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": 0.5583,
+     "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.08,
+     "第4回合 Alakazam 能攻击": 0.8497,
+     "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.4944,
+     "起手重抽": 0.1885
+    },
+    "后攻": {
+     "5 个能量里≥2 个在奖赏卡": 0.0775,
+     "起手只有 Fezandipiti ex 能放战斗场": 0.0401,
+     "第2回合 Alakazam 能攻击": 0.3859,
+     "第2回合攻击时手牌（均值）": 9.6153,
+     "第2回合能用 Cursed Blast": 0.1638,
+     "第3回合 Alakazam 能攻击": 0.8565,
+     "第3回合攻击时手牌（均值）": 15.418,
+     "第3回合能用 Cursed Blast": 0.5514,
+     "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": 0.8198,
+     "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.4439,
+     "第4回合 Alakazam 能攻击": 0.9276,
+     "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.7622,
+     "起手重抽": 0.1933
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "5 个能量里≥2 个在奖赏卡": 0.0,
+     "起手只有 Fezandipiti ex 能放战斗场": 0.0,
+     "第2回合 Alakazam 能攻击": -0.3,
+     "第2回合攻击时手牌（均值）": -0.06,
+     "第2回合能用 Cursed Blast": 0.2,
+     "第3回合 Alakazam 能攻击": -1.9,
+     "第3回合攻击时手牌（均值）": -0.15,
+     "第3回合能用 Cursed Blast": -0.6,
+     "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": -2.9,
+     "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": -0.6,
+     "第4回合 Alakazam 能攻击": -1.8,
+     "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": -1.6,
+     "起手重抽": 0.0
+    },
+    "后攻": {
+     "5 个能量里≥2 个在奖赏卡": 0.0,
+     "起手只有 Fezandipiti ex 能放战斗场": 0.0,
+     "第2回合 Alakazam 能攻击": -0.8,
+     "第2回合攻击时手牌（均值）": -0.1,
+     "第2回合能用 Cursed Blast": 0.5,
+     "第3回合 Alakazam 能攻击": -1.2,
+     "第3回合攻击时手牌（均值）": -0.16,
+     "第3回合能用 Cursed Blast": -0.4,
+     "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": -1.8,
+     "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": -2.1,
+     "第4回合 Alakazam 能攻击": -0.8,
+     "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": -0.9,
+     "起手重抽": 0.0
+    }
+   }
+  },
+  {
+   "question": "第 3 张 Dusknoir（换 1 张 Special Red Card）",
+   "source": "data/matchups/alakazam-dusknoir.md:179",
+   "change": {
+    "Dusknoir": 1,
+    "Special Red Card": -1
+   },
+   "results": {
+    "先攻": {
+     "5 个能量里≥2 个在奖赏卡": 0.0746,
+     "起手只有 Fezandipiti ex 能放战斗场": 0.038,
+     "第2回合 Alakazam 能攻击": 0.2134,
+     "第2回合攻击时手牌（均值）": 7.2487,
+     "第2回合能用 Cursed Blast": 0.095,
+     "第3回合 Alakazam 能攻击": 0.7042,
+     "第3回合攻击时手牌（均值）": 12.3326,
+     "第3回合能用 Cursed Blast": 0.3523,
+     "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": 0.5921,
+     "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.09,
+     "第4回合 Alakazam 能攻击": 0.8673,
+     "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.5303,
+     "起手重抽": 0.1938
+    },
+    "后攻": {
+     "5 个能量里≥2 个在奖赏卡": 0.0744,
+     "起手只有 Fezandipiti ex 能放战斗场": 0.0415,
+     "第2回合 Alakazam 能攻击": 0.3971,
+     "第2回合攻击时手牌（均值）": 9.7349,
+     "第2回合能用 Cursed Blast": 0.1894,
+     "第3回合 Alakazam 能攻击": 0.8733,
+     "第3回合攻击时手牌（均值）": 15.5971,
+     "第3回合能用 Cursed Blast": 0.5998,
+     "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": 0.8431,
+     "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.4679,
+     "第4回合 Alakazam 能攻击": 0.9381,
+     "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.7804,
+     "起手重抽": 0.1951
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "5 个能量里≥2 个在奖赏卡": -0.1,
+     "起手只有 Fezandipiti ex 能放战斗场": -0.1,
+     "第2回合 Alakazam 能攻击": -0.3,
+     "第2回合攻击时手牌（均值）": 0.05,
+     "第2回合能用 Cursed Blast": 2.2,
+     "第3回合 Alakazam 能攻击": 0.3,
+     "第3回合攻击时手牌（均值）": 0.07,
+     "第3回合能用 Cursed Blast": 4.6,
+     "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": 0.4,
+     "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.4,
+     "第4回合 Alakazam 能攻击": -0.0,
+     "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 2.0,
+     "起手重抽": 0.5
+    },
+    "后攻": {
+     "5 个能量里≥2 个在奖赏卡": -0.3,
+     "起手只有 Fezandipiti ex 能放战斗场": 0.1,
+     "第2回合 Alakazam 能攻击": 0.3,
+     "第2回合攻击时手牌（均值）": 0.02,
+     "第2回合能用 Cursed Blast": 3.0,
+     "第3回合 Alakazam 能攻击": 0.5,
+     "第3回合攻击时手牌（均值）": 0.02,
+     "第3回合能用 Cursed Blast": 4.5,
+     "第3回合攻击且手牌≥10（+Dusknoir 一击 Dragapult ex）": 0.5,
+     "第3回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.3,
+     "第4回合 Alakazam 能攻击": 0.3,
+     "第4回合攻击且手牌≥16（单靠 Powerful Hand 一击 Dragapult ex）": 0.9,
+     "起手重抽": 0.2
+    }
+   }
+  }
+ ]
+}

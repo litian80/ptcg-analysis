@@ -43,7 +43,7 @@
 ### 两个伤害来源
 
 1. **Alakazam 的 Powerful Hand**（只要 1 个 Psychic 能量）：手牌每张给对手战斗场宝可梦放 2 个伤害指示物。放指示物不是"伤害"，所以不受弱点、抗性、减伤（如 Genesect ex 的 Protect Charge）影响，也不受"防止伤害"类效果影响（如 Crustle 的 Mysterious Rock Inn）。但它是"招式的效果"，会被 Mist Energy、Hide 'n' Sneak 这类"防止招式效果"的卡挡住。
-2. **Dusknoir 的 Cursed Blast**（特性）：放 13 个伤害指示物（130）到对手任一宝可梦身上，然后 Dusknoir 自己被击倒，对手拿 1 张奖赏卡。Dusclops 是同名特性，放 5 个（50）。因为是特性，不受"防止招式伤害或效果"的保护影响，可以打后备区的太晶宝可梦（Dragapult ex、Teal Mask Ogerpon ex 在后备区只防招式伤害）。会被三类卡挡住：Battle Cage（不能往后备区放）、Hide 'n' Sneak（防特性效果）、Psyduck 的 Damp（推断：Cursed Blast 属于"需要自己被击倒"的特性）。
+2. **Dusknoir 的 Cursed Blast**（特性）：放 13 个伤害指示物（130）到对手任一宝可梦身上，然后 Dusknoir 自己被击倒，对手拿 1 张奖赏卡。Dusclops 是同名特性，放 5 个（50）。因为是特性，不受"防止招式伤害或效果"的保护影响，可以打后备区的太晶宝可梦（Dragapult ex、Teal Mask Ogerpon ex 在后备区只防招式伤害）。会被三类卡挡住：Battle Cage（不能往后备区放）、Hide 'n' Sneak（防特性效果）、Psyduck（ASC 39）的 Damp（核对卡牌原文：Damp 让"需要自己被击倒"的特性失效，Cursed Blast 写明使用后这只宝可梦被击倒）。
 
 Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方下回合被打的宝可梦不能撤退）。整副只有 5 个能量，平时用不上；落后、Alakazam 线断掉时，它是不靠手牌的攻击手和锁人手段（见 vs Dragapult Dusknoir）。
 
@@ -63,7 +63,7 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 ### 节奏
 
 - **第 1 回合**：Buddy-Buddy Poffin 拿 Abra、Duskull（都在 70 HP 以内）。把 Telepathic Psychic Energy 贴给超能宝可梦，再从牌库拿最多 2 只基础超能宝可梦到后备区。Rare Candy 不能在自己的第一回合用，也不能用在当回合才放上场的基础宝可梦上，所以要进化的 Abra、Duskull 必须第 1 回合就在场。先攻第 1 回合不能用支援者，也不能攻击。
-- **第 2 回合**：Rare Candy 让 Abra 直接进化 Alakazam，Psychic Draw 抽 3（推断：用 Rare Candy 从手上放 Alakazam 也算"从手牌打出进化"）。或者 Abra 进化 Kadabra 抽 2，第 3 回合再进化 Alakazam 抽 3。给 Alakazam 贴能量后 Powerful Hand。需要爆发时再用 Rare Candy 让 Duskull 直接进化 Dusknoir，在攻击前 Cursed Blast。
+- **第 2 回合**：Rare Candy 让 Abra 直接进化 Alakazam，Psychic Draw 抽 3（核对卡牌原文：Rare Candy 是把手上的 2 阶卡放到基础宝可梦上进化，算"从手牌打出进化"）。或者 Abra 进化 Kadabra 抽 2，第 3 回合再进化 Alakazam 抽 3。给 Alakazam 贴能量后 Powerful Hand。需要爆发时再用 Rare Candy 让 Duskull 直接进化 Dusknoir，在攻击前 Cursed Blast。
 - **之后每回合**：一只 Alakazam 攻击，后备区准备好下一只 Alakazam 和下一只 Dusknoir。
 
 ### 手牌数的增减（每张牌打出后手牌净变化）
@@ -163,7 +163,7 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 1. **我方第 2 回合**（拿 2 张，送 1 张）：Rare Candy 进化 Dusknoir，Cursed Blast 13 个指示物放在后备区的 N's Zekrom（130 HP）上，正好击倒，复制来源少一个。再用 Alakazam 的 Powerful Hand 打战斗场的 N's Zorua（70，4 张手牌），阻止它进化。如果资源只够一样，优先 Powerful Hand 打 Zorua，Dusknoir 留到下回合。
 2. **我方第 3 回合**（拿 2 张，累计 4）：战斗场的 Zoroark ex。第二只 Dusknoir 放 130，Powerful Hand 8 张手牌（150）击倒。没有 Dusknoir 时要 14 张。
 3. **我方第 4 回合**（拿 2 张，累计 6）：第二只 Zoroark ex（14 张），或者 Boss 拉 Pecharunt ex（190，10 张）、Fezandipiti ex（210，11 张）。N's Reshiram 130 HP、Tatsugiri 70 HP、Munkidori 110 HP 都是 1 奖的补位目标。
-- 后备区的 N's Zekrom / Reshiram 只要都被清掉，Night Joker 就只能复制 N's Zorua 的 Scratch（40）这类低伤害招式（推断：取决于对方后备区还剩哪些 N 的宝可梦）。
+- 后备区的 N's Zekrom / Reshiram 只要都被清掉，Night Joker 就只能复制 N's Zorua 的 Scratch（20，打我方弱恶的宝可梦是 40）这类低伤害招式（核对卡牌原文：Night Joker 只能用后备区 N 的宝可梦的招式，所以取决于对方后备区还剩哪些 N 的宝可梦）。
 - 对方带 Special Red Card（96%）时，第 2、3 步不要一回合一只地拿：先把两只 Zoroark ex 都打进击倒范围，再一回合拿 4 张，见下面"防 Special Red Card 的拿奖节奏"。
 
 **对手的套路，怎么防**
@@ -192,7 +192,7 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 **对局性质**
 - 和 Dragapult ex 同一个骨架（Dragapult ex 320 HP，Phantom Dive 200 + 6 个后备区指示物），多一条 Duskull 线（Duskull ×2、Dusclops ×2、Dusknoir ×1）。
 - 对方的新威胁：Dusknoir 的 13 个指示物 + Phantom Dive 的 6 个 = 190，可以击倒我方后备区的 Alakazam（140）或 Dusknoir（160）；或者 Cursed Blast 打战斗场 Alakazam 130，再用 Jet Headbutt（1 个无色）70 补刀。
-- 对方的 Cursed Blast 每次送我方 1 张。对方最多自爆 3 次（2 Dusclops + 1 Dusknoir），这是本对局比纯 Dragapult ex 好一些的原因之一（推断）。
+- 对方的 Cursed Blast 每次送我方 1 张。对方卡表是 2 Dusclops + 1 Dusknoir，不算 Night Stretcher 回收时最多自爆 3 次，这是本对局比纯 Dragapult ex 好一些的原因之一（推断）。
 - Crushing Hammer 只有 29% 的卡表带，能量压力比对纯 Dragapult ex 小。对方 Unfair Stamp 93%、Special Red Card 79%、Jamming Tower 76%（我方没有道具，不受影响）、Team Rocket's Watchtower 49%（关掉我方 Patrat）。
 
 **开局与先后攻**
@@ -212,7 +212,7 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 - **Fezandipiti ex**：对方的自爆是在对方自己回合，不触发对方的 Flip the Script；我方用 Cursed Blast 自爆也不触发我方的 Flip the Script。
 - **Unfair Stamp 和 Special Red Card**：同 Dragapult ex。
 - **收对方的 Budew 等于给对方 Unfair Stamp**（录像）：Stamp 的条件是对方的宝可梦上回合被击倒，用 Kadabra 或 Cursed Blast 收 Budew 也算。2026 世界赛八强第 1 局，Łaszkiewicz 用 Kadabra 击倒 Chao 的 Budew 解锁物品，Chao 下回合就打 Stamp，他只剩 2 张手牌；Chao 接着用 Cursed Blast 加 Phantom Dive 收光他的 Abra 和 Alakazam，他投降。第 2 局他不再碰 Budew，Chao 整局没机会打 Stamp。被锁物品时 Kadabra、Alakazam、Dusknoir 照样能从手上进化，用不了的是 Rare Candy 和铺场物品。所以只在 Stamp 之后还接得上时才去收 Budew：场上已经有不靠手牌的 Dusclops 或 Dusknoir，Fezandipiti ex 在后备区（推断）（信心 60%，akd-dpx-01）。vs Dragapult ex 一节 Frankfurt 的录像里，用 Cursed Blast 清掉两只 Budew 后赢了，两种结果都有。
-- **手牌不够时分两回合击倒 Dragapult ex**（录像）：同一场第 2 局，Łaszkiewicz 用 Boss's Orders 拉出 Dragapult ex，Powerful Hand 打 240（12 张手牌），留它 80，准备下回合用 Dusknoir 的 Cursed Blast（130）收掉（他最后确实是用 Dusknoir 和 Dusclops 的两次 Cursed Blast 拿完了奖赏卡，见下面"拖进突然死亡"）。这一回合不击倒，对方下回合就没有 Stamp 可打；Cursed Blast 是特性，不看手牌，对方中间用 Judge 或 Special Red Card 打乱手牌也挡不住（推断）。
+- **手牌不够时分两回合击倒 Dragapult ex**（录像）：同一场第 2 局，Łaszkiewicz 用 Boss's Orders 拉出 Dragapult ex，Powerful Hand 打 240（12 张手牌），留它 80，准备下回合用 Dusknoir 的 Cursed Blast（130）收掉（他最后确实是用 Dusknoir 和 Dusclops 的两次 Cursed Blast 拿完了奖赏卡，见下面"拖进突然死亡"）。这一回合不击倒，对方下回合就没有 Stamp 可打；Cursed Blast 是特性，不看手牌，只要 Dusknoir 已经在场上，对方中间用 Judge 或 Special Red Card 打乱手牌也挡不住；Dusknoir 还在手上时会被一起洗走（核对卡牌原文，已改正）。
 
 **落后时的翻盘：Shadow Bind 锁人**（录像）
 
@@ -318,7 +318,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - **Metallic Hammer 300**：对方需要把 Metagross 放到牌库顶。我方 Special Red Card 只重置手牌，不影响牌库顶。
 - **Ghostly Blow 的 5 个指示物**：能击倒后备区的 Abra（50），Shaymin 挡不住。所以后备区的 Abra 尽快进化。
 - **Kangaskhan / Latias ex 打 Alakazam**：Eon Blade 200 用完下回合不能攻击，对方需要轮换。击倒用过 Eon Blade 的 Latias ex（210）可以拿 2 张。
-- **Lucky Helmet**（47%）：在战斗场的宝可梦"受到招式伤害"时抽 2。Powerful Hand 放的是指示物，不是伤害，所以不触发（推断）。
+- **Lucky Helmet**（47%）：在战斗场的宝可梦"受到招式伤害"时抽 2。Powerful Hand 放的是指示物，不是伤害，所以不触发（核对卡牌原文）。
 
 **关键卡与构筑**
 - 没有带卡与不带卡的对比数据（公开卡表只有 21 局）。
@@ -468,12 +468,12 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 1. **我方第 2 回合**（拿 1 到 2 张）：Powerful Hand 打战斗场的 Dipplin（4 张）。如果有 Dusknoir，Cursed Blast 先击倒后备区的 Thwackey（100）：Boom Boom Groove 每回合从牌库找任意 1 张，是对方的检索引擎。
 2. **我方第 3、4 回合**（每回合 2 张）：每回合 Cursed Blast 或 Dusclops（50，能击倒 Applin、Goldeen、Rellor）击倒一只后备区宝可梦，再用 Powerful Hand 击倒战斗场。
 3. **我方第 5 回合**：收尾。
-- **压缩后备区的计算**：对方后备区 5 只时 Do the Wave 是 100 × 2 = 200，击倒 Alakazam；4 只时 80 × 2 = 160，仍然击倒；3 只时 60 × 2 = 120，Alakazam 能活下来（推断，按卡牌文字计算，不算 Gladion's Final Battle）。所以每击倒对方一只后备区宝可梦，都在降低对方下回合的伤害。
+- **压缩后备区的计算**：对方后备区 5 只时 Do the Wave 是 100 × 2 = 200，击倒 Alakazam；4 只时 80 × 2 = 160，仍然击倒；3 只时 60 × 2 = 120，Alakazam 能活下来（核对卡牌原文，不算 Gladion's Final Battle）。所以每击倒对方一只后备区宝可梦，都在降低对方下回合的伤害。
 - **先清 Festival Lead 宝可梦**：一回合攻击两次的是战斗场上带 Festival Lead 特性的宝可梦，也就是 Dipplin、Goldeen、Seaking；Grookey、Thwackey、Applin 没有。场上没有它们、也没有能进化成 Dipplin 的 Applin 时，对方一回合只能攻击一次（信心 75%，akd-fes-01）。录像：Frankfurt 四强第 2 局，Duclos 场上唯一的 Festival Lead 宝可梦是 Goldeen（50），Chałupka 第 2 回合先用 Dusclops 的 Cursed Blast 击倒它（[6:47:20](https://www.youtube.com/watch?v=NOi0qAFjnME&t=24440s)），第二次 Cursed Blast 击倒一只已经受伤、剩 50 的 Grookey，满血的 Grookey（70）没打。
 - **自爆打开 Special Red Card**：Cursed Blast 每次送对方 1 张。同一局双方都剩 5 张，两次自爆让 Duclos 降到 3 张，正好满足 Special Red Card 的条件。Chałupka 当回合打出 Special Red Card 重置他的手牌，再用 Powerful Hand 击倒战斗场的 Applin（[6:48:04](https://www.youtube.com/watch?v=NOi0qAFjnME&t=24484s)），对方场上只剩一只 Grookey，认输（录像）。用 Cursed Blast 前先算对方会不会因此降到 3 张以下，是的话 Special Red Card 同一回合就能用。
 
 **对手的套路，怎么防**
-- **Psyduck（35%）**：Damp 让 Cursed Blast 无效（推断）。Psyduck 70 HP，Boss / Prime Catcher 拉出来用 4 张手牌击倒，再用 Dusknoir。
+- **Psyduck（35%）**：Damp 让 Cursed Blast 无效（核对卡牌原文）。Psyduck 70 HP，Boss / Prime Catcher 拉出来用 4 张手牌击倒，再用 Dusknoir。
 - **Gladion's Final Battle**：对方手牌只剩 1 张时要预计这一回合会有两次击倒。这时战斗场放 Dusknoir（160）也挡不住 180。
 - **Festival Grounds**：我方没有场地卡，只能接受它一直在场。
 - **Shaymin（82%）**：保护对方后备区的无规则宝可梦不受招式伤害。Powerful Hand 只打战斗场，Cursed Blast 是特性，都不受影响。
@@ -535,7 +535,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 **对局性质**
 - 对方是草能量堆叠：Meganium（MEG 10，160 HP，1 奖）的 Wild Growth 让每个基本草能量提供 2 个草能量。Teal Mask Ogerpon ex ×4（210，2 奖，在后备区不受招式伤害）的 Myriad Leaf Shower 30 + 双方战斗场每个能量 30。Hydrapple ex（SCR 14，330 HP，2 奖）每回合贴草回 30，Syrup Storm 30 + 对方自己全场每个草能量 30（Meganium 在场时 6 个基本草能量就是 390）。Tapu Bulu（140 HP，1 奖）Wood Hammer 220。
 - 对方每回合能击倒我方一只，需要 6 次。对方的 2 奖宝可梦很多（Ogerpon ex ×4、Hydrapple ex、Meowth ex、Fezandipiti ex），我方 3 次击倒 2 奖 ex 就赢。
-- Forest of Vitality 让对方的草宝可梦放下当回合就能进化，所以 Chikorita / Bayleef 在后备区停留的时间短（推断）。
+- Forest of Vitality 让对方的草宝可梦放下当回合就能进化（核对卡牌原文），所以 Chikorita / Bayleef 在后备区停留的时间短（推断）。
 
 **开局与先后攻**
 - 选后攻（推断），Budew 锁物品：对方第 2 回合的 Bug Catching Set ×4、Ultra Ball ×4 都用不了，Meganium 线和 Hydrapple 线找起来慢。
@@ -545,14 +545,14 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 **奖赏卡路线**
 1. **我方第 2 回合**（拿 1 到 2 张）：Powerful Hand 打战斗场的宝可梦。是 Ogerpon ex（210）就打 11 张拿 2 张；是 Chikorita（70）就 4 张。有 Dusknoir 时，Cursed Blast 13 个指示物能单独击倒后备区的 Bayleef（MEG 9 110 HP / ASC 9 100 HP）。
 2. **我方第 3 回合**（拿 1 到 2 张）：Meganium 一上场就处理。Dusknoir 130 + Dusclops 50 = 180 ≥ 160，不用攻击就能击倒后备区的 Meganium（送 2 张换 1 张，但对方伤害大幅下降）；或者 Boss 拉出来 Powerful Hand 8 张，或 Dusknoir + Boss + 2 张。
-3. **我方第 4 回合起**（每回合 2 张）：Teal Mask Ogerpon ex 11 张或 Dusknoir + 4 张。Hydrapple ex 330 HP 要 17 张或 Dusknoir + 10 张，而且每回合回 30，优先打 Ogerpon ex（推断）。
+3. **我方第 4 回合起**（每回合 2 张）：Teal Mask Ogerpon ex 11 张或 Dusknoir + 4 张。Hydrapple ex 330 HP 要 17 张或 Dusknoir + 10 张，而且每回合能用 Ripening Charge 贴草回 30（核对卡牌原文），所以优先打 Ogerpon ex（推断）。
 - 示例：Ogerpon ex（2）+ Meganium（1）+ Ogerpon ex（2）+ 1 张单奖 = 6。
 
 **对手的套路，怎么防**
 - **Myriad Leaf Shower**：计算按双方战斗场的能量。我方 Alakazam 只贴 1 个能量，对方的伤害主要来自自己的能量。3 个草能量的 Ogerpon ex 打 1 个能量的 Alakazam 就是 30 + 4 × 30 = 150，击倒。
 - **Briar**（88%）：我方剩 2 张奖赏卡时可用，对方太晶宝可梦（Teal Mask Ogerpon ex）击倒我方战斗场宝可梦时多拿 1 张。我方剩 2 张时，战斗场的宝可梦被击倒会让对方拿 2 张。录像：第 8 轮第 2 局打到 2 对 2，Pippard 用 Meowth ex 找到 Briar，Ogerpon ex 一次击倒拿完最后 2 张（[7:22:50](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=26570s)）。
 - **Hydrapple ex 回血**：Powerful Hand 放的指示物会被 Ripening Charge 的回复抵消一部分，不要分两回合打 Hydrapple ex。
-- **Judge（68%）、Unfair Stamp（92%）**：Powerful Hand 靠手牌数，被打回 4 张或 2 张后一回合补不回来，打 Hydrapple ex 要的 17 张更不可能。Pippard 赛后说他针对的就是这一点：这套牌没有 Dudunsparce 那样的额外抽牌。录像：第 8 轮第 2 局，Chałupka 只有 12 张手牌，打 Hydrapple ex 240 没打死；Pippard 回血后打 Judge 让他回到 4 张，再击倒第二只 Alakazam（[7:20:35](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=26435s)）。应对是把 Dusknoir 提前放在场上，Cursed Blast 不需要手牌（推断）：Dusknoir 130 + 10 张就够击倒 Hydrapple ex。
+- **Judge（68%）、Unfair Stamp（92%）**：Powerful Hand 靠手牌数，被打回 4 张或 2 张后一回合补不回来，打 Hydrapple ex 要的 17 张更不可能。Pippard 赛后说他针对的就是这一点：这套牌没有 Dudunsparce 那样的额外抽牌。录像：第 8 轮第 2 局，Chałupka 只有 12 张手牌，打 Hydrapple ex 240 没打死；Pippard 回血后打 Judge 让他回到 4 张，再击倒第二只 Alakazam（[7:20:35](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=26435s)）。应对是把 Dusknoir 提前放在场上，Cursed Blast 不需要手牌（核对卡牌原文）：Dusknoir 130 + 10 张就够击倒 Hydrapple ex。
 
 **关键卡与构筑**
 - 没有带卡与不带卡的对比数据（公开卡表只有 15 局）。
@@ -572,7 +572,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 
 **对局性质**
 - 对方主攻 Crustle（DRI 12）：150 HP，弱火，撤退费 3，1 奖。Mysterious Rock Inn 防止宝可梦 ex 的招式伤害（我方主攻不是 ex，不受影响）。Superb Scissors（Grass + Colorless ×2）120，打不倒满血 Alakazam（140），能击倒 Kadabra 和 Abra。
-- **问题在能量**：Mist Energy（4 张）"防止对手宝可梦招式的所有效果"，贴着 Mist Energy 的 Crustle 不会被 Powerful Hand 放上指示物。Growing Grass Energy +20 HP（170），Hero's Cape +100 HP（100% 卡表，250，加 Growing Grass 270）。Spiky Energy 在受到招式伤害时给攻击方放 2 个指示物（Powerful Hand 不造成伤害，推断不触发）。
+- **问题在能量**：Mist Energy（4 张）"防止对手宝可梦招式的所有效果"，贴着 Mist Energy 的 Crustle 不会被 Powerful Hand 放上指示物。Growing Grass Energy +20 HP（170），Hero's Cape +100 HP（100% 卡表，250，加 Growing Grass 270）。Spiky Energy 在受到招式伤害时给攻击方放 2 个指示物（Powerful Hand 不造成伤害，不触发，核对卡牌原文）。
 - 对方回血：Jumbo Ice Cream ×4（3 个以上能量时回 80）、Pokémon Center Lady（回 60）、Bianca's Devotion（剩 30 HP 以下时回满）。
 - 对方打手牌：Eri（弃我方 2 张物品）、Xerosic's Machinations（98%，我方弃到只剩 3 张手牌）。这两张直接削弱 Powerful Hand。
 - 对方的 Mega Kangaskhan ex ×4（300 HP，3 奖）：Run Errand 只在战斗场抽 2，Rapid-Fire Combo 200 起，能击倒 Alakazam。
@@ -593,7 +593,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 **对手的套路，怎么防**
 - **Xerosic's Machinations / Eri**：手牌被砍到 3 张时，Powerful Hand 只有 60 到 80（加回合抽牌和进化抽牌）。对策是把伤害放在场上：Dusknoir 提前进化好，Kangaskhan 一上战斗场就用 Cursed Blast 打。
 - **Crustle 当墙 + 回血**：不要和 Mist Energy Crustle 拼消耗，留着资源等 Kangaskhan。
-- **Spiky Energy、Handheld Fan（73%）**：两者都只在"受到招式伤害"时触发，Powerful Hand 只放指示物，不触发（推断）。
+- **Spiky Energy、Handheld Fan（73%）**：两者都只在"受到招式伤害"时触发，Powerful Hand 只放指示物，不触发（核对卡牌原文）。
 - **对方先击倒带能量的宝可梦**：本卡组整副只有 5 个能量（世界赛的卡表是 4 张 Telepathic Psychic Energy 加 1 张 Psychic Energy），对方的 Crustle 主动击倒带能量的宝可梦，再用 Boss's Orders 拉出没能量的 Duskull 困在战斗场。录像：同一场第 2 局，Johnson 两只 Kadabra 和一张 Rare Candy 在奖赏卡里，场上的能量被清空（[5:03:05](https://www.youtube.com/watch?v=qwBID2ApsOY&t=18185s)），Matsui 拉出没能量的 Duskull，Johnson 认输。对方带 Enhanced Hammer 时（Matsui 带 1 张），Telepathic 是特殊能量，也会被拆。
 
 **关键卡与构筑**

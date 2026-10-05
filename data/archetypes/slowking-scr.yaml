@@ -109,7 +109,7 @@ matchups:
     plan: Trifrost 一次打 Dreepy/Drakloak 3 只；Slowking 单奖，对手 Phantom Dive 拿不到多张。
   - vs: crustle-dri
     win_rate: 0.724
-    plan: Slowking 不是 ex，Crustle 的特性挡不住；Metallic Hammer 300 一击任何 Crustle（最高 290）。
+    plan: Slowking 不是 ex，Crustle 的特性挡不住；Metallic Hammer 300 一击几乎任何 Crustle（2 张 Growing Grass 加 Hero's Cape 是 290；3 张加 Cape 的 310 撑得住）。
   - vs: mega-lucario-ex
     win_rate: 0.818
     plan: 对手斗属性弱超能，Slowking 自己的 Super Psy Bolt 120 ×2 = 240；Mega Lucario ex 给 3 张。
