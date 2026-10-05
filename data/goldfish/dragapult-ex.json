@@ -1,0 +1,220 @@
+{
+ "slug": "dragapult-ex",
+ "name": "Dragapult ex",
+ "list_source": "Frankfurt 区域赛 2026-09-26 第 7 名 Owyn Kamerman",
+ "games_per_side": 20000,
+ "seed": 1,
+ "list": {
+  "Dreepy": 4,
+  "Drakloak": 4,
+  "Dragapult ex": 3,
+  "Budew": 2,
+  "Munkidori": 2,
+  "Meowth ex": 1,
+  "Fezandipiti ex": 1,
+  "Lillie's Determination": 4,
+  "Crispin": 3,
+  "Boss's Orders": 3,
+  "Judge": 1,
+  "Crushing Hammer": 4,
+  "Buddy-Buddy Poffin": 4,
+  "Poke Pad": 4,
+  "Ultra Ball": 4,
+  "Night Stretcher": 2,
+  "Unfair Stamp": 1,
+  "Special Red Card": 1,
+  "Handheld Fan": 1,
+  "Team Rocket's Watchtower": 2,
+  "Fire Energy": 3,
+  "Psychic Energy": 3,
+  "Darkness Energy": 3
+ },
+ "modelled": "Dragapult ex: Owyn Kamerman, Regional Frankfurt 2026-09-26, 7th (best Dragapult list there).\n\nModelled (printed text): Dreepy/Drakloak/Dragapult ex (TWM 128-130; Recon Directive look 2\ntake 1), Buddy-Buddy Poffin (TEF 144), Poke Pad (POR 81), Ultra Ball (MEG 131), Lillie's\nDetermination (MEG 119; always 8 cards, a goldfish never takes prizes), Crispin (SCR 133),\nJudge (POR 76), Meowth ex Last-Ditch Catch (POR 62), Munkidori (TWM 95, only \"has Darkness\").\nTuning variant adds Dunsparce (JTG 120) / Dudunsparce (TEF 129, Run Away Draw).",
+ "blanks": [
+  "Budew",
+  "Fezandipiti ex",
+  "Boss's Orders",
+  "Crushing Hammer",
+  "Night Stretcher",
+  "Unfair Stamp",
+  "Special Red Card",
+  "Handheld Fan",
+  "Team Rocket's Watchtower",
+  "Munkidori 的 Adrena-Brain（只统计是否贴上 Darkness）"
+ ],
+ "notes": [
+  "Phantom Dive 能打 = 场上一只 Dragapult ex 身上有 Fire + Psychic，且在战斗场或能换上来（撤退费由战斗场身上的能量支付，Budew 撤退 0）。",
+  "能量优先贴给最早能进化成 Dragapult ex 的那只（Fire、Psychic 各一个），其次给 Munkidori 贴 Darkness。",
+  "Ultra Ball 弃牌顺序：Crushing Hammer、Special Red Card、Unfair Stamp、Handheld Fan、Watchtower、Boss、Judge、Night Stretcher…"
+ ],
+ "results": {
+  "先攻": {
+   "第1回合结束时场上 ≥2 只 Dreepy 线": 0.6763,
+   "第2回合场上有 Dragapult ex": 0.0,
+   "第3回合场上有 Dragapult ex": 0.5695,
+   "第3回合能用 Phantom Dive": 0.3827,
+   "第3回合 Munkidori 贴着 Darkness": 0.3775,
+   "第3回合 Phantom Dive + Munkidori 都就绪": 0.1388,
+   "第4回合场上有 Dragapult ex": 0.7798,
+   "第4回合能用 Phantom Dive": 0.641,
+   "第4回合 Munkidori 贴着 Darkness": 0.5369,
+   "第4回合场上 ≥2 只 Dragapult ex": 0.4268,
+   "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.6634,
+   "起手重抽": 0.2584
+  },
+  "后攻": {
+   "第1回合结束时场上 ≥2 只 Dreepy 线": 0.8679,
+   "第2回合场上有 Dragapult ex": 0.0,
+   "第3回合场上有 Dragapult ex": 0.7273,
+   "第3回合能用 Phantom Dive": 0.5729,
+   "第3回合 Munkidori 贴着 Darkness": 0.5274,
+   "第3回合 Phantom Dive + Munkidori 都就绪": 0.308,
+   "第4回合场上有 Dragapult ex": 0.8482,
+   "第4回合能用 Phantom Dive": 0.7503,
+   "第4回合 Munkidori 贴着 Darkness": 0.6738,
+   "第4回合场上 ≥2 只 Dragapult ex": 0.5626,
+   "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.75,
+   "起手重抽": 0.2605
+  }
+ },
+ "tuning": [
+  {
+   "question": "Darkness 能量 3 → 2（多 1 张 Judge）",
+   "source": "data/matchups/dragapult-ex.md:31、data/matchups/dragapult-ex.md:612",
+   "change": {
+    "Darkness Energy": -1,
+    "Judge": 1
+   },
+   "results": {
+    "先攻": {
+     "第1回合结束时场上 ≥2 只 Dreepy 线": 0.676,
+     "第2回合场上有 Dragapult ex": 0.0,
+     "第3回合场上有 Dragapult ex": 0.5706,
+     "第3回合能用 Phantom Dive": 0.3824,
+     "第3回合 Munkidori 贴着 Darkness": 0.3273,
+     "第3回合 Phantom Dive + Munkidori 都就绪": 0.1234,
+     "第4回合场上有 Dragapult ex": 0.7839,
+     "第4回合能用 Phantom Dive": 0.6451,
+     "第4回合 Munkidori 贴着 Darkness": 0.4828,
+     "第4回合场上 ≥2 只 Dragapult ex": 0.4406,
+     "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.6703,
+     "起手重抽": 0.2584
+    },
+    "后攻": {
+     "第1回合结束时场上 ≥2 只 Dreepy 线": 0.8675,
+     "第2回合场上有 Dragapult ex": 0.0,
+     "第3回合场上有 Dragapult ex": 0.7306,
+     "第3回合能用 Phantom Dive": 0.576,
+     "第3回合 Munkidori 贴着 Darkness": 0.4696,
+     "第3回合 Phantom Dive + Munkidori 都就绪": 0.2846,
+     "第4回合场上有 Dragapult ex": 0.8481,
+     "第4回合能用 Phantom Dive": 0.7482,
+     "第4回合 Munkidori 贴着 Darkness": 0.607,
+     "第4回合场上 ≥2 只 Dragapult ex": 0.5685,
+     "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.7531,
+     "起手重抽": 0.2605
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "第1回合结束时场上 ≥2 只 Dreepy 线": -0.0,
+     "第2回合场上有 Dragapult ex": 0.0,
+     "第3回合场上有 Dragapult ex": 0.1,
+     "第3回合能用 Phantom Dive": -0.0,
+     "第3回合 Munkidori 贴着 Darkness": -5.0,
+     "第3回合 Phantom Dive + Munkidori 都就绪": -1.5,
+     "第4回合场上有 Dragapult ex": 0.4,
+     "第4回合能用 Phantom Dive": 0.4,
+     "第4回合 Munkidori 贴着 Darkness": -5.4,
+     "第4回合场上 ≥2 只 Dragapult ex": 1.4,
+     "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.7,
+     "起手重抽": 0.0
+    },
+    "后攻": {
+     "第1回合结束时场上 ≥2 只 Dreepy 线": -0.0,
+     "第2回合场上有 Dragapult ex": 0.0,
+     "第3回合场上有 Dragapult ex": 0.3,
+     "第3回合能用 Phantom Dive": 0.3,
+     "第3回合 Munkidori 贴着 Darkness": -5.8,
+     "第3回合 Phantom Dive + Munkidori 都就绪": -2.3,
+     "第4回合场上有 Dragapult ex": -0.0,
+     "第4回合能用 Phantom Dive": -0.2,
+     "第4回合 Munkidori 贴着 Darkness": -6.7,
+     "第4回合场上 ≥2 只 Dragapult ex": 0.6,
+     "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.3,
+     "起手重抽": 0.0
+    }
+   }
+  },
+  {
+   "question": "加 Dunsparce + Dudunsparce（减 1 张 Crushing Hammer、1 张 Boss's Orders）",
+   "source": "data/matchups/dragapult-ex.md:83",
+   "change": {
+    "Dunsparce": 1,
+    "Dudunsparce": 1,
+    "Crushing Hammer": -1,
+    "Boss's Orders": -1
+   },
+   "results": {
+    "先攻": {
+     "第1回合结束时场上 ≥2 只 Dreepy 线": 0.6645,
+     "第2回合场上有 Dragapult ex": 0.0,
+     "第3回合场上有 Dragapult ex": 0.5656,
+     "第3回合能用 Phantom Dive": 0.3716,
+     "第3回合 Munkidori 贴着 Darkness": 0.3727,
+     "第3回合 Phantom Dive + Munkidori 都就绪": 0.1331,
+     "第4回合场上有 Dragapult ex": 0.7819,
+     "第4回合能用 Phantom Dive": 0.6363,
+     "第4回合 Munkidori 贴着 Darkness": 0.5293,
+     "第4回合场上 ≥2 只 Dragapult ex": 0.432,
+     "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.6628,
+     "起手重抽": 0.2226
+    },
+    "后攻": {
+     "第1回合结束时场上 ≥2 只 Dreepy 线": 0.8667,
+     "第2回合场上有 Dragapult ex": 0.0,
+     "第3回合场上有 Dragapult ex": 0.728,
+     "第3回合能用 Phantom Dive": 0.5645,
+     "第3回合 Munkidori 贴着 Darkness": 0.521,
+     "第3回合 Phantom Dive + Munkidori 都就绪": 0.3009,
+     "第4回合场上有 Dragapult ex": 0.8474,
+     "第4回合能用 Phantom Dive": 0.746,
+     "第4回合 Munkidori 贴着 Darkness": 0.6626,
+     "第4回合场上 ≥2 只 Dragapult ex": 0.5662,
+     "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.7546,
+     "起手重抽": 0.2249
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "第1回合结束时场上 ≥2 只 Dreepy 线": -1.2,
+     "第2回合场上有 Dragapult ex": 0.0,
+     "第3回合场上有 Dragapult ex": -0.4,
+     "第3回合能用 Phantom Dive": -1.1,
+     "第3回合 Munkidori 贴着 Darkness": -0.5,
+     "第3回合 Phantom Dive + Munkidori 都就绪": -0.6,
+     "第4回合场上有 Dragapult ex": 0.2,
+     "第4回合能用 Phantom Dive": -0.5,
+     "第4回合 Munkidori 贴着 Darkness": -0.8,
+     "第4回合场上 ≥2 只 Dragapult ex": 0.5,
+     "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": -0.1,
+     "起手重抽": -3.6
+    },
+    "后攻": {
+     "第1回合结束时场上 ≥2 只 Dreepy 线": -0.1,
+     "第2回合场上有 Dragapult ex": 0.0,
+     "第3回合场上有 Dragapult ex": 0.1,
+     "第3回合能用 Phantom Dive": -0.8,
+     "第3回合 Munkidori 贴着 Darkness": -0.6,
+     "第3回合 Phantom Dive + Munkidori 都就绪": -0.7,
+     "第4回合场上有 Dragapult ex": -0.1,
+     "第4回合能用 Phantom Dive": -0.4,
+     "第4回合 Munkidori 贴着 Darkness": -1.1,
+     "第4回合场上 ≥2 只 Dragapult ex": 0.4,
+     "第4回合有第二只攻击手（第 2 只 Dragapult ex 或可进化的 Drakloak）": 0.5,
+     "起手重抽": -3.6
+    }
+   }
+  }
+ ]
+}

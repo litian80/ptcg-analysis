@@ -1,0 +1,124 @@
+{
+ "slug": "alakazam-dudunsparce",
+ "name": "Alakazam Dudunsparce",
+ "list_source": "2026 世界赛亚军 Diego Cassiraga（原型卡表）",
+ "games_per_side": 20000,
+ "seed": 1,
+ "list": {
+  "Abra": 4,
+  "Kadabra": 4,
+  "Alakazam": 3,
+  "Dunsparce": 3,
+  "Dudunsparce": 3,
+  "Genesect": 2,
+  "Dedenne": 1,
+  "Fezandipiti ex": 1,
+  "Shaymin": 1,
+  "Dawn": 4,
+  "Hilda": 3,
+  "Boss's Orders": 2,
+  "Lana's Aid": 1,
+  "Eri": 1,
+  "Buddy-Buddy Poffin": 4,
+  "Poke Pad": 4,
+  "Rare Candy": 3,
+  "Enhanced Hammer": 2,
+  "Sacred Ash": 1,
+  "Air Balloon": 2,
+  "Lucky Helmet": 1,
+  "Battle Cage": 4,
+  "Telepathic Psychic Energy": 4,
+  "Psychic Energy": 1,
+  "Enriching Energy": 1
+ },
+ "modelled": "Alakazam Dudunsparce: Diego Cassiraga, Worlds 2026 2nd (the original prototype list).\n\nModelled (printed text, MEG/PFL/WHT/POR/TEF/JTG): Dawn, Hilda, Poke Pad, Buddy-Buddy Poffin,\nRare Candy, Telepathic Psychic Energy, Kadabra/Alakazam Psychic Draw, Dudunsparce Run Away Draw.",
+ "blanks": [
+  "Genesect",
+  "Dedenne",
+  "Fezandipiti ex",
+  "Shaymin",
+  "Boss's Orders",
+  "Lana's Aid",
+  "Eri",
+  "Enhanced Hammer",
+  "Sacred Ash",
+  "Air Balloon",
+  "Lucky Helmet",
+  "Battle Cage",
+  "Psychic Energy",
+  "Enriching Energy"
+ ],
+ "notes": [
+  "与原型完全相同的贪心打法；手牌数 = 回合结束时手牌 - 1（攻击前手贴一个超能量）。"
+ ],
+ "results": {
+  "先攻": {
+   "第2回合有 Alakazam": 0.281,
+   "第2回合打出时手牌（均值）": 6.373,
+   "第3回合有 Alakazam": 0.7227,
+   "第3回合有 2 只 Alakazam": 0.4473,
+   "第3回合打出时手牌（均值）": 10.0246,
+   "第3回合手牌≥16（一击 Dragapult ex）": 0.0088,
+   "起手重抽": 0.1918
+  },
+  "后攻": {
+   "第2回合有 Alakazam": 0.419,
+   "第2回合打出时手牌（均值）": 7.7568,
+   "第3回合有 Alakazam": 0.8394,
+   "第3回合有 2 只 Alakazam": 0.6384,
+   "第3回合打出时手牌（均值）": 11.5484,
+   "第3回合手牌≥16（一击 Dragapult ex）": 0.0497,
+   "起手重抽": 0.1888
+  }
+ },
+ "tuning": [
+  {
+   "question": "第 4 张 Rare Candy（换 1 张 Enhanced Hammer）",
+   "source": "project-files/advisor/2026-10-05_模拟对战可行性.md 原型问题",
+   "change": {
+    "Rare Candy": 1,
+    "Enhanced Hammer": -1
+   },
+   "results": {
+    "先攻": {
+     "第2回合有 Alakazam": 0.3518,
+     "第2回合打出时手牌（均值）": 6.3566,
+     "第3回合有 Alakazam": 0.755,
+     "第3回合有 2 只 Alakazam": 0.4977,
+     "第3回合打出时手牌（均值）": 9.8801,
+     "第3回合手牌≥16（一击 Dragapult ex）": 0.008,
+     "起手重抽": 0.1918
+    },
+    "后攻": {
+     "第2回合有 Alakazam": 0.5095,
+     "第2回合打出时手牌（均值）": 7.75,
+     "第3回合有 Alakazam": 0.8585,
+     "第3回合有 2 只 Alakazam": 0.6858,
+     "第3回合打出时手牌（均值）": 11.3696,
+     "第3回合手牌≥16（一击 Dragapult ex）": 0.0393,
+     "起手重抽": 0.1888
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "第2回合有 Alakazam": 7.1,
+     "第2回合打出时手牌（均值）": -0.02,
+     "第3回合有 Alakazam": 3.2,
+     "第3回合有 2 只 Alakazam": 5.0,
+     "第3回合打出时手牌（均值）": -0.14,
+     "第3回合手牌≥16（一击 Dragapult ex）": -0.1,
+     "起手重抽": 0.0
+    },
+    "后攻": {
+     "第2回合有 Alakazam": 9.0,
+     "第2回合打出时手牌（均值）": -0.01,
+     "第3回合有 Alakazam": 1.9,
+     "第3回合有 2 只 Alakazam": 4.7,
+     "第3回合打出时手牌（均值）": -0.18,
+     "第3回合手牌≥16（一击 Dragapult ex）": -1.0,
+     "起手重抽": 0.0
+    }
+   }
+  }
+ ]
+}

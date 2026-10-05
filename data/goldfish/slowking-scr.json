@@ -1,0 +1,236 @@
+{
+ "slug": "slowking-scr",
+ "name": "Slowking",
+ "list_source": "Frankfurt 区域赛 2026-09-26 第 6 名 Tomás Malaca",
+ "games_per_side": 20000,
+ "seed": 1,
+ "list": {
+  "Slowpoke": 4,
+  "Slowking": 3,
+  "Mega Kangaskhan ex": 3,
+  "Latias ex": 2,
+  "Metagross": 2,
+  "Kyurem": 2,
+  "Annihilape": 1,
+  "Zeraora": 1,
+  "Meowth ex": 1,
+  "Fezandipiti ex": 1,
+  "Mew ex": 1,
+  "Lillie's Clefairy ex": 1,
+  "Ciphermaniac's Codebreaking": 4,
+  "Lillie's Determination": 4,
+  "Poke Pad": 4,
+  "Ultra Ball": 4,
+  "Wondrous Patch": 3,
+  "Night Stretcher": 3,
+  "Secret Box": 1,
+  "Switch": 1,
+  "Academy at Night": 4,
+  "Telepathic Psychic Energy": 4,
+  "Psychic Energy": 4,
+  "Boomerang Energy": 2
+ },
+ "modelled": "Slowking (SCR 58): Tomás Malaca, Regional Frankfurt 2026-09-26, 6th (best Slowking list there).\n\nModelled (printed text): Slowpoke/Slowking (SCR 57-58; Seek Inspiration P+C discards the top\ncard and copies it if it's a Pokemon without a Rule Box), Telepathic Psychic Energy (POR 88),\nAcademy at Night (SFA 54, a hand card on top of the deck), Ciphermaniac's Codebreaking\n(TEF 145), Poke Pad (POR 81), Ultra Ball (MEG 131), Lillie's Determination (MEG 119),\nMeowth ex (POR 62), Secret Box (TWM 163), Wondrous Patch (PFL 94), Switch (MEG 130),\nBoomerang Energy (TWM 166), Latias ex Skyliner (SSP 76).\nCopy sources: Kyurem SFA 47 Trifrost and Zeraora DRI 78 Thunder Raid (both discard all Energy\nfrom the attacker; Boomerang comes back), Metagross CRI 61 Metallic Hammer, Annihilape PBL 41,\nPawmot PFL 34 (tuning).",
+ "blanks": [
+  "Mega Kangaskhan ex（Run Errand 也没算）",
+  "Fezandipiti ex",
+  "Mew ex",
+  "Lillie's Clefairy ex",
+  "Night Stretcher",
+  "Slowpoke 的 Dangle Tail"
+ ],
+ "notes": [
+  "Slowking 能攻击 = 身上 Psychic + 另 1 个能量，在战斗场或能换上来（Switch、Latias ex 让基础宝可梦撤退 0 只帮 Latias 自己下场）。",
+  "“指定复制”= 攻击前用 Academy at Night 把手上的复制来源放到牌库顶（手上没有就先用 Poké Pad 拿），或用 Ciphermaniac's Codebreaking 直接叠到牌库顶；做不到就盲翻。",
+  "复制 Kyurem / Zeraora 会弃掉 Slowking 身上全部能量（Boomerang 回来），下回合要重新补能量。",
+  "复制来源（Kyurem、Zeraora）起手能不放就不放。"
+ ],
+ "results": {
+  "先攻": {
+   "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0736,
+   "第1回合结束后场上 ≥2 只 Slowpoke 线": 0.5171,
+   "第2回合场上有 Slowking": 0.62,
+   "第2回合 Slowking 能攻击": 0.162,
+   "第2回合攻击且指定了复制目标": 0.0701,
+   "第2回合只能盲翻时翻到复制来源的概率": 0.1194,
+   "第3回合场上有 Slowking": 0.7594,
+   "第3回合 Slowking 能攻击": 0.2983,
+   "第3回合攻击且指定了复制目标": 0.1754,
+   "第3回合只能盲翻时翻到复制来源的概率": 0.1216,
+   "第4回合场上有 Slowking": 0.8243,
+   "第4回合 Slowking 能攻击": 0.3641,
+   "第4回合攻击且指定了复制目标": 0.2064,
+   "起手重抽": 0.0969
+  },
+  "后攻": {
+   "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0725,
+   "第1回合结束后场上 ≥2 只 Slowpoke 线": 0.7327,
+   "第2回合场上有 Slowking": 0.7576,
+   "第2回合 Slowking 能攻击": 0.2864,
+   "第2回合攻击且指定了复制目标": 0.1825,
+   "第2回合只能盲翻时翻到复制来源的概率": 0.1244,
+   "第3回合场上有 Slowking": 0.8228,
+   "第3回合 Slowking 能攻击": 0.3239,
+   "第3回合攻击且指定了复制目标": 0.1912,
+   "第3回合只能盲翻时翻到复制来源的概率": 0.1213,
+   "第4回合场上有 Slowking": 0.8689,
+   "第4回合 Slowking 能攻击": 0.3961,
+   "第4回合攻击且指定了复制目标": 0.2205,
+   "起手重抽": 0.0965
+  }
+ },
+ "tuning": [
+  {
+   "question": "加 1 只 Pawmot（减 1 张 Night Stretcher）",
+   "source": "data/brief/TEF-30C.md（Pawmot +6.6）",
+   "change": {
+    "Pawmot": 1,
+    "Night Stretcher": -1
+   },
+   "results": {
+    "先攻": {
+     "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0736,
+     "第1回合结束后场上 ≥2 只 Slowpoke 线": 0.5128,
+     "第2回合场上有 Slowking": 0.6148,
+     "第2回合 Slowking 能攻击": 0.1609,
+     "第2回合攻击且指定了复制目标": 0.0741,
+     "第2回合只能盲翻时翻到复制来源的概率": 0.1385,
+     "第3回合场上有 Slowking": 0.7579,
+     "第3回合 Slowking 能攻击": 0.2936,
+     "第3回合攻击且指定了复制目标": 0.1792,
+     "第3回合只能盲翻时翻到复制来源的概率": 0.1413,
+     "第4回合场上有 Slowking": 0.8227,
+     "第4回合 Slowking 能攻击": 0.3654,
+     "第4回合攻击且指定了复制目标": 0.2165,
+     "起手重抽": 0.0969
+    },
+    "后攻": {
+     "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0725,
+     "第1回合结束后场上 ≥2 只 Slowpoke 线": 0.7303,
+     "第2回合场上有 Slowking": 0.7499,
+     "第2回合 Slowking 能攻击": 0.2831,
+     "第2回合攻击且指定了复制目标": 0.1857,
+     "第2回合只能盲翻时翻到复制来源的概率": 0.143,
+     "第3回合场上有 Slowking": 0.8182,
+     "第3回合 Slowking 能攻击": 0.326,
+     "第3回合攻击且指定了复制目标": 0.1995,
+     "第3回合只能盲翻时翻到复制来源的概率": 0.1411,
+     "第4回合场上有 Slowking": 0.8661,
+     "第4回合 Slowking 能攻击": 0.4009,
+     "第4回合攻击且指定了复制目标": 0.2372,
+     "起手重抽": 0.0965
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0,
+     "第1回合结束后场上 ≥2 只 Slowpoke 线": -0.4,
+     "第2回合场上有 Slowking": -0.5,
+     "第2回合 Slowking 能攻击": -0.1,
+     "第2回合攻击且指定了复制目标": 0.4,
+     "第2回合只能盲翻时翻到复制来源的概率": 1.9,
+     "第3回合场上有 Slowking": -0.1,
+     "第3回合 Slowking 能攻击": -0.5,
+     "第3回合攻击且指定了复制目标": 0.4,
+     "第3回合只能盲翻时翻到复制来源的概率": 2.0,
+     "第4回合场上有 Slowking": -0.2,
+     "第4回合 Slowking 能攻击": 0.1,
+     "第4回合攻击且指定了复制目标": 1.0,
+     "起手重抽": 0.0
+    },
+    "后攻": {
+     "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0,
+     "第1回合结束后场上 ≥2 只 Slowpoke 线": -0.2,
+     "第2回合场上有 Slowking": -0.8,
+     "第2回合 Slowking 能攻击": -0.3,
+     "第2回合攻击且指定了复制目标": 0.3,
+     "第2回合只能盲翻时翻到复制来源的概率": 1.9,
+     "第3回合场上有 Slowking": -0.5,
+     "第3回合 Slowking 能攻击": 0.2,
+     "第3回合攻击且指定了复制目标": 0.8,
+     "第3回合只能盲翻时翻到复制来源的概率": 2.0,
+     "第4回合场上有 Slowking": -0.3,
+     "第4回合 Slowking 能攻击": 0.5,
+     "第4回合攻击且指定了复制目标": 1.7,
+     "起手重抽": 0.0
+    }
+   }
+  },
+  {
+   "question": "加 1 张 Lana's Aid、Academy at Night 4 → 3",
+   "source": "data/brief/TEF-30C.md（Lana's Aid +5.1；Lana's Aid 在单人模拟里是空白卡，这里量的是少 1 张 Academy 的代价）",
+   "change": {
+    "Lana's Aid": 1,
+    "Academy at Night": -1
+   },
+   "results": {
+    "先攻": {
+     "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0736,
+     "第1回合结束后场上 ≥2 只 Slowpoke 线": 0.5183,
+     "第2回合场上有 Slowking": 0.6256,
+     "第2回合 Slowking 能攻击": 0.1614,
+     "第2回合攻击且指定了复制目标": 0.063,
+     "第2回合只能盲翻时翻到复制来源的概率": 0.1184,
+     "第3回合场上有 Slowking": 0.7651,
+     "第3回合 Slowking 能攻击": 0.295,
+     "第3回合攻击且指定了复制目标": 0.1649,
+     "第3回合只能盲翻时翻到复制来源的概率": 0.1208,
+     "第4回合场上有 Slowking": 0.8285,
+     "第4回合 Slowking 能攻击": 0.3658,
+     "第4回合攻击且指定了复制目标": 0.1966,
+     "起手重抽": 0.0969
+    },
+    "后攻": {
+     "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0725,
+     "第1回合结束后场上 ≥2 只 Slowpoke 线": 0.7379,
+     "第2回合场上有 Slowking": 0.7604,
+     "第2回合 Slowking 能攻击": 0.287,
+     "第2回合攻击且指定了复制目标": 0.1715,
+     "第2回合只能盲翻时翻到复制来源的概率": 0.1229,
+     "第3回合场上有 Slowking": 0.825,
+     "第3回合 Slowking 能攻击": 0.3286,
+     "第3回合攻击且指定了复制目标": 0.1819,
+     "第3回合只能盲翻时翻到复制来源的概率": 0.1204,
+     "第4回合场上有 Slowking": 0.8707,
+     "第4回合 Slowking 能攻击": 0.3979,
+     "第4回合攻击且指定了复制目标": 0.2114,
+     "起手重抽": 0.0965
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0,
+     "第1回合结束后场上 ≥2 只 Slowpoke 线": 0.1,
+     "第2回合场上有 Slowking": 0.6,
+     "第2回合 Slowking 能攻击": -0.1,
+     "第2回合攻击且指定了复制目标": -0.7,
+     "第2回合只能盲翻时翻到复制来源的概率": -0.1,
+     "第3回合场上有 Slowking": 0.6,
+     "第3回合 Slowking 能攻击": -0.3,
+     "第3回合攻击且指定了复制目标": -1.1,
+     "第3回合只能盲翻时翻到复制来源的概率": -0.1,
+     "第4回合场上有 Slowking": 0.4,
+     "第4回合 Slowking 能攻击": 0.2,
+     "第4回合攻击且指定了复制目标": -1.0,
+     "起手重抽": 0.0
+    },
+    "后攻": {
+     "起手只能把复制来源（Kyurem/Zeraora）放战斗场": 0.0,
+     "第1回合结束后场上 ≥2 只 Slowpoke 线": 0.5,
+     "第2回合场上有 Slowking": 0.3,
+     "第2回合 Slowking 能攻击": 0.1,
+     "第2回合攻击且指定了复制目标": -1.1,
+     "第2回合只能盲翻时翻到复制来源的概率": -0.2,
+     "第3回合场上有 Slowking": 0.2,
+     "第3回合 Slowking 能攻击": 0.5,
+     "第3回合攻击且指定了复制目标": -0.9,
+     "第3回合只能盲翻时翻到复制来源的概率": -0.1,
+     "第4回合场上有 Slowking": 0.2,
+     "第4回合 Slowking 能攻击": 0.2,
+     "第4回合攻击且指定了复制目标": -0.9,
+     "起手重抽": 0.0
+    }
+   }
+  }
+ ]
+}
