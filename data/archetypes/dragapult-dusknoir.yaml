@@ -167,6 +167,25 @@ evidence:
       - 对手每次先给 Genesect 挂道具再击倒，Unfair Stamp 一次都打不出来；没有 Judge 和 Special Red Card 就压不住对手手牌（第 2 局）
       - Cursed Blast 连收三只 Abra，每次送 1 张，对手用 Lana's Aid 把 Abra 捡回来（第 1 局）
     caveat: 一场两局；第 1 局三只 Dragapult ex 有两只在奖赏卡里（https://www.youtube.com/watch?v=bnVzhTKp3jg）。
+  - source: video-reviews/melbourne-2026.md（项目共享文件夹）
+    game: Melbourne 2026 区域赛四强，Takemasa（本卡组，2 张 Budew、2 张 Rare Candy、Judge、Unfair Stamp、2 张 Watchtower，只有 2 个 Darkness，没有 Hammer）1-2 Murphy（Dragapult ex）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult ex：第 1 回合 Judge 加 Itchy Pollen，之后 Unfair Stamp、再换回 Budew 锁物品，对手手里全是物品（https://www.youtube.com/watch?v=rHifbhgkGpw&t=25260s）
+      - 对 Dragapult ex：Boss's Orders 拉出对手后备区的 Fezandipiti ex，Munkidori 加 Dusclops 的 Cursed Blast 一回合拿 3 张（https://www.youtube.com/watch?v=rHifbhgkGpw&t=26250s）
+    adds:
+      - 对 Dragapult ex：Budew 之争输了（第 1 局对手先收掉 Budew），场上只剩 Munkidori 和 Duskull，投降
+      - 对 Dragapult ex：Meowth ex 被对手的 Watchtower 封住，整局用不了（第 3 局）
+    caveat: 一场三局；奖赏卡数取自解说。
+  - source: video-reviews/los-angeles-2026.md（项目共享文件夹）
+    game: Los Angeles 2026 区域赛四强，Rutledge（本卡组，3 张 Rare Candy、Neo Upper Energy、1 张 Crispin，没有 Hammer）0-2 Hedrick（Dragapult ex）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult ex：对手的 Budew 锁住 Rare Candy，对手先攻也照锁（第 2 局）
+    adds:
+      - 对 Dragapult ex：只有一个攻击能量时被 Crushing Hammer 拆掉就停摆，对手四次正面里三次拆掉唯一的 Fire
+      - 对 Dragapult ex：对手 Phantom Dive 故意不击倒，Fezandipiti ex 抽不了牌，Unfair Stamp 也打不出来（https://www.youtube.com/watch?v=HVAsRXDFn04&t=1110s）
+    caveat: 一场两局；第 1 局两只 Duskull 都在奖赏卡里。
 
 mistakes:
   - 在无关紧要的回合用 Cursed Blast，白送 1 张奖赏卡。

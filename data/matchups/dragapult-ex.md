@@ -22,7 +22,7 @@
 | Dhelmise | 42.9%（336） | Hide 'n' Sneak 挡住后备区指示物；Fairy Zone 下 Dhelmise 170×2 = 340 一击 Dragapult ex，先 Boss 掉 Lillie's Clefairy ex。 |
 | Ogerpon Meganium Hydrapple | 62.9%（302） | 狙 Chikorita / Bayleef 断 Meganium；Moltres 打弱火的 Teal Mask Ogerpon ex 是 220 正好一击。 |
 | Alakazam Dusknoir | 50.4%（113） | 没有 Battle Cage，一发 Phantom Dive 的 6 个指示物能同时收掉 Abra 和 Duskull；对手还有 Prime Catcher 时，别把没有能量的 2 奖 ex 留在后备区。 |
-| Dragapult ex（镜像） | — | Budew 互锁物品时，先保住自己能用物品，再想锁对手；Munkidori 的 Darkness 能量是 Crushing Hammer 的目标；等能一次收两只再出手；Unfair Stamp 留到对手只差 1-2 张；Judge 会把自己也打乱。来自三场比赛的录像，没有数据。 |
+| Dragapult ex（镜像） | — | Budew 互锁物品时，先保住自己能用物品，再想锁对手；Munkidori 的 Darkness 能量是 Crushing Hammer 的目标；等能一次收两只再出手；Unfair Stamp 留到对手只差 1-2 张；Judge 会把自己也打乱。来自五场比赛的录像，没有数据。 |
 
 ## 本卡组通用数字和规则
 
@@ -160,8 +160,9 @@
 **开局与先后攻**
 - 后备区 3 只 Dreepy + 1 只 Munkidori，Budew 在战斗场。
 - 倾向后攻（推断）：Budew 锁物品能挡住对手第 2 回合的 Rare Candy（26% 卡表，可让 Duskull 直接进化 Dusknoir）、Buddy-Buddy Poffin、Ultra Ball。
+- 先攻时第 1 回合就把 Budew 放上场，Buddy-Buddy Poffin 能同时放 Budew 和 Dreepy（信心 60%，dpx-dpd-01）：对手后攻第 1 回合多半会用 Budew 锁物品（92 份卡表都带 Budew），我方第 2 回合就用不了 Poffin、Ultra Ball 找宝可梦；场上先有 Budew，第 2 回合换上它用 Itchy Pollen 回锁，挡住对手第 2 回合的 Rare Candy。录像：Melbourne 2026 四强第 2 局（TEF-POR），Murphy 先攻用 Poffin 只放了两只 Dreepy；Takemasa 第 1 回合 Judge 加 Itchy Pollen（[7:01:00](https://www.youtube.com/watch?v=rHifbhgkGpw&t=25260s)），后来又打 Unfair Stamp、换回 Budew 再锁，Murphy 手里几乎全是物品，输掉这一局。同一场第 1 局 Murphy 先用 Itchy Pollen 加 Munkidori 收掉对手的 Budew，赢下 Budew 之争（[6:46:00](https://www.youtube.com/watch?v=rHifbhgkGpw&t=24360s)）；Los Angeles 2026 四强第 2 局 Hedrick 先攻，第 1 回合用 Ultra Ball 拿 Budew，和两只 Dreepy 一起放下，第 2 回合起锁住对手的 3 张 Rare Candy（[25:00](https://www.youtube.com/watch?v=HVAsRXDFn04&t=1500s)），2-0。
 - Risky Ruins 别急着打：我方 Dreepy 放下时也会掉 20，变成 50 HP，对手一发 Phantom Dive 的 6 个指示物就能收掉。等自己的 Dreepy 都放好了再打（推断，数据见下）。
-- 对手 49% 卡表带 Team Rocket's Watchtower，会关掉我方 Meowth ex 和 Dudunsparce。
+- 对手 49% 卡表带 Team Rocket's Watchtower，会关掉我方 Meowth ex 和 Dudunsparce。反过来，我方的 Watchtower（279 份卡表里 53 份带）也封得住对手的 Meowth ex：Melbourne 2026 四强第 3 局，Takemasa 赛后说他手里一直有 Meowth ex，被 Murphy 的 Watchtower 封着用不了。
 
 **奖赏卡路线**（推断，按卡牌伤害计算）
 - T2：Drakloak 的 Dragon Headbutt 70 击倒战斗场的 Dreepy（70）或 Duskull（60）（1 张）。
@@ -169,18 +170,19 @@
 - T4：对手的 Dragapult ex 在后备区时，6 个指示物全放它身上（太晶保护不挡指示物）。
 - T5：Boss's Orders 拉出它：200 + 60 + 两只 Munkidori 60 = 320，击倒（2 张）。
 - 对手每次 Cursed Blast 送 1 张，加上 2 只 Dragapult ex 就是 6 张。数清楚对手还剩几张：对手剩 2 张时，一只 Dusknoir 130 + Phantom Dive 200 就能结束游戏，要提前算对手的最大伤害。
+- 对手可能握着 Unfair Stamp、后备区有 Fezandipiti ex 时，Phantom Dive 可以先不击倒，把 6 个指示物分到下一发能一次收两只的位置（信心 60%，dpx-dpd-02）：对手没有宝可梦被击倒，就打不了 Unfair Stamp（92 份卡表里 85 份带），Fez 的 Flip the Script 也抽不了 3 张。录像：Los Angeles 2026 四强第 1 局（TEF-POR），Hedrick 先打 Unfair Stamp，再用 Phantom Dive 分散放指示物、不击倒，Rutledge 抽不到牌、也打不出 Stamp，投降（[18:30](https://www.youtube.com/watch?v=HVAsRXDFn04&t=1110s)）；第 2 局又一次不击倒，把对手的 Fez 和 Meowth ex 都打进下一发的范围（[40:00](https://www.youtube.com/watch?v=HVAsRXDFn04&t=2400s)），最后 Boss's Orders 拉出 Meowth ex、Munkidori 收尾（[49:30](https://www.youtube.com/watch?v=HVAsRXDFn04&t=2970s)）。对手的 Munkidori（47 份卡表带）有 Darkness 能量时不要这样打：留在对手身上的指示物会被挪到我们身上（推断）。
 
 **对手的套路，怎么防**
 - 主线：Phantom Dive 狙我方后备区 Dreepy / Drakloak 卡进化，再用 Dusknoir 130 补刀 Dragapult ex。
 - 防法一：先收 Duskull。Duskull 的 Come and Get You（1 个超能）能从弃牌区拉回最多 3 只 Duskull，但要在战斗场用掉一次攻击，等于拖慢对手一回合（推断）。
-- 防法二：Meowth ex（170）和 Fezandipiti ex（210）别留后备区。Dusknoir 130 + Phantom Dive 60 = 190 能在后备区击倒 Meowth ex；再加 Munkidori 30 就是 220，能击倒 Fezandipiti ex。对手只付出 1 张换 2 张。
+- 防法二：Meowth ex（170）和 Fezandipiti ex（210）别留后备区。Dusknoir 130 + Phantom Dive 60 = 190 能在后备区击倒 Meowth ex；再加 Munkidori 30 就是 220，能击倒 Fezandipiti ex。对手只付出 1 张换 2 张。录像：Melbourne 2026 四强第 2 局，Murphy 被锁物品，只能放下 Fezandipiti ex 抽牌；Takemasa 用 Boss's Orders 拉出 Fez，Munkidori 挪 3 个指示物加 Dusclops 自爆放 5 个，一回合拿 3 张收尾（[7:17:30](https://www.youtube.com/watch?v=rHifbhgkGpw&t=26250s)）。
 - 防法三：Crushing Hammer 打在对手下回合要攻击的 Dragapult ex 上（Phantom Dive 要 2 个能量）。对手有 Rosa's Encouragement（77% 卡表）可以补，但只在它落后时能用。
 - Jamming Tower（76% 卡表）让道具无效，我们核心里没有道具，影响只是它会顶掉 Risky Ruins。
 - Patrat（推断，按卡牌文字）：它是无色宝可梦，Team Rocket's Watchtower 能关掉 Watchful Eye，Munkidori 就能重新挪指示物；代价是同时关掉自己的 Dudunsparce 和 Meowth ex。录像（Frankfurt 2026 第 13 轮 Bartnick 2-0 Bahser，只播了第 2 局）：Bahser 带 Patrat，Bartnick 的 Munkidori 一直用不了。她靠 Boss's Orders + Phantom Dive 一次击倒 Drakloak 和 Dusclops（[2:02:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=7350s)），后来手牌只剩 2 张、奖赏卡 3 对 2 落后时，用 Fezandipiti ex、Dudunsparce、Recon Directive 抽出 Dragapult ex 和能量，Phantom Dive 一回合拿 3 张翻盘（[2:11:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=7890s)）。
 
 **关键卡与构筑**
 - Hero's Cape（ACE SPEC）：挂在 Dragapult ex 上是 420 HP，对手的 Phantom Dive 200 + Dusknoir 130 = 330 打不倒。录像：少年组决赛第 1 局 Giffen 的 420 HP Dragapult ex 配两只 Munkidori，Araki 两回合都打不倒，投降。只是一场，而且是少年组、世界赛的卡池（推断其价值）。
-- Judge：带的 67.0%（193 局）对不带的 81.6%（38 局），−14.6。镜像里双方都靠手里的进化卡，Judge 也会打乱自己的 Drakloak / Dragapult ex 准备（推断）。这个对局不要为了干扰而早打 Judge。
+- Judge：带的 67.0%（193 局）对不带的 81.6%（38 局），−14.6。镜像里双方都靠手里的进化卡，Judge 也会打乱自己的 Drakloak / Dragapult ex 准备（推断）。这个对局不要为了干扰而早打 Judge。录像：Melbourne 2026 四强第 3 局，Murphy 等 Takemasa 把手牌攒起来才打 Judge，紧接着打 Risky Ruins（[7:41:30](https://www.youtube.com/watch?v=rHifbhgkGpw&t=27690s)），对手只能靠 Rosa's Encouragement 补能量，Murphy 拿下。第 2 局对手第 1 回合的 Judge 有用，是因为同时用 Itchy Pollen 锁了物品（和镜像一节 Denk 的例子一样）。
 - Risky Ruins：带的 68.5%（201 局）对不带的 75.6%（30 局），−7.1，和上面"别急着打 Ruins"一致。
 - Special Red Card：−6.3（121 / 110 局）。Moltres +2.5、Dunsparce 线 +1.1，没有差别。
 - 对手方面：带 Judge 的对手 60.8%（143 局）对不带的 50.0%（56 局）；带 Watchtower 的 60.9%（98 局）对不带的 54.8%（101 局）；带 Rare Candy 的 52.2%（53 局）对不带的 59.8%（146 局）；带 Shaymin 的 48.8%（28 局）对不带的 59.3%（171 局）。
@@ -189,6 +191,7 @@
 - 第一发 Phantom Dive 不收 Duskull，而是把指示物撒在打不死的 2 奖宝可梦上。
 - 计划下回合 Boss 对手的 Dragapult ex，却没在前一回合先放 60。
 - 后备区留着 Meowth ex，被 Dusknoir + Phantom Dive 在后备区击倒。
+- 被 Munkidori 的 Mind Bend 混乱时赌硬币：Melbourne 2026 四强第 3 局 Murphy 赌了一次，反面，自己吃 30。撤到 Budew 就能解除混乱（镜像一节 Hedrick 的做法）。
 - 没算对手 Cursed Blast 的 130，对手剩 2 张时以为自己的 Dragapult ex 还能再撑一回合。
 - 场上只剩一两只宝可梦，被对手一回合全部击倒，场上没有宝可梦判负。后备区保持 3 只以上，尤其是对手有 Rare Candy、我方又锁不住物品时。录像：少年组决赛第 3 局 Araki 先攻第 1 回合就把物品用完（预判下回合被 Budew 锁），Rare Candy 直接进 Dusknoir，Cursed Blast 收掉 Giffen 唯一的 Drakloak（[1:13:30](https://www.youtube.com/watch?v=wZe0cfNyUY8&t=4410s)），再用 Phantom Dive 加 Munkidori 收掉场上最后的 Dreepy 和 Dunsparce。
 - 对手只剩一只 Drakloak、后备区还有两只 Dreepy 时，把 6 个指示物全放在一只 Dreepy 上。平分 3 + 3，两只都剩 40，哪只进化成 Drakloak（90）都只剩 60，下一发 Phantom Dive 就能收；全放一只，对手进化另一只就是满血 90，6 个打不死。录像：Frankfurt 2026 第 13 轮 Bahser 这样放，解说当场指出应该平分（[2:06:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=7560s)）。
@@ -226,7 +229,7 @@
 - 主线：Battle Cage 护住 Abra / Kadabra，用 Kadabra、Alakazam、Dudunsparce 的进化抽牌把手牌养到 16 张，一击 Dragapult ex。
 - 控手牌：Unfair Stamp（上回合我方有宝可梦被击倒时）让对手只剩 2 张手牌，Powerful Hand 掉到 40；Judge 回到 4 张；Special Red Card（对手剩 3 张以下）回到 3 张。对手的 Genesect（SFA 40）带道具时我们不能打 ACE SPEC，Unfair Stamp 会被封，先用 Phantom Dive 或 Boss 处理 Genesect（110 HP）（推断）。Special Red Card 不是 ACE SPEC，Genesect 封不住它；Tool Scrapper 弃掉 Genesect 身上的道具也能解封（按卡牌文字推断）。录像：NAIC 2026 少年组决赛（Giffen 的 Dragapult ex 2-0 Oono 的 Alakazam；NAIC 在世界赛之前，用到的卡现在都还合法）第 1 局，Giffen 的 Stamp 被封，最后一回合改用 Special Red Card。反过来的例子：Indianapolis 2026 四强第 2 局（TEF-POR 环境），Newdorf 的 Dragapult Dusknoir 没带 Judge 和 Special Red Card，Jones 每次都先给 Genesect 挂上道具再击倒，Newdorf 一次 Stamp 也打不出来，也没有别的办法压对手手牌，对手每回合拿 1 张赢下（[视频](https://www.youtube.com/watch?v=bnVzhTKp3jg)）。
 - 对手同时放两只 Genesect 时（四场比赛 62 份卡表里 7 份带 2 张），收掉一只还有一只封着，Unfair Stamp 基本打不出来；改靠 Judge、Special Red Card，或用 Tool Scrapper 一次弃掉两只身上的道具（按卡牌文字推断）。录像：2026 世界赛四强第 3 局，Cassiraga 同时放下两只 Genesect，Chao 整个系列一次 Unfair Stamp 都没打出来。
-- Judge 把对手打回 4 张，不代表下回合安全：同一场第 3 局，Chao 打出 Jamming Tower 和 Judge、用上 Dusknoir，Phantom Dive 击倒 Alakazam，Cassiraga 的手牌回到 4 张；他下一回合连抽到正好 16 张，一击 Dragapult ex（[1:15:00](https://www.youtube.com/watch?v=mq3UY7pQe4c&t=4500s)）。Brisbane 第 10 轮 Ibbotson 也从 3 张手牌连抽到过 16 张（[1:10:30](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4230s)）。
+- Judge 把对手打回 4 张，不代表下回合安全：同一场第 3 局，Chao 打出 Jamming Tower 和 Judge、用上 Dusknoir，Phantom Dive 击倒 Alakazam，Cassiraga 的手牌回到 4 张；他下一回合连抽到正好 16 张，一击 Dragapult ex（[1:15:00](https://www.youtube.com/watch?v=mq3UY7pQe4c&t=4500s)）。Brisbane 第 10 轮 Ibbotson 也从 3 张手牌连抽到过 16 张（[1:10:30](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4230s)）。Judge 之后，对手场上的 Dunsparce 只要进化成 Dudunsparce，就能用 Run Away Draw 再抽 3（Watchtower 在场时不行）。录像：Utrecht 2026 决赛（对手是 Mega Lopunny Dudunsparce，同样靠 Run Away Draw 抽牌，TEF-POR）第 1 局，Kunukcu 在对手场上有两只 Dunsparce 时打 Judge，被对手抽了回来（[18:00](https://www.youtube.com/watch?v=lLy0TaVIhvc&t=1080s)）；第 2 局等对手场上没有 Dunsparce 才打（[39:30](https://www.youtube.com/watch?v=lLy0TaVIhvc&t=2370s)），赢下这一局。
 - 对手 95% 卡表带 Eri（看我方手牌，弃最多 2 张物品）。Special Red Card 要等对手剩 3 张以下才能打，握在手里等的时候容易被弃。录像：2026 世界赛决赛第 1 局 Cassiraga 用 Eri 弃掉 Hedrick 的 Special Red Card 和 Night Stretcher（[23:00](https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1380s)），四强第 1 局又弃掉 Chao 的 Special Red Card。
 - 对手 Alakazam 挂着 Lucky Helmet 时，我们每打它一次，对手就抽 2 张，等于帮它凑手牌（只有走牌库耗尽路线时这才对我们有利）。Tool Scrapper 先弃掉 Helmet 再打；Jamming Tower 在场时道具都没有效果，Helmet 也不抽牌，它还能顶掉 Battle Cage（世界赛四强第 3 局 Chao 最后一搏时用过）。录像：同一场第 2 局，Oono 挂着 Helmet 凑到 16 张，一击 Dragapult ex；Giffen 下一回合用 Tool Scrapper 弃掉 Helmet，再打 Watchtower 和 Special Red Card，第二只 Dragapult ex 击倒 Alakazam，Oono 投降。
 - 对手的能量多是特殊能量（Telepathic Psychic Energy，ACE SPEC 的 Enriching Energy），Enhanced Hammer 能拆。录像：同一场第 1 局，Giffen 先打 Special Red Card 和 Watchtower，再用 Boss's Orders 拉出贴着 Enriching Energy 的 Dunsparce，Enhanced Hammer 拆掉对手唯一的 ACE SPEC，Phantom Dive 加场上已有的指示物一回合拿 4 张（[3:25:50](https://www.youtube.com/watch?v=igPt0ZyyUSY&t=12350s)），Oono 投降。我方卡表很少带 Enhanced Hammer 和 Tool Scrapper，算可选的针对卡（推断）。
@@ -574,7 +577,7 @@
 
 ## vs Dragapult ex（镜像）
 
-没有统计：镜像胜率按定义是 50%，这里只写打法。来源是三场比赛的录像：BrentyMon（Brent Tonisson，Brisbane 区域赛 2026-09-26 第 3 名）的复盘视频，他当天打了 4 次镜像，视频里是四强对 Edmund Khoo（最终冠军）的两局，Khoo 2-0；Frankfurt 区域赛第 13 轮 Denk 2-0 Tobyn 的直播；2026 世界赛 Masters 四强 Hedrick 2-0 Tonisson。要点来自对局画面和解说，三场比赛不代表普遍规律。
+没有统计：镜像胜率按定义是 50%，这里只写打法。来源是五场比赛的录像：BrentyMon（Brent Tonisson，Brisbane 区域赛 2026-09-26 第 3 名）的复盘视频，他当天打了 4 次镜像，视频里是四强对 Edmund Khoo（最终冠军）的两局，Khoo 2-0；Frankfurt 区域赛第 13 轮 Denk 2-0 Tobyn 的直播；2026 世界赛 Masters 四强 Hedrick 2-0 Tonisson；Melbourne 2026 决赛 Sasaki 2-0 Murphy 和 Los Angeles 2026 决赛 Hedrick 2-0 Pitcher（这两场见最后两节）。要点来自对局画面和解说，五场比赛不代表普遍规律。
 
 **对局性质**
 - 双方都有 Budew。后攻方第 1 回合用 Itchy Pollen 锁对手物品，接下来谁先赢下 Budew 之争（先把对方 Budew 打掉或绕开锁），谁就先把 Dreepy 线铺起来。
@@ -603,9 +606,23 @@
 
 [录像](https://www.youtube.com/watch?v=R4d7ll0oz1Q)，世界赛卡池（TEF-PBL），用到的卡现在都合法。Hedrick 最后夺冠，Tonisson 就是上面的 BrentyMon。
 - 构筑：两人都带 2 张 Budew、2 张 Risky Ruins、4 张 Crushing Hammer、1 张 Rosa's Encouragement。Hedrick 9 个能量，其中 Darkness 3 张，解说认为 Hammer 互拆的镜像里这张就是差别；Tonisson 8 个能量，多带 1 张 Judge 和 Moltres。世界赛 22 份 Dragapult ex 卡表里只有 Hedrick 带 3 张 Darkness、只有 3 份带 2 张 Budew；之后的 Baltimore、Frankfurt、Brisbane，2 张 Budew 占 86% 到 92%，3 张 Darkness 占 24% 到 29%。
-- Judge 会把自己也打乱：第 1 局 Tonisson 打 Judge 后自己没抽到要的牌，Hedrick 反而补齐了进化线。上面 Denk 的 Judge 有用，是在对手被锁物品时打的。镜像里只在自己手牌差、对手手牌好时打（推断），和 Dragapult Dusknoir 一节带 Judge 数据更差（−14.6）的方向一致。
+- Judge 会把自己也打乱：第 1 局 Tonisson 打 Judge 后自己没抽到要的牌，Hedrick 反而补齐了进化线。上面 Denk 的 Judge 有用，是在对手被锁物品时打的。镜像里只在自己手牌差、对手手牌好时打（推断），和 Dragapult Dusknoir 一节带 Judge 数据更差（−14.6）的方向一致。Melbourne 2026 决赛第 2 局和 Los Angeles 2026 决赛第 2 局正好一反一正，见最后两节。
 - 被 Munkidori 的 Mind Bend 混乱时不赌硬币：Hedrick 把混乱的宝可梦撤到 Budew，换下去就解除混乱，Budew 不要能量也能攻击。
 - Boss's Orders + Phantom Dive 一回合多张：[17:50](https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=1070s) 拉出 Munkidori 击倒，指示物收掉后备区的 Budew（2 张）；[29:30](https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=1770s) 拉出 Meowth ex 击倒，指示物收掉后备区只剩 60 HP 的 Munkidori（3 张），赢下第 1 局。
 - Crushing Hammer 的目标：第 1 局 Hedrick 的 Hammer 先拆 Munkidori 的 Darkness。第 2 局 Tonisson 两张 Hammer 都正面，拆掉 Hedrick 后备区 Drakloak 预贴的两个能量，再打 Judge、用 Jet Headbutt 击倒 Drakloak，Hedrick 赛后说这是最吓人的一回合。后备区预贴的能量别都压在一只身上（推断）。
 - Rosa's Encouragement 在 Hammer 互拆之后最值：弃牌区攒了很多基本能量，Rosa 一次贴回 2 个，不用再从牌库找；但只能在落后时用。第 1 局 Tonisson 落后时用它让 Dragapult ex 重新攻击，拿 2 张；第 2 局 Hedrick 先用 Recon Directive、再打 Unfair Stamp，放下 Meowth ex 用 Last-Ditch Catch 找到 Rosa 贴能量。
 - 故意不击倒：第 2 局 Hedrick 那一发 Phantom Dive 只铺指示物、不击倒；下一回合 [50:45](https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=3045s) Crushing Hammer 正面拆掉对手一个 Fire 能量，Phantom Dive 击倒 Dragapult ex 并收掉后备区的 Munkidori，一回合 3 张，再用 Boss's Orders 拉出 Meowth ex 收尾。不击倒的理由是推断的：对手没有宝可梦被击倒，就打不了 Unfair Stamp，Fezandipiti ex 也不能抽 3；Hedrick 自己保持落后，下回合还能用 Rosa。他在 Baltimore 第 1 天第 4 轮对 Slowking 也是先铺指示物不击倒，最后一回合拿 6 张。
+
+**录像：Melbourne 2026 决赛 Sasaki 2-0 Murphy**
+
+[录像](https://www.youtube.com/watch?v=QiiKAduK9HE)，TEF-POR 环境（比现在少 CRI、PBL、30C 三个系列），用到的卡现在都合法。两人都是本手册的主线（4 张 Crushing Hammer）。Sasaki 2 张 Budew、Dawn、1 张 Watchtower、9 个能量（3 张 Darkness）；Murphy 1 张 Budew、2 张 Watchtower、10 个能量。
+- Fezandipiti ex 的 Cruel Arrow（3 个无色，打对手任意一只 100）也是开局武器，后备区的 Dreepy（70）和 Drakloak（90）都是一击：第 1 局 Sasaki 先攻，起手只有 Fez 在战斗场，被 Murphy 的 Budew 锁物品；他用 Crispin 凑齐 3 个能量，逐只收后备区的进化线（[4:00](https://www.youtube.com/watch?v=QiiKAduK9HE&t=240s)、[7:30](https://www.youtube.com/watch?v=QiiKAduK9HE&t=450s)、[9:00](https://www.youtube.com/watch?v=QiiKAduK9HE&t=540s)），没放下 Dragapult ex 就赢了这一局。Murphy 用 Crushing Hammer 拆了 Fez 的 Darkness，又放弃锁物品、改用 Mind Bend 让 Fez 混乱（[7:00](https://www.youtube.com/watch?v=QiiKAduK9HE&t=420s)），Sasaki 两次混乱判定都是正面。
+- 第 1 回合的 Judge 碰上 Dawn 会适得其反：第 2 局 Murphy 后攻，第 1 回合 Judge 加 Itchy Pollen（[14:45](https://www.youtube.com/watch?v=QiiKAduK9HE&t=885s)）；Sasaki 打出 Dawn（支援者，从牌库拿基础、1 阶、2 阶宝可梦各 1 张），不用物品就拿到 Munkidori、Drakloak 和 Dragapult ex（[16:30](https://www.youtube.com/watch?v=QiiKAduK9HE&t=990s)），解说当场说这张 Judge 适得其反。之后 Sasaki 立起三条进化线，Phantom Dive 一次收两只 Dreepy，他的 Watchtower 封住 Murphy 的 Meowth ex（[21:00](https://www.youtube.com/watch?v=QiiKAduK9HE&t=1260s)）。Dawn 在四场比赛 279 份 Dragapult 卡表里只有 10 份带，碰上的机会不大。
+
+**录像：Los Angeles 2026 决赛 Hedrick 2-0 Pitcher**
+
+[录像](https://www.youtube.com/watch?v=m8np08cT-TQ)，TEF-POR 环境，用到的卡现在都合法。Hedrick 是主线（4 张 Crushing Hammer）；Pitcher 是 Dragapult Dudunsparce（同样的 Dreepy 线加 Munkidori，带 2 张 Rare Candy，没有 Hammer），这里算作镜像。
+- 有 Risky Ruins 时 Drakloak 不安全：对手的 Drakloak（90）身上只要有 20，我方 Drakloak 的 Dragon Headbutt（70）就能一击，不用 Rare Candy，第 2 回合就能打。对手的 Dreepy 在 Ruins 下放上后备区就自带 20；没有的话，Munkidori 把我方宝可梦身上 Ruins 放的指示物挪 2 个过去。第 1 局 Hedrick 就这样击倒 Pitcher 的 Drakloak（[13:30](https://www.youtube.com/watch?v=m8np08cT-TQ&t=810s)）；Pitcher 以为对手没有 Rare Candy、Drakloak 是安全的，第 2 回合就投降。
+- 对手的 Munkidori 有 Darkness 能量时，没有击倒目标就别用 Phantom Dive 撒指示物，先用 Jet Headbutt（信心 60%，dpx-mir-02）：对手的 Adrena-Brain 是从对手自己的宝可梦往我们身上挪指示物，我们留在对手场上、没打死的指示物就是它下回合的弹药。第 2 局 Hedrick 第一次攻击用 Jet Headbutt（70），不用 Phantom Dive（[29:00](https://www.youtube.com/watch?v=m8np08cT-TQ&t=1740s)），解说说这是不给对手的 Munkidori 送弹药。和上面世界赛四强第 2 局那一发"故意不击倒"不冲突：那一发是为了下一回合一次收多只；对手的 Munkidori 能动时，铺下去的指示物每只 Munkidori 每回合能挪走 3 个，要先算（推断）。
+- Judge 打在对手被锁物品、又缺能量的时候：第 2 局 Pitcher 上回合没贴能量，Hedrick 先用 Crushing Hammer 拆掉他唯一的 Fire，再打 Judge 加 Itchy Pollen（[22:30](https://www.youtube.com/watch?v=m8np08cT-TQ&t=1350s)）。和 Melbourne 决赛那张适得其反的 Judge 正好相反。
+- 收尾：Pitcher 用 Unfair Stamp 加 Phantom Dive 反扑，一度只差 1 张（其中 2 张是 Hedrick 出牌太慢被判罚给的）。Hedrick 两张 Crushing Hammer 都是正面，先拆对手 Munkidori 的 Darkness、再拆 Drakloak 的 Fire（[42:30](https://www.youtube.com/watch?v=m8np08cT-TQ&t=2550s)），然后 Unfair Stamp，放下 Meowth ex 找 Crispin，Phantom Dive 一回合拿 3 张；最后撤到自己的 Munkidori，用 Adrena-Brain 挪完指示物再 Mind Bend 收尾（[47:30](https://www.youtube.com/watch?v=m8np08cT-TQ&t=2850s)）。

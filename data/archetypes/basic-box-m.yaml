@@ -145,6 +145,14 @@ evidence:
       - 对 Slowking：第 1 回合没贴上能量，战斗场的 Kangaskhan 撤不下来，对手第 2 回合就一击拿 3 张（第 2 局）；Slowking 第 2 回合打 300 不需要支援者
       - 对 Slowking：Unfair Stamp 把对手打到 2 张手牌，对手照样接上攻击（第 2 局）
     caveat: 一场两局；第 1 局唯一的 Wellspring Ogerpon 和唯一的 Water Energy 都在奖赏卡里。
+  - source: video-reviews/utrecht-2026.md（项目共享文件夹）
+    game: Utrecht 2026 区域赛八强，Battistella（本卡组）0-2 Vanoverschelde（Team Rocket's Honchkrow，全是单奖）
+    window: TEF-POR
+    confirms:
+      - Mega Kangaskhan ex 送 3 张：对手剩 3 张时，场上的 Kangaskhan 就是致命目标（第 1 局，https://www.youtube.com/watch?v=8P1sYYaNX8A&t=810s）
+    adds:
+      - 对单奖卡组：Honchkrow 一击 Kangaskhan 拿 3 张，解说说"对 Honchkrow 时，Kangaskhan 不是盾"（https://www.youtube.com/watch?v=8P1sYYaNX8A&t=1380s）
+    caveat: 一场两局；Honchkrow 不在手册的对手里；第 1 局 Unfair Stamp 在奖赏卡里。
 
 mistakes:
   - 第一回合就把 Mega Kangaskhan ex 摆进战斗场，被对手先击倒送 3 张。
