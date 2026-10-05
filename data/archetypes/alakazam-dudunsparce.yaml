@@ -97,7 +97,7 @@ matchups:
     plan: >-
       Dragapult ex 320 HP，手牌 16 张就能一击（世界赛决赛第 1 局见过）。Battle Cage 是生命线，对手会用 Risky Ruins 换掉它，
       所以要留第二张场地。用 Eri 看对手手牌并弃掉 Special Red Card、Night Stretcher（信心 75%，adu-dpx-03）；Genesect 带道具封住 Unfair Stamp，保护手牌。
-      第 2 回合有没有 Rare Candy 基本决定这局（信心 40%，adu-dpx-02）。
+      第 2 回合有没有 Rare Candy 基本决定这局（信心 55%，adu-dpx-02）。
   - vs: slowking-scr
     win_rate: 0.737
     plan: Slowking 120 HP，6 张手牌就够。
@@ -195,6 +195,16 @@ evidence:
       - 对 Basic Box：对手用 Pecharunt 的 Poison Chain 毒战斗场的 Genesect，把它换下来，再放第二只 Genesect（https://www.youtube.com/watch?v=iEM8bQbnA90&t=39420s）
       - 对 Basic Box：把 Dunsparce 都进化成 Dudunsparce（140），Wellspring 的 Torrential Pump 后备区 120 就打不倒了（第 2 局）
     caveat: 一场两局；对手整局没摸到 Energy Switch。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛第 2 天第 12 轮，Jones（本卡组，这一站的冠军：4 张 Nighttime Mine，没有 Battle Cage；Genesect、Lucky Helmet、2 张 Enhanced Hammer）2-0 Hamilton（Dragapult ex，没有 Special Red Card）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult：第 2 回合 Rare Candy 进化 Alakazam，同时给 Genesect 挂道具、打 Nighttime Mine，从此领先（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=5820s）
+      - 对 Dragapult：Genesect 挂上道具后，对手的 Unfair Stamp 打不出来（两局）
+    adds:
+      - 对 Dragapult：不带 Battle Cage、全押 4 张 Nighttime Mine，对手 2 张 Risky Ruins 换不过来；Jones 赛后说觉得 Battle Cage 对 Dragapult 没多大用
+      - 对 Dragapult：Lana's Aid 从弃牌区拿回宝可梦和基本能量，把手牌攒到 19 张（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=6300s）
+    caveat: 一场两局；对手两局都没用 Budew 锁物品。
 
 mistakes:
   - 只带一张 Battle Cage 或过早打出，被 Risky Ruins 换掉后没有第二张。

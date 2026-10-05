@@ -3,6 +3,15 @@ date: 2026-10-05
 ref: video-reviews/worlds2026-swiss.md（项目共享文件夹）
 title: 2026 世界赛瑞士轮（第 1、2 天直播里有推荐卡组的场次）
 window: TEF-PBL
+observations:
+  - judgment: dpx-mir-01
+    game: 第 1 天第 3 轮第 1 局 Tonisson（Dragapult ex）胜 Madsen（Dragapult ex）
+    result: held
+    note: Madsen 先用 Budew 锁物品，Tonisson 用 Itchy Pollen 击倒对方的 Budew，先解开自己的锁再锁住对方，之后一路领先（https://www.youtube.com/watch?v=iEM8bQbnA90&t=14820s）
+  - judgment: dpx-mir-01
+    game: 第 1 天第 3 轮第 2 局 Tonisson 胜 Madsen
+    result: n/a
+    note: Madsen 没有先锁物品，没有互锁
 claims:
   - id: c-20261005-worlds-02
     type: 纠错

@@ -4,7 +4,7 @@
 
 做法：没有调用 API，在你电脑上看截图、对照解说写成。奖赏卡数取自解说。
 
-判断台账（data/judgments/）：下面五场的对局之前都没有登记判断，没有要记的验证结果；这次写进手册的关键判断登记成了新判断，编号写在"写进手册的"里。crustle-dri.md 里两处 Special Red Card 的条件写错了，记成已核对的纠错，见 data/judgments/sources/2026-10-05_video_worlds-2026.yaml。
+判断台账（data/judgments/）：前五场的对局之前都没有登记判断，没有要记的验证结果；这次写进手册的关键判断登记成了新判断，编号写在"写进手册的"里。crustle-dri.md 里两处 Special Red Card 的条件写错了，记成已核对的纠错；第 1 天第 3 轮的 Dragapult ex 镜像对 dpx-mir-01 有一次验证。这两项都记在 data/judgments/sources/2026-10-05_video_worlds-2026.yaml。第 11 轮的对手 Lopunny Dusknoir 不在手册里，没有判断可验证。
 
 ## 第 12 轮：Matsui（Crustle）2-0 Johnson（Alakazam Dusknoir）
 
@@ -145,3 +145,43 @@ basic-box-m.md 的 vs Alakazam Dudunsparce（42.1%）说中的：Genesect 带道
 2. 另一个对付 Genesect 的办法：Pecharunt（SVP 149）的 Poison Chain 加特性 Toxic Subjugation，战斗场的 Genesect 两次宝可梦检查就倒（前提是 80 HP 的 Pecharunt 撑过对手一回合）；对手能用换人的卡躲开。卡牌原文核对过：Poison Chain 是非 ex 的 Pecharunt 的招式，电脑上的复盘写成了 Pecharunt ex，已改正。
 
 alakazam-dudunsparce.yaml 和 basic-box-m.yaml 也补了这一场的录像证据。
+
+## 第 11 轮：Hedrick（Dragapult ex）2-0 Koyama（Lopunny Dusknoir）
+
+视频：第 2 天直播 https://www.youtube.com/watch?v=qwBID2ApsOY&t=12990s （约 3:36-4:27）。Andrew Hedrick 是后来的世界冠军，卡表见 worlds2026-masters-top-cut.md。Joji Koyama 最终第 55：Mega Lopunny ex 加 4-2-4 的 Duskull 线和 2 只 Bronzong（招式 Evolution Jammer：对手下一回合不能从手牌进化），只有 6 个能量（4 张 Telepathic Psychic Energy、1 张 Psychic Energy、1 张 Enriching Energy）。手册没有这个卡组，只做简要记录。
+
+- 第 1 局 Hedrick 先攻，Bronzong 第 1 回合上不来；Crushing Hammer 正面，拆掉一张 Telepathic Psychic Energy。被 Evolution Jammer 锁进化时，Fezandipiti ex 的 Cruel Arrow 专打 Duskull 和 Dusclops（解说说它是这局的 MVP，[3:49:00](https://www.youtube.com/watch?v=qwBID2ApsOY&t=13740s)），Munkidori 的 Mind Bend 让 Bronzong 混乱。锁一解开就进化，Phantom Dive 先收后备区的 Duskull，最后收掉 Mega Lopunny ex。
+- 第 2 局 Bronzong 混乱时翻到反面，打倒了自己，锁解开（[4:13:00](https://www.youtube.com/watch?v=qwBID2ApsOY&t=15180s)）。Hedrick 用 Unfair Stamp 加 Phantom Dive 收尾。
+- 解说总结："真正的威胁不是 Bronzong，而是那些 Duskull。"
+
+dragapult-ex.yaml 补了这一场的录像证据。
+
+## 第 1 天第 3 轮：Tonisson（Dragapult ex）2-0 Madsen（Dragapult ex）
+
+视频：第 1 天直播 https://www.youtube.com/watch?v=iEM8bQbnA90&t=14400s （约 4:00-4:43）。Brent Tonisson 最终第 3（就是 Brisbane 的 BrentyMon），主线 Hammer 版，带 Special Red Card、Judge、Moltres。Oscar Madsen 也是 Hammer 版，没进第 2 天，比赛数据里没有他的卡表。Madsen 两局都选后攻，两局都输（只记录）。
+
+### 第 1 局：Tonisson 胜
+
+- Madsen 的 Unfair Stamp 和 Fezandipiti ex 都在奖赏卡里，开局只能放下 Meowth ex。
+- Madsen 先用 Budew 锁物品；Tonisson 用 Itchy Pollen 击倒对方的 Budew，解开自己的锁，再锁住对方（[4:07:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=14820s)）。
+- 之后 Tonisson 两次能打 Phantom Dive，但没有击倒目标，都改用 Itchy Pollen 继续锁（[4:09:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=14940s) 和 4:15）。他在对手被锁时打 Judge，Phantom Dive 一次收两只 Dreepy，最后 Boss's Orders 拉出 Meowth ex，一回合拿 3 张。解说："别人会更早出手，Brent 知道自己领先，一点风险不冒。"
+
+### 第 2 局：Tonisson 胜
+
+- Tonisson 先攻，先用 Drakloak 收掉 Dunsparce、再用 Munkidori 收掉 Drakloak，领先 3 张。Madsen 没有先锁（解说说他先锁的话，Tonisson 会放自己的 Budew 用 10 点收掉）。
+- Madsen 用 Unfair Stamp、Crushing Hammer 和 Mind Bend 反扑。解说："这回合赢不了，没必要 Phantom Dive，用 Itchy Pollen 再拖。"（[4:34:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=16440s)）
+- 最后 Tonisson 用 Mind Bend 60 加两只 Munkidori 的 Adrena-Brain 各 30，正好收掉对方受了伤的 Dragapult ex（[4:41:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=16860s)）。
+
+### 对照手册
+
+dragapult-ex.md 的镜像一节说中的：Judge 只在对手被锁时打（两局都是）；Boss's Orders + Phantom Dive 一回合多张；Meowth ex 别在开局放下（Madsen 被迫放下，最后成了拿 3 张那一回合的目标）。
+
+台账：dpx-mir-01（先保住自己能用物品）第 1 局 held，第 2 局 n/a（Madsen 没先锁）；加上 Baltimore 第 14 轮那一次，从 65% 升到 75%。dpx-mir-02（没有击倒目标别用 Phantom Dive）两局都没有对上它的前提，方向一致：Tonisson 拖的时候用的是 Itchy Pollen，不是 Jet Headbutt。
+
+写进手册的（PR #34）：
+
+1. 新判断 dpx-mir-03（信心 60%）：第一次拿奖用 Itchy Pollen 击倒对方的 Budew。依据是这一场第 1 局和 Baltimore 2026 第 2 天第 14 轮（见 baltimore-2026-day2-swiss.md），解说给的理由一样。
+2. dpx-mir-02 放宽成"先用 Jet Headbutt 或 Budew 的 Itchy Pollen 拖"，信心不变。
+3. 镜像一节加了这一场的小节。
+
+dragapult-ex.yaml 补了这一场的录像证据。
