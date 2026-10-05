@@ -167,6 +167,15 @@ CAPTION_ALIASES = {
     "bidoof": "Budew",
     "dragalge": "Drakloak",
     "dragapult v": "Drakloak",
+    # Players' shorthand (BrentyMon's Brisbane 2026 report). Only words that are
+    # not everyday English; "hammer", "stamp", "risky", "pole" stay unmatched.
+    "pult": "Dragapult ex",
+    "dreppy": "Dreepy",
+    "beddo": "Budew",
+    "monkey dory": "Munkidori",
+    "monkidori": "Munkidori",
+    "two cannon": "Toucannon",
+    "zam": "Alakazam",
 }
 
 

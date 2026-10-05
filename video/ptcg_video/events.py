@@ -107,3 +107,32 @@ def _game_spans(events: list[Event], min_gap: float = 120.0) -> list[tuple[float
         calls = [e.t for e in events if e.kind == "match_end" and e.definite and e.t > start + min_gap]
         spans.append((start, calls[-1] if calls else None))
     return spans
+
+
+def split_at(games: list[tuple[float, float | None]], cuts: list[float]) -> list[tuple[float, float | None]]:
+    """Split game spans at chapter starts: a game never runs across a chapter
+    boundary (streams usually have one chapter per match)."""
+    out = []
+    for a, b in games:
+        for c in sorted(cuts):
+            if a < c and (b is None or c < b):
+                out.append((a, c))
+                a = c
+        out.append((a, b))
+    return out
+
+
+def parse_games(spec: str) -> list[tuple[float, float | None]]:
+    """'43:40-53:20,53:40-1:04:20' -> [(2620, 3200), (3220, 3860)]; an open end ('1:16:20-') is None."""
+    from .timeutil import parse_ts
+
+    games = []
+    for part in spec.split(","):
+        a, sep, b = part.strip().partition("-")
+        if not sep or not a:
+            raise ValueError(f"bad game range {part!r}: expected START-END, e.g. 43:40-53:20")
+        start, end = parse_ts(a), parse_ts(b) if b else None
+        if end is not None and end <= start:
+            raise ValueError(f"game range {part!r} ends before it starts")
+        games.append((start, end))
+    return games

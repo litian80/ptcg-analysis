@@ -1,3 +1,4 @@
+import pytest
 import json
 from types import SimpleNamespace
 
@@ -136,3 +137,32 @@ def test_no_llm_writes_review_pack(board_video, tmp_path):
     assert "Cards mentioned: Charizard, Charizard ex, Gardevoir, Rare Candy" in pack
     assert "Casters call **knockout** at 0:05" in pack
     assert "Commentary: " in pack
+
+
+def test_youtube_downloads_whole_video_and_cuts_locally(board_video, tmp_path, monkeypatch):
+    from ptcg_video.fetch import VideoSource
+
+    calls = []
+
+    def fake_fetch(url, out_dir, start, end, max_height, download_video):
+        calls.append((start, end))
+        return VideoSource("abcdefghijk", "t", board_video, FIXTURES / "simple.srt", url="https://youtu.be/x",
+                           chapters=[{"start_time": 0, "end_time": 15}, {"start_time": 15, "end_time": 30}])
+
+    monkeypatch.setattr(cli, "fetch_youtube", fake_fetch)
+    out = tmp_path / "out"
+    assert cli.main(["analyze", "abcdefghijk", "--start", "0:10", "--end", "0:20", "--every", "2",
+                     "--cards", "none", "--no-llm", "--out", str(out)]) == 0
+    assert calls == [(None, None)]
+    frames = json.loads((out / "abcdefghijk" / "frames.json").read_text(encoding="utf-8"))
+    assert [round(f["t"]) for f in frames] == [10, 12, 14, 16, 18]
+
+
+def test_games_flag_overrides_commentary(board_video, tmp_path):
+    out = tmp_path / "out"
+    assert cli.main(["analyze", str(board_video), "--captions", str(FIXTURES / "rolling_auto.en.vtt"),
+                     "--games", "0:00-0:12,0:12-", "--cards", "none", "--no-llm", "--out", str(out)]) == 0
+    report = (out / "match" / "report.md").read_text(encoding="utf-8")
+    assert "- Game 1: [0:00] - [0:12]" in report and "- Game 2: [0:12] - end" in report
+    with pytest.raises(SystemExit):
+        cli.build_parser().parse_args(["analyze", "x.mp4", "--games", "0:12"])

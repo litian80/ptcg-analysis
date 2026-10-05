@@ -66,6 +66,7 @@ def test_max_gap_keeps_periodic_frames(broadcast_video, tmp_path):
 
 def test_parse_regions():
     assert parse_regions("sides") is REGION_PRESETS["sides"]
+    assert len(parse_regions("regional").regions) == 2
     custom = parse_regions("0,0,0.2,1;0.8,0,0.2,1")
     assert custom.regions == ((0.0, 0.0, 0.2, 1.0), (0.8, 0.0, 0.2, 1.0)) and custom.thumb == (32, 96)
     assert parse_regions("0,0,0.5,0.5").thumb == (64, 36)

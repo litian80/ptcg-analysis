@@ -22,6 +22,7 @@
 | Dhelmise | 42.9%（336） | Hide 'n' Sneak 挡住后备区指示物；Fairy Zone 下 Dhelmise 170×2 = 340 一击 Dragapult ex，先 Boss 掉 Lillie's Clefairy ex。 |
 | Ogerpon Meganium Hydrapple | 62.9%（302） | 狙 Chikorita / Bayleef 断 Meganium；Moltres 打弱火的 Teal Mask Ogerpon ex 是 220 正好一击。 |
 | Alakazam Dusknoir | 50.4%（113） | 没有 Battle Cage，一发 Phantom Dive 的 6 个指示物能同时收掉 Abra 和 Duskull。 |
+| Dragapult ex（镜像） | — | Budew 互锁物品时，先保住自己能用物品，再想锁对手；Munkidori 的 Darkness 能量是 Crushing Hammer 的目标；Unfair Stamp 留到对手只差 1-2 张。来自一个视频，没有数据。 |
 
 ## 本卡组通用数字和规则
 
@@ -178,7 +179,7 @@
 
 ## vs Alakazam Dudunsparce（胜率 60.4%，643 局）
 
-战绩 348 胜 173 负 122 平。对手版本：Abra MEG 54（50 HP）、Kadabra MEG 55（80 HP）、Alakazam MEG 56（140 HP，弱恶）、Dunsparce JTG 120（70 HP）、Dudunsparce TEF 129（140 HP）、Genesect SFA 40（110 HP）、Shaymin DRI 10、Fezandipiti ex，36% 卡表带 Lillie's Clefairy ex。
+战绩 348 胜 173 负 122 平。对手版本：Abra MEG 54（50 HP）、Kadabra MEG 55（80 HP）、Alakazam MEG 56（140 HP，弱恶）、Dunsparce JTG 120（70 HP）、Dudunsparce TEF 129（140 HP）、Genesect SFA 40（110 HP）、Shaymin DRI 10、Fezandipiti ex，36% 卡表带 Lillie's Clefairy ex。Brisbane 区域赛还有带 Toucannon（PBL 68）的版本，公开卡表里没有：Marcus Ibbotson 带 4 张 Boss's Orders、4 张 Battle Cage，没有 Genesect，所以 Unfair Stamp 能用（BrentyMon 复盘视频 [44:40](https://www.youtube.com/watch?v=KfJk7KymeYI&t=2680s)）。
 
 **对局性质**
 - 我们更快。Alakazam 第 2 回合靠 Rare Candy 才能上，没有 Rare Candy 就是第 3 回合。
@@ -187,7 +188,8 @@
 - 胜负手是场地：对手 75% 卡表带 3 张 Battle Cage（挡住招式和特性往后备区放指示物），52% 卡表带 3 张 Nighttime Mine（太晶宝可梦的招式多要 1 个无色，Phantom Dive 变成 3 个能量）。Risky Ruins 能换掉这两张。
 
 **开局与先后攻**
-- 后备区 Dreepy ×3、Munkidori。先后攻都可以；后攻时 Budew 锁物品能挡对手第 2 回合的 Rare Candy、Buddy-Buddy Poffin、Poké Pad（推断，Rare Candy 是对手第 2 回合上 Alakazam 的唯一途径）。
+- 后备区 Dreepy ×3、Munkidori。后攻时 Budew 锁物品能挡对手第 2 回合的 Rare Candy、Buddy-Buddy Poffin、Poké Pad（推断，Rare Candy 是对手第 2 回合上 Alakazam 的唯一途径）。
+- 先后攻：数据里没有先后攻记录。Brisbane 第 3 名 BrentyMon 认为这个对局后攻吃亏：对手先攻、先打出 6-4 的奖赏差后很难追（视频复盘里他的判断）。他第 2 局主动认输，换第 3 局的先攻。
 - 2 张 Risky Ruins 至少留 1 张到对手打出 Battle Cage 之后再用。对手第一张场地打下来前，不要用 Ultra Ball 把 Ruins 弃掉。
 - Nighttime Mine 在场时，要攻击的 Dragapult ex 需要 3 个能量：Crispin 一次给 1 贴 1 进手，Rosa's Encouragement 落后时一次贴 2。
 
@@ -196,6 +198,7 @@
 - T3：先打 Risky Ruins（换掉 Battle Cage）。Phantom Dive 200 击倒战斗场的 Kadabra / Alakazam（1 张）。后备区 6 个指示物：Ruins 在场时放下的 Abra 只剩 30 HP，3 个指示物一只，6 个正好收两只（2 张）。这一回合 3 张。
 - T4：再一发：战斗场 1 只 + 后备区 1-2 只，累计 6 张。Kadabra 是 80 HP，若它的 Abra 吃过 Ruins，进化后只差 60，正好 6 个指示物。
 - Fezandipiti ex：打到只剩 10 HP、不击倒（世界赛决赛第 1 局里用过）。它倒下时对手不能用 Flip the Script 抽 3，我们也保持落后，好用 Rosa's Encouragement。最后一回合再用 1 个指示物收它的 2 张。
+- Risky Ruins 之后，Phantom Dive 的指示物按对手进化后的 HP 分配：BrentyMon 在两只 Abra 上各放 3 个，算的是它们进化成 80 HP 的 Kadabra 后的击倒线（[1:08:10](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4090s)，分配理由来自他的解说）。
 - 替代攻击手（推断）：Fezandipiti ex 是恶属性，Cruel Arrow（3 个无色）打战斗场 100，对弱恶的 Alakazam 是 200，一击。Fezandipiti 不是太晶，Nighttime Mine 不加它的费用。代价是它站前面会被对手打，给 2 张。
 
 **对手的套路，怎么防**
@@ -207,12 +210,13 @@
 
 **关键卡与构筑**
 - Team Rocket's Watchtower：带的 58.1%（31 局）对不带的 71.6%（163 局），−13.5。它能关掉对手的 Dudunsparce 抽牌，但会占掉场地位置，和 Risky Ruins 抢节奏（推断）。
-- Special Red Card：带的 67.0%（117 局）对不带的 73.2%（77 局），−6.2。
+- Special Red Card：带的 67.0%（117 局）对不带的 73.2%（77 局），−6.2。但 BrentyMon（Brisbane 第 3）认为这个对局应该带，和数据方向相反；他还认为第 3 张场地卡用 Jamming Tower 不如换成 Special Red Card。数据只有 194 局，这个差值可能是噪声（推断）。
 - Judge、Moltres、Dunsparce 线：差距都在 ±2.5 以内，没有影响。
 - 对手方面：带 Shaymin 的对手 48.2%（101 局）对不带的 71.1%（60 局）；带 Lillie's Clefairy ex 的 67.2%（61 局）对不带的 50.3%（100 局）；带 Special Red Card 的 62.7%（67 局）对不带的 52.5%（94 局）；带 Nighttime Mine 的 59.7%（91 局）对不带的 52.9%（70 局）。
 
 **常见失误**
-- 对手还没打 Battle Cage 时就把 Risky Ruins 用掉，关键回合没有场地可换。
+- 对手还没打 Battle Cage 时就把 Risky Ruins 用掉，关键回合没有场地可换。BrentyMon 在 Brisbane 第 10 轮第 1 局就这样被 Battle Cage 换回，差点被翻盘（[50:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=3000s)，他自认的失误）。
+- 以为手里有 Night Stretcher 就先进化、硬上 Dragapult ex 攻击，结果没有（BrentyMon 第 2 局 [59:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=3540s)）。
 - 第 2 回合只有 1 只 Drakloak，第 3 回合进化不出 Dragapult ex。
 - 一回合打出好几张手牌之前没算对手手牌数，忘了对手有 16 张就能一击。
 - Nighttime Mine 在场时只给 Dragapult ex 准备了 2 个能量。
@@ -524,3 +528,25 @@
 **常见失误**
 - 把 6 个指示物花在 Kadabra / Alakazam 上，放过了吃过 Ruins、一碰就倒的 Abra 和 Duskull。
 - 没算 Dusknoir 的 130：对手手牌 10 张就够一击 Dragapult ex。
+
+---
+
+## vs Dragapult ex（镜像）
+
+没有统计：镜像胜率按定义是 50%，这里只写打法。来源是 BrentyMon（Brent Tonisson，Brisbane 区域赛 2026-09-26 第 3 名）的复盘视频：他当天打了 4 次镜像，视频里是四强对 Edmund Khoo（最终冠军）的两局，Khoo 2-0。要点来自对局画面和 Brent 的解说，一个视频不代表普遍规律。
+
+**对局性质**
+- 双方都有 Budew。后攻方第 1 回合用 Itchy Pollen 锁对手物品，接下来谁先赢下 Budew 之争（先把对方 Budew 打掉或绕开锁），谁就先把 Dreepy 线铺起来。
+- Munkidori 的 Adrena-Brain 是双方的额外伤害来源，前提是它身上有 Darkness 能量；卡表只有 2 个 Darkness，所以它们是 Crushing Hammer 的首要目标。
+
+**开局**
+- 保住自己能用物品比锁住对手更重要：第 1 局 Khoo 宁可不再锁 Brent，也先让自己能打物品；Brent 在锁物品下卡死，只能用 Mind Bend 拿奖，最后手牌打空认输（[1:19:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4740s)）。
+- Risky Ruins 先削对方新放下的基础宝可梦：Dreepy 70 HP 吃 20 后，Phantom Dive 的指示物更容易收掉。
+- 第 1 局 Khoo 的收尾顺序：Crushing Hammer 拆掉 Brent 的 Darkness，打出 Risky Ruins，Unfair Stamp，再上 Dragapult ex。
+
+**拿奖与收尾**
+- 诱对手多放伤害：第 2 局 Brent 把 Munkidori 和 Darkness 扣在手里，只贴 Fire，让 Khoo 以为 Budew 之争已赢、多投入伤害，然后反手击倒（[1:29:30](https://www.youtube.com/watch?v=KfJk7KymeYI&t=5370s) 到 1:33）。
+- Boss's Orders + Phantom Dive 一回合拿 3 张（[1:37:20](https://www.youtube.com/watch?v=KfJk7KymeYI&t=5840s)）是镜像里最快的拿奖方式，但会把对手推到可以用 Unfair Stamp 的位置。
+- Unfair Stamp 留到对手只差 1-2 张时用：Khoo 在 Brent 只差 1 张时，用 Fezandipiti ex 抽牌接 Unfair Stamp，Brent 连续两回合找不到 Boss's Orders（他的 Meowth ex 被压在奖赏卡里），Crushing Hammer 也是反面，Khoo 翻盘（[1:37:40](https://www.youtube.com/watch?v=KfJk7KymeYI&t=5860s)，[1:42:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=6120s)）。
+- Fezandipiti ex 既是抽牌，也是给对手的 2 奖靶子；Meowth ex 被压在奖赏卡时，找 Boss's Orders 要有第二条路（推断）。
+
