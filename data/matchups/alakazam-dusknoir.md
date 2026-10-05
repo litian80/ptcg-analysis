@@ -414,10 +414,15 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 1. **我方第 2 回合**（拿 1 张）：Powerful Hand 打战斗场的 Torchic（DRI 40，70 HP，4 张）。对方只有 2 只 Torchic，打掉一只就少一半 Blaziken ex 的来源。Torchic 在后备区时用 Boss / Prime Catcher 拉出来。
 2. **我方第 3 回合**（拿 1 到 2 张）：继续拆进化线：Dusknoir 单独击倒后备区的 Combusken（DRI 41，100 HP）或 Drakloak（90）。如果 Dragapult ex 已在战斗场，就用 Dusknoir 130 + 10 张击倒它拿 2 张。
 3. **我方第 4、5 回合**（累计到 6 张）：两只 2 阶 ex 各 2 张。Blaziken ex 和 Dragapult ex 都是 320，16 张手牌或 Dusknoir + 10 张。用过 Smolder-sault 的 Blaziken ex 下回合不能攻击，对方会把它换下；Boss 把它拉回来击倒可以打乱对方的轮换（推断）。
+- 录像：Frankfurt 2026 第 1 天第 4 轮 Łaszkiewicz 2-1 Triveño，赢的两局都是这个路线，对手只用出过一次 Phantom Dive。
+  - 第 2 局：Dusknoir 击倒带 2 个能量的 Munkidori，对手场上能量清零（[1:59:50](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=7190s)）；之后 Budew 一直锁物品，Cursed Blast 每回合拆 Dreepy、Combusken；最后 Prime Catcher 把后备区还没贴能量的 Dragapult ex 拉上来，Powerful Hand 一击（[2:08:00](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=7680s)）。对手整局没打出一次攻击。
+  - 第 3 局：对手的 Budew 在奖赏卡里，Łaszkiewicz 击倒唯一的 Drakloak（[2:16:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=8190s)），再用 Boss's Orders、Dusclops、Powerful Hand 把对手场上清空（[2:19:20](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=8360s)）。
 - Lillie's Clefairy ex（51%）、Meowth ex、Fezandipiti ex 在后备区时都是 2 奖的捷径（190 / 170 / 210）。
 
 **对手的套路，怎么防**
 - **Phantom Dive 狙后备区**：和 Dragapult ex 一样，后备区不放 70 HP 以下的闲置宝可梦。Watchtower 在场时 Patrat 失效，Munkidori 又能多移 3 个指示物。
+  - 录像：第 4 轮第 1 局 Łaszkiewicz 用两次 Cursed Blast 自爆击倒对手唯一的 Drakloak（送 2 张拿 1 张），让对手剩 3 张好打 Special Red Card，随后 Powerful Hand 击倒 Meowth ex，自己只差 1 张（[1:48:05](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=6485s)）。但场上还留着两只 Abra 和受伤的 Budew，对手用 Fezandipiti ex 抽到 Rare Candy，Dragapult ex 上场一次 Phantom Dive 收掉 3 只，拿 3 张获胜（[1:50:00](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=6600s)）。用自爆把对手送进 3 张以内之前，先数自己场上有几只能被 Phantom Dive 一次收掉（Abra 40/50、Budew 30）。
+- **Eri**：弃掉我方手上最多 2 张物品。公开卡表里没有（0/70），但 Triveño 带了，第 1 局弃掉了 Rare Candy。
 - **Seething Spirit 让下一只马上能打**：每回合都可能有新的 2 阶 ex 攻击，所以优先拆 Torchic / Combusken，比硬打 320 HP 的 ex 更省资源（推断）。
 - **Unfair Stamp（94%）、Special Red Card（77%）、Judge（67%）**：同 Dragapult ex。
 
@@ -427,7 +432,8 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 
 **常见失误**
 - 放着后备区的 Torchic 不管，第 3 回合就要面对两只 320 HP 的 ex。
-- 把 Dusknoir 用在对方随时能用 Night Stretcher 补回来的 Dreepy 上。
+- 把 Dusknoir 用在对方随时能用 Night Stretcher 补回来的 Dreepy 上（Budew 锁住物品时对方用不了 Night Stretcher，这时拆 Dreepy 划算，录像第 4 轮第 2 局）。
+- 自爆把对手送到 3 张，自己场上却留着几只低 HP 的宝可梦，被一次 Phantom Dive 拿走 3 张（录像第 4 轮第 1 局）。
 - 以为 Blaziken ex 下回合不能攻击就安全了，忽略了旁边的 Dragapult ex。
 
 ---
