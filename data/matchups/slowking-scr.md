@@ -40,6 +40,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 几条每局都适用的规则：
 
+- 复制来的 Metallic Hammer 是 150：+150 要从 Slowking 身上弃 3 个钢能量，Slowking 没有。只有你的 Lillie's Clefairy ex 在场、打的是龙属性（Fairy Zone 让龙属性弱超能）时才是 300。录像里这一招常被误算成 300，双方和解说都没发现：Baltimore 2026 第 1 天第 4 轮，Carullo 在没有 Clefairy 时把满血 Dragapult ex 打到剩 20（[1:06:30](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3990s)）；B 桌 Smith 一下打倒了满血 N's Zoroark ex（[1:25:20](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s)）。按 150 规划。
 - Tera 宝可梦 ex（Dragapult ex、Teal Mask Ogerpon ex、Wellspring Mask Ogerpon ex）在后备区时不受任何招式伤害，Trifrost 的后备区部分和 Thunder Raid 对它们无效；但伤害指示物的"放置"（Ghostly Blow、Cofagrigus、Munkidori）不是伤害，照样有效。
 - Trifrost、Thunder Raid 之后 Slowking 只剩 Boomerang Energy。下回合手贴 1 个超能量就能再用 Seek Inspiration；Wondrous Patch 只能贴给后备区的超属性宝可梦，所以下一只 Slowking 要在后备区先补好能量。
 - 攻击前的顺序：先用所有会洗牌或抽牌的东西（Lillie's Determination、Ultra Ball、Poké Pad、Surfer、Mega Kangaskhan ex 的 Run Errand），最后才用 Academy at Night 放目标，然后攻击。
@@ -100,7 +101,8 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 对手更快，而且属性克你。N's Zoroark ex（280 HP，恶属性）的 Night Joker（恶 × 2）复制后备区 N's 宝可梦的招式，伤害按恶属性算，Slowking 弱恶。复制 N's Zekrom 的 Shred 70 × 2 = 140 就击倒 Slowking，还没有"下回合不能攻击"的限制；N's Zorua 的 Scratch 20 × 2 = 40。
 - 对手对你基本是每回合 1 张。对手想加速就 Boss's Orders 拉你的 ex：Mega Kangaskhan ex 300 HP 会被 Rampaging Thunder 250 + Binding Mochi 40 + Black Belt's Training 40 = 330 击倒（3 张）。
 - 你要拿 6 张：N's Zoroark ex 2 张，Pecharunt ex（190）、Fezandipiti ex（210）、Meowth ex（170，27% 卡表）各 2 张，N's Zorua（70）、Tatsugiri（70）、Munkidori（110）、N's Zekrom / N's Reshiram（130）各 1 张。
-- 满血 N's Zoroark ex 你一击打不倒（最高 Metallic Hammer 150），要两步，或用 Destined Fight 一换一（你送 1 张，拿 2 张）。
+- 满血 N's Zoroark ex 你一击打不倒（最高 Metallic Hammer 150），要两步，或用 Destined Fight 一换一（你送 1 张，拿 2 张）。录像里 Baltimore 2026 第 1 天第 4 轮 B 桌 Smith 复制 Metallic Hammer 一下打倒了满血 Zoroark ex（[1:25:20](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s)），那是误算成 300，按规则只有 150。
+- 对手有两种构筑（四场比赛 112 份卡表）：Watchtower 版带 3 到 4 张 Team Rocket's Watchtower（51 份），其中 33 份带 N's Purrloin，几乎不带 N's Castle 和 N's Darmanitan；Castle 版带 N's Castle（57 份），Watchtower 多是 0 到 1 张，31 份带 N's Darmanitan。前者专门锁你的手牌和特性，开局看到 Watchtower 或 Purrloin 就按下面"手牌锁"那条防。
 
 **开局与先后攻**
 - 强烈建议先攻（推断）：N's Zoroark ex 是 1 阶，对手第 2 回合就能进化。你先攻时，你第 2 回合（整局第 3 回合）对手的 Zorua 还没进化；你后攻时，对手第 2 回合（整局第 3 回合）Zoroark ex 已经上场并能先打你。
@@ -117,7 +119,8 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - Pecharunt ex 的 Irritated Outburst 按你已拿的奖赏卡数每张 60，打 Slowking 还要 × 2：你拿得越多它越痛。它在后备区时（190 HP）是 Thunder Raid 的一击目标。
 - Team Rocket's Watchtower、N's Castle 会把你的 Academy at Night 盖掉：手里常备 Academy at Night，在自己回合重新打出再用。
 - Xerosic's Machinations（让你弃到 3 张手牌）和 Judge 打乱手牌：Kyurem 不要只靠手上那一张，Codebreaking 可以直接从牌库叠到顶。
-- Boss's Orders 拉 Kangaskhan、Latias ex（210，恶弱点，Shred 就 140，Rampaging Thunder 必倒）：这两只在此对局尽量不上场。
+- 手牌锁（Watchtower 版）：N's Purrloin（JTG 96，70 HP，31% 卡表）的 Thieving Swipe 被 Night Joker 复制后，对手看你的手牌，挑 1 张放到你牌库底；再加 Watchtower 盖掉 Academy at Night、关掉 Run Errand，加 Judge 洗掉叠好的牌库顶。要用的复制目标别只放手上等 Academy，能用 Codebreaking 就直接从牌库叠；后备区的 Purrloin 用 Trifrost 顺手收掉（推断）。录像：Baltimore 2026 第 1 天第 4 轮 B 桌第 2 局，Osterkatz 重新打出 Watchtower，再用 Thieving Swipe 和 Judge，Smith 之后再没打出攻击，只盲翻过一次 Seek Inspiration（[1:25:30](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5130s)），Kyurem 被放到了牌库底。
+- Boss's Orders 拉 Kangaskhan、Latias ex（210，恶弱点，Shred 就 140，Rampaging Thunder 必倒）：这两只在此对局尽量不上场。录像：同一局 Osterkatz 没打战斗场带 Lucky Helmet 的 Kangaskhan（打了你就抽 2 张），而是用 Boss's Orders 拉后备区的 Fezandipiti ex 拿 2 张，顺便去掉你一个抽牌来源（[1:23:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=4980s)）；最后也是 Boss's Orders 拉 Latias ex 收尾。
 
 **关键卡与构筑**
 - 你方（n 均 ≥ 15）：带 Mew ex 高 16.0 个百分点（19 对 98 局）；Unown 高 11.1（17 对 100）；Pawmot 高 10.7（16 对 101）；Cofagrigus 低 11.5（22 对 95）；Brave Bangle 低 10.4（30 对 87）；Munkidori 低 7.4（30 对 87）；Crispin 低 5.0（25 对 92）；Zeraora 低 4.9（59 对 58，样本最大，差距小）。

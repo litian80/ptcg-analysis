@@ -273,7 +273,8 @@
 
 **常见失误**
 - 把 Phantom Dive 的指示物花在打不死的 Latias ex / Kangaskhan 上，放过了后备区能收的 Slowpoke（除非像 Hedrick 那样算好了哪一回合一次收完）。
-- Clefairy 在场、对手 Slowking 已有 2 个能量时，还让满血 Dragapult ex 站前面，以为 150 打不死。（Metallic Hammer 翻倍是 300，满血 320 正好剩 20：录像第 2 局 Carullo 复制 Metagross 打 300 没击倒，Hedrick 下回合一次拿 4 张，[1:06:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3960s)；Latias ex 的 400 才是一击。）
+- Clefairy 在场、对手 Slowking 已有 2 个能量时，还让满血 Dragapult ex 站前面，以为 150 打不死。（Fairy Zone 下 Metallic Hammer 翻倍是 300，满血 320 正好剩 20；Latias ex 的 400 才是一击。）
+- 场上没有 Clefairy 时，任由对手把复制来的 Metallic Hammer 算成 300。+150 要从攻击的宝可梦身上弃 3 个钢能量，Slowking 没有钢能量，所以只有 150；300 只出现在 Fairy Zone 下打龙属性时。录像第 2 局对手场上没有 Clefairy，满血 Dragapult ex 却被打到剩 20，按规则应剩 170，双方和解说都没发现（[1:06:30](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3990s)）。对手报 300 时先看场上有没有 Clefairy，没有就叫裁判。
 - 后备区铺 3 只以上 Dreepy / Drakloak，被 Trifrost 一次收 2 张。
 - 对手刚叠好牌库顶时手里有 Judge 却没打。
 
