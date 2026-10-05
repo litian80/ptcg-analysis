@@ -237,6 +237,7 @@
 - 倾向后攻（推断）：Budew 锁物品让对手第 2 回合不能用 Poké Pad、Ultra Ball、Wondrous Patch、Secret Box，拿不到要叠到牌库顶的复制目标（Academy at Night 和 Ciphermaniac's 仍可用）。
 - 后备区不要一次铺满 Dreepy / Drakloak：Trifrost 一次打 3 只各 110，Drakloak（90）、Dreepy、Munkidori（110）都会被收掉，后备区的 Dragapult ex 不受影响（太晶保护）。保持 2-3 只进化线即可（推断）。
 - Zeraora 的 Thunder Raid 打后备区 ex 210：Meowth ex、Fezandipiti ex 留在后备区会被一击，后备区的 Dragapult ex 不受影响。
+- 录像（Frankfurt 区域赛八强，Conti 的 Dragapult Dusknoir 2-0 Malaca 的 Slowking）：Conti 先攻，从自己第 2 回合起 Budew 连续 5 回合锁物品，Wondrous Patch 用不了，对手的 Slowking 线一直接不上能量（[5:05](https://www.youtube.com/watch?v=NOi0qAFjnME&t=18300s)）。第 2 局他后备区放了 3 只 110 HP 以下的宝可梦，被 Trifrost 一次收掉两只 Drakloak 和一只 Dusclops（[5:23:44](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19424s)），正是上面这条要防的。
 
 **奖赏卡路线**（推断，按卡牌伤害计算）
 - 先打 Risky Ruins 换掉 Academy at Night，同时让对手之后放下的 Slowpoke 掉 20（剩 60）。
@@ -244,6 +245,8 @@
 - T4：Boss's Orders 拉 Lillie's Clefairy ex（190），200 击倒（2 张），后备区 60 放在下一只 Slowking / Slowpoke 上。
 - T5：战斗场 Slowking 200 击倒，后备区那只补到倒下（例如 Slowking 120 = 60 + 60），2 张，累计 6 张。
 - Mega Kangaskhan ex 站到战斗场时（对手用 Run Errand 抽 2 时它必须在战斗场）：200 + 前回合 60 + 两只 Munkidori 60 = 320 ≥ 300，一次 3 张。Mew ex（160 HP）是 200 一击 2 张。
+- Trifrost 会弃掉 Slowking 身上的全部能量，对手打完 Trifrost 的下一回合通常接不上攻击，是我们重建的回合（录像：Conti 用 Crispin 补能量、换上 Jamming Tower 盖掉 Academy at Night）。
+- 录像里 Conti 还有 Dusknoir：他先用 Phantom Dive 把指示物铺在 Latias ex、Slowking 上不收（Slowking 卡组没有回复卡），等 Kangaskhan 上战斗场，Cursed Blast 130 加 Phantom Dive 200 一回合拿 6 张（[5:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19800s)）。纯 Dragapult ex 没有 Dusknoir 的 130，铺指示物要按上面的数字算清楚，不然就是常见失误里的"花在打不死的 Latias ex / Kangaskhan 上"。
 
 **对手的套路，怎么防**
 - 主线：Clefairy 在后备区，每回合用牌库顶的复制目标打 Dragapult ex 翻倍，或者 Trifrost 一次收后备区两只进化线。
