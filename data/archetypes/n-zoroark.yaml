@@ -30,7 +30,7 @@ attackers:
     prizes: 2
     attack: Night Joker
     cost: Darkness ×2
-    damage: 复制后备区 N 的宝可梦的招式；复制 Zekrom 为 250，复制 Reshiram 的 Virtuous Flame 为 170
+    damage: 复制后备区 N 的宝可梦的招式；复制 Zekrom 为 250，复制 Reshiram 的 Virtuous Flame 为 170，复制 Reshiram 的 Powerful Rage 为 Zoroark 自己身上每个伤害指示物 20
     notes: 280 HP，弱草。Night Joker 只要 2 个 Darkness，不用付被复制招式的费用。
   - card: N's Zekrom
     printing: ASC 155
@@ -51,7 +51,7 @@ attackers:
 
 support:
   - card: N's Reshiram
-    role: 第二个复制来源，Virtuous Flame 170（80% 卡表）
+    role: 第二个复制来源，Virtuous Flame 170；Powerful Rage 让吃过伤害的 Zoroark 反打，身上 20 个指示物就是 400（80% 卡表）
     prizes: 1
   - card: Munkidori
     role: 挪走自己身上中毒累积的指示物，放到对手身上
@@ -97,7 +97,7 @@ matchups:
     plan: Mega Excadrill ex 340 HP，需要中毒 + Mochi + Black Belt's Training 才够 330，还差 10；先用 Munkidori 或毒伤补。
   - vs: dragapult-ex
     win_rate: 0.508
-    plan: Dragapult ex 320 HP，用 Pecharunt 中毒 + Mochi + Black Belt's Training 一击 330 击倒。后备区的 Zekrom 会被 Phantom Dive 狙。
+    plan: Dragapult ex 320 HP，用 Pecharunt 中毒 + Mochi + Black Belt's Training 一击 330 击倒。后备区的 Zekrom 会被 Phantom Dive 狙。吃过 Phantom Dive 200 没倒的 Zoroark 复制 N's Reshiram 的 Powerful Rage 就是 400，不用任何加成。
   - vs: dhelmise-pbl
     win_rate: 0.775
     plan: 对方超能宝可梦弱恶，Zoroark 打 Dhelmise 双倍伤害，是最好的对局。
@@ -111,3 +111,4 @@ inferred:
   - "Night Joker 只付 Darkness ×2：按卡牌文字\"choose 1 of your Benched N's Pokémon's attacks and use it\"推断，不需支付被复制招式的费用。"
   - Rampaging Thunder 的"下回合不能攻击"作用在 Zoroark 身上，这是按复制招式的一般规则推断的。
   - Mysterious Rock Inn 只挡宝可梦 ex 的伤害，N's Zekrom 不是 ex，Shred 的 70 一定打得到 Crustle。
+  - Night Joker 复制 Powerful Rage 时按 Zoroark 自己身上的伤害指示物计算，这是按复制招式的一般规则推断的。

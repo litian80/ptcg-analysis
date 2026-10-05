@@ -97,7 +97,7 @@
 **对手的套路，怎么防**
 - Team Rocket's Watchtower（78%，3 张）：无色宝可梦没有特性，Kangaskhan 的 Run Errand 和 Meowth ex 的 Last-Ditch Catch 失效。用 Area Zero 或 Chien-Pao 的 Snow Sink 换掉/弃掉它，并且 Meowth ex 先留在手上，等场地清掉再放（推断）。
 - 不要让 Latias ex 或 Iron Crown ex 站在战斗场当攻击手：弱恶，连 Reshiram 170 都翻倍 340。
-- Kangaskhan 是本对局最好的"挡箭牌"：Rampaging Thunder 250 单发打不倒它，对手要凑齐中毒 + Mochi + Munkidori 或 Black Belt。对手凑不齐时，Kangaskhan 能在战斗场 Run Errand 抽 2 后再打一下（推断）。但它倒下就送 3 张，对手剩 3 张以下时别再用它。
+- Kangaskhan 是本对局最好的"挡箭牌"：Rampaging Thunder 250 单发打不倒它，对手要凑齐中毒 + Mochi + Munkidori 或 Black Belt。对手凑不齐时，Kangaskhan 能在战斗场 Run Errand 抽 2 后再打一下（推断）。但它倒下就送 3 张，对手剩 3 张以下时别再用它。例外（推断，按卡牌文字）：Night Joker 复制 N's Reshiram（84% 卡表）的 Powerful Rage，伤害是 Zoroark 自己身上每个伤害指示物 20，身上 15 个以上就是 300，一击 Kangaskhan。所以打 Zoroark ex 要一击打死，别留一只吃过伤害还活着的。
 - N's Darmanitan（28%）的 Back Draft 按我方弃牌区的基本能量每张 30。Raging Bolt ex 弃能量越多，Darmanitan 越痛，这局少用 Raging Bolt 大量弃能（推断）。
 - 后备区的 Zekrom / Reshiram 是对手的复制来源，用 Wellspring Ogerpon 的 120 狙后备区打不倒 130，但可以配合 Iron Crown ex 的 Twin Shotels（两只各 50，无视效果）先垫血（推断）。
 

@@ -10,7 +10,7 @@
 
 | 对手 | 胜率（局数） | 一句话要点 |
 |---|---|---|
-| N's Zoroark | 43.6%（754） | 第一发 Phantom Dive 打不死 280 HP 的 Zoroark ex，"先铺 90 再收"；先拆 Pecharunt ex 和对手的 Munkidori，少一块加成对手就一击不了 Dragapult ex。 |
+| N's Zoroark | 43.6%（754） | 第一发 Phantom Dive 打不死 280 HP 的 Zoroark ex，"先铺 90 再收"；先拆 Pecharunt ex 和对手的 Munkidori，少一块加成对手就一击不了 Dragapult ex。对手有 N's Reshiram 时，别留一只吃过 200 还活着的 Zoroark ex：复制 Powerful Rage 打 400。 |
 | Basic Box | 42.6%（732） | Lillie's Clefairy ex 一上场就 Boss 掉；Risky Ruins 让对手每只非恶基础宝可梦掉 20；Dudunsparce ex 在这个对局数据最好（+21 个百分点）。 |
 | Dragapult Dusknoir | 55.5%（721） | 先狙 Duskull 断 Dusknoir；对手 Dragapult ex 在后备区时先放 60，Boss 后 200 + 两只 Munkidori 60 正好 320。 |
 | Alakazam Dudunsparce | 60.4%（643） | 场地之争：Risky Ruins 留给 Battle Cage 和 Nighttime Mine；控制对手手牌数，Fezandipiti ex 打残不打死。 |
@@ -18,11 +18,11 @@
 | Dragapult Blaziken | 51.7%（630） | 狙 Torchic 断 Blaziken ex；Seething Spirit 让 Crushing Hammer 效果打折；两个主攻都要 200 + 120 才倒。 |
 | Mega Excadrill ex | 46.0%（508） | Moltres 打弱火的 Excadrill 是 220（数据 +21 个百分点）；用 Crushing Hammer 把 Excadrill 压在 5 个能量以下，它就只打 200。 |
 | Crustle | 26.1%（440） | 最差对局：ex 的招式伤害打不进 Crustle，靠非 ex 攻击手、Phantom Dive 的后备区指示物和 Munkidori 磨；对手的 Mega Kangaskhan ex 一露面就收 3 张。 |
-| Festival Lead | 60.6%（360） | Risky Ruins 换掉 Festival Grounds，Dipplin 只能打一次；先处理 Rabsca，否则后备区指示物放不上。 |
+| Festival Lead | 60.6%（360） | Risky Ruins 换掉 Festival Grounds，Dipplin 只能打一次；先处理 Rabsca，否则后备区指示物放不上；Gladion 用完后，Brave Bangle + Kieran 仍是 160×2 = 320。 |
 | Dhelmise | 42.9%（336） | Hide 'n' Sneak 挡住后备区指示物；Fairy Zone 下 Dhelmise 170×2 = 340 一击 Dragapult ex，先 Boss 掉 Lillie's Clefairy ex。 |
 | Ogerpon Meganium Hydrapple | 62.9%（302） | 狙 Chikorita / Bayleef 断 Meganium；Moltres 打弱火的 Teal Mask Ogerpon ex 是 220 正好一击。 |
 | Alakazam Dusknoir | 50.4%（113） | 没有 Battle Cage，一发 Phantom Dive 的 6 个指示物能同时收掉 Abra 和 Duskull；对手还有 Prime Catcher 时，别把没有能量的 2 奖 ex 留在后备区。 |
-| Dragapult ex（镜像） | — | Budew 互锁物品时，先保住自己能用物品，再想锁对手；Munkidori 的 Darkness 能量是 Crushing Hammer 的目标；Unfair Stamp 留到对手只差 1-2 张。来自一个视频，没有数据。 |
+| Dragapult ex（镜像） | — | Budew 互锁物品时，先保住自己能用物品，再想锁对手；Munkidori 的 Darkness 能量是 Crushing Hammer 的目标；等能一次收两只再出手；Unfair Stamp 留到对手只差 1-2 张。来自两场比赛的录像，没有数据。 |
 
 ## 本卡组通用数字和规则
 
@@ -46,6 +46,7 @@
 **对局性质**
 - 对手更快。N's Zoroark ex 在对手自己的第 2 回合就能用 Night Joker（Darkness ×2），复制后备区 N's Zekrom 的 Rampaging Thunder 打 250。我们最早第 3 回合才 Phantom Dive。
 - 对手一击 Dragapult ex（320）需要在 250 之外再凑 70：Binding Mochi（攻击手中毒时 +40）+ 对手 Munkidori 挪 30 = 320；或 Black Belt's Training（对战斗场 ex +40）+ Munkidori 30 = 320；或 Mochi 40 + Black Belt's 40 = 330。只靠 250 打不死。中毒来自 Pecharunt ex 的 Subjugating Chains（把后备区恶属性宝可梦换上场并让它中毒），或 Janine's Secret Art（35% 卡表）。
+- **吃过伤害的 Zoroark ex 更危险**（推断，按卡牌文字）：Night Joker 也能复制 N's Reshiram（四场比赛 84% 的卡表带，94 / 112 份）的 Powerful Rage，伤害是 Zoroark 自己身上每个伤害指示物 20。吃过一发 Phantom Dive 200 的 Zoroark ex 身上有 20 个，复制过来就是 400，不需要中毒、Mochi 或 Munkidori；身上 16 个以上就够 320。
 - 我们一击 N's Zoroark ex（280）需要 200 + 80，所以第一发 Phantom Dive 打不死它。可行组合：前一回合放 60 + 本回合 Munkidori 30 = 290。只靠两只 Munkidori 是 200 + 60 = 260，不够；Risky Ruins 也帮不上，Zorua 是恶属性，放下时不吃指示物。
 - 奖赏卡：双方都要击倒 3 只 2 奖宝可梦。对手的 2 奖是 N's Zoroark ex 和 Pecharunt ex（Fezandipiti ex 94% 卡表）；N's Zekrom、N's Reshiram 各 1 奖，130 HP。比的是谁先连续两回合一击。
 
@@ -58,6 +59,7 @@
 **奖赏卡路线**（推断，按卡牌伤害计算）
 - T2：对手战斗场是还没进化的 N's Zorua（70 HP）时，Drakloak 的 Dragon Headbutt 70 正好击倒（1 张）。
 - T3：Phantom Dive 打战斗场的 N's Zoroark ex（200，剩 80）。6 个指示物全部放在后备区另一只 N's Zoroark ex 或 N's Zorua 上（Zorua 进化后指示物保留），Munkidori 再挪 30 到同一只，让它身上有 90。
+- 对手后备区有 N's Reshiram 时，上面这条 T3 有风险（推断）：剩 80 的 Zoroark 下回合复制 Powerful Rage 就是 400。它刚用过 Rampaging Thunder 时自己不能攻击，但这个限制离开战斗场就没了：N's Castle 让它免费撤退，Pecharunt ex 的 Subjugating Chains 再把它换回战斗场（同时中毒，Mochi 再 +40）。这时 T3 改为 Boss's Orders 拉出 N's Reshiram（130），Phantom Dive 200 击倒，断掉复制来源；或者等前一回合先在这只 Zoroark 上放好 60，再 200 + 60 + Munkidori 30 一回合打死。
 - T4 有两种收法：
   - Rampaging Thunder 让用过的那只 Zoroark 下回合不能攻击（推断：复制来的招式效果作用在 Zoroark 身上），对手通常把它撤到后备区（N's Castle 让 N 的宝可梦撤退费为 0）。它身上已有 200，Phantom Dive 的 60 + Munkidori 30 = 290 ≥ 280，在后备区直接击倒（2 张），200 同时打新上来的宝可梦。
   - 或 Boss's Orders 拉出身上有 90 的那只：200 + 90 = 290，击倒（2 张）。
@@ -77,6 +79,7 @@
 - Judge：带的 60.7%（206 局）对不带的 51.2%（43 局），+9.5 个百分点。对手的一击要同时凑 Pecharunt、Mochi、PP Up、Black Belt's Training，手牌被打回 4 张时更难凑齐（推断）。
 - Dunsparce + Dudunsparce：带的 62.1%（154 局）对不带的 54.0%（95 局），+8.1。注意对手 Watchtower 在场时 Dudunsparce 的特性无效。
 - 我方 Team Rocket's Watchtower：带的 49.1%（53 局）对不带的 61.7%（196 局），−12.7。对手的核心特性（Trade、Subjugating Chains、Adrena-Brain）都不是无色宝可梦的，Watchtower 关不掉它们，反而关掉自己的 Meowth ex 和 Dudunsparce（推断）。这个对局不建议带。
+  - 录像（Frankfurt 2026 第 13 轮，第 7 名 Kamerman 2-0 Schrader）：带了的话这样用。Schrader 用 Cyrano 亮出 Meowth ex 后，Kamerman 马上打出 Watchtower。Meowth ex 的 Last-Ditch Catch 只在放到后备区时触发，Watchtower 要在那之前就在场，对手就找不到支援者；再加 Budew 锁物品，对手凑不出一击。Kamerman 的卡表没带 Dudunsparce，Watchtower 只关掉双方的 Meowth ex。Schrader 的卡表没带 N's Reshiram，[1:48:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=6510s) Phantom Dive + Adrena-Brain 一次击倒 N's Zoroark ex 和后备区的 N's Zorua，拿 3 张。
 - Special Red Card：带的 55.1%（121 局）对不带的 62.8%（128 局），−7.7。
 - Moltres：−2.9（108 / 141 局），基本没差别。110 打不动 280 HP。
 - 对手方面：带 Yveltal 的对手 66.1%（119 局）对不带的 57.6%（150 局）；带 Secret Box 的 62.9%（211 局）对不带的 55.7%（58 局）。
@@ -86,6 +89,7 @@
 - Pecharunt ex 一直没人管，对手每回合都能凑出一击。
 - Watchtower 在场时还想靠 Meowth ex 找支援者，白白多送一个 2 奖靶子。
 - 后备区留着 Fezandipiti ex / Meowth ex，被 Boss's Orders 拉出来一击。
+- Phantom Dive 打了 Zoroark ex 却没打死，对手后备区还有 N's Reshiram，下回合吃 400（推断）。
 
 ---
 
@@ -162,6 +166,7 @@
 - 防法二：Meowth ex（170）和 Fezandipiti ex（210）别留后备区。Dusknoir 130 + Phantom Dive 60 = 190 能在后备区击倒 Meowth ex；再加 Munkidori 30 就是 220，能击倒 Fezandipiti ex。对手只付出 1 张换 2 张。
 - 防法三：Crushing Hammer 打在对手下回合要攻击的 Dragapult ex 上（Phantom Dive 要 2 个能量）。对手有 Rosa's Encouragement（77% 卡表）可以补，但只在它落后时能用。
 - Jamming Tower（76% 卡表）让道具无效，我们核心里没有道具，影响只是它会顶掉 Risky Ruins。
+- Patrat（推断，按卡牌文字）：它是无色宝可梦，Team Rocket's Watchtower 能关掉 Watchful Eye，Munkidori 就能重新挪指示物；代价是同时关掉自己的 Dudunsparce 和 Meowth ex。录像（Frankfurt 2026 第 13 轮 Bartnick 2-0 Bahser，只播了第 2 局）：Bahser 带 Patrat，Bartnick 的 Munkidori 一直用不了。她靠 Boss's Orders + Phantom Dive 一次击倒 Drakloak 和 Dusclops（[2:02:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=7350s)），后来手牌只剩 2 张、奖赏卡 3 对 2 落后时，用 Fezandipiti ex、Dudunsparce、Recon Directive 抽出 Dragapult ex 和能量，Phantom Dive 一回合拿 3 张翻盘（[2:11:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=7890s)）。
 
 **关键卡与构筑**
 - Judge：带的 67.0%（193 局）对不带的 81.6%（38 局），−14.6。镜像里双方都靠手里的进化卡，Judge 也会打乱自己的 Drakloak / Dragapult ex 准备（推断）。这个对局不要为了干扰而早打 Judge。
@@ -174,6 +179,7 @@
 - 计划下回合 Boss 对手的 Dragapult ex，却没在前一回合先放 60。
 - 后备区留着 Meowth ex，被 Dusknoir + Phantom Dive 在后备区击倒。
 - 没算对手 Cursed Blast 的 130，对手剩 2 张时以为自己的 Dragapult ex 还能再撑一回合。
+- 对手只剩一只 Drakloak、后备区还有两只 Dreepy 时，把 6 个指示物全放在一只 Dreepy 上。平分 3 + 3，两只都剩 40，哪只进化成 Drakloak（90）都只剩 60，下一发 Phantom Dive 就能收；全放一只，对手进化另一只就是满血 90，6 个打不死。录像：Frankfurt 2026 第 13 轮 Bahser 这样放，解说当场指出应该平分（[2:06:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=7560s)）。
 
 ---
 
@@ -397,7 +403,7 @@
 战绩 202 胜 109 负 49 平。对手版本：Applin TWM 17（40 HP）、Dipplin TWM 18（80 HP，弱火）、Grookey TWM 14（70 HP）、Thwackey TWM 15（100 HP）、Goldeen TWM 44（50 HP）、Seaking PRE 21（110 HP）、Rellor TEF 23（50 HP）、Rabsca TEF 24（70 HP），82% 卡表带 Shaymin DRI 10。
 
 **对局性质**
-- Festival Grounds 在场时，Dipplin 一回合攻击两次。Do the Wave（1 个草）每只对手后备区宝可梦 20，后备区 5 只就是 100×2 = 200。加 Brave Bangle（对 ex +30）是 130×2 = 260；Gladion's Final Battle（手牌最后一张时，非规则宝可梦当回合 +80）是 180×2 = 360，一击 Dragapult ex。
+- Festival Grounds 在场时，Dipplin 一回合攻击两次。Do the Wave（1 个草）每只对手后备区宝可梦 20，后备区 5 只就是 100×2 = 200。加 Brave Bangle（对 ex +30）是 130×2 = 260，再加 Kieran（当回合对战斗场 ex +30）是 160×2 = 320，正好一击 Dragapult ex；Gladion's Final Battle（手牌最后一张时，非规则宝可梦当回合 +80）是 180×2 = 360，也是一击。
 - 对手全是 1 奖，我们要击倒 6 次；对手只要击倒 3 只 Dragapult ex。但对手 HP 很低，Phantom Dive 一回合能拿 2-3 张。
 - Rabsca 的 Spherical Shield：对手后备区不受我们招式的伤害和效果，Phantom Dive 的指示物放不上去。它是这个对局的核心。
 
@@ -407,12 +413,14 @@
 
 **奖赏卡路线**（推断，按卡牌伤害计算）
 - Rabsca 还没出来时：Phantom Dive 200 收战斗场 Dipplin（80）（1 张），6 个指示物收后备区小怪：吃过 Ruins 的 Applin 只剩 20（2 个）、Rellor / Goldeen 剩 30（3 个）、Grookey 剩 50（5 个）。一回合能拿 2-3 张，两到三回合拿完。
+- Rellor 贴了 Growing Grass Energy（草属性 +20 HP，多数卡表带 1 张）就是 70，6 个指示物打不死，要 Risky Ruins 先削 20 或 Munkidori 补。录像：Frankfurt 2026 第 14 轮第 2 局，Soler 这样让 Rabsca 上了场（[2:54:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=10440s)），对手 Conti（Dragapult Dusknoir）用 Meowth ex 找 Boss's Orders，把 Rabsca 拉到战斗场击倒（[2:59:44](https://www.youtube.com/watch?v=NOi0qAFjnME&t=10784s)）。
 - Rabsca 已在场：Rabsca 只挡招式，挡不住特性。Rellor 吃过 Ruins 的话，Rabsca 只剩 50，两只 Munkidori 挪 6 个指示物就能在后备区击倒它。或者 Boss's Orders 拉出来 200 击倒。Rabsca 倒了之后再用 Phantom Dive 铺后备区。
 - 收后备区还有一个好处：对手后备区每少一只，Do the Wave 每次少 20。
 
 **对手的套路，怎么防**
 - 主线：两回合把后备区铺满，Dipplin 两次 Do the Wave，最后用 Gladion's Final Battle 一击 Dragapult ex。
 - 防法：保持 Risky Ruins 在场（对手 4 张 Festival Grounds，要准备第二张 Ruins）；每回合尽量收后备区，让对手后备区不到 5 只。
+- 数对手弃牌区：Gladion's Final Battle（卡表 2 张）用完也不安全，Kieran（1 张）还在时，后备区 5 只的 Dipplin 带 Brave Bangle 仍是 160×2 = 320。后备区压到 4 只，Bangle + Kieran 是 140×2 = 280，打不死。录像：Frankfurt 2026 第 14 轮第 2 局，Conti 看到 2 张 Gladion 都已用掉，以为对手要两回合才能再击倒 Dragapult ex，Soler 多放一只 40 HP 的 Applin 凑满 5 只后备区，Bangle + Kieran 又击倒一只满血 Dragapult ex（[3:07:48](https://www.youtube.com/watch?v=NOi0qAFjnME&t=11268s)）。
 - Shaymin（DRI 10）只挡后备区的伤害，挡不住 Phantom Dive 的指示物。Psyduck 的 Damp 只关自爆类特性，对我们没有影响。
 
 **关键卡与构筑**
@@ -424,6 +432,7 @@
 - Rabsca 在场还用 Phantom Dive 往后备区放指示物（全部无效）。
 - 只有一张 Risky Ruins，被对手的 Festival Grounds 换回去后没有第二张。
 - 只打战斗场不收后备区，对手 Do the Wave 一直保持 100×2。
+- 只数 Gladion 不数 Kieran 和 Brave Bangle，以为 Dragapult ex 能多撑一回合。
 
 ---
 
@@ -540,7 +549,7 @@
 
 ## vs Dragapult ex（镜像）
 
-没有统计：镜像胜率按定义是 50%，这里只写打法。来源是 BrentyMon（Brent Tonisson，Brisbane 区域赛 2026-09-26 第 3 名）的复盘视频：他当天打了 4 次镜像，视频里是四强对 Edmund Khoo（最终冠军）的两局，Khoo 2-0。要点来自对局画面和 Brent 的解说，一个视频不代表普遍规律。
+没有统计：镜像胜率按定义是 50%，这里只写打法。来源是两场比赛的录像：BrentyMon（Brent Tonisson，Brisbane 区域赛 2026-09-26 第 3 名）的复盘视频，他当天打了 4 次镜像，视频里是四强对 Edmund Khoo（最终冠军）的两局，Khoo 2-0；以及 Frankfurt 区域赛第 13 轮 Denk 2-0 Tobyn 的直播。要点来自对局画面和解说，两场比赛不代表普遍规律。
 
 **对局性质**
 - 双方都有 Budew。后攻方第 1 回合用 Itchy Pollen 锁对手物品，接下来谁先赢下 Budew 之争（先把对方 Budew 打掉或绕开锁），谁就先把 Dreepy 线铺起来。
@@ -557,3 +566,8 @@
 - Unfair Stamp 留到对手只差 1-2 张时用：Khoo 在 Brent 只差 1 张时，用 Fezandipiti ex 抽牌接 Unfair Stamp，Brent 连续两回合找不到 Boss's Orders（他的 Meowth ex 被压在奖赏卡里），Crushing Hammer 也是反面，Khoo 翻盘（[1:37:40](https://www.youtube.com/watch?v=KfJk7KymeYI&t=5860s)，[1:42:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=6120s)）。
 - Fezandipiti ex 既是抽牌，也是给对手的 2 奖靶子；Meowth ex 被压在奖赏卡时，找 Boss's Orders 要有第二条路（推断）。
 
+**录像：Frankfurt 2026 第 13 轮 Denk 2-0 Tobyn**
+- 先锁再打乱：第 1 局 Tobyn 先攻起手差，Denk 用 Crushing Hammer 拆能量、Budew 锁物品，[1:19:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=4770s) 在对手被锁物品时打出 Judge，双方手牌都回到 4 张。两人的卡表都带 4 张 Crushing Hammer 和 1 张 Judge。
+- 不急着打：之后 Denk 先用 Risky Ruins 和 Munkidori 往对手身上放指示物，等能一次收两只再出手。[1:25:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=5130s) Boss's Orders + Phantom Dive 一次击倒带能量的 Drakloak 和战斗场的 Munkidori，Tobyn 只剩一只 Drakloak，认输。
+- 别为一点伤害放掉锁：第 2 局 Denk 起手也不好，[1:31:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=5460s) 他用 Crispin 贴能量后撤回 Budew 再锁一回合，没有用 Drakloak 的 Dragon Headbutt（70）去打对方战斗场 210 HP、打不死的 Fezandipiti ex。[1:33:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=5580s) Munkidori 挪指示物后 Phantom Dive 收尾。
+- 这和 Brisbane 两局的结论一致：镜像里先赢 Budew 之争和手牌资源，再一次性拿多张奖赏卡。
