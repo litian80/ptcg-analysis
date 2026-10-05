@@ -13,6 +13,17 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 CAPTION_LANGS = ["en", "en-US", "en-GB", "en-orig"]
+# Where English captions come from, best first: subtitles someone uploaded;
+# YouTube's speech recognition of an English stream ("en-orig"); YouTube's
+# machine translation ("en"), the only English a stream in another language
+# has. YouTube rate-limits the translated track (HTTP 429) while the original
+# one still downloads, so "en" auto-captions are only asked for without
+# "en-orig".
+CAPTION_SOURCES = [
+    ({"writesubtitles": True}, ["en", "en-US", "en-GB"]),
+    ({"writeautomaticsub": True}, ["en-orig"]),
+    ({"writeautomaticsub": True}, ["en"]),
+]
 _sleep = time.sleep  # replaced in tests
 _YT_ID = re.compile(r"(?:v=|youtu\.be/|/live/|/shorts/|/embed/)([A-Za-z0-9_-]{11})")
 
@@ -84,35 +95,47 @@ def fetch_metadata(url_or_id: str) -> dict:
         return ydl.extract_info(url, download=False)
 
 
-def _download_captions(url: str, base: dict, attempts: int, wait: float) -> tuple[dict | None, str | None]:
-    """Captions and the info JSON, without the video: (info, None), or (None, error).
+def _offers(info: dict, flags: dict, langs: list[str]) -> bool:
+    tracks = info.get("subtitles" if flags.get("writesubtitles") else "automatic_captions") or {}
+    return any(lang in tracks for lang in langs)
+
+
+def _download_captions(
+    url: str, base: dict, out_dir: Path, video_id: str, attempts: int, wait: float
+) -> tuple[dict | None, str | None]:
+    """Captions and the info JSON, without the video: (info, error or None).
 
     YouTube sometimes rate-limits caption downloads (HTTP 429), and yt-dlp then
-    aborts the whole download, video included. So captions get their own pass,
-    retried with doubling waits on 429, and a caption failure is returned
-    rather than raised. Any other error (video unavailable, sign-in) is raised.
+    aborts the whole download, video included. So captions get their own
+    passes, one per entry of CAPTION_SOURCES until one gives a file; a round
+    that was rate-limited is retried with doubling waits, and a caption failure
+    is returned rather than raised. Any other error (video unavailable,
+    sign-in) is raised. info is None only when no pass got past the captions.
     """
     import yt_dlp
 
-    opts = base | {
-        "skip_download": True,
-        "writesubtitles": True,
-        "writeautomaticsub": True,
-        "subtitleslangs": CAPTION_LANGS,
-        "subtitlesformat": "vtt",
-    }
+    info, error = None, None
     for attempt in range(attempts):
-        try:
-            with yt_dlp.YoutubeDL(opts) as ydl:
-                return ydl.extract_info(url, download=True), None
-        except yt_dlp.utils.DownloadError as e:
-            msg = str(e)
-            if "subtitles" not in msg:
-                raise
-            if "429" not in msg or attempt == attempts - 1:
-                return None, msg
-            _sleep(wait * 2**attempt)
-    return None, "no attempts"
+        if attempt:
+            _sleep(wait * 2 ** (attempt - 1))
+        limited = False
+        for flags, langs in CAPTION_SOURCES:
+            if info is not None and not _offers(info, flags, langs):
+                continue
+            opts = base | flags | {"skip_download": True, "subtitleslangs": langs, "subtitlesformat": "vtt"}
+            try:
+                with yt_dlp.YoutubeDL(opts) as ydl:
+                    info = ydl.extract_info(url, download=True)
+            except yt_dlp.utils.DownloadError as e:
+                error = str(e)
+                if "subtitles" not in error:
+                    raise
+                limited = limited or "429" in error
+            if _pick_captions(out_dir, video_id):
+                return info, None
+        if not limited:
+            break
+    return info, error
 
 
 def fetch_youtube(
@@ -151,7 +174,7 @@ def fetch_youtube(
             f"b[height<={max_height}]/b"
         ),
     }
-    info, captions_error = _download_captions(url, base, caption_attempts, caption_wait)
+    info, captions_error = _download_captions(url, base, out_dir, video_id, caption_attempts, caption_wait)
     if download_video:
         opts = dict(base)
         if start is not None or end is not None:
