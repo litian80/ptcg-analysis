@@ -76,6 +76,7 @@
 - N's Darmanitan（28% 卡表）：Back Draft 按我方弃牌区的基本能量张数每张 30，Flamebody Cannon 90 并另打后备区 90（能击倒 Drakloak）。对方带它时，Ultra Ball 尽量不要弃基本能量（推断）。后备区的 Dragapult ex 不受这 90 的伤害。
 - Yveltal（MEG 88，110 HP，撤退 0）：Clutch 让我方战斗场下回合不能撤退，Dark Feather 110。
 - Xerosic's Machinations（四场比赛 27% 的卡表带）：让我们的手牌弃到 3 张。录像（同一场第 1 局）：Reklev 被弃到 3 张时留下 Unfair Stamp、Boss's Orders 和 Dragapult ex（[3:02:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=10950s)）。之后对手先后击倒他的 Budew 和 Munkidori，他打出 Unfair Stamp 让对手只剩 2 张手牌，Phantom Dive 一回合拿 3 张（[3:12:10](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=11530s)），最后用 Meowth ex 找 Boss's Orders 击倒 Pecharunt ex。
+  - 为什么留这三张（推断，录像看不到完整场面）：当时双方都还没拿奖。Dragapult ex 是下一回合的攻击手，Boss's Orders 把后备区的 Zoroark ex 拉上来给 Phantom Dive 打，这两张是"先打"的那一回合；Unfair Stamp 要在自己的宝可梦被击倒后的回合才能用，留着就是对手反击之后的那一回合：断对手手牌再打。抽牌卡可以靠 Drakloak 和之后的支援者补，这三张是牌库里最难再找到、又决定接下来两回合的牌。
 
 **关键卡与构筑**
 - Judge：带的 60.7%（206 局）对不带的 51.2%（43 局），+9.5 个百分点。对手的一击要同时凑 Pecharunt、Mochi、PP Up、Black Belt's Training，手牌被打回 4 张时更难凑齐（推断）。
