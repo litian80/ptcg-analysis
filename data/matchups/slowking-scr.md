@@ -23,7 +23,7 @@
 
 ## 通用：Slowking 的复制工具箱
 
-Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiration（超 + 无色）弃掉牌库顶 1 张，如果是没有规则框的宝可梦，就用它的一个招式。被复制的招式不用付它自己的能量（推断，按"use it as this attack"的一般规则）。复制来的伤害按 Slowking 的超属性计算弱点（推断，同上）。牌库顶靠两张牌控制：Academy at Night（每回合一次，把手牌 1 张放到牌库顶）和 Ciphermaniac's Codebreaking（支援者，任选 2 张按顺序放牌库顶）。Poké Pad 把目标宝可梦拿到手上。Annihilape、Metagross、Pawmot、Drapion、Cofagrigus 在卡表里都没有进化前，只是复制来源。
+Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiration（超 + 无色）弃掉牌库顶 1 张，如果是没有规则框的宝可梦，就用它的一个招式。被复制的招式不用付它自己的能量（推断，按"use it as this attack"的一般规则）。复制来的伤害按 Slowking 的超属性计算弱点（推断，同上）。牌库顶靠两张牌控制：Academy at Night（每回合一次，把手牌 1 张放到牌库顶）和 Ciphermaniac's Codebreaking（支援者，任选 2 张按顺序放牌库顶）。Poké Pad 把目标宝可梦拿到手上。Annihilape、Metagross、Pawmot、Drapion、Cofagrigus、Haxorus 在卡表里都没有进化前，只是复制来源。
 
 | 复制来源（版本） | 招式 | 效果 | 卡表占比（4 场 103 份） |
 |---|---|---|---|
@@ -35,8 +35,11 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 | Pawmot（PFL 34） | Voltaic Fist | 130，可选自伤 60 让对手战斗场麻痹 | 约 17% |
 | Drapion（POR 52） | Hazardous Tail | 100，自伤 70，对手麻痹 + 中毒 | 约 19% |
 | Cofagrigus（SSP 83） | Law of the Underworld | 场上每只有特性的宝可梦（双方）各放 6 个指示物 | 约 16% |
+| Cofagrigus（WHT 40） | Extended Damagriiigus | 把我方后备区 1 只宝可梦身上的指示物全部挪到对手 1 只宝可梦上（任何一方的 Patrat 在场时不能挪） | 2 份 |
 | Smoochum（SSP 75） | Delightful Kiss | 从牌库找 2 个基本超能量贴给我方 1 只后备区宝可梦 | 约 17% |
 | Unown（30C 72） | Mysterious Signal | 40，这一下击倒时多拿 1 张奖赏卡 | 约 12% |
+| Spectrier（ASC 98） | Phantasmal Barrage | 对手 1 只宝可梦放 12 个指示物；弃掉全部能量 | 2 份 |
+| Haxorus（BLK 70） | Axe Blast | 对手战斗场是基础宝可梦时直接击倒 | 1 份 |
 
 几条每局都适用的规则：
 
@@ -44,7 +47,8 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - Tera 宝可梦 ex（Dragapult ex、Teal Mask Ogerpon ex、Wellspring Mask Ogerpon ex）在后备区时不受任何招式伤害，Trifrost 的后备区部分和 Thunder Raid 对它们无效；但伤害指示物的"放置"（Ghostly Blow、Cofagrigus、Munkidori）不是伤害，照样有效。
 - 对手后备区有 Shaymin（DRI 10）时，Flower Curtain 挡住招式对后备区无规则宝可梦的伤害：Trifrost 只剩战斗场那一份，Fezandipiti ex 的 Cruel Arrow 也打不到后备区。挡不住的有：Thunder Raid（打的是后备区的 ex，有规则框）、Ghostly Blow 和 Cofagrigus 放的指示物（放指示物不是伤害；对手的 Battle Cage 在场时另说）。你的卡表几乎不带拉人的卡：103 份里 Boss's Orders 2 份、Prime Catcher 29 份（它和 Secret Box 都是 ACE SPEC，只能二选一，68 份选了 Secret Box），所以通常只能等对手的宝可梦上战斗场再打。常带 Shaymin 的对手：Alakazam Dudunsparce（62 份里 42 份）、Dhelmise（58%）、Festival Lead。录像：Turin 2026 决赛（TEF-CRI 环境），López 的 Hop's Trevenant 两局都早早放下 Shaymin，Kamerman 的卡表没有 Boss's Orders 和 Prime Catcher，后备区一只都打不到，0-2；他赛前就说过，Shaymin 一下来他大概赢不了（[视频](https://www.youtube.com/watch?v=P1gzE_BFuUA)）。要不要为此改带 Prime Catcher，数据给不出答案：对 Alakazam Dudunsparce，带 Prime Catcher 的卡表还低 2.1 个百分点（19 对 52 局）。
 - Trifrost、Thunder Raid 之后 Slowking 只剩 Boomerang Energy。下回合手贴 1 个超能量就能再用 Seek Inspiration；Wondrous Patch 只能贴给后备区的超属性宝可梦，所以下一只 Slowking 要在后备区先补好能量。
-- 攻击前的顺序：先用所有会洗牌或抽牌的东西（Lillie's Determination、Ultra Ball、Poké Pad、Surfer、Mega Kangaskhan ex 的 Run Errand），最后才用 Academy at Night 放目标，然后攻击。
+- 攻击前的顺序：先用所有会洗牌或抽牌的东西（Lillie's Determination、Ultra Ball、Poké Pad、Surfer、Mega Kangaskhan ex 的 Run Errand，还有手贴 Telepathic Psychic Energy：它找完宝可梦会洗牌），最后才用 Academy at Night 放目标，然后攻击。
+- 复制来源要从牌库顶翻出来才能用，放上场的那一只就复制不到了。开局手里有 Kyurem、Spectrier 这类基础复制来源时，有别的基础宝可梦就别把它们放上场，留在手里，要用时再用 Academy at Night 放到牌库顶。Melbourne 2026 第 1 天第 6 轮第 1 局，Kwak 起手把唯一的 Spectrier 放上了场，那一局就复制不到它。
 - 对手打出别的场地卡会把 Academy at Night 弃掉，所以手里尽量常备一张。Codebreaking 放的第二张牌要过对手一个回合，会被 Judge、Unfair Stamp（洗牌）、Mega Excadrill ex 的 Undermine（弃牌库顶 2 张）破坏，不要把关键回合押在它上面。
 - 能先攻就先攻（推断）。先攻第 1 回合不能攻击、不能打支援者，但 Slowking 本来就要到自己第 2 回合才能进化攻击，先攻的代价很小；收益是 Slowking 第一次攻击（整局第 3 回合）早于大多数进化卡组的主攻上场。对手后攻第 1 回合可以用 Budew 的 Itchy Pollen 锁你第 2 回合的物品，所以第 1 回合先用 Poké Pad 把 Kyurem 拿在手上，第 2 回合只靠 Academy at Night（场地卡不受锁）就能放到牌库顶。
 
@@ -251,11 +255,11 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 之后每回合（各取 1）：Metallic Hammer 击倒战斗场的 Alakazam 或 Dudunsparce。
 - 对手放下 Fezandipiti ex（它要在自己宝可梦被击倒后才能抽 3，所以你击倒东西后它很可能出现）：下个回合 Thunder Raid 210 击倒，取 2。Lillie's Clefairy ex 同理。
 - 一条现实的路线：Trifrost 或 Hammer 2 张 + Fezandipiti ex 2 张 + Hammer 2 张，共 5 到 6 个攻击回合；对手同样要击倒你 6 次，比拼的是谁的攻击手先断（推断）。
-- Shaymin 的处理（推断）：它 80 HP、有特性，Cofagrigus 的 Law of the Underworld 能放 60；Battle Cage 在场时后备区的指示物会被挡，先用 Academy at Night 把 Battle Cage 换掉。
+- Shaymin 的处理：它 80 HP，Flower Curtain 只挡伤害，不挡指示物。SSP 83 版 Cofagrigus 的 Law of the Underworld 在它身上放 6 个（它有特性），还差 2 个，要再加 Ghostly Blow 的 5 个或第二次 Law；少数卡表带的 Spectrier（ASC 98）一次放 12 个，Cofagrigus（WHT 40）能把我方后备区一只宝可梦身上的指示物全部挪过去（要有 8 个以上），都是一下收掉（录像见 vs Festival Lead 一节）。Battle Cage 在场时后备区的指示物会被挡，先用 Academy at Night 把 Battle Cage 换掉。
 
 **对手的套路，怎么防**
-- Powerful Hand 放的是指示物不是伤害：你的 Lucky Helmet 的条件是"受到招式伤害"，被 Powerful Hand 击倒时不会抽 2（推断，按卡牌文字）。
-- Battle Cage 是对手的场地，Academy at Night 盖掉它就恢复你后备区指示物的效果；对手会再打 Battle Cage，你也要多备一张。
+- Powerful Hand 放的是指示物不是伤害：你的 Lucky Helmet 的条件是"受到招式伤害"，被 Powerful Hand 击倒时不会抽 2。录像：2026 世界赛第 10 轮第 3 局 Karjala（Slowking）1-2 Cassiraga（TEF-PBL），解说也指出 Lucky Helmet 没有触发（[3:03:00](https://www.youtube.com/watch?v=qwBID2ApsOY&t=10980s) 起）。
+- Battle Cage 是对手的场地，Academy at Night 盖掉它就恢复你后备区指示物的效果；对手会再打 Battle Cage，你也要多备一张。反过来，对手的 Battle Cage 也会弃掉你的 Academy at Night：同一场 Karjala 复制 Metagross 打倒一只后，Cassiraga 用 Battle Cage 盖掉 Academy at Night，Karjala 之后控不了牌库顶，被收尾（[3:12:30](https://www.youtube.com/watch?v=qwBID2ApsOY&t=11550s)）。
 - Eri（看你手牌，弃 2 张物品）：Poké Pad、Wondrous Patch 会被弃。关键目标宝可梦尽量放在牌库里，用 Codebreaking 在当回合叠到顶（推断）。
 - Enhanced Hammer：你的 Telepathic Psychic Energy 和 Boomerang Energy 会被弃。轮到 Slowking 时尽量贴基本 Psychic Energy，Wondrous Patch 从弃牌区补（只补后备区）。
 - 对手在你剩 3 张以下时才会用 Special Red Card 打乱你的手牌，你也可以反过来用：你方有 10 份卡表带 Special Red Card，对手剩 3 张以下时让对手手牌放到牌库底再抽 3，对手下个回合的手牌要从 3 张重新抽起，Powerful Hand 的伤害会明显下降（推断，本对局无数据）。
@@ -270,6 +274,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - Battle Cage 在场时用 Ghostly Blow 指望后备区 5 个指示物。
 - 把 Mega Kangaskhan ex、Latias ex 放上场抽牌或撤退，被 Powerful Hand 白拿 2 到 3 张。
 - Fezandipiti ex 在对手后备区停了一回合都没去收（Thunder Raid 正好 210）。
+- 战斗场的 Slowpoke 没贴能量就进化：Wondrous Patch 只能补后备区，这只 Slowking 只能靠每回合手贴，多半攻击前就被 Powerful Hand 收掉，白用一张 Slowking。在后备区进化、补好能量，等战斗场的被击倒再换上来（同一场，[3:08:30](https://www.youtube.com/watch?v=qwBID2ApsOY&t=11310s)）。
 
 ---
 
@@ -285,9 +290,10 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 不要把 Mega Kangaskhan ex 留在战斗场：Maximum Drilling 加满 5 个能量打 330，击倒 300 HP 的 Kangaskhan 送 3 张。
 
 **奖赏卡路线**
-- 你第 2 回合（取 3）：Trifrost 击倒 Beldum（70）、Drilbur（70）、Metang（100）中的 3 只（对手后备区有 Shaymin 时只有战斗场受伤）。
+- 你第 2 回合（取 3）：Trifrost 击倒 Beldum（70）、Drilbur（70）、Metang（100）中的 3 只（对手后备区有 Shaymin 时只有战斗场受伤）。对手的 Hero's Cape（58% 卡表）挂在 Metang 上是 200，Trifrost 打不倒，这一回合少拿 1 张。
 - 你第 3 回合（取 3）：后备区的 Mega Skarmory ex（260）吃过 Trifrost 后，Thunder Raid 210 补到 320，击倒拿 3 张。战斗场的 Mega Excadrill ex：SSP 100 版 Annihilape 的 Destined Fight 直接同归于尽，你送 1 张，拿 3 张。
 - 你第 4 回合（取最后 1 到 3 张）：剩下的 Genesect ex（220）后备区时 Trifrost 110 + Thunder Raid 210 = 320 击倒；残血小怪 Trifrost 收。
+- 对手后备区没有 Shaymin 时，两次攻击就能拿完 6 张：Trifrost 收 3 只进化前宝可梦，下一次复制 Destined Fight 和战斗场的 Mega Excadrill ex 同归于尽（信心 70%，slk-mex-01）。录像：2026 世界赛第 1 天第 4 轮 CAI YI 2-0 Zapata（TEF-PBL；Zapata 带 Hero's Cape，没带 Shaymin）。第 1 局 Trifrost 收掉三只 Metang，对手的能量加速一下子没了（[5:31:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=19860s)），接着 Destined Fight 拿完（[5:34:30](https://www.youtube.com/watch?v=iEM8bQbnA90&t=20070s)）；第 2 局又是 Trifrost 3 张（[5:47:30](https://www.youtube.com/watch?v=iEM8bQbnA90&t=20850s)），被追回 3 张后用 Destined Fight 收尾（[5:54:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=21240s)）。
 - 不带 Destined Fight 时，满血 Mega Excadrill ex 要三步：Trifrost 110 + Thunder Raid 210（它在后备区时）= 320，还差 20；加 Munkidori 30 或 Ghostly Blow 的 5 个指示物。Hero's Cape（58% 卡表）再 +100 到 440 时更难，优先打别的目标。
 
 **对手的套路，怎么防**
@@ -300,7 +306,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 **关键卡与构筑**
 - 你方（n 均 ≥ 15）：带 Zeraora 低 9.6 个百分点（36 对 15）；Lucky Helmet 高 8.6（24 对 27）；Secret Box 高 8.0（31 对 20）；Surfer 和 Prime Catcher 差别不到 2 个百分点。Annihilape 不带的样本只有 10 局，不引用。
 - 对手方：带 Shaymin 的卡表对你高 29.5 个百分点（24 对 23），与"Shaymin 挡住 Trifrost 后备区伤害"一致；Fezandipiti ex 高 19.2（32 对 15）；Hero's Cape 高 15.0（20 对 27）；Pokégear 3.0 高 14.4（26 对 21）；Team Rocket's Transceiver 低 22.4（15 对 32）；Precious Trolley 低 10.3（18 对 29）。
-- 建议：这是优势对局，不必为它改卡表；SSP 100 版 Annihilape 的 Destined Fight 在此对局账面价值最高（3 换 1）（推断，数据样本不足）。
+- 建议：这是优势对局，不必为它改卡表；SSP 100 版 Annihilape 的 Destined Fight 在此对局价值最高（3 换 1），录像里两局都靠它收尾（见奖赏卡路线）；带不带它的数据样本不足，比不出差别。
 
 **常见失误**
 - Thunder Raid 打满血的 Mega Excadrill ex（210 对 340）。
@@ -350,17 +356,18 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 对手全是单奖、低 HP：Grookey 70、Thwackey 100、Applin 40、Dipplin 80、Goldeen 50、Seaking 110、Rellor 50、Rabsca 70、Shaymin 80。Trifrost 110 能一击击倒对手卡表里每一只宝可梦。
 - Festival Grounds 在场时，带 Festival Lead 的 Dipplin（TWM 18）可以攻击两次：Do the Wave 每只后备区宝可梦 20，后备区 5 只就是 100 + 100 = 200，击倒 Slowking；第一下击倒的话第二下打新上来的。
 - 对手挡 Trifrost 的手段：Rabsca（TEF 24，98% 卡表）让后备区不受招式伤害和效果；Shaymin（DRI 10，82%）让后备区无规则宝可梦不受招式伤害。它们在场时，Trifrost 只打得到战斗场。
-- 所以这一局的核心是两件事：用 Academy at Night 盖掉 Festival Grounds，和先拆掉 Rabsca / Shaymin（推断）。
+- 所以这一局的核心是两件事：用 Academy at Night 盖掉 Festival Grounds，和先拆掉 Rabsca / Shaymin。录像：Melbourne 2026 第 1 天第 6 轮 Kwak（Slowking）2-1 Palmer（Festival Lead，TEF-POR），Kwak 赢的两局都是这样打的，见下。
 
 **开局与先后攻**
 - 先攻（推断）：你第 2 回合时对手的 Rellor 可能还没进化成 Rabsca。
-- 战斗场 Slowpoke。Mega Kangaskhan ex 不怕单次 Do the Wave，但 Gladion's Final Battle（非规则宝可梦 +80）+ Brave Bangle（对 ex +30）让 Dipplin 一下 210、两下 420，会被一回合击倒送 3 张；没有 Gladion 时，Kieran（94% 卡表）+ Brave Bangle 在对手后备区 5 只时也有 160×2 = 320。
+- 战斗场 Slowpoke。Mega Kangaskhan ex 不怕单次 Do the Wave，但 Gladion's Final Battle（非规则宝可梦 +80）+ Brave Bangle（对 ex +30）让 Dipplin 一下 210、两下 420，会被一回合击倒送 3 张；没有 Gladion 时，Kieran（94% 卡表）+ Brave Bangle 在对手后备区 5 只时也有 160×2 = 320。少数卡表（现在 51 份里 2 份）带 Black Belt's Training（对战斗场的 ex +40），加 Brave Bangle 是 170×2 = 340：同一场第 2 局 Palmer 就这样一回合击倒了战斗场的 Kangaskhan，拿 3 张（[3:04:30](https://www.youtube.com/watch?v=xiA34-ViCgc&t=11070s)）。
 
 **奖赏卡路线**
 - 你第 2 回合（取 1 到 3）：如果对手后备区还没有 Rabsca 和 Shaymin，Trifrost 打战斗场 + 2 只后备区（优先 Rellor、Thwackey、Dipplin），最多 3 张。
-- 有 Rabsca 或 Shaymin 时（取 1）：先拆防护。Prime Catcher（28% 卡表）把 Rabsca 或 Shaymin 拉到战斗场击倒；注意 Rabsca 在战斗场时特性仍然保护后备区，所以这一回合只能拿 1 张（推断）。没有 Prime Catcher 就每回合 Trifrost 打战斗场 110（任何战斗场宝可梦一击），等对手换上防护宝可梦。
+- 有 Shaymin、没有 Rabsca 时（取 1）：先收 Shaymin，下回合再用 Trifrost 清场（信心 60%，slk-fes-01）。Prime Catcher（28% 卡表）把它拉到战斗场击倒；Flower Curtain 只挡伤害、不挡指示物，所以放指示物的复制招式在后备区就能收它：Spectrier（ASC 98）的 Phantasmal Barrage 放 12 个，Cofagrigus（WHT 40）把我方后备区一只宝可梦身上的指示物全部挪过去（要有 8 个以上）；SSP 83 版 Cofagrigus 的 Law of the Underworld 只放 6 个，还要加 Ghostly Blow 的 5 个。录像：同一场第 1 局，Kwak 复制 Cofagrigus，从自己后备区挪了 8 个指示物收掉 Shaymin（[2:43:00](https://www.youtube.com/watch?v=xiA34-ViCgc&t=9780s)）；第 3 局复制 Spectrier 放 12 个（[3:09:30](https://www.youtube.com/watch?v=xiA34-ViCgc&t=11370s)），两局都是接着用 Trifrost 清场赢下。Spectrier 和 WHT 40 版 Cofagrigus 在现在的卡表里各只有 2 份（103 份）；对手的 Lana's Aid（33% 卡表）能把 Shaymin 捡回来（同一场第 2 局）。
+- 有 Rabsca 时（取 1）：Rabsca 的 Spherical Shield 连招式的效果也挡，放指示物也没用，只能用 Prime Catcher 把它拉到战斗场击倒；注意 Rabsca 在战斗场时特性仍然保护后备区，所以这一回合只能拿 1 张（推断）。没有 Prime Catcher 就每回合 Trifrost 打战斗场 110（任何战斗场宝可梦一击），等对手换上 Rabsca。
 - 防护拆掉后（每回合取 3）：Trifrost 一次 3 张。
-- 每回合都用 Academy at Night 盖掉 Festival Grounds：Dipplin 只能打一次，后备区满 5 只是 100，打不倒 Slowking（120）。例外是对手打出 Gladion's Final Battle（最后一张手牌时，非规则宝可梦 +80），单次也有 180，所以对手手牌只剩 1 张时要预期这一下。
+- 每回合都用 Academy at Night 盖掉 Festival Grounds：Dipplin 只能打一次，后备区满 5 只是 100，打不倒 Slowking（120）；同一场第 1 局 Academy at Night 留在场上的那几回合，战斗场的 Kangaskhan 一直没事。例外是对手打出 Gladion's Final Battle（最后一张手牌时，非规则宝可梦 +80），单次也有 180，所以对手手牌只剩 1 张时要预期这一下。
 
 **对手的套路，怎么防**
 - Festival Grounds ×4 与你的 Academy at Night ×4 拉锯。对手在自己回合打出 Festival Grounds 就能当回合连击，你挡不住当回合；但你在自己回合换掉它，对手下回合就得再用一张。
@@ -373,12 +380,13 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 你方（n 均 ≥ 15）：带 Surfer 高 18.1 个百分点（33 对 27）。其余你方卡（Unown、Pawmot、Budew、Lana's Aid、Switch 不带的一组）样本都不足 15。
 - 对手方：带 Lana's Aid 高 12.3（18 对 35）；Psyduck 高 9.5（18 对 35）；Tool Scrapper 高 8.0（36 对 17）；Forest of Vitality 低 5.1（17 对 36）。Shaymin 不带的只有 11 局，不引用，但它挡 Trifrost 的作用是卡牌文字直接给出的。
 - Unown 的 Mysterious Signal 40 可以击倒战斗场的 Applin（40 HP）并多拿 1 张（推断）。
-- 建议：此对局 Prime Catcher 比 Secret Box 更有用，因为要把 Rabsca / Shaymin 拉出来（推断）。
+- 建议：此对局 Prime Catcher 比 Secret Box 更有用，因为要把 Rabsca / Shaymin 拉出来（推断）。Spectrier（ASC 98）或 WHT 40 版 Cofagrigus 也能在后备区收 Shaymin，但 Rabsca 在场时没用。
 
 **常见失误**
 - Rabsca 或 Shaymin 在场时用 Trifrost 打后备区，伤害全被挡。
 - 手上没有 Academy at Night，让 Festival Grounds 留在场上，被 200 连击。
 - 指望 Pawmot / Drapion 的麻痹，而 Festival Grounds 在场时有能量的宝可梦免疫。
+- Festival Grounds 在场时把 Kangaskhan 留在战斗场：对手的 Gladion's Final Battle、Kieran 或 Black Belt's Training 加 Brave Bangle，两次 Do the Wave 一回合送 3 张（Melbourne 2026 第 1 天第 6 轮第 2 局）。
 
 ---
 

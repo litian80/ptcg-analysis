@@ -186,7 +186,8 @@
 - 对手手牌被 Stamp 打小之后，Boss's Orders 拉 Kadabra（抽牌引擎）比打 Alakazam 更有效（同一场第 1 局，Huh 这样赢下）。
 - 用单奖攻击手换对手的单奖：Enamorus（120 HP，1 奖）和 Chien-Pao（120 HP，1 奖，Icicle Loop 120 击倒 Kadabra / Abra / Dunsparce，打不倒 140 的 Alakazam）。我方 2 奖 ex 不要无意义地站在战斗场（推断）。
 - 场地：对手的 Battle Cage（75%，3 张）只挡"放在后备区的指示物"，挡不住我们打后备区的招式伤害；Nighttime Mine（52%，3 张）让太晶宝可梦的招式多 1 个无色（两种 Ogerpon 受影响）。两张都会替换我们的 Area Zero，后备区回到 5 只。Chien-Pao 的 Snow Sink 可以弃掉它们。
-- Genesect（SFA 40，95%）带道具时我们不能打出 ACE SPEC（Prime Catcher、Unfair Stamp）。Genesect 110 HP，Chien-Pao 120 或 Wellspring 后备区 120 一击（推断优先度）。
+- Genesect（SFA 40，95%）带道具时我们不能打出 ACE SPEC（Prime Catcher、Unfair Stamp）。Genesect 110 HP，Chien-Pao 120 或 Wellspring 后备区 120 一击（推断优先度）。Special Red Card 不是 ACE SPEC，Genesect 挡不住，所以对这副卡组，手牌干扰要靠 Special Red Card，而不是 Unfair Stamp（信心 65%，bbm-adu-01）。录像：2026 世界赛第 1 天第 8 轮 Arai 0-2 Cassiraga（TEF-PBL）。Arai 的卡表只有 Unfair Stamp，没有 Special Red Card；Cassiraga 第 1 局放下 Genesect 挂上道具，Stamp 就打不出来了（[10:47:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=38820s)），他的手牌一直在 11 到 16 张。
+- Pecharunt（SVP 149，不是 Pecharunt ex；现在 116 份卡表里 22 份带）能对付站在战斗场的 Genesect：Poison Chain 10 加中毒，对手下回合不能撤退；Pecharunt 留在战斗场时，它的特性 Toxic Subjugation 让中毒每次多放 5 个指示物（每次宝可梦检查共 60），两次检查就击倒 110 的 Genesect（前提是 Pecharunt 撑过对手那一回合，它只有 80 HP）。不能撤退挡不住 Switch 这类换人的卡：同一场第 1 局 Arai 这样打，Cassiraga 把 Genesect 换下来，又放了第二只（[10:57:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=39420s)；Cassiraga 带 2 只 Genesect）。
 - 对手带 Rabsca 时，后备区受它保护（Spherical Shield 挡住招式对后备区的伤害和效果），Wellspring 后备区 120 打 Kadabra 这条路线不成立；对手的 Forest of Vitality 让 Rabsca 放下当回合就能进化（同一场，Ng 两样都带）。
 - 我方唯一的太晶宝可梦被击倒，Area Zero Underdepths 立刻失效，后备区要弃到 5 只。后备区至少留两只太晶 Ogerpon，或者先放 Meowth ex（同一场第 3 局，Ng 击倒 Huh 唯一的 Teal Mask 后，Huh 放下 Clefairy 就连 Meowth 都放不下了）。
 - Eri（95%）看我们手牌并弃 2 张物品：Energy Switch、Ultra Ball 能当回合用就当回合用，不要囤在手里（推断）。
@@ -195,7 +196,7 @@
 **关键卡与构筑**
 - Iron Crown ex：带 64.3%（43 局）对不带 42.4%（44 局），是本对局最有用的单卡，符合"一次狙两只 Abra"的卡牌逻辑。
 - Enamorus：带 62.2%（37）对不带 46.7%（50）。
-- Special Red Card：带 58.3%（48）对 47.0%（39）。
+- Special Red Card：带 58.3%（48）对 47.0%（39）。对手的 Genesect 挡不住它（见上）。
 - Crispin / Water Energy 带 52.3%（72）对不带 57.8%（15），差距小。
 - 对手方：Special Red Card 带 84.8%（35）对 62.9%（44）；Night Stretcher 76.5%（61）对 59.3%（18）；Psyduck 带 55.6%（18）对 77.6%（61）；Lana's Aid 65.2%（47）对 83.3%（32）；Dedenne 63.1%（37）对 81.0%（42）；Enhanced Hammer 62.9%（35）对 80.3%（44，符合"打不到我们"）。
 - 构筑建议：这个对局常见就把 Iron Crown ex 和 Enamorus 作为固定位（推断）。

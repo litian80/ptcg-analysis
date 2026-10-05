@@ -24,3 +24,12 @@ judgments:
     window: TEF-30C
     depends_on: [Mega Kangaskhan ex, Latias ex]
     where: data/matchups/basic-box-m.md
+  - id: bbm-adu-01
+    vs: alakazam-dudunsparce
+    text: 对 Alakazam Dudunsparce，手牌干扰靠 Special Red Card：它不是 ACE SPEC，对手的 Genesect 挂上道具后照样能打，Unfair Stamp 就打不出来
+    confidence: 0.65
+    weight: 3
+    basis: 卡牌文字（Genesect 的 ACE Nullifier 只挡 ACE SPEC）；数据：本对局带 Special Red Card 的卡表 58.3%（48 局），不带的 47.0%（39 局）；录像：2026 世界赛第 1 天第 8 轮 Arai 0-2 Cassiraga（TEF-PBL），Arai 只带 Unfair Stamp，被 Genesect 封住
+    window: TEF-30C
+    depends_on: [Special Red Card, Genesect, Unfair Stamp]
+    where: data/matchups/basic-box-m.md
