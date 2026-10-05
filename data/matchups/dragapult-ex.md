@@ -202,7 +202,7 @@
 - 我们更快。Alakazam 第 2 回合靠 Rare Candy 才能上，没有 Rare Candy 就是第 3 回合。
 - 对手的伤害：Powerful Hand（1 个超能）按手牌每张放 2 个指示物到我方战斗场。放的是指示物，不吃弱点，Fairy Zone 对它没影响。打 Dragapult ex（320）要 16 张手牌，Drakloak（90）要 5 张，Meowth ex（170）要 9 张，Fezandipiti ex（210）要 11 张。
 - 奖赏卡：对手除 Fezandipiti ex（和可能的 Lillie's Clefairy ex）外全是单奖，我们要击倒 6 次，所以必须每回合"战斗场 1 只 + 后备区 1-2 只"。对手只要击倒 3 只 Dragapult ex。
-- 胜负手是场地：对手 75% 卡表带 3 张 Battle Cage（挡住招式和特性往后备区放指示物），52% 卡表带 3 张 Nighttime Mine（太晶宝可梦的招式多要 1 个无色，Phantom Dive 变成 3 个能量）。Risky Ruins 能换掉这两张。
+- 胜负手是场地：对手 75% 卡表带 3 张 Battle Cage（挡住招式和特性往后备区放指示物），52% 卡表带 3 张 Nighttime Mine（太晶宝可梦的招式多要 1 个无色，Phantom Dive 变成 3 个能量）。Risky Ruins 能换掉这两张；Team Rocket's Watchtower 也能，还顺带关掉对手 Dudunsparce 的 Run Away Draw（无色宝可梦没有特性，双方都算），见"关键卡与构筑"。
 
 **开局与先后攻**
 - 后备区 Dreepy ×3、Munkidori。后攻时 Budew 锁物品能挡对手第 2 回合的 Rare Candy、Buddy-Buddy Poffin、Poké Pad（推断，Rare Candy 是对手第 2 回合上 Alakazam 的唯一途径）。
@@ -222,14 +222,16 @@
 
 **对手的套路，怎么防**
 - 主线：Battle Cage 护住 Abra / Kadabra，用 Kadabra、Alakazam、Dudunsparce 的进化抽牌把手牌养到 16 张，一击 Dragapult ex。
-- 控手牌：Unfair Stamp（上回合我方有宝可梦被击倒时）让对手只剩 2 张手牌，Powerful Hand 掉到 40；Judge 回到 4 张；Special Red Card（对手剩 3 张以下）回到 3 张。对手的 Genesect（SFA 40）带道具时我们不能打 ACE SPEC，Unfair Stamp 会被封，先用 Phantom Dive 或 Boss 处理 Genesect（110 HP）（推断）。
+- 控手牌：Unfair Stamp（上回合我方有宝可梦被击倒时）让对手只剩 2 张手牌，Powerful Hand 掉到 40；Judge 回到 4 张；Special Red Card（对手剩 3 张以下）回到 3 张。对手的 Genesect（SFA 40）带道具时我们不能打 ACE SPEC，Unfair Stamp 会被封，先用 Phantom Dive 或 Boss 处理 Genesect（110 HP）（推断）。Special Red Card 不是 ACE SPEC，Genesect 封不住它；Tool Scrapper 弃掉 Genesect 身上的道具也能解封（按卡牌文字推断）。录像：NAIC 2026 少年组决赛（Giffen 的 Dragapult ex 2-0 Oono 的 Alakazam；NAIC 在世界赛之前，用到的卡现在都还合法）第 1 局，Giffen 的 Stamp 被封，最后一回合改用 Special Red Card。
+- 对手 Alakazam 挂着 Lucky Helmet 时，我们每打它一次，对手就抽 2 张，等于帮它凑手牌（只有走牌库耗尽路线时这才对我们有利）。Tool Scrapper 先弃掉 Helmet 再打。录像：同一场第 2 局，Oono 挂着 Helmet 凑到 16 张，一击 Dragapult ex；Giffen 下一回合用 Tool Scrapper 弃掉 Helmet，再打 Watchtower 和 Special Red Card，第二只 Dragapult ex 击倒 Alakazam，Oono 投降。
+- 对手的能量多是特殊能量（Telepathic Psychic Energy，ACE SPEC 的 Enriching Energy），Enhanced Hammer 能拆。录像：同一场第 1 局，Giffen 先打 Special Red Card 和 Watchtower，再用 Boss's Orders 拉出贴着 Enriching Energy 的 Dunsparce，Enhanced Hammer 拆掉对手唯一的 ACE SPEC，Phantom Dive 加场上已有的指示物一回合拿 4 张（[3:25:50](https://www.youtube.com/watch?v=igPt0ZyyUSY&t=12350s)），Oono 投降。我方卡表很少带 Enhanced Hammer 和 Tool Scrapper，算可选的针对卡（推断）。
 - Handheld Fan（59% 卡表）：带 Fan 的宝可梦在战斗场被我们打到时，把攻击手的 1 个能量挪到我方后备区。Dragapult ex 下回合要再补能量才能打，提前准备手贴（推断）。
 - 对手带 Lillie's Clefairy ex 时，Kadabra 的 Super Psy Bolt 30 对 Dragapult ex 变 60，Full Moon Rondo 也翻倍。Clefairy 本身是对手少有的 2 奖目标，值得 Boss（推断）。
 - Shaymin（DRI 10）的 Flower Curtain 只挡伤害，不挡 Phantom Dive 的指示物。
 - 手里一直握着 Unfair Stamp 本身就是威慑：对手知道击倒我方就会被 Stamp。世界赛决赛第 2 局 Cassiraga 一直没找到道具挂在 Genesect 上来封 Stamp，就拖了好几回合不进攻，三次 Run Away Draw 把自己的牌库抽薄（推断其动机）。
 
 **关键卡与构筑**
-- Team Rocket's Watchtower：带的 58.1%（31 局）对不带的 71.6%（163 局），−13.5。它能关掉对手的 Dudunsparce 抽牌，但会占掉场地位置，和 Risky Ruins 抢节奏（推断）。
+- Team Rocket's Watchtower：带的 58.1%（31 局）对不带的 71.6%（163 局），−13.5。它能关掉对手的 Dudunsparce 抽牌，但会占掉场地位置，和 Risky Ruins 抢节奏，我们自己的 Dudunsparce、Meowth ex 也会被关掉（推断）。录像的方向相反：NAIC 2026 少年组决赛 Giffen 两局都打了 Watchtower（第 1 局用它换掉对手的 Nighttime Mine），同时关掉对手的 Run Away Draw，2-0 赢下。只是一场少年组，先当作一种可选打法。
 - Special Red Card：带的 67.0%（117 局）对不带的 73.2%（77 局），−6.2。但 BrentyMon（Brisbane 第 3）认为这个对局应该带，和数据方向相反；他还认为第 3 张场地卡用 Jamming Tower 不如换成 Special Red Card。数据只有 194 局，这个差值可能是噪声（推断）。
 - Judge、Moltres、Dunsparce 线：差距都在 ±2.5 以内，没有影响。
 - 对手方面：带 Shaymin 的对手 48.2%（101 局）对不带的 71.1%（60 局）；带 Lillie's Clefairy ex 的 67.2%（61 局）对不带的 50.3%（100 局）；带 Special Red Card 的 62.7%（67 局）对不带的 52.5%（94 局）；带 Nighttime Mine 的 59.7%（91 局）对不带的 52.9%（70 局）。
