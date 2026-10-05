@@ -120,11 +120,13 @@ def write_outputs(
 
 
 PRIZE_NOTE = ("Prizes left, read from the overlay's six prize markers per player (left panel / right panel). "
-              "A count is kept once two samples in a row agree. Counts only go down, so replays are ignored; "
-              "a count that goes back up starts a new game once it holds (20 s for a fresh 6-6 board, a minute "
-              "otherwise). A time range means a pop-up or banner hid the panel and the knockout happened inside "
-              "it. The last prize of a game is often missing because the broadcast cuts away on the winning "
-              "knockout, and a sudden-death game can merge into the next one.")
+              "A count is kept once two samples in a row agree. Frames with the REPLAY banner are skipped, and "
+              "counts only go down, so older boards shown again are ignored; a count that goes back up starts a "
+              "new game once it holds (20 s for a fresh 6-6 board, a minute otherwise). The markers are set by "
+              "hand, usually 20-30 s after the knockout, so look just before the time shown; a time range means "
+              "a pop-up or banner also hid the panel. The last prize of a game is often missing because the "
+              "broadcast cuts away on the winning knockout, and a sudden-death game that ends without a prize "
+              "taken runs into the next game.")
 
 
 def _games(meta: dict, captions: CaptionAnalysis, prizes: list[PrizeChange]):
@@ -207,7 +209,7 @@ def write_review_pack(
         game = game_at(games, t)
         lines += [f"## Window {n}: {_link(url, t)} - {fmt_ts(w_end)}" + (f" (game {game})" if game else ""), ""]
         for f in pick_frames(in_window, max_frames):
-            lines.append(f"- {fmt_ts(f.t)}: `{_frame_path(f.path, out_dir)}`")
+            lines.append(f"- {fmt_ts(f.t)}: `{_frame_path(f.path, out_dir)}`" + (" (replay)" if f.replay else ""))
         if prizes:
             lines.append("")
             lines += _prize_lines(prizes, t, w_end)
