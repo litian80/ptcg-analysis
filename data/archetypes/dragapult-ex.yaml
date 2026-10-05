@@ -185,6 +185,53 @@ evidence:
       - 对 Slowking：后备区少放 Dreepy 挡不住 Trifrost 打战斗场，起手的 Meowth ex 和后备区的 Drakloak、Dreepy 一起吃（第 3 局）
       - 对 Slowking：唯一的 Slowking 被收掉后，对手的 Lillie's Clefairy ex 自己用 Full Moon Rondo 击倒 Dragapult ex（第 1 局）
     caveat: 一场三局（https://www.youtube.com/watch?v=WuXEbywON7g&t=10274s）。
+  - source: video-reviews/melbourne-2026.md（项目共享文件夹）
+    game: Melbourne 2026 区域赛决赛，Sasaki 2-0 Murphy（本卡组镜像，双方都带 4 张 Crushing Hammer）
+    window: TEF-POR
+    confirms:
+      - 镜像：Crushing Hammer 先拆 Darkness（第 1 局 Murphy 拆 Fezandipiti ex 的 Darkness）
+      - 镜像：Watchtower 封住对手的 Meowth ex（第 2 局）
+    adds:
+      - 镜像：Fezandipiti ex 的 Cruel Arrow 逐只收后备区的 Dreepy、Drakloak，第 1 局没放下 Dragapult ex 就赢了（https://www.youtube.com/watch?v=QiiKAduK9HE&t=240s）
+      - 镜像：对手有 Dawn 时第 1 回合的 Judge 适得其反，Dawn 不用物品就找齐 Munkidori、Drakloak、Dragapult ex（https://www.youtube.com/watch?v=QiiKAduK9HE&t=990s）
+    caveat: 一场两局，两局都是先攻方赢；奖赏卡数取自解说。
+  - source: video-reviews/melbourne-2026.md（项目共享文件夹）
+    game: Melbourne 2026 区域赛四强，Murphy（本卡组）2-1 Takemasa（Dragapult Dusknoir，2 张 Budew、2 张 Rare Candy、Judge、Unfair Stamp、2 张 Watchtower，没有 Hammer）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult Dusknoir：后备区的 Fezandipiti ex 被 Boss's Orders 拉出来，加 Dusclops 自爆一回合送 3 张（https://www.youtube.com/watch?v=rHifbhgkGpw&t=26250s）
+      - 对 Dragapult Dusknoir：Judge 等对手手牌攒起来再打（第 3 局）；Crushing Hammer 拆对手 Munkidori 的 Darkness（第 3 局）
+    adds:
+      - 对 Dragapult Dusknoir：先攻第 1 回合只放 Dreepy 没放 Budew，被对手 Judge 加 Itchy Pollen 锁住，手里全是物品（https://www.youtube.com/watch?v=rHifbhgkGpw&t=25260s）
+      - 对 Dragapult Dusknoir：我方 Watchtower 封住对手的 Meowth ex（第 3 局，对手赛后说的）
+    caveat: 一场三局；记分牌没有奖赏卡读数，奖赏卡数取自解说。
+  - source: video-reviews/los-angeles-2026.md（项目共享文件夹）
+    game: Los Angeles 2026 区域赛决赛，Hedrick（本卡组）2-0 Pitcher（Dragapult Dudunsparce，2 张 Rare Candy，没有 Hammer）
+    window: TEF-POR
+    confirms:
+      - 镜像：Crushing Hammer 先拆 Munkidori 的 Darkness（第 2 局）
+      - 镜像：Judge 在对手被锁物品时打（https://www.youtube.com/watch?v=m8np08cT-TQ&t=1350s）
+    adds:
+      - 镜像：Risky Ruins 的 20 加 Dragon Headbutt 70 正好击倒 Drakloak（90），第 2 回合就能打（https://www.youtube.com/watch?v=m8np08cT-TQ&t=810s）
+      - 镜像：对手的 Munkidori 能动时，没有击倒目标先用 Jet Headbutt，不用 Phantom Dive 给它送指示物（https://www.youtube.com/watch?v=m8np08cT-TQ&t=1740s）
+    caveat: 一场两局；Hedrick 第 2 局因为出牌太慢被判罚 2 张奖赏卡。
+  - source: video-reviews/los-angeles-2026.md（项目共享文件夹）
+    game: Los Angeles 2026 区域赛四强，Hedrick（本卡组）2-0 Rutledge（Dragapult Dusknoir，3 张 Rare Candy、Neo Upper Energy、1 张 Crispin，没有 Hammer）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult Dusknoir：先收 Duskull；Budew 挡 Rare Candy，先攻也照锁（第 2 局）
+      - 对 Dragapult Dusknoir：Crushing Hammer 打对手唯一的攻击能量，四次正面里三次拆掉唯一的 Fire
+    adds:
+      - 对 Dragapult Dusknoir：Phantom Dive 故意不击倒，对手的 Fezandipiti ex 抽不了牌、Unfair Stamp 也打不出来（https://www.youtube.com/watch?v=HVAsRXDFn04&t=1110s）
+    caveat: 一场两局；第 1 局对手两只 Duskull 都在奖赏卡里。
+  - source: video-reviews/utrecht-2026.md（项目共享文件夹）
+    game: Utrecht 2026 区域赛决赛，Kunukcu（本卡组）1-2 Posledni（Mega Lopunny Dudunsparce：4 张 Mist Energy、3 张 Battle Cage、4 张 Wally's Compassion、Enriching Energy）
+    window: TEF-POR
+    confirms:
+      - Risky Ruins 留给 Battle Cage：第 2 局在 Ruins 换掉 Cage 的回合一次拿 4 张（https://www.youtube.com/watch?v=lLy0TaVIhvc&t=2700s）
+    adds:
+      - Judge 等对手场上没有 Dunsparce 再打，否则对手进化后用 Run Away Draw 抽回来（第 1 局 https://www.youtube.com/watch?v=lLy0TaVIhvc&t=1080s，第 2 局 https://www.youtube.com/watch?v=lLy0TaVIhvc&t=2370s）
+    caveat: 对手是 Lopunny，手册没有这一节；没有奖赏卡读数，按解说。
 
 mistakes:
   - 对 Battle Cage 卡组时过早打掉 Risky Ruins，关键回合没有场地可换。

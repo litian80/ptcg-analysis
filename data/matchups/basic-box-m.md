@@ -28,7 +28,7 @@
 - Psychic Energy 只有 3 张（加 Crispin 检索），Latias ex 每次 Eon Blade 要 2 个 Psychic。Psychic 能量要循环使用：Energy Switch 挪、Night Stretcher 捡、Glass Trumpet 贴到后备区 Kangaskhan 身上再 Energy Switch 挪给 Latias（推断，按卡牌文字组合）。
 - Area Zero Underdepths 只在我方有太晶宝可梦（两种 Ogerpon）时让后备区到 8 格。对手每打出一张场地卡替换它，双方都要弃到 5 只，打出 Area Zero 的一方先弃。所以后备区第 6-8 格只放"丢了也无所谓"的宝可梦（推断）。Dragapult ex 也是太晶宝可梦，对 Dragapult 系时对手同样能放 8 只。
 - 先后攻：后攻时第 1 回合可以用支援者也可以攻击。按卡牌文字，后攻第 1 回合 Latias ex 能凑出 Eon Blade：手上 1 个 Psychic 手贴，Crispin 找 Psychic（贴给 Latias）+ Grass（进手），Teal Dance 把 Grass 贴给 Ogerpon 并抽 1，再 Energy Switch 把 Grass 挪给 Latias，凑成 Psychic Psychic + 1。对进化卡组（Dragapult、Alakazam、Zoroark）这是领先一回合的机会，所以多数对局倾向选后攻（推断，没有先后攻数据）。
-- 奖赏卡负担：几乎全是 2 奖 ex，Kangaskhan 给 3 张。对手击倒 3 只 2 奖 ex，或 Kangaskhan + 一只 2 奖 + 一只 1 奖就赢。单奖的只有 Chien-Pao（120 HP）和 Enamorus（120 HP）。
+- 奖赏卡负担：几乎全是 2 奖 ex，Kangaskhan 给 3 张。对手击倒 3 只 2 奖 ex，或 Kangaskhan + 一只 2 奖 + 一只 1 奖就赢。单奖的只有 Chien-Pao（120 HP）和 Enamorus（120 HP）。对手全是单奖宝可梦时（Team Rocket's Honchkrow、Hop's Trevenant，现在都不在主流卡组里），Kangaskhan 的 3 张就是对手最划算的目标：用完 Run Errand 就撤下来，受伤后用 Chien-Pao 的 Snow Sink 弃掉 Area Zero，后备区弃到 5 只时把它一起弃掉（推断）。录像里已经三次：NAIC 2026 青少年组决赛 Bumler 的 Honchkrow 一击 Kangaskhan 拿 3 张；Turin 2026 八强 López 的 Hop's Trevenant 收掉 Hagen 的两只 Kangaskhan，各拿 3 张；Utrecht 2026 八强 Vanoverschelde 的 Honchkrow 两局都盯着 Battistella 的 Kangaskhan（[23:00](https://www.youtube.com/watch?v=8P1sYYaNX8A&t=1380s)），解说的话是"对 Honchkrow 时，Kangaskhan 不是盾"。
 - 卡表变体：约 15-20% 的卡表不带 Water Energy / Crispin，改带 Pecharunt（SVP 149）、N's Plan、Prism Energy、Bug Catching Set、Paldean Tauros 等（推断，从各对局"关键卡"表里这几张总是成组出现判断）。这组卡在 Dragapult 系对局里明显更差，在 Slowking 对局里更好，下文各节分别引用。
 
 ---

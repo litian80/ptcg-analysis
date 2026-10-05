@@ -26,3 +26,30 @@ judgments:
     window: TEF-30C
     depends_on: [Budew]
     where: data/matchups/dragapult-ex.md
+  - id: dpx-mir-02
+    vs: dragapult-ex
+    text: 镜像里对手的 Munkidori 有 Darkness 能量时，没有击倒目标就别用 Phantom Dive 撒指示物，先用 Jet Headbutt
+    confidence: 0.6
+    weight: 2
+    basis: 卡牌文字（Adrena-Brain 从对手自己的宝可梦挪指示物）；录像：Los Angeles 2026 决赛第 2 局（TEF-POR），Hedrick 第一次攻击用 Jet Headbutt，解说说是不给对手的 Munkidori 送弹药
+    window: TEF-30C
+    depends_on: [Munkidori]
+    where: data/matchups/dragapult-ex.md
+  - id: dpx-dpd-01
+    vs: dragapult-dusknoir
+    text: 先攻时第 1 回合就把 Budew 放上场（Buddy-Buddy Poffin 能和 Dreepy 一起放），第 2 回合用 Itchy Pollen 锁住对手第 2 回合的 Rare Candy
+    confidence: 0.6
+    weight: 3
+    basis: 录像：Melbourne 2026 四强第 2 局（TEF-POR），Murphy 先攻只放 Dreepy 没放 Budew，被对手第 1 回合 Judge 加 Itchy Pollen 锁住，输掉；Los Angeles 2026 四强第 2 局（TEF-POR），Hedrick 先攻第 1 回合用 Ultra Ball 放下 Budew，锁住对手的 Rare Candy，赢下
+    window: TEF-30C
+    depends_on: [Budew, Buddy-Buddy Poffin, Rare Candy]
+    where: data/matchups/dragapult-ex.md
+  - id: dpx-dpd-02
+    vs: dragapult-dusknoir
+    text: 对手可能握着 Unfair Stamp、后备区有 Fezandipiti ex 时，Phantom Dive 先不击倒，把指示物分到下一发能一次收两只的位置；对手的 Munkidori 有 Darkness 能量时不这样打
+    confidence: 0.6
+    weight: 3
+    basis: 推断；录像：Los Angeles 2026 四强（TEF-POR）Hedrick 两局都这样打，2-0；2026 世界赛四强镜像第 2 局他也这样打
+    window: TEF-30C
+    depends_on: [Unfair Stamp, Fezandipiti ex, Munkidori]
+    where: data/matchups/dragapult-ex.md
