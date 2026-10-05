@@ -178,6 +178,23 @@ evidence:
       - Nighttime Mine 被留到关键回合的 Watchtower 顶掉，一发 Phantom Dive 被收 2 张；Lana's Aid 捡回被 Cursed Blast 收掉的 Abra（第 1 局）
       - 手牌养到 30 张左右，用 Nighttime Mine 和 Boss's Orders 拿最后 2 张（第 1 局）
     caveat: 一场两局（https://www.youtube.com/watch?v=bnVzhTKp3jg）。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 10 轮，Cassiraga（本卡组，最终亚军：2 只 Genesect、Shaymin、Lucky Helmet、4 张 Battle Cage）2-1 Karjala（Slowking）
+    window: TEF-PBL
+    confirms:
+      - 对 Slowking：Shaymin 挡住 Trifrost 的后备区伤害（第 3 局）
+    adds:
+      - 对 Slowking：Battle Cage 盖掉对手的 Academy at Night，对手控不了牌库顶（https://www.youtube.com/watch?v=qwBID2ApsOY&t=11550s）
+    caveat: 只播了第 3 局。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 8 轮，Cassiraga（本卡组）2-0 Arai（Basic Box，只有 Unfair Stamp，没有 Special Red Card）
+    window: TEF-PBL
+    confirms:
+      - 对 Basic Box：Genesect 挂上道具，对手的 Unfair Stamp 打不出来，手牌一直在 11 到 16 张（https://www.youtube.com/watch?v=iEM8bQbnA90&t=38820s）
+    adds:
+      - 对 Basic Box：对手用 Pecharunt 的 Poison Chain 毒战斗场的 Genesect，把它换下来，再放第二只 Genesect（https://www.youtube.com/watch?v=iEM8bQbnA90&t=39420s）
+      - 对 Basic Box：把 Dunsparce 都进化成 Dudunsparce（140），Wellspring 的 Torrential Pump 后备区 120 就打不倒了（第 2 局）
+    caveat: 一场两局；对手整局没摸到 Energy Switch。
 
 mistakes:
   - 只带一张 Battle Cage 或过早打出，被 Risky Ruins 换掉后没有第二张。

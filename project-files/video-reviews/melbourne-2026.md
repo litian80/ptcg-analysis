@@ -1,10 +1,10 @@
 # Melbourne 2026 区域赛复盘
 
-比赛 2026-05-23，环境 TEF-POR（比现在少 CRI、PBL、30C 三个系列），下面用到的关键卡现在都还合法。卡组和成绩对照 data/tournaments/2026-05-23_550_regional-melbourne。八强：Sasaki（Dragapult ex，冠军）、Murphy（Dragapult ex，亚军）、Takemasa（Dragapult Dusknoir）、Akita（Ogerpon Meganium Arboliva）、Krishnan（Raging Bolt Ogerpon）、Kasai（Dragapult ex）、Kodama（Basic Box）、Golding（Dragapult Blaziken）。看了决赛和一场四强；直播里的八强 Akita 对 Krishnan 两边都不在我们的推荐卡组里，没看。
+比赛 2026-05-23，环境 TEF-POR（比现在少 CRI、PBL、30C 三个系列），下面用到的关键卡现在都还合法。卡组和成绩对照 data/tournaments/2026-05-23_550_regional-melbourne。八强：Sasaki（Dragapult ex，冠军）、Murphy（Dragapult ex，亚军）、Takemasa（Dragapult Dusknoir）、Akita（Ogerpon Meganium Arboliva）、Krishnan（Raging Bolt Ogerpon）、Kasai（Dragapult ex）、Kodama（Basic Box）、Golding（Dragapult Blaziken）。看了决赛和一场四强，另外看了第 1 天第 6 轮 Kwak（Slowking）对 Palmer（Festival Lead）；直播里的八强 Akita 对 Krishnan 两边都不在我们的推荐卡组里，没看。
 
 做法：没有调用 API，在你电脑上看截图、对照解说写成。Melbourne 的直播记分牌没有奖赏卡读数，奖赏卡数取自解说。
 
-判断台账（data/judgments/）：决赛是 Dragapult ex 镜像，对照了 dpx-mir-01（Budew 互锁物品时先保住自己能用物品），两局都没出现互锁，记 n/a，见 data/judgments/sources/2026-10-05_video_melbourne-2026.yaml。四强是 Dragapult ex 对 Dragapult Dusknoir，这个对局之前没有登记判断。这次写进手册的关键判断登记成了新判断，编号写在"写进手册的"里。
+判断台账（data/judgments/）：决赛是 Dragapult ex 镜像，对照了 dpx-mir-01（Budew 互锁物品时先保住自己能用物品），两局都没出现互锁，记 n/a，见 data/judgments/sources/2026-10-05_video_melbourne-2026.yaml。四强是 Dragapult ex 对 Dragapult Dusknoir，第 1 天第 6 轮是 Slowking 对 Festival Lead，这两个对局之前都没有登记判断。这次写进手册的关键判断登记成了新判断，编号写在"写进手册的"里。
 
 ## 决赛：Sasaki（Dragapult ex）2-0 Murphy（Dragapult ex）
 
@@ -71,3 +71,38 @@ dragapult-ex.md 的 vs Dragapult Dusknoir（55.5%）说中的：先收 Duskull�
 4. 没写进手册的：对手的能量被 Hammer 拆光后用 Rosa's Encouragement 补回 2 个，手册已经写了。
 
 dragapult-ex.yaml 和 dragapult-dusknoir.yaml 也补了这一场的录像证据。
+
+## 第 1 天第 6 轮：Kwak（Slowking）2-1 Palmer（Festival Lead）
+
+视频：第 1 天直播 https://www.youtube.com/watch?v=xiA34-ViCgc&t=8700s （约 2:25-3:12）。按比赛数据第 6 轮第 3 桌的对阵确认是 Myeongsub Kwak（卡表上写作 Sobi Kwak），最终第 9。那时还没有 Metagross（CRI），Kwak 的复制来源是 2 只 Kyurem、Spectrier（ASC 98）、Haxorus（BLK 70）、Cofagrigus（WHT 40）、SSP 100 版 Annihilape，另带 Genesect（SFA 40）、3 张 Powerglass、4 张 Academy at Night，没有 Prime Catcher。Declan Palmer 最终第 75，他的 Festival Lead 带 Shaymin、1 只 Rellor 和 1 只 Rabsca、Tool Scrapper、2 张 Black Belt's Training、2 张 Brave Bangle、Lana's Aid。
+
+### 第 1 局：Kwak 胜
+
+- 双方来回换场地。Academy at Night 留在场上时，Dipplin 只能打一次，战斗场的 Kangaskhan 没事。
+- Genesect 挂上道具后，Palmer 打不出 ACE SPEC（他的卡表里是 Secret Box）。
+- 关键一步：Kwak 复制 Cofagrigus 的 Extended Damagriiigus，把自己后备区一只宝可梦身上的 8 个指示物挪到 Palmer 后备区的 Shaymin 上，收掉它（Flower Curtain 只挡伤害，挡不住指示物）；下回合 Kyurem 的 Trifrost 清场（[2:43:00](https://www.youtube.com/watch?v=xiA34-ViCgc&t=9780s)）。
+- Kwak 起手把 Spectrier 放上了场，这一局复制不到它。
+
+### 第 2 局：Palmer 胜
+
+- Tool Scrapper 拆掉 Genesect 的道具，Lana's Aid 把 Shaymin 拿回来。
+- Black Belt's Training 加 Brave Bangle，两次 Do the Wave 击倒战斗场的 Mega Kangaskhan ex，一次拿 3 张（[3:04:30](https://www.youtube.com/watch?v=xiA34-ViCgc&t=11070s)）。
+
+### 第 3 局：Kwak 胜
+
+- 复制 Spectrier 的 Phantasmal Barrage，12 个指示物收掉 Shaymin（[3:09:30](https://www.youtube.com/watch?v=xiA34-ViCgc&t=11370s)）。
+- Trifrost 连续两次清场，Palmer 只剩 Psyduck。
+
+### 对照手册
+
+slowking-scr.md 的 vs Festival Lead（49.0%）说中的：核心是 Academy at Night 盖掉 Festival Grounds、先拆 Shaymin 和 Rabsca；Academy at Night 在场时 Dipplin 只能打一次；Kangaskhan 会被一回合打掉送 3 张；Tool Scrapper 会拆道具。
+
+写进手册的（PR #33）：
+
+1. 拆 Shaymin 不只有 Prime Catcher：Spectrier（ASC 98）放 12 个指示物、WHT 40 版 Cofagrigus 挪指示物，在后备区就能收掉它。Rabsca 在场时这条路不通（Spherical Shield 连招式的效果也挡），这一场 Palmer 一直没进化出 Rabsca。"有 Shaymin、没有 Rabsca 时先收 Shaymin，下回合再 Trifrost"登记成判断 slk-fes-01，信心 60%。现在的卡表里这两只复制来源各只有 2 份（103 份）；SSP 83 版 Cofagrigus 只放 6 个，一下收不掉 Shaymin。
+2. 开局一条加上 Black Belt's Training：加 Brave Bangle 是 170×2 = 340，Kangaskhan 一回合就倒（第 2 局）。现在的 Festival Lead 卡表 51 份里只有 2 份带它，Kieran（48 份）加 Bangle 也有 320。常见失误加了对应的一条。
+3. 复制工具箱加了 Cofagrigus（WHT 40）、Spectrier（ASC 98）、Haxorus（BLK 70）三行；通用部分加一条：复制来源别在开局放上场。
+
+没写进手册的：Genesect（SFA 40）挂道具能封对手的 ACE SPEC，但现在的 Slowking 卡表一份都没带它，Festival Lead 又多半带 Tool Scrapper（51 份里 35 份）。
+
+slowking-scr.yaml 和 festival-lead.yaml 也补了这一场的录像证据。

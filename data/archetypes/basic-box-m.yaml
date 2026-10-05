@@ -153,6 +153,16 @@ evidence:
     adds:
       - 对单奖卡组：Honchkrow 一击 Kangaskhan 拿 3 张，解说说"对 Honchkrow 时，Kangaskhan 不是盾"（https://www.youtube.com/watch?v=8P1sYYaNX8A&t=1380s）
     caveat: 一场两局；Honchkrow 不在手册的对手里；第 1 局 Unfair Stamp 在奖赏卡里。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 8 轮，Arai（本卡组，2 只 Kangaskhan、Pecharunt SVP 149、Unfair Stamp，没有 Special Red Card）0-2 Cassiraga（Alakazam Dudunsparce，2 只 Genesect）
+    window: TEF-PBL
+    confirms:
+      - 对 Alakazam Dudunsparce：Genesect 挂上道具后打不出 ACE SPEC，唯一的手牌干扰 Unfair Stamp 用不了（https://www.youtube.com/watch?v=iEM8bQbnA90&t=38820s）
+      - 对 Alakazam Dudunsparce：Kangaskhan 卡在战斗场撤不下来（第 1 局）
+    adds:
+      - 对 Alakazam Dudunsparce：Pecharunt 的 Poison Chain 毒战斗场的 Genesect，对手换下它又放第二只（https://www.youtube.com/watch?v=iEM8bQbnA90&t=39420s）
+      - 对 Alakazam Dudunsparce：Wellspring 的 Torrential Pump 先拿 2 张，对手把 Dunsparce 都进化后，后备区 120 就打不倒了（第 2 局）
+    caveat: 一场两局；整局没摸到 Energy Switch；不带 Special Red Card 是数据里打这个对局较差的构筑。
 
 mistakes:
   - 第一回合就把 Mega Kangaskhan ex 摆进战斗场，被对手先击倒送 3 张。

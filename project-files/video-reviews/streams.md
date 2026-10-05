@@ -11,7 +11,7 @@
 | NAIC New Orleans | 2026-06-10 | TEF-CRI | 第 1 天 UOCabX5Hqrw、第 2 天 pz4kUF2bnl8（2:06 起的 Crustle 镜像已看）、决赛日 igPt0ZyyUSY（TCG 只有少年组、青少年组决赛，已看）；★ 决赛 Kowalski vs Kosek IWA_e9ff_EA（已看，见 naic-2026.md）；四强 Kosek vs Cawthon 转载 YMk7L7SwuCI（第三方同步解说，已看，同一文件） |
 | Turin 特别赛 | 2026-06-06 | TEF-CRI | 第 1 天 NJB0ycdqzMU、T9_eo8noeqc，第 2 天 WuXEbywON7g（官方频道同一场 VVTy6UN0f4Y）；决赛圈直播的 5 场都已看完，见 turin-2026.md：★ 决赛 Kamerman vs López P1gzE_BFuUA；四强 -2gCfGeqBm8、8vgD89uRQOg；八强在第 2 天直播 2:51:14 和 3:56:16（另有转载 RzvabPbaEW0、lvZ98hQg_xs） |
 | Indianapolis 区域赛 | 2026-05-30 | TEF-POR | 第 1 天 1Z6jmnN6-Ks、第 2 天 6Nl_UgEEXM8；决赛圈直播的 3 场都已看完，见 indianapolis-2026.md：★ 决赛 Reddy vs Jones nlj_HY9SoJo；四强 Newdorf vs Jones bnVzhTKp3jg；八强 Reddy（Crustle）vs Sakadjian（Dragapult）rFR1ZVFc5ic |
-| Melbourne 区域赛 | 2026-05-23 | TEF-POR | Oceania TCG 频道 第 1 天 xiA34-ViCgc、第 2 天 rHifbhgkGpw；★ 决赛 Sasaki vs Murphy 转载 QiiKAduK9HE、四强 Murphy vs Takemasa（第 2 天 6:40 起）都已看，见 melbourne-2026.md；八强 Akita vs Krishnan（第 2 天 5:17 起）不在推荐卡组里，没看 |
+| Melbourne 区域赛 | 2026-05-23 | TEF-POR | Oceania TCG 频道 第 1 天 xiA34-ViCgc、第 2 天 rHifbhgkGpw；★ 决赛 Sasaki vs Murphy 转载 QiiKAduK9HE、四强 Murphy vs Takemasa（第 2 天 6:40 起）都已看，见 melbourne-2026.md；第 1 天 2:25 起 Kwak（Slowking）vs Palmer（Festival Lead）也已看（同一文件）；八强 Akita vs Krishnan（第 2 天 5:17 起）不在推荐卡组里，没看 |
 | Lima 特别赛 | 2026-05-23 | TEF-POR | play latam 第 1 天 de9iBKnb8gM、第 2 天 Lj4LEfdTH3I（西班牙语解说；四强 Varea vs Conde Borjas 6:24 起、决赛 7:43 起，按字幕看完，见 lima-2026.md）；决赛另有 jF27aE7Vpzs |
 | Utrecht 区域赛 | 2026-05-16 | TEF-POR | 第 1 天 mKkqlfldyvI、第 2 天 WVxM21wwog8；决赛圈 3 场都已看完，见 utrecht-2026.md：★ 决赛 Kunukcu vs Posledni lLy0TaVIhvc；四强 Kunukcu vs Vanoverschelde o3XA-rOny8A；八强 Vanoverschelde vs Battistella 8P1sYYaNX8A |
 | Campinas 区域赛 | 2026-05-16 | TEF-POR | 没有找到比赛录像，只有 vlog |

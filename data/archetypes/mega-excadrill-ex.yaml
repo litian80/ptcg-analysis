@@ -110,6 +110,16 @@ matchups:
     win_rate: 0.667
     plan: 对手 Dipplin 80 HP 打不动 340 HP 的 Excadrill。
 
+evidence:
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 4 轮，Zapata（本卡组，18 个 Metal、4 只 Metang、Hero's Cape，没有 Shaymin）0-2 CAI YI（Slowking，带 SSP 100 版 Annihilape）
+    window: TEF-PBL
+    adds:
+      - 对 Slowking：没有 Shaymin 时，对手的 Trifrost 一次收掉三只 Metang，能量加速全没了（https://www.youtube.com/watch?v=iEM8bQbnA90&t=19860s）
+      - 对 Slowking：对手复制 Destined Fight，和战斗场的 Mega Excadrill ex 同归于尽拿 3 张（https://www.youtube.com/watch?v=iEM8bQbnA90&t=20070s）；两次攻击就输掉一局
+      - 对 Slowking：Hero's Cape 挂在 Metang 上是 200，Trifrost 打不倒（这一场 Cape 在奖赏卡里，是解说提的）
+    caveat: 一场两局。
+
 mistakes:
   - 两只 Mega 同时摆在场上，被对手连续击倒送 6 张。
   - Excadrill 只有 3 个能量就攻击，打出 200 而不是 330，没拿到击倒。

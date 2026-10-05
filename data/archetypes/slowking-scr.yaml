@@ -153,6 +153,38 @@ evidence:
     adds:
       - 对手早早放下 Shaymin，Trifrost 和 Fezandipiti ex 的 Cruel Arrow 都打不到后备区；卡表没有 Boss's Orders 和 Prime Catcher，拉不出 Shaymin（两局）
     caveat: Hop's Trevenant 不在现在的主流卡组里，这一场只用来说明 Shaymin 的影响（https://www.youtube.com/watch?v=P1gzE_BFuUA）。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 10 轮，Karjala（本卡组，2 只 Metagross、2 张 Lucky Helmet，没有放指示物的复制来源）1-2 Cassiraga（Alakazam Dudunsparce，Shaymin，4 张 Battle Cage）
+    window: TEF-PBL
+    confirms:
+      - 对手的 Shaymin 让 Trifrost 打不到后备区（第 3 局）
+      - Powerful Hand 放的是指示物，Lucky Helmet 不触发（解说也这样讲）
+    adds:
+      - 对手的 Battle Cage 盖掉 Academy at Night 之后控不了牌库顶，被收尾（https://www.youtube.com/watch?v=qwBID2ApsOY&t=11550s）
+      - 战斗场的 Slowpoke 没贴能量就进化，Wondrous Patch 补不到它（https://www.youtube.com/watch?v=qwBID2ApsOY&t=11310s）
+    caveat: 只播了第 3 局。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 4 轮，CAI YI（本卡组，SSP 100 和 PBL 41 版 Annihilape 各 1 只、Prime Catcher、Brave Bangle）2-0 Zapata（Mega Excadrill ex，Hero's Cape，没有 Shaymin）
+    window: TEF-PBL
+    confirms:
+      - Trifrost 一次击倒三只 Metang，拿 3 张（https://www.youtube.com/watch?v=iEM8bQbnA90&t=19860s）
+      - 复制 Destined Fight 和战斗场的 Mega Excadrill ex 同归于尽，一换三（https://www.youtube.com/watch?v=iEM8bQbnA90&t=20070s）
+      - Undermine 弃掉牌库顶的牌（第 1 局弃掉一张 Ciphermaniac's Codebreaking）
+    adds:
+      - 两次攻击拿完 6 张（第 1 局）
+      - 手贴 Telepathic Psychic Energy 的检索会洗牌，Academy at Night 放牌库顶要在它之后（解说强调）
+    caveat: 一场两局。
+  - source: video-reviews/melbourne-2026.md（项目共享文件夹）
+    game: Melbourne 2026 区域赛第 1 天第 6 轮，Kwak（本卡组，CRI 之前的构筑：Spectrier、Cofagrigus WHT 40、Haxorus、Genesect，没有 Metagross 和 Prime Catcher）2-1 Palmer（Festival Lead，Shaymin、Rabsca、2 张 Black Belt's Training）
+    window: TEF-POR
+    confirms:
+      - Academy at Night 盖掉 Festival Grounds 时 Dipplin 只能打一次（第 1 局）
+      - 对手的 Tool Scrapper 会拆道具（第 2 局拆掉 Genesect 的）
+    adds:
+      - 放指示物的复制招式在后备区收掉 Shaymin：Cofagrigus（WHT 40）挪 8 个（https://www.youtube.com/watch?v=xiA34-ViCgc&t=9780s），Spectrier（ASC 98）放 12 个（https://www.youtube.com/watch?v=xiA34-ViCgc&t=11370s），接着 Trifrost 清场
+      - 对手的 Black Belt's Training 加 Brave Bangle，两次 Do the Wave 一回合击倒战斗场的 Mega Kangaskhan ex（https://www.youtube.com/watch?v=xiA34-ViCgc&t=11070s）
+      - 起手把复制来源 Spectrier 放上了场，那一局就复制不到它（第 1 局）
+    caveat: 一场三局；对手一直没进化出 Rabsca，Rabsca 在场时指示物也会被挡。
 
 mistakes:
   - 用 Academy at Night 放好牌库顶后，又打了会洗牌的卡（Lillie's Determination、Ultra Ball、Poké Pad），白放。
