@@ -14,6 +14,10 @@ long enough to be a new game.
 
 The balls are set by hand: on the Frankfurt final they changed 20-30 seconds
 after the knockout.
+
+The overlay is not the same at every event (Baltimore 2026 Day 1 draws the
+balls smaller and on a lighter panel), so there is a preset per overlay and
+``read_prizes_auto`` keeps whichever reads the most frames.
 """
 
 from __future__ import annotations
@@ -53,6 +57,7 @@ class PrizeLayout:
     on: float = 100.0  # mean gray above this = ball lit
     lit: tuple[float, float] = (105.0, 200.0)  # every lit ball must read in this range ...
     dark: tuple[float, float] = (30.0, 80.0)  # ... and every dark slot in this one, or the frame is not the board
+    max_spread: float = 60.0  # lit balls in one column read alike; a wider spread is another overlay or a picture
     replay: ReplayTag | None = None
 
     @property
@@ -75,7 +80,17 @@ PRIZE_PRESETS: dict[str, PrizeLayout] = {
                          rgb=((10.0, 120.0), (135.0, 180.0), (205.0, 230.0)),
                          outside=((520, 545, 32, 50),)),
     ),
+    # Baltimore 2026 Day 1: smaller balls on a lighter panel. Lit balls read
+    # 170-196, empty slots about 107, so the Frankfurt thresholds count empty
+    # slots as balls. REPLAY banner not measured yet.
+    "sides-baltimore": PrizeLayout(
+        columns=((276, 291), (988, 1003)), y0=3, pitch=18, ball=16,
+        on=140.0, lit=(150.0, 215.0), dark=(80.0, 135.0),
+    ),
 }
+
+# Presets tried for each --hash-regions layout when --prizes is "auto".
+PRIZE_FAMILIES: dict[str, tuple[str, ...]] = {"sides": ("sides", "sides-baltimore")}
 
 
 def count_column(column: np.ndarray, layout: PrizeLayout) -> int | None:
@@ -91,6 +106,8 @@ def count_column(column: np.ndarray, layout: PrizeLayout) -> int | None:
     if any(not layout.lit[0] <= m <= layout.lit[1] for m in means[:n]):
         return None
     if any(not layout.dark[0] <= m <= layout.dark[1] for m in means[n:]):
+        return None
+    if n and max(means[:n]) - min(means[:n]) > layout.max_spread:
         return None
     return n
 
@@ -115,6 +132,20 @@ def read_prizes(frames: list[Frame], layout: PrizeLayout) -> None:
         left, right = count_column(strip[:, :lw], layout), count_column(strip[:, lw:], layout)
         # Both columns dark is a dark screen, not a 0-0 board.
         f.prizes = None if banner or left is None or right is None or (left, right) == (0, 0) else (left, right)
+
+
+def read_prizes_auto(frames: list[Frame], presets: dict[str, PrizeLayout]) -> str | None:
+    """Read prizes with each preset and keep the one that reads the most frames; returns its name."""
+    best, best_n, kept = None, -1, None
+    for name, layout in presets.items():
+        read_prizes(frames, layout)
+        n = sum(f.prizes is not None for f in frames)
+        if n > best_n:
+            best, best_n, kept = name, n, [(f.prizes, f.replay) for f in frames]
+    if kept is not None:
+        for f, (prizes, replay) in zip(frames, kept):
+            f.prizes, f.replay = prizes, replay
+    return best
 
 
 def _crops(frames: list[Frame], layout: PrizeLayout, pix_fmt: str, boxes) -> np.ndarray:

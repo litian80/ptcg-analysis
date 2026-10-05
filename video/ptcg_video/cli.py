@@ -14,7 +14,7 @@ from .fetch import chapter_range, fetch_metadata, fetch_youtube, from_local, is_
 from .cardpool import find_data_dir, load_pool, parse_date, season_for
 from .frames import mark_keyframes, parse_regions, sample_frames
 from .lexicon import CardMatcher, load_card_names
-from .prizes import PRIZE_PRESETS, read_prizes
+from .prizes import PRIZE_FAMILIES, PRIZE_PRESETS, read_prizes_auto
 from .report import write_outputs, write_review_pack
 from .timeutil import fmt_ts, parse_ts
 
@@ -82,11 +82,14 @@ def cmd_analyze(args) -> int:
         dead_band = layout.dead_band if args.dead_band is None else args.dead_band
         mark_keyframes(frames, threshold=threshold, dead_band=dead_band)
         _log(f"frames: {len(frames)} sampled, {sum(f.keyframe for f in frames)} keyframes")
-        prize_layout = PRIZE_PRESETS.get(args.hash_regions) if args.prizes == "auto" else PRIZE_PRESETS.get(args.prizes)
-        if prize_layout:
+        if args.prizes == "auto":
+            names = PRIZE_FAMILIES.get(args.hash_regions, ())
+        else:
+            names = () if args.prizes == "off" else (args.prizes,)
+        if names:
             try:
-                read_prizes(frames, prize_layout)
-                _log(f"prize markers: readable in {sum(f.prizes is not None for f in frames)} of {len(frames)} frames")
+                used = read_prizes_auto(frames, {n: PRIZE_PRESETS[n] for n in names})
+                _log(f"prize markers ({used}): readable in {sum(f.prizes is not None for f in frames)} of {len(frames)} frames")
             except RuntimeError as e:
                 _log(f"prize markers: skipped ({e})")
 
@@ -214,7 +217,9 @@ def build_parser() -> argparse.ArgumentParser:
                         "or 'x,y,w,h;...' fractions of the frame")
     a.add_argument("--prizes", default="auto", choices=["auto", "off", *PRIZE_PRESETS],
                    help="read prizes left from the overlay's prize markers: 'auto' (default) does it for layouts "
-                        "with a calibrated marker position (currently 'sides'), 'off' skips it")
+                        "with a calibrated marker position (currently 'sides', trying each overlay preset and "
+                        "keeping the one that reads the most frames), a preset name forces that overlay, "
+                        "'off' skips it")
     a.add_argument("--every", type=float, default=5.0, help="seconds between sampled frames (default 5)")
     a.add_argument("--change-threshold", type=float,
                    help="fraction of a region's pixels that must change to count as a board change "
