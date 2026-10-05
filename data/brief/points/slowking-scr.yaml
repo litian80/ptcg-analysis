@@ -1,0 +1,97 @@
+deck: slowking-scr
+general:
+  - text: "复制来的 Metallic Hammer 是 300（没有钢能量也能 +150，不用弃）：战斗场 300 HP 以内一击，加 Brave Bangle 30 能一击 Hydrapple ex"
+  - text: "攻击前先用完所有洗牌、抽牌的牌（Ultra Ball、Poké Pad、Run Errand、Telepathic 能量），最后才 Academy at Night 放目标再攻击"
+  - text: "Kyurem、Spectrier 这类复制来源有别的基础宝可梦时别放上场，留手上要用时再放牌库顶"
+  - text: "Trifrost / Thunder Raid 后只剩 Boomerang Energy，Wondrous Patch 只补后备区：打之前后备区先备一只有能量的 Slowking"
+  - text: "能先攻就先攻：Slowking 本来第 2 回合才攻击；第 1 回合先用 Poké Pad 把 Kyurem 拿手上，防对手 Budew 锁物品"
+    inferred: true
+matchups:
+  dragapult-ex:
+    - text: "第 2 回合趁对手还是 Dreepy / Drakloak 时 Trifrost 收 3 只，优先 Munkidori（110），别打后备区的 Dragapult ex（Tera 免伤）"
+    - text: "Lillie's Clefairy ex 等要打 Dragapult ex 那回合再放，Fairy Zone 下 Metallic Hammer 600 一击；提前放会被 Boss 拿 2 张"
+      judgment: slk-dpx-01
+    - text: "没有 Clefairy 时满血 Dragapult ex 吃 Hammer 剩 20：挂 Brave Bangle、先放 Ghostly Blow / Munkidori 指示物，或用 Destined Fight"
+    - text: "对手 Risky Ruins 在场时先打 Academy at Night 换掉再铺 Slowpoke，否则 60 指示物一回合收两只"
+      inferred: true
+    - text: "对手用 Budew 锁物品时战斗场 Slowpoke 挂 Lucky Helmet，每次 Itchy Pollen 抽 2 张"
+      judgment: slk-dpx-02
+  n-zoroark:
+    - text: "强烈建议先攻：抢在 Zorua 进化前 Trifrost 收 Zorua、Tatsugiri、Munkidori"
+      inferred: true
+    - text: "别只盯 Zoroark ex：后备区的 N's Zekrom / Reshiram（130）用 Trifrost + 补刀清掉，对手就只剩 Scratch 可复制"
+      inferred: true
+    - text: "战斗场满血 Zoroark ex 用 Metallic Hammer 300 一击；后备区吃过 Trifrost 的用 Thunder Raid 补，满血别用 Thunder Raid"
+    - text: "Mega Kangaskhan ex 别站战斗场（250 + Mochi + Black Belt 330 一击送 3 张），Watchtower 在场时 Run Errand 也失效"
+    - text: "对手 Watchtower 版加 Purrloin、Judge 锁手牌：复制目标别只放手上等 Academy，用 Codebreaking 直接从牌库叠"
+      inferred: true
+  dragapult-dusknoir:
+    - text: "第 2 回合 Trifrost 先打已进化的 Dusclops（下回合能自爆）和 Munkidori，别打 Dragapult ex"
+    - text: "后备区不放 Meowth ex、Fezandipiti ex、Lillie's Clefairy ex 过夜：Phantom Dive 60 + Dusknoir 130 = 190 正好收"
+    - text: "只差 1-2 张时先数对手下回合最多拿几张；战斗场 Kangaskhan 加后备区吃过伤害的够 6 张，就先把 Kangaskhan 换下"
+      judgment: slk-dpd-01
+    - text: "对手有 Dusknoir 时 Kangaskhan 别站战斗场用 Run Errand：Cursed Blast 130 + Phantom Dive 200 收它拿 3 张"
+    - text: "对手有 Budew 时每回合手贴能量优先给下一只 Slowking，Wondrous Patch 被锁就接不上能量"
+      inferred: true
+  basic-box-m:
+    - text: "战斗场的 ex 用 Metallic Hammer 300 一击，战斗场是满血 Mega Kangaskhan ex 就拿 3 张"
+    - text: "后备区非 Tera ex：Trifrost 110 + Thunder Raid 210 两步收；Tera Ogerpon 在后备区打不动，别把 Trifrost 打在它身上"
+    - text: "自己的 Mega Kangaskhan ex 别站战斗场：Raging Bolt ex 弃 5 打 350、Kangaskhan 两次正面 300 都一击送 3 张"
+    - text: "击倒对手后的回合预期被 Unfair Stamp：Kyurem 和 Academy at Night 别都押在手上；Chien-Pao 会拆 Academy，多备一张"
+    - text: "对手铺满 8 格 Area Zero 后再用 Academy at Night 换场地，双方弃到 5 只，对手先弃"
+      inferred: true
+  alakazam-dudunsparce:
+    - text: "对手后备区有 Shaymin 时 Trifrost 只打战斗场，改用 Metallic Hammer 逐只击倒战斗场 Alakazam / Dudunsparce"
+    - text: "对手放下 Fezandipiti ex（或 Lillie's Clefairy ex）的下个回合就 Thunder Raid 210 收，别让它停一回合"
+    - text: "不放 Mega Kangaskhan ex、Latias ex、Meowth ex 上场，它们只是 Powerful Hand 的 2-3 奖目标"
+      inferred: true
+    - text: "Slowpoke 在后备区进化补好能量再换上，别在战斗场没能量就进化，多半攻击前就被 Powerful Hand 收掉"
+    - text: "Battle Cage 会盖掉 Academy at Night，也挡后备区指示物：手里常备 Academy at Night 把它换回来"
+  mega-excadrill-ex:
+    - text: "对手后备区没 Shaymin 时：Trifrost 收 Beldum、Drilbur、Metang 3 只，再 Destined Fight 和战斗场 Mega Excadrill ex 同归于尽拿完"
+      judgment: slk-mex-01
+    - text: "后备区 Mega Skarmory ex（260）吃过 Trifrost 后 Thunder Raid 210 补到 320 拿 3 张；别用 Thunder Raid 打满血 Excadrill"
+    - text: "Mega Kangaskhan ex 别留战斗场：5 个能量的 Maximum Drilling 330 一击送 3 张"
+    - text: "Undermine 会弃牌库顶 2 张：下回合目标别用 Codebreaking 提前叠，当回合用 Poké Pad + Academy at Night 放"
+      inferred: true
+  dragapult-blaziken:
+    - text: "第 2 回合 Trifrost 优先收 Torchic / Combusken 断 Blaziken ex，再加 Munkidori"
+    - text: "Blaziken ex 不是 Tera：后备区先吃 Trifrost 110，下回合 Thunder Raid 210 正好 320 收；满血别直接 Thunder Raid"
+    - text: "战斗场的 Dragapult ex / Blaziken ex 吃 Hammer 剩 20：Fairy Zone 下 600 一击，否则补 20 或 Destined Fight"
+    - text: "Chi-Yu 的 Ground Melter 120 击倒 Slowking 并拆 Academy at Night，多备一张"
+  festival-lead:
+    - text: "每回合用 Academy at Night 盖掉 Festival Grounds，Dipplin 只打一次（100）打不倒 Slowking；对手手牌剩 1 张防 Gladion"
+    - text: "对手后备区有 Shaymin、没有 Rabsca 时先花一回合收 Shaymin（Prime Catcher 或放指示物的复制招式），下回合再 Trifrost 清场"
+      judgment: slk-fes-01
+    - text: "Rabsca 在场时指示物也没用，只能 Prime Catcher 拉到战斗场击倒；没有就每回合 Trifrost 打战斗场等它上来"
+      inferred: true
+    - text: "防护拆掉后 Trifrost 一次 3 张，Thwackey 是引擎优先打"
+    - text: "Festival Grounds 在场时 Kangaskhan 别站战斗场：Gladion、Kieran 或 Black Belt's Training 加 Brave Bangle 一回合送 3 张"
+  dhelmise-pbl:
+    - text: "关键算式 Dhelmise 140 = Trifrost 110 + Munkidori 30；在战斗场时 Metallic Hammer 一击"
+    - text: "对手后备区有 Shaymin 时先清它：Ghostly Blow 5 个 + Munkidori 3 个指示物 = 80 在后备区收，或 Prime Catcher 拉出来"
+      inferred: true
+    - text: "Ghostly Blow / Munkidori 的指示物只放 Dhelmise，Hide 'n' Sneak 宝可梦上无效；Trifrost 先打 Dhelmise，小怪顺带"
+    - text: "Patrat 会关掉 Munkidori，Trifrost 第一时间击倒它"
+    - text: "击倒贴 Legacy Energy 的宝可梦拿 0 张，记得算进路线；Matcha Spin 会收后备区 Slowpoke，尽早进化成 Slowking"
+  ogerpon-meganium-hydrapple:
+    - text: "先攻第 2 回合 Trifrost 收 Chikorita / Bayleef / Applin，在 Meganium 进化前断进化线"
+      inferred: true
+    - text: "战斗场 Hydrapple ex 用 Metallic Hammer 300 + Brave Bangle 30 = 330 一击；满血别用 Thunder Raid（210 对 330）"
+    - text: "Meganium 在战斗场 Hammer 一击，在后备区 Trifrost 110 + Ghostly Blow 5 个指示物两回合收"
+    - text: "Slowking 只贴 2 个能量，别多贴给 Myriad Leaf Shower 送伤害；Trifrost 别打后备区的 Teal Mask Ogerpon ex"
+      inferred: true
+    - text: "后备区留一格给 Kangaskhan，摆满会连续几回合打不出攻击"
+      inferred: true
+  crustle-dri:
+    - text: "Slowking 不是 ex，Crustle 挡不住：两次 Trifrost 收三只 Crustle（110 + 110 超过 170），挂 Cape 的留给 Metallic Hammer"
+    - text: "Trifrost 后下回合尽快补刀，别给 Jumbo Ice Cream / Pokémon Center Lady 回血的时间"
+      inferred: true
+    - text: "对手 Kangaskhan 在后备区时 Trifrost 110 + Thunder Raid 210 拿 3 张；在战斗场用 Destined Fight 一换一"
+    - text: "别让自己的 Mega Kangaskhan ex、Latias ex 攻击 Crustle（伤害 0），自己的 Kangaskhan 只当抽牌用"
+  alakazam-dusknoir:
+    - text: "对手后备区无 Shaymin 时第 2 回合 Trifrost 收 Duskull、Abra、Kadabra；有 Shaymin 就 Metallic Hammer 打战斗场"
+    - text: "之后 Metallic Hammer 一击 Alakazam（140）和 Dusknoir（160）；后备区的 Fezandipiti ex 用 Thunder Raid 210 收"
+    - text: "后备区别摆 Mega Kangaskhan ex 或 Latias ex，会被 Prime Catcher 拉出来用 Powerful Hand 收"
+    - text: "先攻，第 1 回合先把 Kyurem 拿在手上，防 Budew 锁物品"
+      inferred: true

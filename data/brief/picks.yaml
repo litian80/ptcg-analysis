@@ -1,0 +1,37 @@
+# Hand-written part of the pre-tournament brief (python -m ptcg.brief).
+# Numbers are not written here: the brief reads them from data/selection and data/matchups.
+# Tiers are judgments made from those numbers on `decided`; the brief warns when the
+# latest numbers no longer back a tier, and then this file needs a second look.
+window: TEF-30C
+decided: 2026-10-04
+picks:
+  - deck: basic-box-m
+    tier: 首选
+    why: 两个窗口都高于平均，打赢最多的 Dragapult ex，平局最少
+    who: 想要稳定成绩的人；全是基础宝可梦，上手快
+  - deck: alakazam-dusknoir
+    tier: 高上限
+    why: 对 Day 2 环境期望胜率最高，Frankfurt 冠亚军，但样本只有 Basic Box 的六分之一
+    who: 练熟了 Stage 2 双进化线的人；夺冠后对手会开始准备它
+  - deck: dragapult-ex
+    tier: 稳妥
+    why: 环境第一，下限高，但 Day 2 被针对后只剩平均水平
+    who: 熟练度高、求稳进 Day 2 的人
+  - deck: slowking-scr
+    tier: 稳妥
+    why: 两个窗口都约 50%，打 Dragapult 和 Excadrill 有利
+    who: 熟悉复制招式工具箱的人；怕 Alakazam 系和 Dhelmise
+  - deck: crustle-dri
+    tier: 针对
+    why: 打 Dragapult ex 69%，但打 Festival Lead、Mega Excadrill、Slowking 几乎不能打
+    who: 只在预计 Dragapult 特别多的比赛带
+avoid:
+  - deck: alakazam-dudunsparce
+    why: 打最常遇到的 Dragapult ex 只有约三成
+  - deck: mega-excadrill-ex
+    why: 打 Slowking、Alakazam Dudunsparce、Dragapult Blaziken 都很差
+  - deck: dragapult-dusknoir
+    why: 各方面都不如纯 Dragapult ex
+field_notes:
+  - Frankfurt 夺冠后，Alakazam Dusknoir 和 Festival Lead 大概率变多；按 Day 2 份额 5% 和 7% 重算，Basic Box 仍在前列。
+  - Dragapult ex 份额在下降，但仍是遇到最多的对手；不能打 Dragapult 的卡组不要带。

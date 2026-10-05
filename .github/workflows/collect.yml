@@ -49,6 +49,7 @@ jobs:
         run: |
           python -m ptcg.selection
           python -m ptcg.matchups
+          python -m ptcg.brief
 
       - name: Commit
         run: |
