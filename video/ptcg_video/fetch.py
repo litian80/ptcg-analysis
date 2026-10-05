@@ -8,10 +8,12 @@ from __future__ import annotations
 
 import json
 import re
+import time
 from dataclasses import dataclass, field
 from pathlib import Path
 
 CAPTION_LANGS = ["en", "en-US", "en-GB", "en-orig"]
+_sleep = time.sleep  # replaced in tests
 _YT_ID = re.compile(r"(?:v=|youtu\.be/|/live/|/shorts/|/embed/)([A-Za-z0-9_-]{11})")
 
 
@@ -31,6 +33,8 @@ class VideoSource:
     duration: float | None = None
     chapters: list[dict] = field(default_factory=list)
     description: str = ""
+    # Why the captions are missing, when YouTube refused them.
+    captions_error: str | None = None
 
     def to_dict(self) -> dict:
         d = self.__dict__.copy()
@@ -80,6 +84,37 @@ def fetch_metadata(url_or_id: str) -> dict:
         return ydl.extract_info(url, download=False)
 
 
+def _download_captions(url: str, base: dict, attempts: int, wait: float) -> tuple[dict | None, str | None]:
+    """Captions and the info JSON, without the video: (info, None), or (None, error).
+
+    YouTube sometimes rate-limits caption downloads (HTTP 429), and yt-dlp then
+    aborts the whole download, video included. So captions get their own pass,
+    retried with doubling waits on 429, and a caption failure is returned
+    rather than raised. Any other error (video unavailable, sign-in) is raised.
+    """
+    import yt_dlp
+
+    opts = base | {
+        "skip_download": True,
+        "writesubtitles": True,
+        "writeautomaticsub": True,
+        "subtitleslangs": CAPTION_LANGS,
+        "subtitlesformat": "vtt",
+    }
+    for attempt in range(attempts):
+        try:
+            with yt_dlp.YoutubeDL(opts) as ydl:
+                return ydl.extract_info(url, download=True), None
+        except yt_dlp.utils.DownloadError as e:
+            msg = str(e)
+            if "subtitles" not in msg:
+                raise
+            if "429" not in msg or attempt == attempts - 1:
+                return None, msg
+            _sleep(wait * 2**attempt)
+    return None, "no attempts"
+
+
 def fetch_youtube(
     url_or_id: str,
     out_dir: Path,
@@ -87,25 +122,27 @@ def fetch_youtube(
     end: float | None = None,
     max_height: int = 720,
     download_video: bool = True,
+    caption_attempts: int = 4,
+    caption_wait: float = 30.0,
 ) -> VideoSource:
-    """Download captions (manual, else auto-generated) and optionally the video."""
+    """Download captions (manual, else auto-generated) and optionally the video.
+
+    When YouTube keeps refusing the captions, the video is still downloaded and
+    ``captions_error`` says why; running again later fetches the captions and
+    reuses the video already on disk.
+    """
     import yt_dlp
     from yt_dlp.utils import download_range_func
 
     video_id = video_id_from(url_or_id)
     url = f"https://www.youtube.com/watch?v={video_id}"
     out_dir.mkdir(parents=True, exist_ok=True)
-    opts = {
+    base = {
         "quiet": True,
         "no_warnings": True,
         "noprogress": True,  # as a library, quiet doesn't hide the progress bar
         "outtmpl": str(out_dir / "%(id)s.%(ext)s"),
-        "writesubtitles": True,
-        "writeautomaticsub": True,
-        "subtitleslangs": CAPTION_LANGS,
-        "subtitlesformat": "vtt",
         "writeinfojson": True,
-        "skip_download": not download_video,
         # Only the picture is used (captions come separately), so take the
         # video stream alone. Merging in an audio track also fails with HTTP
         # 403 on videos that carry auto-dubbed audio (NAIC 2026 final).
@@ -114,11 +151,16 @@ def fetch_youtube(
             f"b[height<={max_height}]/b"
         ),
     }
-    if download_video and (start is not None or end is not None):
-        opts["download_ranges"] = download_range_func(None, [(start or 0, end or float("inf"))])
-        opts["force_keyframes_at_cuts"] = True
-    with yt_dlp.YoutubeDL(opts) as ydl:
-        info = ydl.extract_info(url, download=True)
+    info, captions_error = _download_captions(url, base, caption_attempts, caption_wait)
+    if download_video:
+        opts = dict(base)
+        if start is not None or end is not None:
+            opts["download_ranges"] = download_range_func(None, [(start or 0, end or float("inf"))])
+            opts["force_keyframes_at_cuts"] = True
+        with yt_dlp.YoutubeDL(opts) as ydl:
+            info = ydl.extract_info(url, download=True)
+    elif info is None:
+        info = fetch_metadata(url)
 
     video_path = None
     if download_video:
@@ -137,6 +179,7 @@ def fetch_youtube(
         duration=info.get("duration"),
         chapters=info.get("chapters") or [],
         description=info.get("description") or "",
+        captions_error=captions_error,
     )
 
 

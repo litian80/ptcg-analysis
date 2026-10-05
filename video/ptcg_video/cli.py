@@ -48,6 +48,9 @@ def cmd_analyze(args) -> int:
         # The whole video, then cut locally: yt-dlp's range download goes through
         # ffmpeg at a fraction of the normal speed (0.3 MB/s vs ~17 MB/s seen).
         src = fetch_youtube(args.target, work / "source", None, None, args.max_height, not args.captions_only)
+        if src.captions_error:
+            _log(f"captions not downloaded ({src.captions_error}); going on without them. "
+                 "Run the same command again later to add them; the video on disk is reused.")
         clip_start, clip_end = start, end
     else:
         video = None if args.captions_only else args.target
