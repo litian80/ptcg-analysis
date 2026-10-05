@@ -4,7 +4,7 @@
 
 环境 TEF-PBL（和 Baltimore 一样，比现在少 30C 系列），这几局用到的关键卡现在都还合法。我们的数据只有大师组卡表，青少年组和少年组的卡组来自解说和画面。世界赛用的是和 Baltimore 一样的侧边面板，视频工具的 Baltimore 预设（PR #16）读得出拿奖，和解说对得上。
 
-做法：没有调用 API，在你电脑上逐张看截图、对照解说写成。Masters 决赛第 1 局见 [worlds2026-masters-final-game1.md](worlds2026-masters-final-game1.md)。
+做法：没有调用 API，在你电脑上逐张看截图、对照解说写成。Masters 决赛第 1 局见 [worlds2026-masters-final-game1.md](worlds2026-masters-final-game1.md)。Masters 四强见 [worlds2026-masters-top-cut.md](worlds2026-masters-top-cut.md)。
 
 ## Masters 决赛第 2 局：Hedrick（Dragapult ex）胜 Cassiraga（Alakazam Dudunsparce），对手牌库耗尽
 
