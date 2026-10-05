@@ -158,6 +158,26 @@ evidence:
       - Boss's Orders 连续两回合击倒贴着能量的 Drakloak（第 2 局）
       - Battle Cage 挡不住战斗场：对手用 Boss's Orders 拉出 Genesect，Cursed Blast 打战斗场收尾（第 1 局，https://www.youtube.com/watch?v=mq3UY7pQe4c&t=1440s）
     caveat: 一场三局；第 1 局 Lana's Aid 和 Sacred Ash 都在奖赏卡里。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛决赛，Jones（本卡组，Dedenne，2 张 Enhanced Hammer，2 张 Handheld Fan，4 张 Nighttime Mine）2-0 Reddy（Crustle，4 张 Crushing Hammer）
+    window: TEF-POR
+    confirms:
+      - 对 Crustle：Enhanced Hammer 弃掉 Mist，Powerful Hand 才打得进去
+    adds:
+      - 对 Crustle：Sacred Ash 把被击倒的 Dedenne 洗回牌库，Electromagnetic Sonar 每回合捡回 Enhanced Hammer，对手每回合掉一个能量（第 1 局）
+      - 对 Crustle：挂 Hero's Cape 的 Kangaskhan（400）要 20 张手牌，两局都凑到了，各拿 3 张结束
+      - 对 Crustle：一回合打出两张 Enhanced Hammer，弃掉 Kangaskhan 身上的两张 Mist（第 2 局）
+    caveat: 一场两局；时间按解说，旧版面板读不准局数（https://www.youtube.com/watch?v=nlj_HY9SoJo）。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛四强，Jones（本卡组，同上，另带 Psyduck、Genesect）2-0 Newdorf（Dragapult Dusknoir，没有 Judge 和 Special Red Card）
+    window: TEF-POR
+    confirms:
+      - Genesect 先挂道具再击倒，封住 Unfair Stamp（第 2 局）
+      - Psyduck 关掉 Cursed Blast（第 2 局）
+    adds:
+      - Nighttime Mine 被留到关键回合的 Watchtower 顶掉，一发 Phantom Dive 被收 2 张；Lana's Aid 捡回被 Cursed Blast 收掉的 Abra（第 1 局）
+      - 手牌养到 30 张左右，用 Nighttime Mine 和 Boss's Orders 拿最后 2 张（第 1 局）
+    caveat: 一场两局（https://www.youtube.com/watch?v=bnVzhTKp3jg）。
 
 mistakes:
   - 只带一张 Battle Cage 或过早打出，被 Risky Ruins 换掉后没有第二张。

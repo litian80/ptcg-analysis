@@ -224,7 +224,7 @@
 
 **对手的套路，怎么防**
 - 主线：Battle Cage 护住 Abra / Kadabra，用 Kadabra、Alakazam、Dudunsparce 的进化抽牌把手牌养到 16 张，一击 Dragapult ex。
-- 控手牌：Unfair Stamp（上回合我方有宝可梦被击倒时）让对手只剩 2 张手牌，Powerful Hand 掉到 40；Judge 回到 4 张；Special Red Card（对手剩 3 张以下）回到 3 张。对手的 Genesect（SFA 40）带道具时我们不能打 ACE SPEC，Unfair Stamp 会被封，先用 Phantom Dive 或 Boss 处理 Genesect（110 HP）（推断）。Special Red Card 不是 ACE SPEC，Genesect 封不住它；Tool Scrapper 弃掉 Genesect 身上的道具也能解封（按卡牌文字推断）。录像：NAIC 2026 少年组决赛（Giffen 的 Dragapult ex 2-0 Oono 的 Alakazam；NAIC 在世界赛之前，用到的卡现在都还合法）第 1 局，Giffen 的 Stamp 被封，最后一回合改用 Special Red Card。
+- 控手牌：Unfair Stamp（上回合我方有宝可梦被击倒时）让对手只剩 2 张手牌，Powerful Hand 掉到 40；Judge 回到 4 张；Special Red Card（对手剩 3 张以下）回到 3 张。对手的 Genesect（SFA 40）带道具时我们不能打 ACE SPEC，Unfair Stamp 会被封，先用 Phantom Dive 或 Boss 处理 Genesect（110 HP）（推断）。Special Red Card 不是 ACE SPEC，Genesect 封不住它；Tool Scrapper 弃掉 Genesect 身上的道具也能解封（按卡牌文字推断）。录像：NAIC 2026 少年组决赛（Giffen 的 Dragapult ex 2-0 Oono 的 Alakazam；NAIC 在世界赛之前，用到的卡现在都还合法）第 1 局，Giffen 的 Stamp 被封，最后一回合改用 Special Red Card。反过来的例子：Indianapolis 2026 四强第 2 局（TEF-POR 环境），Newdorf 的 Dragapult Dusknoir 没带 Judge 和 Special Red Card，Jones 每次都先给 Genesect 挂上道具再击倒，Newdorf 一次 Stamp 也打不出来，也没有别的办法压对手手牌，对手每回合拿 1 张赢下（[视频](https://www.youtube.com/watch?v=bnVzhTKp3jg)）。
 - 对手同时放两只 Genesect 时（四场比赛 62 份卡表里 7 份带 2 张），收掉一只还有一只封着，Unfair Stamp 基本打不出来；改靠 Judge、Special Red Card，或用 Tool Scrapper 一次弃掉两只身上的道具（按卡牌文字推断）。录像：2026 世界赛四强第 3 局，Cassiraga 同时放下两只 Genesect，Chao 整个系列一次 Unfair Stamp 都没打出来。
 - Judge 把对手打回 4 张，不代表下回合安全：同一场第 3 局，Chao 打出 Jamming Tower 和 Judge、用上 Dusknoir，Phantom Dive 击倒 Alakazam，Cassiraga 的手牌回到 4 张；他下一回合连抽到正好 16 张，一击 Dragapult ex（[1:15:00](https://www.youtube.com/watch?v=mq3UY7pQe4c&t=4500s)）。Brisbane 第 10 轮 Ibbotson 也从 3 张手牌连抽到过 16 张（[1:10:30](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4230s)）。
 - 对手 95% 卡表带 Eri（看我方手牌，弃最多 2 张物品）。Special Red Card 要等对手剩 3 张以下才能打，握在手里等的时候容易被弃。录像：2026 世界赛决赛第 1 局 Cassiraga 用 Eri 弃掉 Hedrick 的 Special Red Card 和 Night Stretcher（[23:00](https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1380s)），四强第 1 局又弃掉 Chao 的 Special Red Card。
@@ -236,7 +236,7 @@
 - 手里一直握着 Unfair Stamp 本身就是威慑：对手知道击倒我方就会被 Stamp。世界赛决赛第 2 局 Cassiraga 一直没找到道具挂在 Genesect 上来封 Stamp，就拖了好几回合不进攻，三次 Run Away Draw 把自己的牌库抽薄（推断其动机）。四强第 2 局他也是被 Budew 锁物品时靠 Kadabra 抽到 Genesect 和 Lucky Helmet，挂好道具才开始击倒。
 
 **关键卡与构筑**
-- Team Rocket's Watchtower：带的 58.1%（31 局）对不带的 71.6%（163 局），−13.5。它能关掉对手的 Dudunsparce 抽牌，但会占掉场地位置，和 Risky Ruins 抢节奏，我们自己的 Dudunsparce、Meowth ex 也会被关掉（推断）。录像的方向相反：NAIC 2026 少年组决赛 Giffen 两局都打了 Watchtower（第 1 局用它换掉对手的 Nighttime Mine），同时关掉对手的 Run Away Draw，2-0 赢下。只是一场少年组，先当作一种可选打法。
+- Team Rocket's Watchtower：带的 58.1%（31 局）对不带的 71.6%（163 局），−13.5。它能关掉对手的 Dudunsparce 抽牌，但会占掉场地位置，和 Risky Ruins 抢节奏，我们自己的 Dudunsparce、Meowth ex 也会被关掉（推断）。录像的方向相反：NAIC 2026 少年组决赛 Giffen 两局都打了 Watchtower（第 1 局用它换掉对手的 Nighttime Mine），同时关掉对手的 Run Away Draw，2-0 赢下。只是一场少年组，先当作一种可选打法。Indianapolis 2026 四强第 1 局，Newdorf 把 Watchtower 留到关键回合才打，顶掉 Nighttime Mine，Phantom Dive 一次击倒 Alakazam 和后备区的 Abra；不过这一局他三只 Dragapult ex 有两只在奖赏卡里，后面接不上，还是输了。
 - Special Red Card：带的 67.0%（117 局）对不带的 73.2%（77 局），−6.2。但 BrentyMon（Brisbane 第 3）认为这个对局应该带，和数据方向相反；他还认为第 3 张场地卡用 Jamming Tower 不如换成 Special Red Card。数据只有 194 局，这个差值可能是噪声（推断）。
 - Judge、Moltres、Dunsparce 线：差距都在 ±2.5 以内，没有影响。
 - 对手方面：带 Shaymin 的对手 48.2%（101 局）对不带的 71.1%（60 局）；带 Lillie's Clefairy ex 的 67.2%（61 局）对不带的 50.3%（100 局）；带 Special Red Card 的 62.7%（67 局）对不带的 52.5%（94 局）；带 Nighttime Mine 的 59.7%（91 局）对不带的 52.9%（70 局）。
@@ -262,8 +262,8 @@
 - 奖赏卡：Slowking 和 Slowpoke 都是 1 奖。我们要靠每回合"Slowking + 后备区 Slowpoke"拿 2 张。对手的 2 奖目标（Clefairy、Latias、Mew ex、Meowth ex、Fezandipiti ex）和 3 奖的 Kangaskhan 是我们的捷径。
 
 **开局与先后攻**
-- 倾向后攻（推断）：Budew 锁物品让对手第 2 回合不能用 Poké Pad、Ultra Ball、Wondrous Patch、Secret Box，拿不到要叠到牌库顶的复制目标（Academy at Night 和 Ciphermaniac's 仍可用）。
-- 后备区不要一次铺满 Dreepy / Drakloak：Trifrost 一次打 3 只各 110，Drakloak（90）、Dreepy、Munkidori（110）都会被收掉，后备区的 Dragapult ex 不受影响（太晶保护）。保持 2-3 只进化线即可（推断）。
+- 倾向后攻（推断）：Budew 锁物品让对手第 2 回合不能用 Poké Pad、Ultra Ball、Wondrous Patch、Secret Box，拿不到要叠到牌库顶的复制目标（Academy at Night 和 Ciphermaniac's 仍可用）。但对手战斗场的宝可梦挂着 Lucky Helmet 时（Slowking 卡表 103 份里 49 份带），Itchy Pollen 每打一次对手就抽 2 张：Turin 2026 八强第 2 局 Kamerman 的 Slowpoke 就是这样（[第 2 天直播](https://www.youtube.com/watch?v=WuXEbywON7g&t=10274s)），锁物品前先想清楚值不值（推断）。
+- 后备区不要一次铺满 Dreepy / Drakloak：Trifrost 一次打 3 只各 110，Drakloak（90）、Dreepy、Munkidori（110）都会被收掉，后备区的 Dragapult ex 不受影响（太晶保护）。保持 2-3 只进化线即可（推断）。只是后备区少放也挡不住 Trifrost 打战斗场：同一场第 3 局 Vicêncio 起手 Meowth ex，两只 Dragapult ex 在奖赏卡里，后备区只放了少量 Dreepy，Trifrost 仍然打到战斗场的 Meowth ex 和后备区的 Drakloak、Dreepy。
 - Zeraora 的 Thunder Raid 打后备区 ex 210：Meowth ex、Fezandipiti ex 留在后备区会被一击，后备区的 Dragapult ex 不受影响。
 - 录像（Frankfurt 区域赛八强，Conti 的 Dragapult Dusknoir 2-0 Malaca 的 Slowking）：Conti 先攻，从自己第 2 回合起 Budew 连续 5 回合锁物品，Wondrous Patch 用不了，对手的 Slowking 线一直接不上能量（[5:05](https://www.youtube.com/watch?v=NOi0qAFjnME&t=18300s)）。第 2 局他后备区放了 3 只 110 HP 以下的宝可梦，被 Trifrost 一次收掉两只 Drakloak 和一只 Dusclops（[5:23:44](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19424s)），正是上面这条要防的。
 
@@ -286,7 +286,7 @@
 
 **关键卡与构筑**
 - Judge：带的 54.6%（194 局）对不带的 45.7%（43 局），+8.9。Hedrick 在 Baltimore 比世界赛的卡表多带了 1 张 Judge，第 1 局对 Slowking 用上了（[0:42:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=2520s)）。
-- Team Rocket's Watchtower：带的 56.1%（57 局）对不带的 52.0%（180 局），+4.1，能关掉对手 Kangaskhan 的 Run Errand，也顶掉 Academy at Night，但也关自己的 Meowth ex。差距不大。
+- Team Rocket's Watchtower：带的 56.1%（57 局）对不带的 52.0%（180 局），+4.1，能关掉对手 Kangaskhan 的 Run Errand，也顶掉 Academy at Night，但也关自己的 Meowth ex。差距不大。录像：Turin 2026 八强第 1 局，Vicêncio 先打 Unfair Stamp 和 Watchtower 再击倒 Lillie's Clefairy ex，对手手里没有 Academy at Night 和 Codebreaking，只能盲翻 Seek Inspiration，随后投降。
 - Dudunsparce ex：−3.8（50 / 187 局），对手 ex 不够多，Tenacious Tail 打不高。Special Red Card、Dunsparce 线、Risky Ruins、Moltres 都在 ±3 以内。
 - 对手方面：带 Mew ex 的对手 74.8%（41 局）对不带的 62.6%（214 局）；带 Pawmot 的 72.5%（40 局）对不带的 63.1%（215 局）；带 Budew 的 57.6%（55 局）对不带的 66.5%（200 局）。
 
@@ -405,7 +405,7 @@
 
 **对手的套路，怎么防**
 - 主线：战斗场一只挂满能量的 Crustle 每回合 120，用 Jumbo Ice Cream、Pokémon Center Lady 回血，Eri（弃我方 2 张物品）和 Xerosic's Machinations（手牌弃到 3 张）卡我们。
-- Crushing Hammer ×4 是最好的反制：Superb Scissors 要 3 个能量，平均每 2 张 Hammer 拆掉 1 个，对手就要多花一回合补（推断）。Jumbo Ice Cream 要 3 个能量以上才能用，拆到 2 个它也回不了。
+- Crushing Hammer ×4 是最好的反制：Superb Scissors 要 3 个能量，平均每 2 张 Hammer 拆掉 1 个，对手就要多花一回合补（推断）。Jumbo Ice Cream 要 3 个能量以上才能用，拆到 2 个它也回不了。录像：Indianapolis 2026 八强 Sakadjian（本卡组主线，多 2 张 Watchtower）0-2 Reddy，第 1 局 4 次 Crushing Hammer 都是反面；Reddy 把 Hero's Cape 挂在 Crustle 上（290），Jumbo Ice Cream 每回合回 80，解说算过要大约 5 个回合才打得穿；第 2 局 Sakadjian 手里的 Unfair Stamp 还被 Eri 弃掉（[视频](https://www.youtube.com/watch?v=rFR1ZVFc5ic)）。
 - Spiky Energy 每次给我方攻击手放 2 个指示物：用 Munkidori 把这些指示物挪回对手身上，正好是 Adrena-Brain 的"弹药"。
 - 对手的 Handheld Fan（73% 卡表）：带 Fan 的 Crustle 被打时把我方攻击手的 1 个能量挪到后备区，Drakloak 下回合要重新贴（推断）。
 

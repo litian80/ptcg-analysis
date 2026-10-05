@@ -1,0 +1,28 @@
+deck: slowking-scr
+judgments:
+  - id: slk-dpx-01
+    vs: dragapult-ex
+    text: Lillie's Clefairy ex 等到要打 Dragapult ex 的那一回合再放，不提前摆在后备区当 Boss's Orders 的 2 奖靶子
+    confidence: 0.65
+    basis: 推断；录像：NAIC 2026 四强第 3 局（对手是 Dragapult Dusknoir，TEF-CRI），Cawthon 提前放下 Clefairy，被 Boss's Orders 拉出击倒，随后输掉
+    window: TEF-30C
+    depends_on: [Lillie's Clefairy ex, Boss's Orders]
+    where: data/matchups/slowking-scr.md
+  - id: slk-dpx-02
+    vs: dragapult-ex
+    text: 对手用 Budew 锁物品时，战斗场的 Slowpoke 挂 Lucky Helmet，每次 Itchy Pollen 抽 2 张
+    confidence: 0.55
+    weight: 3
+    basis: 卡牌文字；录像：Turin 2026 八强第 2 局（TEF-CRI），Kamerman 这样拿到牌并赢下。数据方向相反：本对局带 Lucky Helmet 的卡表低 4.2 个百分点
+    window: TEF-30C
+    depends_on: [Lucky Helmet, Budew]
+    where: data/matchups/slowking-scr.md
+  - id: slk-dpd-01
+    vs: dragapult-dusknoir
+    text: 只差 1 到 2 张时先数对手下回合最多能拿几张；战斗场的 Mega Kangaskhan ex 加后备区吃过伤害的宝可梦够 6 张，就先把 Kangaskhan 换下战斗场
+    confidence: 0.65
+    weight: 3
+    basis: 推断；录像：Frankfurt 2026 八强 Malaca 和 NAIC 2026 四强第 1 局 Cawthon（TEF-CRI）都是 Kangaskhan 站在战斗场、后备区有吃过伤害的宝可梦时被一回合拿 6 张；换下 Kangaskhan 的打法还没在录像里见过
+    window: TEF-30C
+    depends_on: [Mega Kangaskhan ex, Dusknoir, Munkidori]
+    where: data/matchups/slowking-scr.md

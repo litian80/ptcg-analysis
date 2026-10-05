@@ -16,3 +16,11 @@ judgments:
     window: TEF-30C
     depends_on: [Hero's Cape, Lillie's Clefairy ex, Dragapult ex]
     where: data/matchups/basic-box-m.md
+  - id: bbm-slk-01
+    vs: slowking-scr
+    text: 对 Slowking，对手第 2 回合之前把战斗场换成 1 奖宝可梦，或者场上已有 Latias ex，让 Mega Kangaskhan ex 能零撤退换下
+    confidence: 0.7
+    basis: 卡牌文字（Slowking 第 2 回合不用支援者就能复制 Metallic Hammer 打 300）；录像：Turin 2026 四强 Clark 0-2 Kamerman（TEF-CRI），两局各被 Hammer 一击战斗场的 Kangaskhan 拿 3 张
+    window: TEF-30C
+    depends_on: [Mega Kangaskhan ex, Latias ex]
+    where: data/matchups/basic-box-m.md

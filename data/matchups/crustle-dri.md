@@ -2,6 +2,8 @@
 
 **数据来源**：2026 世界赛（2026-08-28，TEF-PBL 环境）、Baltimore 区域赛（2026-09-19）、Frankfurt 与 Brisbane 区域赛（2026-09-26，TEF-30C 环境）四场比赛的全部对局合并统计。胜率把平局按 1/3 胜计算，全场平均约 47.6%。Crustle 总战绩 960 胜 845 负 338 平，胜率 50.1%，平局率 15.8%，Frankfurt 与 Brisbane 的份额约 3.2%。"带/不带某卡"的对比只来自公开了卡表的玩家（多为前排），绝对胜率偏高，只有两者的差值有参考意义；本文只在两边样本都不少于 15 局时引用，并写明局数。没有先后攻数据，也没有逐局记录，下面的具体打法是按卡牌文字和伤害计算推出来的。
 
+**录像**：Indianapolis 区域赛（2026-05-30，TEF-POR 环境，比现在少 CRI、PBL、30C 三个系列，下面用到的卡现在都还合法）的八强 Reddy（Crustle）2-0 Sakadjian（Dragapult ex）和决赛 Reddy 0-2 Jones（Alakazam Dudunsparce），写在对应章节里，标"录像"。Reddy 的卡表和下面的核心基本一致，差别是：4 张 Crushing Hammer（四场比赛的 Crustle 卡表都不带）、场地只有 1 张 Team Rocket's Factory、基本能量是 1 张 Fighting 而不是 Grass，另带 Cornerstone Mask Ogerpon ex 和 Psyduck，没有 Handheld Fan。
+
 **卡组核心**（49 份卡表的中位数）：Dwebble ×3、Crustle（DRI 12）×3、Mega Kangaskhan ex ×4；Lillie's Determination ×4、Team Rocket's Petrel ×4、Boss's Orders ×4、Hilda ×3、Eri ×2、Xerosic's Machinations ×1、Pokémon Center Lady ×1、Bianca's Devotion ×1（59%）；Jumbo Ice Cream ×4、Pokégear 3.0 ×3、Buddy-Buddy Poffin ×2、Ultra Ball、Switch、Hero's Cape、Handheld Fan（73%）、Special Red Card（31%）；场地 Lumiose City、Team Rocket's Factory、Prism Tower（55%）、Festival Grounds（55%）；能量 Growing Grass Energy ×4、Mist Energy ×4、Spiky Energy ×4、Grass Energy ×1。
 
 **这套牌靠什么赢**：
@@ -63,8 +65,10 @@
 **对手的套路，怎么防**
 - **Munkidori 磨血**：每回合 3 个指示物。先 Boss 它；没拿到 Boss 时用 Jumbo Ice Cream 回 80（要 3 个能量），所以 Crustle 身上始终保持 3 个以上能量。
 - **Crushing Hammer ×4**：抛硬币拆能量，让 Crustle 凑不够 3 个能量，也用不了 Jumbo Ice Cream。所以 Crustle 身上多贴一个能量当余量，后备区的 Crustle 提前贴好。
+- **Hero's Cape 挂 Crustle**（信心 70%，cru-dpx-01）：2 张 Growing Grass 加 Cape 是 290。对手打得动 Crustle 的只有 Munkidori 的 30、Moltres 40、Mind Bend 60、Drakloak 70 这类小伤害，而 Jumbo Ice Cream 每回合回 80。录像：Indianapolis 2026 八强第 1 局，Reddy 把 Cape 挂在 Crustle 上，解说算过对手大约要 5 个回合才打得穿；Sakadjian 的 Crushing Hammer 又连着 4 次反面，Reddy 拿下。第 2 局他放弃战斗场那只 Crustle，把能量堆到后备区挂 Cape 的 Crustle 上，Jumbo Ice Cream 回血后用 Superb Scissors 收掉 Dragapult ex。
+- **Unfair Stamp**（对手几乎每份卡表 1 张）：你击倒对手的宝可梦后，对手可以让你手牌只剩 2 张，留着备用的 Mist、Jumbo Ice Cream 都被洗回牌库。Eri 看到它就弃掉。录像：同一场第 2 局，Reddy 用 Petrel 找来 Eri，弃掉 Sakadjian 手里的 Unfair Stamp 和 Night Stretcher。
 - **Phantom Dive 打后备区**：6 个指示物收 Dwebble 或累积在 Kangaskhan ex 上。后备区的 Dwebble 尽快进化，Crustle 贴 Mist。Kangaskhan ex 300 HP，不要长期留在后备区挨打。
-- **Budew 锁物品**：被锁那回合用不了 Jumbo Ice Cream、Poffin、Pokégear。提前一回合把要用的物品打出去。
+- **Budew 锁物品**：被锁那回合用不了 Jumbo Ice Cream、Poffin、Pokégear。提前一回合把要用的物品打出去。战斗场的宝可梦贴 Spiky Energy 时，Budew 每次 Itchy Pollen（10 伤害）都要吃 20，30 HP 的 Budew 打两次就倒。录像：Indianapolis 2026 八强第 1 局 Reddy 在战斗场的 Kangaskhan 上贴了 Spiky（[视频](https://www.youtube.com/watch?v=rFR1ZVFc5ic)）。
 - **Moltres / Drakloak 正面攻击**：它们攻击 Crustle 时会触发 Spiky Energy（打回 20）和 Handheld Fan（把它身上一个能量挪到对手后备区），下回合可能打不了第二次。
 - **Dudunsparce ex**（18% 的对手卡表）：Destructive Drill 150 "不受对手战斗场宝可梦身上任何效果影响"。它很可能无视 Mysterious Rock Inn（推断，需裁定）。它 270 HP，出来就优先处理：120 两下加 Spiky 也不够，要 3 下，或者用 Kangaskhan 补刀。对手带它的卡表对你胜率 56.9%（24 局），不带的 40.4%（109 局），和这个推断方向一致。
 - **Team Rocket's Watchtower**（23%）：无色宝可梦没有特性，你的 Kangaskhan ex 抽不了牌。用自己的场地换掉。
@@ -73,7 +77,7 @@
 - 本对局你方卡表的数据（156 局）：带 Pokémon Center Lady 76.2%（133 局），不带 88.4%（23 局）；带 Team Rocket's Factory 76.0%（129 局），不带 87.7%（27 局）；带 Enhanced Hammer 73.8%（28 局），不带 78.9%（128 局）。Enhanced Hammer 在这里是死卡：对手的能量全是基本能量（Fire、Psychic、Darkness）。Center Lady 和 Factory 的差值可能只是卡表风格的相关，不一定是因果（推断）。
 - 带 Handheld Fan 79.1%（113 局），不带 75.2%（43 局）；带 Prism Tower 79.3%（90 局），不带 76.3%（66 局）。差值小。
 - 对手方数据（133 局）：带 Special Red Card 的 Dragapult 对你 36.7%（60 局），不带 48.9%（73 局）；带 Moltres 38.0%（50 局），不带 46.6%（83 局）；带 Watchtower 35.6%（30 局），不带 45.6%（103 局）。这些 tech 都没能帮对手。
-- 构筑建议：专门针对 Dragapult 时可以去掉 Enhanced Hammer。保留至少 2 张场地，用来换掉 Risky Ruins 和 Watchtower（推断）。
+- 构筑建议：专门针对 Dragapult 时可以去掉 Enhanced Hammer。保留至少 2 张场地，用来换掉 Risky Ruins 和 Watchtower（推断）。录像旁证：Indianapolis 2026 八强第 1 局，Reddy 只带 1 张 Team Rocket's Factory 又在奖赏卡里，Sakadjian 的 Watchtower 一直关着他 Kangaskhan 的 Run Errand。
 
 **常见失误**
 - 先打 Dragapult ex 而不是先 Boss 掉 Munkidori，被每回合 30 慢慢磨掉。
@@ -248,12 +252,12 @@
 **对局性质**
 - 对手的主攻 Alakazam（MEG 56，140 HP）的 Powerful Hand（1 个超能）按手牌数在你战斗场宝可梦身上放指示物，每张 2 个。它不是 ex，而且是"放指示物"不是伤害，所以 Rock Inn 管不了。但它是招式的效果，贴了 Mist 的宝可梦不吃（推断）。这就是你这个对局占优的原因。
 - 贴了 Mist 后，对手还能打 Crustle 的只剩：Dudunsparce 的 Land Crush 90（无无无）、Genesect（SFA 40）Magnetic Blast 100（钢无无）、Kadabra 的 Super Psy Bolt 30、Dedenne 的 Gnaw 30。Fezandipiti ex 和 Lillie's Clefairy ex 是 ex，打不动。
-- 对手要打穿你，必须先用 Enhanced Hammer（46% 卡表 ×2）弃掉 Mist，再用 Powerful Hand。手牌 10 张就是 200，能一击 190 HP 的 Crustle。
+- 对手要打穿你，必须先用 Enhanced Hammer（46% 卡表 ×2）弃掉 Mist，再用 Powerful Hand。手牌 10 张就是 200，能一击 190 HP 的 Crustle。Enhanced Hammer 弃的是特殊能量：你的 Growing Grass、Mist、Spiky 都是，只有基本 Grass Energy 弃不掉。
 - 你的伤害：Abra 50、Kadabra 80、Dunsparce 60 一下打倒；Alakazam 140 和 Dudunsparce 140 要两下。Kangaskhan ex 200 一下打倒 Alakazam。
 - 奖赏卡账：对手除 Fezandipiti ex（和 36% 卡表的 Clefairy ex）外全是单奖，你要击倒 6 次。
 
 **开局与先后攻**
-- 战斗场放 Dwebble 或 Kangaskhan ex 都可以。对手第 2 回合就能用 Rare Candy 上 Alakazam；Kangaskhan ex 在没有 Mist 时会被 Powerful Hand 打，手牌 15 张就是 300，一次送 3 张。所以对手 Alakazam 上场前，你的战斗场要么是 Crustle，要么是贴了 Mist 的 Kangaskhan ex（推断）。
+- 战斗场放 Dwebble 或 Kangaskhan ex 都可以。对手第 2 回合就能用 Rare Candy 上 Alakazam；Kangaskhan ex 在没有 Mist 时会被 Powerful Hand 打，手牌 15 张就是 300，一次送 3 张；挂 Hero's Cape（400）也只是要 20 张。录像：Indianapolis 2026 决赛两局都是 Powerful Hand 一击 Kangaskhan 拿 3 张结束的，Jones 两局都凑到了 20 张。所以对手 Alakazam 上场前，你的战斗场要么是 Crustle，要么是贴了 Mist 的 Kangaskhan ex（推断）。
 - 第一个手贴的能量优先给战斗场贴 Mist。
 
 **奖赏卡路线**
@@ -264,7 +268,9 @@
 - 拿到 3 张后可以打 Special Red Card：对手手牌洗到牌库底只抽 3，Powerful Hand 立刻变小。
 
 **对手的套路，怎么防**
-- **Enhanced Hammer 弃 Mist**：每只要攻击的宝可梦身上留第二张 Mist 作为备份，或者手里留一张 Mist 下回合补。对手带 Enhanced Hammer 对你 60.0%（20 局），不带 18.8%（16 局），这张卡决定这个对局。
+- **Enhanced Hammer 弃 Mist**：每只要攻击的宝可梦身上留第二张 Mist 作为备份，或者手里留一张 Mist 下回合补。对手带 Enhanced Hammer 对你 60.0%（20 局），不带 18.8%（16 局），这张卡决定这个对局。两张 Mist 也挡不住一回合两张 Hammer：录像（Indianapolis 2026 决赛第 2 局）Reddy 的 Kangaskhan 挂着 Hero's Cape、贴了两张 Mist，Jones 一回合打出两张 Enhanced Hammer 全部弃掉，Powerful Hand 拿 3 张。对手手牌接近 20 张时，Kangaskhan 别站战斗场（推断）。
+- **Dedenne 把 Enhanced Hammer 捡回来**：Dedenne（SSP 87，70 HP）的招式 Electromagnetic Sonar（1 个无色）从弃牌区拿回 1 张训练家卡。对手打出 Enhanced Hammer，再用 Dedenne 攻击把它拿回来，下回合再打，两张 Hammer 就变成每回合都有；你用 Eri 弃掉的 Hammer 也会被捡回。Dedenne 攻击的那回合对手打不了 Powerful Hand，这是在拖住你、等手牌养大（推断）。所以 Dedenne 是第一个要击倒的目标：它在战斗场时直接打，在后备区就用 Boss's Orders 拉出来，120 一下打倒，然后再用 Eri 弃手里的 Hammer（推断）（信心 60%，cru-adu-01）。对手 62 份卡表里 25 份带 Dedenne，带的对你 56.2%（16 局），不带的 30.0%（20 局）；28 份带 Enhanced Hammer，两样都带的 20 份。全部卡表都带 Sacred Ash，能把被击倒的 Dedenne 洗回牌库，要准备再打一次。录像：Indianapolis 2026 决赛第 1 局，Jones 用 Sacred Ash 把 Dedenne 洗回牌库，之后用它反复捡回 Enhanced Hammer，Reddy 每回合掉一个能量（[视频](https://www.youtube.com/watch?v=nlj_HY9SoJo)）。
+- **Handheld Fan**（对手 62 份卡表里 37 份）：挂在战斗场的宝可梦上，你攻击它时，攻击手身上 1 个能量被挪到你的后备区，下回合可能凑不够 3 个能量（录像：同一局 Reddy 打挂着 Fan 的 Dedenne 时掉过能量）。不过带 Handheld Fan 的 Alakazam 对你只有 25.5%（17 局），不带的 56.1%（19 局），它不是对手赢你的原因。
 - **手牌养大**：Kadabra、Alakazam 进化时抽 2、抽 3，Dudunsparce 抽 3，Enriching Energy 抽 4。Xerosic's Machinations 和 Special Red Card 是你最直接的反制。
 - **Battle Cage**：只挡后备区受到的指示物，对你没影响。
 
@@ -276,7 +282,8 @@
 **常见失误**
 - 战斗场的宝可梦没贴 Mist 就让对手进入 Alakazam 回合。
 - Mist 被 Enhanced Hammer 弃掉后，手里没有备用的 Mist。
-- 让没贴 Mist 的 Kangaskhan ex 站在战斗场。
+- 让没贴 Mist 的 Kangaskhan ex 站在战斗场（录像：Indianapolis 2026 决赛第 1 局，挂着 Hero's Cape 也被 20 张手牌一击，送 3 张）。
+- 让 Dedenne 一直留在对手场上，被它每回合捡回 Enhanced Hammer（录像，同一局）。
 
 ---
 

@@ -87,6 +87,30 @@ matchups:
     win_rate: 0.677
     plan: 同上；对手的 Moltres（非 ex，火属性）打 20，Crustle 弱火所以是 40。
 
+evidence:
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛八强，Reddy（本卡组，4 张 Crushing Hammer，场地只有 1 张 Team Rocket's Factory）2-0 Sakadjian（Dragapult ex，2 张 Watchtower）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult：ex 打不动 Crustle，对手只能靠 Crushing Hammer 和 Munkidori，Jumbo Ice Cream 回得更快
+      - 对 Dragapult：后备区没贴 Mist 的 Crustle 吃 Phantom Dive 的指示物（第 2 局）
+    adds:
+      - 对 Dragapult：Hero's Cape 挂 Crustle，解说算过对手大约要 5 个回合才打得穿（第 1 局）
+      - 对 Dragapult：战斗场的 Kangaskhan 贴 Spiky Energy，Budew 每次 Itchy Pollen 反吃 20（第 1 局）
+      - 对 Dragapult：Eri 弃掉对手手里的 Unfair Stamp 和 Night Stretcher；放弃战斗场的 Crustle，把能量堆到后备区挂 Cape 的 Crustle 上（第 2 局）
+      - 只带 1 张场地又在奖赏卡里时，对手的 Watchtower 一直关着 Run Errand（第 1 局）
+    caveat: 一场两局；时间按解说；对手第 1 局 4 次 Crushing Hammer 都是反面（https://www.youtube.com/watch?v=rFR1ZVFc5ic）。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛决赛，Reddy（本卡组）0-2 Jones（Alakazam Dudunsparce，Dedenne，2 张 Enhanced Hammer）
+    window: TEF-POR
+    confirms:
+      - 对 Alakazam：Enhanced Hammer 决定这个对局；没贴 Mist 的 Kangaskhan 站战斗场被一击送 3 张（第 1 局）
+    adds:
+      - 对 Alakazam：Dedenne 每回合用 Electromagnetic Sonar 捡回 Enhanced Hammer，Sacred Ash 还能把它洗回牌库（第 1 局）
+      - 对 Alakazam：挂 Hero's Cape 的 Kangaskhan 只是把门槛提到 20 张手牌，两局都被凑到
+      - 对 Alakazam：两张 Mist 被一回合两张 Enhanced Hammer 弃掉（第 2 局）
+    caveat: 一场两局；第 1 局 3 张 Growing Grass Energy 和 1 张 Mist 在奖赏卡里，卡表又没有基本 Grass Energy，草能量只剩 1 张（https://www.youtube.com/watch?v=nlj_HY9SoJo）。
+
 mistakes:
   - 对 ex 卡组时让 Mega Kangaskhan ex 站在战斗场，被一击送 3 张。
   - Crustle 没贴 Mist Energy，被 Phantom Dive 的指示物慢慢磨掉。

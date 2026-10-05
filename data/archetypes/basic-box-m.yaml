@@ -135,6 +135,16 @@ evidence:
       - 对手 Moltres 打 Kangaskhan 110 后，它就在 Phantom Dive 的一击范围；这时击倒 Moltres 拿 1 张，对手同一回合 Rosa's Encouragement + Unfair Stamp + Phantom Dive 拿 3 张（https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s）
       - 对手 Moltres 打弱火的 Iron Leaves ex、Teal Mask Ogerpon ex 是 220，一击；第 2 局起手的 Iron Leaves ex 就被 Moltres 盯上
     caveat: 一场两局；Lillie's Clefairy ex 整个系列没有攻击，Clefairy 路线没有得到检验。
+  - source: video-reviews/turin-2026.md（项目共享文件夹）
+    game: Turin 2026 特别赛四强，Clark（本卡组的 Raging Bolt 变体，3 只 Kangaskhan、3 只 Meowth ex、2 只 Raging Bolt ex、2 张 Glass Trumpet、Unfair Stamp）0-2 Kamerman（Slowking）
+    window: TEF-CRI
+    confirms:
+      - 对 Slowking：战斗场的 ex 都吃 Metallic Hammer 300，满血 Kangaskhan 也一击送 3 张（https://www.youtube.com/watch?v=-2gCfGeqBm8&t=986s）
+      - 对 Slowking：带 Raging Bolt ex 和 Glass Trumpet 的构筑打得不好（四场比赛的数据如此；这一场 Raging Bolt ex 差 1 个能量没打出击倒）
+    adds:
+      - 对 Slowking：第 1 回合没贴上能量，战斗场的 Kangaskhan 撤不下来，对手第 2 回合就一击拿 3 张（第 2 局）；Slowking 第 2 回合打 300 不需要支援者
+      - 对 Slowking：Unfair Stamp 把对手打到 2 张手牌，对手照样接上攻击（第 2 局）
+    caveat: 一场两局；第 1 局唯一的 Wellspring Ogerpon 和唯一的 Water Energy 都在奖赏卡里。
 
 mistakes:
   - 第一回合就把 Mega Kangaskhan ex 摆进战斗场，被对手先击倒送 3 张。

@@ -166,6 +166,25 @@ evidence:
       - 对 Basic Box：Moltres 打弱火的 Iron Leaves ex 是 220，一击（第 2 局）
       - 对 Basic Box：Boss's Orders + Special Red Card + Phantom Dive 几回合拿 5 张（https://www.youtube.com/watch?v=qwBID2ApsOY&t=30687s）
     caveat: 一场两局；第 2 局那 5 张的顺序没有逐回合核对。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛八强，Sakadjian（本卡组，多 2 张 Watchtower，9 个能量）0-2 Reddy（Crustle）
+    window: TEF-POR
+    confirms:
+      - 对 Crustle：ex 打不动 Crustle，只能靠 Crushing Hammer 和 Munkidori；Watchtower 关掉对手 Kangaskhan 的 Run Errand（第 1 局，对手唯一的场地在奖赏卡里）
+    adds:
+      - 对 Crustle：对手把 Hero's Cape 挂在 Crustle 上（290），Jumbo Ice Cream 每回合回 80，打不穿；4 次 Crushing Hammer 都是反面（第 1 局）
+      - 对 Crustle：手里的 Unfair Stamp 被 Eri 弃掉（第 2 局）
+    caveat: 一场两局；时间按解说（https://www.youtube.com/watch?v=rFR1ZVFc5ic）。
+  - source: video-reviews/turin-2026.md（项目共享文件夹）
+    game: Turin 2026 特别赛八强，Vicêncio（本卡组，3 张 Crushing Hammer、Judge、Unfair Stamp、Special Red Card、2 张 Watchtower、Risky Ruins）1-2 Kamerman（Slowking）
+    window: TEF-CRI
+    confirms:
+      - 对 Slowking：Boss's Orders 收掉唯一的 Slowking；Unfair Stamp 加 Watchtower 让对手只能盲翻 Seek Inspiration（第 1 局）
+    adds:
+      - 对 Slowking：对手战斗场的 Slowpoke 挂 Lucky Helmet，Itchy Pollen 每次让对手抽 2 张（第 2 局）
+      - 对 Slowking：后备区少放 Dreepy 挡不住 Trifrost 打战斗场，起手的 Meowth ex 和后备区的 Drakloak、Dreepy 一起吃（第 3 局）
+      - 对 Slowking：唯一的 Slowking 被收掉后，对手的 Lillie's Clefairy ex 自己用 Full Moon Rondo 击倒 Dragapult ex（第 1 局）
+    caveat: 一场三局（https://www.youtube.com/watch?v=WuXEbywON7g&t=10274s）。
 
 mistakes:
   - 对 Battle Cage 卡组时过早打掉 Risky Ruins，关键回合没有场地可换。

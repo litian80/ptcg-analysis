@@ -114,6 +114,46 @@ matchups:
     win_rate: 0.818
     plan: 对手斗属性弱超能，Slowking 自己的 Super Psy Bolt 120 ×2 = 240；Mega Lucario ex 给 3 张。
 
+evidence:
+  - source: video-reviews/naic-2026.md（项目共享文件夹）
+    game: NAIC 2026（2026-06）四强，Cawthon（本卡组，3 只 Kangaskhan、Zeraora、Secret Box、Brave Bangle，没有 Boss's Orders 和 Prime Catcher）1-2 Kosek（Dragapult Dusknoir，4 张 Crushing Hammer，Unfair Stamp，Jamming Tower）
+    window: TEF-CRI
+    confirms:
+      - 第 2 回合 Trifrost 收 3 只进化前宝可梦（第 1 局）
+      - Secret Box 和 Academy at Night 把 Kyurem 放到牌库顶，Trifrost 一次击倒 3 只（第 2 局）
+      - 提前放下的 Lillie's Clefairy ex 被 Boss's Orders 拉出来击倒（第 3 局）
+    adds:
+      - 只差 1 张时被一回合拿 6 张：对手先用 Unfair Stamp、Boss's Orders 困住撤退 3 的 Slowking、换掉 Academy at Night，连续打战斗场的 Kangaskhan，最后 Munkidori 挪 30 加 Phantom Dive 击倒 Kangaskhan，指示物收掉后备区两只残血宝可梦（第 1 局）
+      - Brave Bangle 在奖赏卡里时，没有 Clefairy 的 Metallic Hammer 只有 300，打不倒满血 Dragapult ex（第 3 局）
+    caveat: 第三方转播，字幕是机器翻译，局面按画面上的奖赏卡读出，没有逐条时间（https://www.youtube.com/watch?v=YMk7L7SwuCI）。
+  - source: video-reviews/turin-2026.md（项目共享文件夹）
+    game: Turin 2026 特别赛四强，Kamerman（本卡组，Secret Box、Lana's Aid、Smoochum，没有 Zeraora、Boss's Orders 和 Prime Catcher）2-0 Clark（Basic Box，2 只 Raging Bolt ex、2 张 Glass Trumpet、Unfair Stamp）
+    window: TEF-CRI
+    confirms:
+      - Metallic Hammer 300 一击战斗场的 Latias ex 和满血 Mega Kangaskhan ex（https://www.youtube.com/watch?v=-2gCfGeqBm8&t=405s，https://www.youtube.com/watch?v=-2gCfGeqBm8&t=986s）
+      - 对 Basic Box 时 Brave Bangle 没用，主动弃掉（第 2 局）
+    adds:
+      - 对手第 1 回合没贴上能量、Kangaskhan 撤不下来时，第 2 回合就一击拿 3 张；两局 12 张里 6 张来自两只 Kangaskhan
+      - 被 Unfair Stamp 打到 2 张手牌也接得上；Lana's Aid 加两张 Night Stretcher 排好最后两回合的攻击（第 2 局）
+    caveat: 一场两局。
+  - source: video-reviews/turin-2026.md（项目共享文件夹）
+    game: Turin 2026 特别赛八强，Kamerman（本卡组）2-1 Vicêncio（Dragapult ex，3 张 Crushing Hammer、Judge、Unfair Stamp、2 张 Watchtower）
+    window: TEF-CRI
+    confirms:
+      - Trifrost 一次击倒两只 Drakloak 和一只 Dreepy（第 2 局）
+    adds:
+      - 对手锁物品时，战斗场的 Slowpoke 挂 Lucky Helmet，每次 Itchy Pollen 抽 2 张（第 2 局）
+      - 用 Codebreaking 把 Slowpoke 放到牌库顶，复制 Tackle（30）收 Budew，省下 Metagross（第 2 局）
+      - 唯一的 Slowking 被收掉后，Lillie's Clefairy ex 用 Full Moon Rondo 击倒 Dragapult ex（第 1 局）
+      - 对手的 Unfair Stamp 加 Watchtower 拿走手牌和 Academy at Night 后，只能盲翻 Seek Inspiration（第 1 局，Secret Box 在奖赏卡里）
+    caveat: 一场三局（https://www.youtube.com/watch?v=WuXEbywON7g&t=10274s）。
+  - source: video-reviews/turin-2026.md（项目共享文件夹）
+    game: Turin 2026 特别赛决赛，Kamerman（本卡组）0-2 López（Hop's Trevenant，Shaymin，4 张 Mist Energy）
+    window: TEF-CRI
+    adds:
+      - 对手早早放下 Shaymin，Trifrost 和 Fezandipiti ex 的 Cruel Arrow 都打不到后备区；卡表没有 Boss's Orders 和 Prime Catcher，拉不出 Shaymin（两局）
+    caveat: Hop's Trevenant 不在现在的主流卡组里，这一场只用来说明 Shaymin 的影响（https://www.youtube.com/watch?v=P1gzE_BFuUA）。
+
 mistakes:
   - 用 Academy at Night 放好牌库顶后，又打了会洗牌的卡（Lillie's Determination、Ultra Ball、Poké Pad），白放。
   - 牌库顶不是无规则宝可梦就攻击，Seek Inspiration 打空。
