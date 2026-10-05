@@ -104,7 +104,7 @@
 - 奖赏卡：对手几乎全是 2 奖 ex，Mega Kangaskhan ex 3 张。我们一击 2 奖 ex 都在 200-230 之间，很合算。对手要击倒 3 只我方 2 奖宝可梦。
 
 **开局与先后攻**
-- 倾向后攻（推断）。后攻第 1 回合 Budew 用 Itchy Pollen，对手第 2 回合不能用 Energy Switch、Ultra Ball、Glass Trumpet、Prime Catcher，Latias 凑 3 个能量会慢一回合。对手后攻时第 1 回合就能攻击，先攻的我们没有支援者也没法打。
+- 倾向后攻（推断）。后攻第 1 回合 Budew 用 Itchy Pollen，对手第 2 回合不能用 Energy Switch、Ultra Ball、Glass Trumpet、Prime Catcher，Latias 凑 3 个能量会慢一回合。对手后攻时第 1 回合就能攻击，先攻的我们没有支援者也没法打。录像（Frankfurt 2026 第 1 天第 7 轮第 2 局，Christen 2-0 Kamerman）：Kamerman 选了先攻，Christen 后攻第 1 回合用 Crispin 加 Energy Switch 凑齐 3 个能量，Mega Kangaskhan ex 第 1 回合就开打（[5:54:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21270s)），之后一直用 Boss's Orders 点掉 Kamerman 唯一的 Drakloak（[5:59:45](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21585s)）。
 - 后备区只放需要的东西：Full Moon Rondo 按双方后备区数加伤害，我方每多一只后备区宝可梦，Clefairy 打 Dragapult ex 就多 40。
 - 对手的 Area Zero Underdepths 在有太晶宝可梦时让后备区扩到 8 格。Dragapult ex 也是太晶，所以它在场时我们同样能放 8 只，但不建议多放（上一条）。
 
@@ -119,7 +119,7 @@
 **对手的套路，怎么防**
 - 主线：后备区放 Lillie's Clefairy ex，Latias ex 400 一击 Dragapult ex，再用 Energy Switch 把能量挪给下一只攻击手。防法是 Clefairy 一落地就 Boss 掉它；拿不到 Boss 时，用两回合的 Phantom Dive 各放 60，加上它放下时吃的 Ruins 20 和两只 Munkidori 60，共 200，在后备区收掉 190 HP 的 Clefairy（推断）。
 - 没有 Clefairy 时，Dragapult ex 吃一下通常不死，可以正常换血。
-- Wellspring Mask Ogerpon ex 的 Torrential Pump 打战斗场 100，另把 3 个能量洗回牌库可再打后备区 120：能击倒后备区的 Drakloak（90）、Munkidori（110）、Dreepy。后备区的 Dragapult ex 不受影响（太晶保护）。所以第 3 回合进化前，后备区至少留 2 只 Dreepy / Drakloak 备份（推断）。
+- Wellspring Mask Ogerpon ex 的 Torrential Pump 打战斗场 100，另把 3 个能量洗回牌库可再打后备区 120：能击倒后备区的 Drakloak（90）、Munkidori（110）、Dreepy。后备区的 Dragapult ex 不受影响（太晶保护）。所以第 3 回合进化前，后备区至少留 2 只 Dreepy / Drakloak 备份（推断）。录像（同一场第 1 局）：Christen 用 Torrential Pump 打后备区 120 击倒 Drakloak（[5:43:05](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20585s)），再放下 Lillie's Clefairy ex，Full Moon Rondo 一击 Dragapult ex（[5:47:20](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20840s)）。
 - Chien-Pao（SSP 56）上场时可以弃掉场上的场地，Risky Ruins 会被拆。第二张 Ruins 留到对手用过 Chien-Pao 之后（推断）。
 - Glass Trumpet 只在对手有太晶宝可梦时能用：先收掉战斗场的 Teal Mask Ogerpon ex，再加上后备区的 Ogerpon 都没了，Trumpet 就成了死卡（推断）。
 
@@ -127,6 +127,7 @@
 - Dudunsparce ex（JTG 121，270 HP，无色，2 奖）：Tenacious Tail（1 个无色）按对手场上宝可梦 ex 的数量每只 60。对手场上通常有 4-6 只 ex，就是 240-360。它不是龙属性，Fairy Zone 对它无效，Latias 的 200 也打不倒它。数据：带的 69.6%（45 局）对不带的 48.4%（235 局），+21.3 个百分点，是本手册里最大的单卡差距。这个对局多的环境里，值得把 Dunsparce 线换成 Dunsparce + Dudunsparce ex 或两种都带（推断）。
 - Moltres：带的 55.1%（132 局）对不带的 48.9%（148 局），+6.2。110 打 2 奖 ex，只送 1 张，Fairy Zone 也不翻倍。
 - Special Red Card：−5.7（148 / 132 局）。Team Rocket's Watchtower（会关掉对手 Kangaskhan 的 Run Errand，也关掉自己的 Meowth ex）：−3.4（51 / 229 局），没有帮助。
+  - 录像（同一场第 1 局）：Kamerman 开局 Budew 锁物品、Watchtower 关掉 Run Errand、Crushing Hammer 拆能量，局面领先，但 Watchtower 被对手的 Area Zero Underdepths 换掉。等对手打过场地再打 Watchtower 更稳（推断）。后来对手剩 2 张时他打出 Special Red Card，再击倒对手宝可梦打到 2 对 2；这一击倒正好让对手能用 Unfair Stamp（我方只剩 2 张手牌）加 Fezandipiti ex 抽 3，第二次 Full Moon Rondo 结束比赛（[5:50:00](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21000s)）。对手还留着 Unfair Stamp 时，Special Red Card 拦不住它，这和上面 −5.7 的方向一致（推断）。
 - 对手方面：带 Crispin 的对手 70.3%（267 局）对不带的 48.6%（46 局）；带 Water Energy 的 70.8%（263 局）对不带的 47.3%（50 局）；带 Fighting Energy 的 70.4%（262 局）对不带的 50.3%（51 局）。反过来带 N's Plan、Bug Catching Set、Pecharunt、Prism Energy、Paldean Tauros 的那一类变体对我们明显更差（各约 −16 到 −22，带的一侧 42-57 局）。也就是说主流的"Crispin + 水 + 斗能量"版本（Wellspring Ogerpon、Raging Bolt ex）才是难打的版本。带 Jamming Tower 的对手 76.5%（68 局）对不带的 64.5%（245 局），Jamming Tower 本身对我们没有道具可关，作用大概是换掉 Risky Ruins（推断）。
 
 **常见失误**

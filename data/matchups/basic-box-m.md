@@ -42,16 +42,17 @@
 - 奖赏账：我们要拿 6 张，最直接是两只 Dragapult ex（2+2）+ 一只 2 奖（Fezandipiti ex 或 Meowth ex）或两只 1 奖。对手要击倒我方 3 只 2 奖 ex。
 
 **开局与先后攻**
-- 倾向后攻（推断）：后攻时我们第 1 回合就能用支援者和攻击，而且这一回合不会被锁物品（对手先攻第 1 回合不能攻击）。Budew 的 Itchy Pollen 无论先后攻都可能锁住我们第 2 回合的物品；区别是我们选先攻时，第 1 回合既不能攻击也不能用支援者，第 2 回合又可能被锁，前两回合都很弱。
+- 倾向后攻（推断）：后攻时我们第 1 回合就能用支援者和攻击，而且这一回合不会被锁物品（对手先攻第 1 回合不能攻击）。Budew 的 Itchy Pollen 无论先后攻都可能锁住我们第 2 回合的物品；区别是我们选先攻时，第 1 回合既不能攻击也不能用支援者，第 2 回合又可能被锁，前两回合都很弱。录像（Frankfurt 2026 第 1 天第 7 轮，Christen 2-0 Kamerman）：第 2 局 Kamerman 先攻，Christen 后攻第 1 回合用 Crispin 和 Energy Switch 凑齐 3 个能量，Mega Kangaskhan ex 第 1 回合就攻击（[5:54:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21270s)），之后一直用 Boss's Orders 点掉对手唯一的 Drakloak（[5:59:45](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21585s)）。
 - 战斗场：Latias ex（开 Skyliner，之后谁都能免费撤退）。后备区：Teal Mask Ogerpon ex（太晶，在后备区不受招式伤害），再放 Area Zero Underdepths。
 - Lillie's Clefairy ex 第 1 回合不要放（推断）：它只在我们攻击 Dragapult ex 的那一回合需要在场，早放就是对手 Boss + 200 的 2 奖靶子。
 
 **奖赏卡路线**
 - 第 1-2 回合（对手还没 Dragapult ex）：Latias ex 或 Kangaskhan 击倒战斗场的 Dreepy（70）/ Drakloak（90），拿 1 张；如果对手后备区有 Meowth ex（170）或 Fezandipiti ex（210），用 Boss's Orders 拉出来用 Latias 200 / Kangaskhan 200 起击倒拿 2 张。
-- Wellspring Mask Ogerpon ex 的 Torrential Pump（Water + 2 无色）100，把身上 3 个能量洗回牌库可再对后备区 120：一次击倒后备区的 Drakloak（90）或 Munkidori（110）。Drakloak 少一只，对手的 Recon Directive 检索就少一次。
+- Wellspring Mask Ogerpon ex 的 Torrential Pump（Water + 2 无色）100，把身上 3 个能量洗回牌库可再对后备区 120：一次击倒后备区的 Drakloak（90）或 Munkidori（110）。Drakloak 少一只，对手的 Recon Directive 检索就少一次。录像（同一场第 1 局）：Christen 用它击倒后备区的 Drakloak（[5:43:05](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20585s)），对手 Dragapult ex 上场后放下 Lillie's Clefairy ex，Full Moon Rondo 一击（[5:47:20](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20840s)）。
 - 对手 Dragapult ex 上场那回合：放下 Lillie's Clefairy ex，Latias ex Eon Blade 400 击倒，拿 2 张。
 - 下一回合：Latias 不能连续攻击。用第二只 Latias，或 Clefairy 自己的 Full Moon Rondo（后备区合计 7 只以上即可一击），或 Iron Leaves ex 放下时用 Rapid Vernier 把 Latias 身上的能量挪过来（Iron Leaves 180 不够打 Dragapult，只用来打 1 奖小怪或 210 HP 以下的 ex）。
 - 收尾：Prime Catcher（41% 卡表）或 Boss's Orders 拉后备区的 2 奖 ex。对手剩 3 张以下时用 Special Red Card 打乱对手手牌。
+- 被对手追平时留着 Unfair Stamp：录像（同一场第 1 局）：Kamerman 在 Christen 剩 2 张时打出 Special Red Card，再击倒他的宝可梦打到 2 对 2。Christen 随即用 Unfair Stamp 重抽 5 张（对手只剩 2 张手牌），Fezandipiti ex 再抽 3，第二次 Full Moon Rondo 拿下（[5:50:00](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21000s)）。
 
 **对手的套路，怎么防**
 - Boss's Orders 拉 Lillie's Clefairy ex（190）用 200 击倒，同时让我们失去 Fairy Zone：带 2 张 Clefairy，第二张留在手上或牌库里（Cyrano、Ultra Ball 可找）；一回合场上只放一只。
@@ -59,6 +60,7 @@
 - Risky Ruins（90%，2 张）：我方把非恶属性的基础宝可梦放到后备区时放 2 个指示物，几乎我们每只宝可梦都中。打出自己的 Area Zero 就能把它换掉；Chien-Pao 放下时的 Snow Sink 也能弃掉场地。
 - Crushing Hammer ×4（96% 卡表）：抛硬币弃我们一个能量。不要把能量全堆在一只身上，Teal Dance 和 Energy Switch 让能量分散后再集中（推断）。
 - Budew 锁物品：被锁的那回合靠支援者（Crispin、Cyrano）和特性（Teal Dance）推进。
+- Team Rocket's Watchtower（四场比赛 19% 的 Dragapult 卡表带）：关掉 Kangaskhan 的 Run Errand 和 Meowth ex 的 Last-Ditch Catch。打出自己的 Area Zero Underdepths 换掉它（录像：同一场第 1 局 Christen 就是这样做的）。
 - 对手 Moltres（46%，Fighting Wings 对战斗场 ex 110）、Unfair Stamp 在我们击倒对手宝可梦后会用来翻盘：Kangaskhan 300 HP，200 + Munkidori 30 + Moltres 不同回合累计才能击倒，Kangaskhan 吃对手两下，适合在对手只剩两三张奖赏卡时作为最后的坦克（推断）。
 
 **关键卡与构筑**
