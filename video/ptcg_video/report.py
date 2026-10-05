@@ -167,6 +167,14 @@ at the top, and played cards from the callout that pops up on the left. Commenta
 names can be misspelled; trust the overlay over the captions."""
 
 
+def _frame_path(path: Path, out_dir: Path) -> str:
+    """Frame path relative to the pack, or absolute when it is on another drive (Windows)."""
+    try:
+        return Path(os.path.relpath(path, out_dir)).as_posix()
+    except ValueError:
+        return Path(path).resolve().as_posix()
+
+
 def write_review_pack(
     out_dir: Path,
     meta: dict,
@@ -199,7 +207,7 @@ def write_review_pack(
         game = game_at(games, t)
         lines += [f"## Window {n}: {_link(url, t)} - {fmt_ts(w_end)}" + (f" (game {game})" if game else ""), ""]
         for f in pick_frames(in_window, max_frames):
-            lines.append(f"- {fmt_ts(f.t)}: `{Path(os.path.relpath(f.path, out_dir)).as_posix()}`")
+            lines.append(f"- {fmt_ts(f.t)}: `{_frame_path(f.path, out_dir)}`")
         if prizes:
             lines.append("")
             lines += _prize_lines(prizes, t, w_end)
