@@ -109,6 +109,14 @@ def _game_spans(events: list[Event], min_gap: float = 120.0) -> list[tuple[float
     return spans
 
 
+def game_at(games: list[tuple[float, float | None]], t: float) -> int | None:
+    """1-based number of the game span containing t, or None."""
+    for i, (a, b) in enumerate(games, 1):
+        if a <= t and (b is None or t <= b):
+            return i
+    return None
+
+
 def split_at(games: list[tuple[float, float | None]], cuts: list[float]) -> list[tuple[float, float | None]]:
     """Split game spans at chapter starts: a game never runs across a chapter
     boundary (streams usually have one chapter per match)."""
