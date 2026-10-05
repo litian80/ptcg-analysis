@@ -256,22 +256,24 @@
 - Mega Kangaskhan ex 站到战斗场时（对手用 Run Errand 抽 2 时它必须在战斗场）：200 + 前回合 60 + 两只 Munkidori 60 = 320 ≥ 300，一次 3 张。Mew ex（160 HP）是 200 一击 2 张。
 - Trifrost 会弃掉 Slowking 身上的全部能量，对手打完 Trifrost 的下一回合通常接不上攻击，是我们重建的回合（录像：Conti 用 Crispin 补能量、换上 Jamming Tower 盖掉 Academy at Night）。
 - 录像里 Conti 还有 Dusknoir：他先用 Phantom Dive 把指示物铺在 Latias ex、Slowking 上不收（Slowking 卡组没有回复卡），等 Kangaskhan 上战斗场，Cursed Blast 130 加 Phantom Dive 200 一回合拿 6 张（[5:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19800s)）。纯 Dragapult ex 没有 Dusknoir 的 130，铺指示物要按上面的数字算清楚，不然就是常见失误里的"花在打不死的 Latias ex / Kangaskhan 上"。
+- 录像（Baltimore 2026 第 1 天第 4 轮，Hedrick 的纯 Dragapult ex 2-0 Carullo 的 Slowking）：纯 Dragapult ex 也能这样打。第 1 局 Hedrick 连续几回合只铺指示物不击倒，对手后备区有 Fezandipiti ex，不击倒就不给 Flip the Script 抽 3 张；然后一发 Phantom Dive 击倒战斗场的 Slowking，后备区的 Latias ex 和 Mega Kangaskhan ex 一起倒，一回合拿 6 张（[0:51:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3060s)）。
 
 **对手的套路，怎么防**
 - 主线：Clefairy 在后备区，每回合用牌库顶的复制目标打 Dragapult ex 翻倍，或者 Trifrost 一次收后备区两只进化线。
 - Judge 是这个对局的干扰卡：它让对手把手牌洗回牌库，整个牌库被洗乱，叠好的牌库顶就没了。在对手用 Ciphermaniac's / Academy 叠好牌的下一个我方回合打出（推断，按卡牌文字）。
-- Crushing Hammer：Slowking 要 2 个能量。Boomerang Energy 只有在被自己招式效果弃掉（例如 Trifrost）时才回来，被 Hammer 拆掉就没了。
+- Crushing Hammer：Slowking 要 2 个能量。Boomerang Energy 只有在被自己招式效果弃掉（例如 Trifrost）时才回来，被 Hammer 拆掉就没了。录像：同一局 Hedrick 的两张 Crushing Hammer 都是正面，第一张拆的就是 Boomerang Energy；加上 Budew 锁住 Wondrous Patch，对手的 Trifrost 一次都没打出来。
+- Drapion（POR 52，19% 卡表）：Slowking 复制 Hazardous Tail 打 100，我方战斗场麻痹加中毒（Slowking 自己吃 70）。麻痹的 Dragapult ex 下回合不能攻击也不能撤退。录像：Hedrick 被麻痹的那回合用 Boss's Orders 把对手刚进化、能量不够、撤退 3 的 Slowking 拉到战斗场，对手下回合也打不出攻击。
 - Clefairy 不在场时让 Dragapult ex 站前面换血；Clefairy 在场时先 Boss 它，暂时没 Boss 就用 Drakloak / Moltres 这类 1 奖挡一下（推断）。
 
 **关键卡与构筑**
-- Judge：带的 54.6%（194 局）对不带的 45.7%（43 局），+8.9。
+- Judge：带的 54.6%（194 局）对不带的 45.7%（43 局），+8.9。Hedrick 在 Baltimore 比世界赛的卡表多带了 1 张 Judge，第 1 局对 Slowking 用上了（[0:42:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=2520s)）。
 - Team Rocket's Watchtower：带的 56.1%（57 局）对不带的 52.0%（180 局），+4.1，能关掉对手 Kangaskhan 的 Run Errand，也顶掉 Academy at Night，但也关自己的 Meowth ex。差距不大。
 - Dudunsparce ex：−3.8（50 / 187 局），对手 ex 不够多，Tenacious Tail 打不高。Special Red Card、Dunsparce 线、Risky Ruins、Moltres 都在 ±3 以内。
 - 对手方面：带 Mew ex 的对手 74.8%（41 局）对不带的 62.6%（214 局）；带 Pawmot 的 72.5%（40 局）对不带的 63.1%（215 局）；带 Budew 的 57.6%（55 局）对不带的 66.5%（200 局）。
 
 **常见失误**
-- 把 Phantom Dive 的指示物花在打不死的 Latias ex / Kangaskhan 上，放过了后备区能收的 Slowpoke。
-- Clefairy 在场、对手 Slowking 已有 2 个能量时，还让满血 Dragapult ex 站前面，以为 150 打不死。
+- 把 Phantom Dive 的指示物花在打不死的 Latias ex / Kangaskhan 上，放过了后备区能收的 Slowpoke（除非像 Hedrick 那样算好了哪一回合一次收完）。
+- Clefairy 在场、对手 Slowking 已有 2 个能量时，还让满血 Dragapult ex 站前面，以为 150 打不死。（Metallic Hammer 翻倍是 300，满血 320 正好剩 20：录像第 2 局 Carullo 复制 Metagross 打 300 没击倒，Hedrick 下回合一次拿 4 张，[1:06:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3960s)；Latias ex 的 400 才是一击。）
 - 后备区铺 3 只以上 Dreepy / Drakloak，被 Trifrost 一次收 2 张。
 - 对手刚叠好牌库顶时手里有 Judge 却没打。
 
