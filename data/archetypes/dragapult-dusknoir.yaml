@@ -135,6 +135,18 @@ evidence:
       - 对手用 Eri 弃掉手里等条件的 Special Red Card（第 1 局）
       - Judge 把对手手牌打回 4 张，对手下一回合又凑到 16 张一击 Dragapult ex（https://www.youtube.com/watch?v=mq3UY7pQe4c&t=4500s）
     caveat: 一场三局；带 2 张 Genesect 的对手只占四场比赛 62 份卡表里的 7 份。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 八强，Chao（本卡组）2-1 Łaszkiewicz（Alakazam Dusknoir，4 张 Gwynn，5 个能量）
+    window: TEF-PBL
+    confirms:
+      - Cursed Blast 加 Phantom Dive 收光对手的 Abra 和 Alakazam（第 1 局）
+      - Special Red Card 留到对手剩 3 张以下，第 3 局和一次拿 4 张的 Phantom Dive 一起打到 1 对 1
+    adds:
+      - 对手为解锁物品击倒 Budew，下回合就用 Unfair Stamp 把对手打回 2 张手牌（第 1 局）
+      - 对手改为不击倒、分两回合打 Dragapult ex（Powerful Hand 240，再用 Cursed Blast），这样就没有 Stamp 可打（第 2 局）
+      - 对手落后时用 Dusknoir 和 Dusclops 的 Cursed Blast 让双方同时拿完，突然死亡里赢下第 2 局；领先时要先算对手还能自爆几次（推断）
+      - 起手卡手时顶抽到 Lillie's Determination，Unfair Stamp 在奖赏卡里，照样赢下第 3 局
+    caveat: 一场三局；时间按解说，比赛从第 2 天直播 6:46 开始（https://www.youtube.com/watch?v=qwBID2ApsOY&t=24360s）。
 
 mistakes:
   - 在无关紧要的回合用 Cursed Blast，白送 1 张奖赏卡。

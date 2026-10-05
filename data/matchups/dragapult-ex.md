@@ -11,7 +11,7 @@
 | 对手 | 胜率（局数） | 一句话要点 |
 |---|---|---|
 | N's Zoroark | 43.6%（754） | 第一发 Phantom Dive 打不死 280 HP 的 Zoroark ex，"先铺 90 再收"；先拆 Pecharunt ex 和对手的 Munkidori，少一块加成对手就一击不了 Dragapult ex。对手有 N's Reshiram 时，别留一只吃过 200 还活着的 Zoroark ex：复制 Powerful Rage 打 400。 |
-| Basic Box | 42.6%（732） | Lillie's Clefairy ex 一上场就 Boss 掉，挂了 Hero's Cape（290）就用 Crushing Hammer 拆它的能量；Risky Ruins 让对手每只非恶基础宝可梦掉 20；Dudunsparce ex 在这个对局数据最好（+21 个百分点）。 |
+| Basic Box | 42.6%（732） | Lillie's Clefairy ex 一上场就 Boss 掉，挂了 Hero's Cape（290）就用 Crushing Hammer 拆它的能量；Risky Ruins 让对手每只非恶基础宝可梦掉 20；Dudunsparce ex 在这个对局数据最好（+21 个百分点）；Moltres 先打 Kangaskhan 110，下回合 Phantom Dive 200 收它拿 3 张。 |
 | Dragapult Dusknoir | 55.5%（721） | 先狙 Duskull 断 Dusknoir；对手 Dragapult ex 在后备区时先放 60，Boss 后 200 + 两只 Munkidori 60 正好 320。 |
 | Alakazam Dudunsparce | 60.4%（643） | 场地之争：Risky Ruins 留给 Battle Cage 和 Nighttime Mine，没有场地可换时用 Boss's Orders 把目标拉到战斗场打（Battle Cage 只挡后备区）；控制对手手牌数，Fezandipiti ex 打残不打死；对手牌库薄、战斗场挂着 Lucky Helmet 时可以打牌库耗尽。 |
 | Slowking | 40.1%（637） | Slowking 是超能属性，Fairy Zone 下复制来的招式全部翻倍；先 Boss Lillie's Clefairy ex，Judge 打乱对手叠好的牌库顶。 |
@@ -114,7 +114,7 @@
 - 先打 Risky Ruins。对手除 Fezandipiti ex 外全是非恶属性的基础宝可梦，之后放到后备区的每一只都先掉 20。Ruins 换掉对手的 Area Zero Underdepths 时，双方都要把后备区弃到 5 只，打出 Area Zero 的对手先弃。
 - T3：Boss's Orders 拉 Lillie's Clefairy ex（190），Phantom Dive 200 击倒（2 张）。6 个指示物放在后备区 Meowth ex（170）上，若它是 Ruins 在场时放下的，身上已有 20 + 60 = 80。
 - T4：打战斗场上的攻击手：Latias ex 210 = 200 + Ruins 20 或 Munkidori 30；Teal Mask Ogerpon ex 210 同理；Iron Leaves ex 220 = 200 + 30。（2 张）后备区再放 60 + Munkidori 30 到那只 Meowth ex：20 + 60 + 60 + 30 = 170，在后备区击倒（2 张）。这一回合拿 4 张，累计 6 张。
-- Mega Kangaskhan ex（300，3 张）站到战斗场时：200 + 前回合 60 + Munkidori 30 + Ruins 20 = 310，或 200 + 60 + 两只 Munkidori 60 = 320。它和一只 2 奖 ex 加起来就是 5 张，再随便收 1 张。
+- Mega Kangaskhan ex（300，3 张）站到战斗场时：200 + 前回合 60 + Munkidori 30 + Ruins 20 = 310，或 200 + 60 + 两只 Munkidori 60 = 320。它和一只 2 奖 ex 加起来就是 5 张，再随便收 1 张。也可以先用 Moltres 打它 110，下回合 Phantom Dive 200 就是 310。录像：2026 世界赛八强第 1 局 Tonisson 就这样打：Moltres 打 Spry 的 Kangaskhan 110，Spry 击倒 Moltres 拿 1 张；Tonisson 落后、宝可梦又刚被击倒，同一回合打出 Rosa's Encouragement 和 Unfair Stamp，Phantom Dive 击倒 Kangaskhan 拿 3 张（[8:14:41](https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s)）。
 - Phantom Dive 的指示物可以放在后备区的太晶 Ogerpon ex 身上：太晶保护只防伤害，不防指示物。
 - Raging Bolt ex（240）：200 + 前回合 60，或 200 + Ruins 20 + Munkidori 30 = 250。
 
@@ -124,15 +124,16 @@
 - 没有 Clefairy 时，Dragapult ex 吃一下通常不死，可以正常换血。
 - 对手的 Fezandipiti ex 会用 Cruel Arrow（任意一只 100）逐只收后备区的 Dreepy 和 Drakloak：后备区至少保留 2 只进化线，Night Stretcher 留着补进化线。录像：Baltimore 四强第 3 局 Potti 唯一的 Dreepy 和之后的 Drakloak 都被它收掉，一张奖赏卡都没拿到；NAIC 2026 决赛 Kowalski 第 2、3 局也是靠它赢的。
 - 击倒的时机要算：我方每击倒一只，对手下回合就能用 Fezandipiti ex 的 Flip the Script 抽 3。录像：Baltimore 八强第 1 局 Potti 用 Boss's Orders 拉出 Latias ex 只打到剩 10、故意不击倒，指示物都铺在 Meowth ex 上，下一回合 Boss Clefairy 击倒、指示物收掉后备区的 Latias ex，一回合拿 4 张（[4:42:31](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=16951s)）。NAIC 决赛第 2 局 Kosek 也故意不用 Itchy Pollen：那 10 伤害会让 Phantom Dive 正好击倒 Fezandipiti ex，对手还有第二只可以抽牌。和 Hedrick 对 Slowking 的"先铺不收"是同一个原则。
+- 让对手先拿单奖（录像）：Rosa's Encouragement 要自己剩的奖赏卡比对手多，Unfair Stamp 要我方宝可梦上回合被击倒。世界赛八强第 1 局 Spry 先拿了 2 张（Enamorus 收 Budew，再收 Moltres），Tonisson 一张没拿，于是同一回合 Rosa、Stamp、Phantom Dive 全用上，一次拿 3 张。对 Basic Box 用 Budew、Moltres 这些单奖宝可梦换对手的 2 奖、3 奖，比抢第一张划算（推断）。
 - 残局对手只差 1 张、而赢的路线要靠物品时，让 Budew 守在战斗场用 Itchy Pollen 锁物品，哪怕它只剩 30 HP。录像：Baltimore 八强第 2 局 Potti 用 Crushing Hammer 拆掉 Clefairy 的 Psychic 能量，打出 Special Red Card，把 Budew 留在前场锁物品，White 差一张物品，没能赢（[5:05:30](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=18330s)）。
 - 对手是不带抽牌支援者的版本（例如 NAIC 决赛 Kowalski 的 Clefairy 版）时，Unfair Stamp 和 Team Rocket's Watchtower 一起用效果最大：Watchtower 关掉 Kangaskhan 的 Run Errand 和 Meowth ex 的特性，对手被 Stamp 到 2 张就抽不回来。录像：NAIC 决赛第 1 局 Kosek 很早就这样打，解说认为这是那一局的关键。
-- Wellspring Mask Ogerpon ex 的 Torrential Pump 打战斗场 100，另把 3 个能量洗回牌库可再打后备区 120：能击倒后备区的 Drakloak（90）、Munkidori（110）、Dreepy。后备区的 Dragapult ex 不受影响（太晶保护）。所以第 3 回合进化前，后备区至少留 2 只 Dreepy / Drakloak 备份（推断）。录像（同一场第 1 局）：Christen 用 Torrential Pump 打后备区 120 击倒 Drakloak（[5:43:05](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20585s)），再放下 Lillie's Clefairy ex，Full Moon Rondo 一击 Dragapult ex（[5:47:20](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20840s)）。
+- Wellspring Mask Ogerpon ex 的 Torrential Pump 打战斗场 100，另把 3 个能量洗回牌库可再打后备区 120：能击倒后备区的 Drakloak（90）、Munkidori（110）、Dreepy。后备区的 Dragapult ex 不受影响（太晶保护）。所以第 3 回合进化前，后备区至少留 2 只 Dreepy / Drakloak 备份（推断）。录像（同一场第 1 局）：Christen 用 Torrential Pump 打后备区 120 击倒 Drakloak（[5:43:05](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20585s)），再放下 Lillie's Clefairy ex，Full Moon Rondo 一击 Dragapult ex（[5:47:20](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20840s)）。2026 世界赛八强第 2 局 Spry 用 Prime Catcher 加两张 Energy Switch，Torrential Pump 一次收掉两只 Drakloak（战斗场 100、后备区 120）；Tonisson 还有第二只 Munkidori 和 Moltres，之后用 Boss's Orders、Special Red Card 和 Phantom Dive 几回合拿了 5 张，打到只差 1 张（[8:31:27](https://www.youtube.com/watch?v=qwBID2ApsOY&t=30687s)），2-0 拿下。
 - Chien-Pao（SSP 56）上场时可以弃掉场上的场地，Risky Ruins 会被拆。第二张 Ruins 留到对手用过 Chien-Pao 之后（推断）。
 - Glass Trumpet 只在对手有太晶宝可梦时能用：先收掉战斗场的 Teal Mask Ogerpon ex，再加上后备区的 Ogerpon 都没了，Trumpet 就成了死卡（推断）。
 
 **关键卡与构筑**
 - Dudunsparce ex（JTG 121，270 HP，无色，2 奖）：Tenacious Tail（1 个无色）按对手场上宝可梦 ex 的数量每只 60。对手场上通常有 4-6 只 ex，就是 240-360。它不是龙属性，Fairy Zone 对它无效，Latias 的 200 也打不倒它。数据：带的 69.6%（45 局）对不带的 48.4%（235 局），+21.3 个百分点，是本手册里最大的单卡差距。这个对局多的环境里，值得把 Dunsparce 线换成 Dunsparce + Dudunsparce ex 或两种都带（推断）。
-- Moltres：带的 55.1%（132 局）对不带的 48.9%（148 局），+6.2。110 打 2 奖 ex，只送 1 张，Fairy Zone 也不翻倍。
+- Moltres：带的 55.1%（132 局）对不带的 48.9%（148 局），+6.2。110 打 2 奖 ex，只送 1 张，Fairy Zone 也不翻倍。打弱火的 Iron Leaves ex（220）和 Teal Mask Ogerpon ex（210）是 220，一击（世界赛八强第 2 局 Tonisson 就拿它对付 Spry 起手的 Iron Leaves ex）。
 - Special Red Card：−5.7（148 / 132 局）。Team Rocket's Watchtower（会关掉对手 Kangaskhan 的 Run Errand，也关掉自己的 Meowth ex）：−3.4（51 / 229 局），没有帮助。
   - 录像（同一场第 1 局）：Kamerman 开局 Budew 锁物品、Watchtower 关掉 Run Errand、Crushing Hammer 拆能量，局面领先，但 Watchtower 被对手的 Area Zero Underdepths 换掉。等对手打过场地再打 Watchtower 更稳（推断）。后来对手剩 2 张时他打出 Special Red Card，再击倒对手宝可梦打到 2 对 2；这一击倒正好让对手能用 Unfair Stamp（我方只剩 2 张手牌）加 Fezandipiti ex 抽 3，第二次 Full Moon Rondo 结束比赛（[5:50:00](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21000s)）。对手还留着 Unfair Stamp 时，Special Red Card 拦不住它，这和上面 −5.7 的方向一致（推断）。
 - 对手方面：带 Crispin 的对手 70.3%（267 局）对不带的 48.6%（46 局）；带 Water Energy 的 70.8%（263 局）对不带的 47.3%（50 局）；带 Fighting Energy 的 70.4%（262 局）对不带的 50.3%（51 局）。反过来带 N's Plan、Bug Catching Set、Pecharunt、Prism Energy、Paldean Tauros 的那一类变体对我们明显更差（各约 −16 到 −22，带的一侧 42-57 局）。也就是说主流的"Crispin + 水 + 斗能量"版本（Wellspring Ogerpon、Raging Bolt ex）才是难打的版本。带 Jamming Tower 的对手 76.5%（68 局）对不带的 64.5%（245 局），Jamming Tower 本身对我们没有道具可关，作用大概是换掉 Risky Ruins（推断）。

@@ -124,6 +124,18 @@ matchups:
     win_rate: 0.713
     plan: 数据上占优；Garchomp 是斗属性，不吃 Fairy Zone，优势原因没有从卡表推出。
 
+evidence:
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 八强，Spry（本卡组，Prime Catcher、Enamorus、Jamming Tower，没有 Hero's Cape 和 Unfair Stamp）0-2 Tonisson（Dragapult ex）
+    window: TEF-PBL
+    confirms:
+      - Wellspring Ogerpon 的 Torrential Pump 一次收掉两只 Drakloak，前面用 Prime Catcher 和两张 Energy Switch（第 2 局）
+      - 用 Kangaskhan 硬打 Dragapult ex 要连续三次正面，第 1 局第一次就是反面，随后投降
+    adds:
+      - 对手 Moltres 打 Kangaskhan 110 后，它就在 Phantom Dive 的一击范围；这时击倒 Moltres 拿 1 张，对手同一回合 Rosa's Encouragement + Unfair Stamp + Phantom Dive 拿 3 张（https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s）
+      - 对手 Moltres 打弱火的 Iron Leaves ex、Teal Mask Ogerpon ex 是 220，一击；第 2 局起手的 Iron Leaves ex 就被 Moltres 盯上
+    caveat: 一场两局；Lillie's Clefairy ex 整个系列没有攻击，Clefairy 路线没有得到检验。
+
 mistakes:
   - 第一回合就把 Mega Kangaskhan ex 摆进战斗场，被对手先击倒送 3 张。
   - 对 Dragapult 时 Lillie's Clefairy ex 放出来后没保护，被 Boss 击倒后失去弱点。
