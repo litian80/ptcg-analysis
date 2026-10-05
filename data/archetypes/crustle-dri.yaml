@@ -76,7 +76,7 @@ matchups:
     plan: Dipplin 不是 ex，100 ×2 一回合击倒 Crustle。
   - vs: slowking-scr
     win_rate: 0.208
-    plan: Slowking 不是 ex，复制来的 Metallic Hammer 150 击倒 Crustle。
+    plan: Slowking 不是 ex，复制来的 Metallic Hammer 300（官方裁定，不用弃钢能量）一击任何 Crustle。
   - vs: mega-excadrill-ex
     win_rate: 0.27
     plan: 对手 Metagross（非 ex）弃 3 能量打 300。

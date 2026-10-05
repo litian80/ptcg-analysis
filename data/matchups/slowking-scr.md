@@ -11,14 +11,14 @@
 | Dragapult ex | 53.6%（637） | 趁对手还是 Dreepy/Drakloak 时用 Trifrost 一次收 3 只；Dragapult ex 在后备区时不吃招式伤害，别往它身上打 |
 | N's Zoroark | 42.4%（317） | 对手任何招式都按恶属性双倍打 Slowking；先手抢在 Zorua 进化前 Trifrost，再处理后备区的 N's Zekrom |
 | Dragapult Dusknoir | 54.0%（239） | 同 Dragapult，外加优先清掉 Duskull/Dusclops；后备区不要放 Fezandipiti ex、Meowth ex 让 Dusknoir 收 |
-| Basic Box（Mega Kangaskhan） | 44.6%（254） | 两回合拿一只 ex：Trifrost 先铺 110，下回合 Thunder Raid 210 收后备区；Tera Ogerpon 在后备区打不动 |
-| Alakazam Dudunsparce | 28.4%（228） | 最差对局之一；Shaymin 废掉 Trifrost 的后备区伤害，靠 Metallic Hammer 150 逐只击倒 Alakazam，用 Thunder Raid 收 Fezandipiti ex |
+| Basic Box（Mega Kangaskhan） | 44.6%（254） | 战斗场的 ex（包括满血 Kangaskhan）Metallic Hammer 300 一击；后备区的 ex 用 Trifrost 110 + Thunder Raid 210；Tera Ogerpon 在后备区打不动 |
+| Alakazam Dudunsparce | 28.4%（228） | 最差对局之一；Shaymin 废掉 Trifrost 的后备区伤害，靠 Metallic Hammer 逐只击倒 Alakazam，用 Thunder Raid 收 Fezandipiti ex |
 | Mega Excadrill ex | 64.0%（173） | 两只 Mega 就是 6 张；提早用 Trifrost 断 Beldum/Drilbur/Metang，后备区 ex 用 Trifrost + Thunder Raid 收 |
 | Dragapult Blaziken | 47.9%（208） | 后备区 Blaziken ex：Trifrost 110 + Thunder Raid 210 = 320 正好击倒 |
 | Festival Lead | 49.0%（128） | Academy at Night 盖掉 Festival Grounds 就关掉连击；Rabsca/Shaymin 在场时 Trifrost 只打得到战斗场 |
 | Dhelmise | 31.3%（114） | Dhelmise 140 HP：Trifrost 110 + Munkidori 30 = 140；Hide 'n' Sneak 挡指示物，但 Dhelmise 本身没有这个特性；对手有 Shaymin（58%）时 Trifrost 打不到后备区，先清 Shaymin |
-| Ogerpon Meganium Hydrapple | 41.7%（92） | 早期 Trifrost 断 Chikorita/Bayleef/Applin 进化线；Meganium 160 要两步 |
-| Crustle | 68.0%（129） | Slowking 不是 ex，Crustle 挡不住；两次 Trifrost 收三只 Crustle，对手的 Mega Kangaskhan ex 是 3 奖肥肉 |
+| Ogerpon Meganium Hydrapple | 41.7%（92） | 早期 Trifrost 断 Chikorita/Bayleef/Applin 进化线；战斗场的 Hydrapple ex 用 Metallic Hammer 300 + Brave Bangle 30 一击 |
+| Crustle | 68.0%（129） | Slowking 不是 ex，Crustle 挡不住；两次 Trifrost 收三只 Crustle，Metallic Hammer 300 一击任何 Crustle；对手的 Mega Kangaskhan ex 是 3 奖肥肉 |
 | Alakazam Dusknoir | 29.4%（34） | 样本小；打法同 Alakazam，另外注意 Dusknoir 130 指示物 |
 
 ## 通用：Slowking 的复制工具箱
@@ -29,7 +29,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 |---|---|---|---|
 | Kyurem（SFA 47） | Trifrost | 对手 3 只宝可梦各 110（后备区不算弱点抗性）；弃掉 Slowking 身上全部能量，Boomerang Energy 攻击后会贴回来 | 全部 2 张 |
 | Zeraora（DRI 78） | Thunder Raid | 对手后备区 1 只宝可梦 ex 210；弃掉全部能量 | 约 53% |
-| Metagross（CRI 61） | Metallic Hammer / Bounce Back | 150（Slowking 没有钢能量，不能 +150）/ 60 并把对手战斗场换下（对手选新战斗场） | 全部 2 张 |
+| Metagross（CRI 61） | Metallic Hammer / Bounce Back | 300（选 +150 时，Slowking 没有钢能量就什么都不用弃，见下）/ 60 并把对手战斗场换下（对手选新战斗场） | 全部 2 张 |
 | Annihilape（PBL 41） | Ghostly Blow | 100，再给对手后备区 1 只放 5 个伤害指示物 | 约 57% |
 | Annihilape（SSP 100） | Tantrum / Destined Fight | 130 但 Slowking 混乱 / 双方战斗场宝可梦都被击倒 | 约 33%（21 份两种都带） |
 | Pawmot（PFL 34） | Voltaic Fist | 130，可选自伤 60 让对手战斗场麻痹 | 约 17% |
@@ -40,7 +40,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 几条每局都适用的规则：
 
-- 复制来的 Metallic Hammer 是 150：+150 要从 Slowking 身上弃 3 个钢能量，Slowking 没有。只有你的 Lillie's Clefairy ex 在场、打的是龙属性（Fairy Zone 让龙属性弱超能）时才是 300。录像里这一招常被误算成 300，双方和解说都没发现：Baltimore 2026 第 1 天第 4 轮，Carullo 在没有 Clefairy 时把满血 Dragapult ex 打到剩 20（[1:06:30](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3990s)）；B 桌 Smith 一下打倒了满血 N's Zoroark ex（[1:25:20](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s)）。按 150 规划。
+- 复制来的 Metallic Hammer 是 300。官方裁定（[Chaos Rising FAQ](https://pokegym.net/2026/05/08/me-chaos-rising-faq/)，日本官方 Q&A 相同）：Slowking 身上没有钢能量也能选 +150，什么都不用弃；身上有钢能量时才要弃，最多 3 个。英文卡面读起来像必须先弃 3 个钢能量，是翻译造成的误会；Pokémon TCG Live 也按 300 结算。所以战斗场上 300 HP 以内的宝可梦都是一击：满血 Mega Kangaskhan ex（300）、N's Zoroark ex（280）、任何 Crustle（最高 290）；加 Brave Bangle 30 能一击 Hydrapple ex（330）；满血 Dragapult ex（320）剩 20，Fairy Zone 下是 600。录像里都是这样结算的：Baltimore 2026 第 1 天第 4 轮，Carullo 把满血 Dragapult ex 打到剩 20（[1:06:30](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3990s)）；B 桌 Smith 一下打倒满血 N's Zoroark ex（[1:25:20](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s)）；四强 Dreitzler 用 Brave Bangle 加 Hammer 一下打倒满血 Hydrapple ex（[6:14:06](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=22446s)）。限制在张数：卡表只有 2 张 Metagross，用一次弃一张，要靠 Slowpoke 的 Dangle Tail 或 Night Stretcher 捡回（推断）。
 - Tera 宝可梦 ex（Dragapult ex、Teal Mask Ogerpon ex、Wellspring Mask Ogerpon ex）在后备区时不受任何招式伤害，Trifrost 的后备区部分和 Thunder Raid 对它们无效；但伤害指示物的"放置"（Ghostly Blow、Cofagrigus、Munkidori）不是伤害，照样有效。
 - Trifrost、Thunder Raid 之后 Slowking 只剩 Boomerang Energy。下回合手贴 1 个超能量就能再用 Seek Inspiration；Wondrous Patch 只能贴给后备区的超属性宝可梦，所以下一只 Slowking 要在后备区先补好能量。
 - 攻击前的顺序：先用所有会洗牌或抽牌的东西（Lillie's Determination、Ultra Ball、Poké Pad、Surfer、Mega Kangaskhan ex 的 Run Errand），最后才用 Academy at Night 放目标，然后攻击。
@@ -66,9 +66,9 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 **奖赏卡路线**
 - 你第 1 回合：Slowpoke + 2 只 Slowpoke 上场，Poké Pad 拿 Kyurem 留在手上，打出 Academy at Night。
 - 你第 2 回合（取 3）：进化 Slowking，贴第 2 个能量，用 Academy at Night 把 Kyurem 放到牌库顶，Seek Inspiration → Trifrost。目标优先级：Munkidori（110，正好击倒，它是对手收你后备区 Slowpoke 的关键）、Drakloak（90）、Dreepy（70）、Budew（30）。Fairy Zone 在场时战斗场的龙属性吃 220。
-- 你第 3 回合（取 2）：对手若把 Fezandipiti ex 或 Meowth ex 放在后备区，Thunder Raid 210 直接击倒（Fezandipiti ex 210、Meowth ex 170）。若战斗场是新上来的 Dragapult ex（320）：Fairy Zone 在场时 Metallic Hammer 150 × 2 = 300，还差 20，需要 Munkidori 的 3 个指示物或之前 Ghostly Blow 放的 5 个指示物；Pawmot 的 Voltaic Fist 130 × 2 = 260 并可让它麻痹（推断：对手核心卡表里没有 Switch，麻痹的 Dragapult ex 下回合既打不了也撤不了），下回合补刀。
+- 你第 3 回合（取 2）：对手若把 Fezandipiti ex 或 Meowth ex 放在后备区，Thunder Raid 210 直接击倒（Fezandipiti ex 210、Meowth ex 170）。若战斗场是新上来的 Dragapult ex（320）：Fairy Zone 在场时 Metallic Hammer 300 × 2 = 600，一击；没有 Clefairy 时 300 还差 20，需要 Munkidori 的 3 个指示物或之前 Ghostly Blow 放的 5 个指示物。Pawmot 的 Voltaic Fist 130 × 2 = 260 并可让它麻痹（推断：对手核心卡表里没有 Switch，麻痹的 Dragapult ex 下回合既打不了也撤不了），下回合补刀。
 - 你第 4 回合（取最后 1 到 2 张）：Trifrost 或 Metallic Hammer 收残血。
-- 没有 Fairy Zone 时，满血 Dragapult ex 很难一击。可以用 SSP 100 版 Annihilape 的 Destined Fight 双方战斗场同归于尽：你送 1 张，拿 2 张。
+- 没有 Fairy Zone 时，满血 Dragapult ex 吃 Metallic Hammer 剩 20，先用 Ghostly Blow 或 Munkidori 放好 20 以上就是一击；否则用 SSP 100 版 Annihilape 的 Destined Fight 双方战斗场同归于尽：你送 1 张，拿 2 张。
 - 不要用 Trifrost 或 Thunder Raid 去打后备区的 Dragapult ex（Tera 规则：在后备区时不受招式伤害）。想提前削它只能放指示物：Ghostly Blow 的 5 个指示物可以放在后备区的 Dragapult ex 上。
 
 **对手的套路，怎么防**
@@ -83,7 +83,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 本对局你方带牌对比（n 均 ≥ 15）：带 Mew ex 的卡表胜率高 12.2 个百分点（41 对 214 局）；Pawmot 高 9.4 个百分点（40 对 215）；带 Budew 低 8.9（55 对 200）；Brave Bangle 低 7.3（50 对 205）；Drapion 低 6.3（46 对 209）；Lucky Helmet 低 4.2（126 对 129）。
 - Pawmot 的正面效果与卡牌文字吻合：Fairy Zone 下 260 加麻痹，两回合内击倒 Dragapult ex（推断）。Mew ex（160 HP，撤退 0）的 Memory Helix 能使用后备区 Slowking 的 Seek Inspiration，相当于多一个零撤退的攻击位（推断）。
 - 对手方：带 Judge 的 Dragapult ex 卡表对你胜率高 8.9 个百分点（194 对 43 局），说明打乱手牌和牌库顶确实有效；带 Team Rocket's Watchtower 高 4.1（57 对 180），它会关掉你 Mega Kangaskhan ex 和 Meowth ex 的特性。
-- 建议：此对局 Pawmot 或 Mew ex 值得占一个位置（数据支持）；Munkidori + Darkness Energy 能补 Metallic Hammer 300 打 Dragapult ex 差的 20（推断，本对局无足量数据）。
+- 建议：此对局 Pawmot 或 Mew ex 值得占一个位置（数据支持）；没有 Clefairy 时，Munkidori + Darkness Energy 能补 Metallic Hammer 300 打 Dragapult ex 差的 20（推断，本对局无足量数据）。
 
 **常见失误**
 - Trifrost 的三个目标里选了后备区的 Dragapult ex，伤害全部被 Tera 规则挡掉。
@@ -101,7 +101,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 对手更快，而且属性克你。N's Zoroark ex（280 HP，恶属性）的 Night Joker（恶 × 2）复制后备区 N's 宝可梦的招式，伤害按恶属性算，Slowking 弱恶。复制 N's Zekrom 的 Shred 70 × 2 = 140 就击倒 Slowking，还没有"下回合不能攻击"的限制；N's Zorua 的 Scratch 20 × 2 = 40。
 - 对手对你基本是每回合 1 张。对手想加速就 Boss's Orders 拉你的 ex：Mega Kangaskhan ex 300 HP 会被 Rampaging Thunder 250 + Binding Mochi 40 + Black Belt's Training 40 = 330 击倒（3 张）。
 - 你要拿 6 张：N's Zoroark ex 2 张，Pecharunt ex（190）、Fezandipiti ex（210）、Meowth ex（170，27% 卡表）各 2 张，N's Zorua（70）、Tatsugiri（70）、Munkidori（110）、N's Zekrom / N's Reshiram（130）各 1 张。
-- 满血 N's Zoroark ex 你一击打不倒（最高 Metallic Hammer 150），要两步，或用 Destined Fight 一换一（你送 1 张，拿 2 张）。录像里 Baltimore 2026 第 1 天第 4 轮 B 桌 Smith 复制 Metallic Hammer 一下打倒了满血 Zoroark ex（[1:25:20](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s)），那是误算成 300，按规则只有 150。
+- 战斗场的满血 N's Zoroark ex（280）吃不住 Metallic Hammer 300，一击拿 2 张。录像：Baltimore 2026 第 1 天第 4 轮 B 桌，Smith 复制 Metallic Hammer 一下打倒满血 Zoroark ex（[1:25:20](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s)）。Metagross 用完时改用 Destined Fight 一换一（你送 1 张，拿 2 张）。
 - 对手有两种构筑（四场比赛 112 份卡表）：Watchtower 版带 3 到 4 张 Team Rocket's Watchtower（51 份），其中 33 份带 N's Purrloin，几乎不带 N's Castle 和 N's Darmanitan；Castle 版带 N's Castle（57 份），Watchtower 多是 0 到 1 张，31 份带 N's Darmanitan。前者专门锁你的手牌和特性，开局看到 Watchtower 或 Purrloin 就按下面"手牌锁"那条防。
 
 **开局与先后攻**
@@ -111,7 +111,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 **奖赏卡路线**
 - 你第 2 回合（取 2 到 3）：Trifrost 打 3 只 70 到 110 HP 的基础宝可梦：N's Zorua、Tatsugiri、Munkidori 都一下击倒；N's Zekrom / N's Reshiram（130）会剩 20。
 - 你第 3 回合（取 2）：后备区有 Pecharunt ex 或 Fezandipiti ex 就 Thunder Raid 210 击倒；若有 N's Zoroark ex 已经吃过 Trifrost 110，Thunder Raid 210 补到 320 也击倒（280 HP）。
-- 你第 4 到 5 回合（取剩下的）：战斗场的满血 Zoroark ex：先 Trifrost 110，下回合 Metallic Hammer 150 = 260，加 Munkidori 30 到 290 击倒；或 Destined Fight 直接同归于尽。
+- 你第 4 到 5 回合（取剩下的）：战斗场的满血 Zoroark ex 用 Metallic Hammer 300 一击；Metagross 用完了就用 Destined Fight 同归于尽。
 - 处理复制来源（推断）：对手 Night Joker 的伤害全靠后备区的 N's Zekrom（Shred 70、Rampaging Thunder 250）和 N's Reshiram（Virtuous Flame 170）。它们各 130 HP，Trifrost 110 后再补一次就倒（或 Trifrost + Ghostly Blow 的 5 个指示物 = 160）。把后备区的 Zekrom / Reshiram 清掉，对手只剩 Zorua 的 Scratch 可复制（对 Slowking 40），要等 Night Stretcher 捡回来。
 
 **对手的套路，怎么防**
@@ -150,7 +150,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 **奖赏卡路线**
 - 你第 2 回合（取 3）：Trifrost 击倒 Duskull（60）、Dusclops（90）、Dreepy（70）、Drakloak（90）、Munkidori（110）、Patrat（70）中的 3 只。先打已经进化的 Dusclops（下回合就能自爆）和 Munkidori。
 - 你第 3 回合（取 2）：Thunder Raid 击倒后备区的 Fezandipiti ex（210）或 Meowth ex（170）；Dusknoir（160）在后备区时用 Trifrost 110 + Ghostly Blow 5 指示物 = 160 正好击倒（两回合）。
-- 你第 4 回合（取最后 1 到 2 张）：Dragapult ex 在战斗场时按 Dragapult ex 章节：Fairy Zone 下 Metallic Hammer 300 + 指示物 20 以上，或 Destined Fight。对手自爆送的奖赏卡常常让你提前一回合拿完。
+- 你第 4 回合（取最后 1 到 2 张）：Dragapult ex 在战斗场时按 Dragapult ex 章节：Fairy Zone 下 Metallic Hammer 600 一击；没有 Clefairy 时 300 + 指示物 20 以上，或 Destined Fight。对手自爆送的奖赏卡常常让你提前一回合拿完。
 
 **对手的套路，怎么防**
 - Dusknoir 13 个指示物狙后备区：不让 2 奖 ex 在后备区停留；Slowking 被狙也只送 1 张，换掉的是对手一张 Dusknoir（也送你 1 张）。
@@ -182,7 +182,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **对局性质**
 - 对手全是基础宝可梦，第 2 回合就能打出 120 以上伤害：Mega Kangaskhan ex 200 起、Latias ex 200、Iron Leaves ex 180、Raging Bolt ex 每弃 1 个能量 70、Teal Mask Ogerpon ex 30 + 双方战斗场每个能量 30、Fezandipiti ex 的 Cruel Arrow 对战斗场 Slowking 200（恶属性 × 2）。每回合都能击倒你一只 Slowking。
-- 对手几乎全是 2 奖，Kangaskhan 3 奖。理论上你只需击倒 3 只 2 奖（或 Kangaskhan + 1 只 2 奖 + 1 只单奖），对手需要 6 次。但对手 HP 在 170 到 300 之间，你单发最高 150，基本要两步拿一只（推断：这就是胜率低于奖赏卡算账的原因）。
+- 对手几乎全是 2 奖，Kangaskhan 3 奖。理论上你只需击倒 3 只 2 奖（或 Kangaskhan + 1 只 2 奖 + 1 只单奖），对手需要 6 次。对手 HP 在 170 到 300 之间，战斗场上的任何一只都吃不住 Metallic Hammer 300（挂 Hero's Cape 的 +100 除外）；后备区的要两步。胜率仍低于奖赏卡算账，原因没有从卡牌文字推出：Metagross 只有 2 张，每次攻击都要先把复制目标放到牌库顶，而对手的 Unfair Stamp、Chien-Pao 专门打断这一步（推断）。
 - 后备区的 Teal Mask Ogerpon ex 和 Wellspring Mask Ogerpon ex 是 Tera，后备区时不吃 Trifrost 和 Thunder Raid。可以稳定两步收的是非 Tera ex：Meowth ex（170，3 张）、Lillie's Clefairy ex（190）、Latias ex、Fezandipiti ex（210）、Iron Leaves ex、Iron Crown ex（220）、Raging Bolt ex（240）、Mega Kangaskhan ex（300）。
 
 **开局与先后攻**
@@ -191,11 +191,11 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 第 1 回合 Slowpoke 战斗场 + Telepathic Psychic Energy 拿 2 只 Slowpoke；Lillie's Clefairy ex 在此对局只对 Raging Bolt ex 有用（它是龙属性），按需放。
 
 **奖赏卡路线**
-- 你第 2 回合（铺伤害）：Trifrost 打战斗场 + 2 只非 Tera 后备区 ex，优先后备区的 Mega Kangaskhan ex 和 Meowth ex。Fairy Zone 在场且战斗场是 Raging Bolt ex 时吃 220。
-- 你第 3 回合（取 3）：Thunder Raid 打吃过 Trifrost 的后备区 Mega Kangaskhan ex：110 + 210 = 320 ≥ 300，拿 3 张。没有 Kangaskhan 就打任何吃过 110 的后备区 ex（110 + 210 = 320，所有非 Tera ex 都够）；满血的 Meowth ex（170）、Lillie's Clefairy ex（190）、Latias ex、Fezandipiti ex（210）Thunder Raid 一下就倒。
-- 你第 4 回合（取 2）：战斗场吃过 110 的 ex 用 Metallic Hammer 150 补到 260，可击倒 260 HP 以内的所有 ex（不含 Kangaskhan）。Fairy Zone 下 Raging Bolt ex（240）满血也能被 Metallic Hammer 300 或 Super Psy Bolt（需要 3 个能量）240 一击。
+- 你第 2 回合（取 2 到 3）：Metallic Hammer 300 击倒战斗场的 ex，战斗场是 Mega Kangaskhan ex 就拿 3 张。战斗场是单奖宝可梦（如 Chien-Pao）或 Metagross 放不到牌库顶时，改用 Trifrost 打战斗场 + 2 只非 Tera 后备区 ex，优先后备区的 Mega Kangaskhan ex 和 Meowth ex（推断）。
+- 你第 3 回合（取 2 到 3）：战斗场的 ex 接着用 Metallic Hammer。打过 Trifrost 的话，Thunder Raid 收后备区吃过 110 的 ex（110 + 210 = 320，所有非 Tera ex 都够，Mega Kangaskhan ex 拿 3 张）；满血的 Meowth ex（170）、Lillie's Clefairy ex（190）、Latias ex、Fezandipiti ex（210）Thunder Raid 一下就倒。
+- 你第 4 回合（取 2）：两张 Metagross 用完后用 Dangle Tail 或 Night Stretcher 捡回再用（推断）。Fairy Zone 下 Raging Bolt ex（240）满血也能被 Super Psy Bolt（需要 3 个能量）240 一击。
 - 你第 5 回合（取最后 1 到 2 张）：Thunder Raid 收另一只后备区 ex。
-- 战斗场的满血 Mega Kangaskhan ex：Destined Fight 一换一，你送 1 张拿 3 张（SSP 100 版 Annihilape）。
+- 战斗场的满血 Mega Kangaskhan ex：Metallic Hammer 300 正好击倒，拿 3 张；挂 Hero's Cape（400）时用 Destined Fight 一换一，你送 1 张拿 3 张（SSP 100 版 Annihilape）。
 
 **对手的套路，怎么防**
 - Area Zero Underdepths（全部卡表 3 张）：有 Tera 在场时后备区 8 格。用 Academy at Night 盖掉它时，双方后备区都要弃到 5 只，打出者（对手）先弃（推断，按卡牌文字"the player who played this card discards first"）。在对手铺满 8 格后再换场地，收益最大。
@@ -210,7 +210,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - Smoochum 正面的原因没有从卡牌文字直接推出；可能是 Delightful Kiss 给后备区一次贴 2 个超能量，让 Latias ex 的 Eon Blade 200 提前可用（推断）。
 - Annihilape 负面与 Destined Fight 的账面价值相矛盾，数据里两种版本混在一起，原因未明。
 - 对手方：带 Glass Trumpet 的卡表对你低 24.0 个百分点（80 对 26）；带 Raging Bolt ex 低 20.5（79 对 27）；带 Unfair Stamp 高 16.5（59 对 47）。
-- 建议：此对局 Cofagrigus、Prime Catcher 值得考虑（数据支持）；Prime Catcher 能把后备区吃过 Trifrost 的 ex 拉到战斗场让 Metallic Hammer 收（推断）。
+- 建议：此对局 Cofagrigus、Prime Catcher 值得考虑（数据支持）；Prime Catcher 能把后备区的 Tera Ogerpon 或 Mega Kangaskhan ex 拉到战斗场，让 Metallic Hammer 一击（推断）。
 
 **常见失误**
 - Trifrost 打后备区的 Teal Mask Ogerpon ex，伤害无效。
@@ -224,7 +224,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **对局性质**
 - 双方都以单奖宝可梦为主。对手 Alakazam（MEG 56，140 HP）的 Powerful Hand 只要 1 个超能量，按手牌数每张放 2 个指示物：手牌 6 张就击倒 Slowking，11 张击倒 Latias ex，15 张击倒 Mega Kangaskhan ex。Kadabra、Alakazam 进化时抽牌，Dudunsparce 抽 3 后洗回牌库，手牌很容易维持在 6 张以上。
-- 你的 Metallic Hammer 150 一击击倒 Alakazam（140）和 Dudunsparce（140），所以正面是一换一。差距来自对手的防守工具（推断）：Shaymin（DRI 10）让后备区无规则宝可梦不受招式伤害，Trifrost 只剩战斗场一份；Battle Cage 挡住你的招式放在后备区的指示物（Ghostly Blow、Cofagrigus）；Genesect（SFA 40）带道具时你不能打 ACE SPEC（Secret Box、Prime Catcher）；Enhanced Hammer 弃掉你的 Telepathic Psychic Energy 和 Boomerang Energy（都是特殊能量）。
+- 你的 Metallic Hammer 一击击倒 Alakazam（140）和 Dudunsparce（140），所以正面是一换一。差距来自对手的防守工具（推断）：Shaymin（DRI 10）让后备区无规则宝可梦不受招式伤害，Trifrost 只剩战斗场一份；Battle Cage 挡住你的招式放在后备区的指示物（Ghostly Blow、Cofagrigus）；Genesect（SFA 40）带道具时你不能打 ACE SPEC（Secret Box、Prime Catcher）；Enhanced Hammer 弃掉你的 Telepathic Psychic Energy 和 Boomerang Energy（都是特殊能量）。
 - 对手唯一常见的 2 奖目标是 Fezandipiti ex（210），36% 卡表还有 Lillie's Clefairy ex（190）。两只都能被 Thunder Raid 一击。
 
 **开局与先后攻**
@@ -233,7 +233,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **奖赏卡路线**
 - 你第 2 回合（取 1 到 3）：对手后备区没有 Shaymin 时，Trifrost 击倒 3 只 Abra / Dunsparce / Kadabra（80）；有 Shaymin 时只有战斗场会受伤，改用 Metallic Hammer 打战斗场。
-- 之后每回合（各取 1）：Metallic Hammer 150 击倒战斗场的 Alakazam 或 Dudunsparce。
+- 之后每回合（各取 1）：Metallic Hammer 击倒战斗场的 Alakazam 或 Dudunsparce。
 - 对手放下 Fezandipiti ex（它要在自己宝可梦被击倒后才能抽 3，所以你击倒东西后它很可能出现）：下个回合 Thunder Raid 210 击倒，取 2。Lillie's Clefairy ex 同理。
 - 一条现实的路线：Trifrost 或 Hammer 2 张 + Fezandipiti ex 2 张 + Hammer 2 张，共 5 到 6 个攻击回合；对手同样要击倒你 6 次，比拼的是谁的攻击手先断（推断）。
 - Shaymin 的处理（推断）：它 80 HP、有特性，Cofagrigus 的 Law of the Underworld 能放 60；Battle Cage 在场时后备区的指示物会被挡，先用 Academy at Night 把 Battle Cage 换掉。
@@ -310,7 +310,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 你第 2 回合（取 3）：Trifrost 击倒 Torchic（70）、Combusken（100）、Dreepy（70）、Drakloak（90）、Munkidori（110）中的 3 只，优先 Torchic/Combusken（断 Blaziken ex）和 Munkidori。
 - 你第 3 回合（铺伤害或取 2）：后备区已有 Blaziken ex 就 Trifrost 打它 110（加另外两只小怪），下回合 Thunder Raid 210 收；后备区有 Fezandipiti ex、Meowth ex 就直接 Thunder Raid。
 - 你第 4 回合（取 2）：Thunder Raid 收后备区的 Blaziken ex（110 + 210 = 320）。
-- 战斗场的 Dragapult ex 按 Dragapult ex 章节处理（Fairy Zone 下 Metallic Hammer 300 + 补 20）；战斗场满血 Blaziken ex 用 Destined Fight。
+- 战斗场的 Dragapult ex 按 Dragapult ex 章节处理（Fairy Zone 下 Metallic Hammer 600 一击，没有 Clefairy 时 300 + 补 20）；战斗场满血 Blaziken ex（320）吃 Metallic Hammer 也剩 20，同样要补 20，或用 Destined Fight。
 
 **对手的套路，怎么防**
 - Chi-Yu（TWM 39）的 Ground Melter：有场地时 120 并弃掉场地，正好击倒 Slowking 还拆掉 Academy at Night。多备一张 Academy at Night。
@@ -382,12 +382,12 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 后备区少放 2 奖 ex：对手 Bloodmoon Ursaluna ex 后期 240，Boss's Orders ×3。
 
 **奖赏卡路线**
-- 关键算式：Dhelmise 140 = Trifrost 110 + Munkidori 30（Adrena-Brain 挪 3 个指示物）。或 Metallic Hammer 150 一击。
+- 关键算式：Dhelmise 140 = Trifrost 110 + Munkidori 30（Adrena-Brain 挪 3 个指示物）；在战斗场时 Metallic Hammer 一击。
 - 你第 2 回合（取 1）：战斗场是 Dhelmise 就 Metallic Hammer 击倒；否则 Trifrost 打战斗场 + 后备区 Dhelmise + 1 只小怪，让后备区的 Dhelmise 提前吃 110。
 - 对手后备区有 Shaymin 时先清它（推断）：Prime Catcher（28% 卡表）拉上来，Ghostly Blow 100 击倒，5 个指示物顺手放到后备区 Dhelmise 上；或者 Ghostly Blow 的 5 个指示物 + Munkidori 3 个 = 80 直接在后备区收掉。指示物不是伤害，Flower Curtain 挡不住，Shaymin 也没有 Hide 'n' Sneak。对手 Patrat 在场时 Munkidori 挪不了指示物，就要两次 Ghostly Blow。
 - 麻痹换一回合：Pawmot 的 Voltaic Fist 130 打战斗场 Dhelmise 并让它麻痹（Dhelmise 没有 Hide 'n' Sneak，麻痹有效；Banette、Sinistcha 身上无效）。Dhelmise 撤退 3，对手 79% 的卡表（30/38）没有 Switch，下回合它打不了也撤不了；你再用 Unown 的 Mysterious Signal 40 收掉它，多拿 1 张。录像：第 2 局 Gnoli 这样追到 4 比 4（[4:43:55](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=17035s)）。
 - 你第 3 回合起（每回合 1 到 2 张）：Munkidori 给吃过 110 的 Dhelmise 补 30 击倒，同时 Seek Inspiration 打新的战斗场。
-- 2 奖目标：Lillie's Clefairy ex（190）、Latias ex（210，53% 卡表）在后备区时 Thunder Raid 一击；Bloodmoon Ursaluna ex（260）需要 Trifrost 110 + Thunder Raid 210。
+- 2 奖目标：Lillie's Clefairy ex（190）、Latias ex（210，53% 卡表）在后备区时 Thunder Raid 一击；Bloodmoon Ursaluna ex（260）在后备区要 Trifrost 110 + Thunder Raid 210，在战斗场时 Metallic Hammer 300 一击。
 - Trifrost 收 Shuppet（50）、Poltchageist（30）、Sinistcha（60）也算奖赏卡，但它们进弃牌区会帮对手凑 Sinistcha 的 Matcha Spin（6 只）和 Spiritomb（13 只）的条件。先打 Dhelmise，小怪是顺带的（推断）。
 
 **对手的套路，怎么防**
@@ -423,9 +423,9 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **奖赏卡路线**
 - 你第 2 回合（取 2 到 3）：Trifrost 击倒 Chikorita（70）、Bayleef（110）、Applin（40）、Dipplin（80 或 90）、Celebi（80）中的 3 只，优先 Meganium 线。
-- Meganium 已上场（160）：在后备区时 Trifrost 110 + Ghostly Blow 5 指示物 = 160 击倒（两回合）；在战斗场时 Metallic Hammer 150 + Munkidori 30。
-- 2 奖目标：后备区的 Meowth ex（170）、Fezandipiti ex（210）Thunder Raid 一击；Hydrapple ex（330）要 Trifrost 110 + Thunder Raid 210 = 320，还差 10，再加任何指示物；它的 Ripening Charge 贴能量时回 30，所以最好一回合补到位（推断）。
-- Teal Mask Ogerpon ex 在后备区打不动（Tera），在战斗场时 Trifrost 110 + Metallic Hammer 150 = 260 两回合击倒，或 Destined Fight。
+- Meganium 已上场（160）：在后备区时 Trifrost 110 + Ghostly Blow 5 指示物 = 160 击倒（两回合）；在战斗场时 Metallic Hammer 一击。
+- 2 奖目标：后备区的 Meowth ex（170）、Fezandipiti ex（210）Thunder Raid 一击。Hydrapple ex（330）在战斗场时 Metallic Hammer 300 + Brave Bangle 30 = 330 一击；在后备区要 Trifrost 110 + Thunder Raid 210 = 320，还差 10，再加任何指示物；它的 Ripening Charge 贴能量时回 30，所以最好一回合补到位（推断）。录像：Baltimore 2026 四强 Dreitzler 用 Brave Bangle 加 Metallic Hammer 一下打倒满血 Hydrapple ex（[6:14:06](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=22446s)），解说也把这当作这个对局的关键。
+- Teal Mask Ogerpon ex（210）在后备区打不动（Tera），在战斗场时 Metallic Hammer 一击，或 Destined Fight。
 
 **对手的套路，怎么防**
 - Myriad Leaf Shower 吃你战斗场的能量数：Slowking 只贴 2 个能量，不要多贴（推断）。
@@ -434,7 +434,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **关键卡与构筑**
 - 本对局双方各卡的样本都不足 15（你方 Surfer 13 对 12），不引用。
-- 建议：按卡牌文字，Munkidori 和 Ghostly Blow 对 Meganium 160 的两步击倒有帮助（推断）。
+- 建议：按卡牌文字，Brave Bangle 让 Metallic Hammer 一击 Hydrapple ex；Munkidori 和 Ghostly Blow 对后备区 Meganium 160 的两步击倒有帮助（推断）。
 
 **常见失误**
 - Trifrost 打后备区的 Teal Mask Ogerpon ex。
@@ -456,9 +456,9 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **奖赏卡路线**
 - 你第 2 回合（取 1 到 3）：Trifrost 打 Dwebble（70，一击）和 Crustle（150/170，剩 40/60）。
-- 你第 3 回合（取 2 到 3）：再一次 Trifrost，三只吃过 110 的 Crustle 全倒（Hero's Cape 那只 250 或 270 除外）。
+- 你第 3 回合（取 2 到 3）：再一次 Trifrost，三只吃过 110 的 Crustle 全倒（Hero's Cape 那只 250 或 270 除外，留给 Metallic Hammer）。
 - 对手的 Mega Kangaskhan ex：在后备区时 Trifrost 110 + Thunder Raid 210 = 320 ≥ 300，拿 3 张；在战斗场时 Destined Fight 一换一（送 1 拿 3），或 Brave Bangle 让 Slowking 对战斗场 ex 多 30。
-- 收尾：Metallic Hammer 150 击倒没带 Growing Grass Energy 的满血 Crustle；带了的（170）要先吃一次伤害。
+- 收尾：Metallic Hammer 300 一击任何满血 Crustle（最高是 Hero's Cape 加 2 个 Growing Grass Energy 的 290）。
 
 **对手的套路，怎么防**
 - 回复：Jumbo Ice Cream（身上 3 个以上能量时回 80）、Pokémon Center Lady 回 60、Bianca's Devotion 只能回剩余 HP 30 以下的宝可梦。Trifrost 后 Crustle 剩 40（150 HP）或 60（170 HP），Bianca's Devotion 用不了（推断，按卡牌文字）；所以 Trifrost 后下回合尽快补刀，别给 Jumbo Ice Cream 时间。
@@ -490,7 +490,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **奖赏卡路线**
 - 你第 2 回合：对手后备区无 Shaymin 时 Trifrost 收 Duskull（60）、Abra（50 或 40）、Kadabra（80）；有 Shaymin 时 Metallic Hammer 打战斗场。
-- 之后：Metallic Hammer 150 击倒 Alakazam（140）；Dusknoir（160）一击打不倒，在战斗场时 Trifrost + 任意补刀。
+- 之后：Metallic Hammer 一击 Alakazam（140）和 Dusknoir（160）。
 - 2 奖目标：Fezandipiti ex（95% 卡表）在后备区时 Thunder Raid 210 一击。
 
 **对手的套路，怎么防**
