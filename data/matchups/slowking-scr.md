@@ -16,7 +16,7 @@
 | Mega Excadrill ex | 64.0%（173） | 两只 Mega 就是 6 张；提早用 Trifrost 断 Beldum/Drilbur/Metang，后备区 ex 用 Trifrost + Thunder Raid 收 |
 | Dragapult Blaziken | 47.9%（208） | 后备区 Blaziken ex：Trifrost 110 + Thunder Raid 210 = 320 正好击倒 |
 | Festival Lead | 49.0%（128） | Academy at Night 盖掉 Festival Grounds 就关掉连击；Rabsca/Shaymin 在场时 Trifrost 只打得到战斗场 |
-| Dhelmise | 31.3%（114） | Dhelmise 140 HP：Trifrost 110 + Munkidori 30 = 140；Hide 'n' Sneak 挡指示物，但 Dhelmise 本身没有这个特性 |
+| Dhelmise | 31.3%（114） | Dhelmise 140 HP：Trifrost 110 + Munkidori 30 = 140；Hide 'n' Sneak 挡指示物，但 Dhelmise 本身没有这个特性；对手有 Shaymin（58%）时 Trifrost 打不到后备区，先清 Shaymin |
 | Ogerpon Meganium Hydrapple | 41.7%（92） | 早期 Trifrost 断 Chikorita/Bayleef/Applin 进化线；Meganium 160 要两步 |
 | Crustle | 68.0%（129） | Slowking 不是 ex，Crustle 挡不住；两次 Trifrost 收三只 Crustle，对手的 Mega Kangaskhan ex 是 3 奖肥肉 |
 | Alakazam Dusknoir | 29.4%（34） | 样本小；打法同 Alakazam，另外注意 Dusknoir 130 指示物 |
@@ -334,7 +334,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **开局与先后攻**
 - 先攻（推断）：你第 2 回合时对手的 Rellor 可能还没进化成 Rabsca。
-- 战斗场 Slowpoke。Mega Kangaskhan ex 不怕单次 Do the Wave，但 Gladion's Final Battle（非规则宝可梦 +80）+ Brave Bangle（对 ex +30）让 Dipplin 一下 210、两下 420，会被一回合击倒送 3 张。
+- 战斗场 Slowpoke。Mega Kangaskhan ex 不怕单次 Do the Wave，但 Gladion's Final Battle（非规则宝可梦 +80）+ Brave Bangle（对 ex +30）让 Dipplin 一下 210、两下 420，会被一回合击倒送 3 张；没有 Gladion 时，Kieran（94% 卡表）+ Brave Bangle 在对手后备区 5 只时也有 160×2 = 320。
 
 **奖赏卡路线**
 - 你第 2 回合（取 1 到 3）：如果对手后备区还没有 Rabsca 和 Shaymin，Trifrost 打战斗场 + 2 只后备区（优先 Rellor、Thwackey、Dipplin），最多 3 张。
@@ -368,15 +368,19 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - Dhelmise（PBL 39，140 HP，超属性，撤退 3）的 Vengeful Anchor 只要 1 个超能量，弃牌区有 4 只带 Hide 'n' Sneak 的宝可梦时打 170，一击击倒 Slowking。Gwynn、Ultra Ball、Prism Tower、Explorer's Guidance 让对手第 2 回合就凑够 4 只。
 - Hide 'n' Sneak（Shuppet、Banette、Poltchageist、Sinistcha）挡住你招式和特性的效果：Ghostly Blow 的指示物、Cofagrigus、Munkidori 的挪指示物对它们无效。招式伤害不是效果，Trifrost 照样打得到。
 - Dhelmise 本身没有 Hide 'n' Sneak，指示物和 Munkidori 都能作用在它身上。
-- 对手 4 只 Dhelmise 是主要攻击手，Banette（PBL 34）的 Puppet Pull 只有 80，打不倒 Slowking。
+- 对手 4 只 Dhelmise 是主要攻击手，Banette（PBL 34）的 Puppet Pull 只有 80，打不倒 Slowking，但正好击倒 80 HP 的 Slowpoke，还能从牌库任找 1 张。录像：Frankfurt 2026 第 1 天第 6 轮第 1 局，Launay 用 Boss's Orders 拉出 Gnoli 唯一贴了能量的 Slowpoke，Puppet Pull 击倒（[4:19:50](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=15590s)）。
+- 对手 58% 的卡表（22/38）带 Shaymin（DRI 10，80 HP）：Flower Curtain 让后备区没有规则框的宝可梦不受招式伤害，对手除了 Lillie's Clefairy ex、Latias ex 全是无规则宝可梦，Trifrost 就只打得到战斗场和后备区的 ex。录像：同一局 Launay 放下 Shaymin 后，Gnoli 的 Trifrost 打不到后备区，只能靠复制 Annihilape 一只一只换。
 
 **开局与先后攻**
 - 先攻（推断），你要在对手 Dhelmise 打出 170 之前就开始换。
+- 先攻也挡不住第一击：录像第 2 局 Launay 后攻，第 1 回合就用 Explorer's Guidance、Ultra Ball、Prism Tower 凑够 4 只打出 170。先攻只是逼对手第 1 回合就凑齐（推断）。
 - 后备区少放 2 奖 ex：对手 Bloodmoon Ursaluna ex 后期 240，Boss's Orders ×3。
 
 **奖赏卡路线**
 - 关键算式：Dhelmise 140 = Trifrost 110 + Munkidori 30（Adrena-Brain 挪 3 个指示物）。或 Metallic Hammer 150 一击。
 - 你第 2 回合（取 1）：战斗场是 Dhelmise 就 Metallic Hammer 击倒；否则 Trifrost 打战斗场 + 后备区 Dhelmise + 1 只小怪，让后备区的 Dhelmise 提前吃 110。
+- 对手后备区有 Shaymin 时先清它（推断）：Prime Catcher（28% 卡表）拉上来，Ghostly Blow 100 击倒，5 个指示物顺手放到后备区 Dhelmise 上；或者 Ghostly Blow 的 5 个指示物 + Munkidori 3 个 = 80 直接在后备区收掉。指示物不是伤害，Flower Curtain 挡不住，Shaymin 也没有 Hide 'n' Sneak。对手 Patrat 在场时 Munkidori 挪不了指示物，就要两次 Ghostly Blow。
+- 麻痹换一回合：Pawmot 的 Voltaic Fist 130 打战斗场 Dhelmise 并让它麻痹（Dhelmise 没有 Hide 'n' Sneak，麻痹有效；Banette、Sinistcha 身上无效）。Dhelmise 撤退 3，对手 79% 的卡表（30/38）没有 Switch，下回合它打不了也撤不了；你再用 Unown 的 Mysterious Signal 40 收掉它，多拿 1 张。录像：第 2 局 Gnoli 这样追到 4 比 4（[4:43:55](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=17035s)）。
 - 你第 3 回合起（每回合 1 到 2 张）：Munkidori 给吃过 110 的 Dhelmise 补 30 击倒，同时 Seek Inspiration 打新的战斗场。
 - 2 奖目标：Lillie's Clefairy ex（190）、Latias ex（210，53% 卡表）在后备区时 Thunder Raid 一击；Bloodmoon Ursaluna ex（260）需要 Trifrost 110 + Thunder Raid 210。
 - Trifrost 收 Shuppet（50）、Poltchageist（30）、Sinistcha（60）也算奖赏卡，但它们进弃牌区会帮对手凑 Sinistcha 的 Matcha Spin（6 只）和 Spiritomb（13 只）的条件。先打 Dhelmise，小怪是顺带的（推断）。
@@ -384,18 +388,20 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 **对手的套路，怎么防**
 - 每回合 170 击倒一只 Slowking：你也只能一回合一张地换，因此要让每只 Slowking 都确实拿到奖赏卡（推断）。
 - Patrat（CRI 70，47% 卡表）的 Watchful Eye 让双方都不能挪指示物，Munkidori 失效。Patrat 70 HP，Trifrost 第一时间击倒。
-- Sinistcha 的 Matcha Spin 给你全场每只放 4 个指示物：Slowpoke 80 会剩 40；之后 Dhelmise 打战斗场，再来一次 Matcha Spin 就收掉后备区的 Slowpoke。备用的 Slowpoke 尽早进化成 Slowking（120）。
-- Legacy Energy（61% 卡表）：贴着它的宝可梦被击倒时你少拿 1 张，一局一次。击倒贴 Legacy Energy 的 Dhelmise 只拿 0 张，记得把这一张算进奖赏卡路线。
+- Sinistcha 的 Matcha Spin 给你全场每只放 4 个指示物：Slowpoke 80 会剩 40；之后 Dhelmise 打战斗场，再来一次 Matcha Spin 就收掉后备区的 Slowpoke。备用的 Slowpoke 尽早进化成 Slowking（120）。录像：第 2 局 4 比 4 时，Launay 用 Boss's Orders 和 Matcha Spin 一回合拿 4 张（其中 Lillie's Clefairy ex 2 张）结束比赛（[4:46:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=17190s)）。
+- Legacy Energy（61% 卡表）：贴着它的宝可梦被击倒时你少拿 1 张，一局一次。击倒贴 Legacy Energy 的 Dhelmise 只拿 0 张，记得把这一张算进奖赏卡路线。录像：第 1 局 Gnoli 复制 Metagross 击倒一只 Dhelmise，因为 Legacy Energy 一张没拿（[4:30:35](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=16235s)）。
 
 **关键卡与构筑**
 - 你方（n 均 ≥ 15）：带 Munkidori（和 Darkness Energy）高 43.0 个百分点（18 对 20 局），是整份数据里最大的差值之一，与"Trifrost 110 + 30 = Dhelmise 140"的算式吻合；带 Crispin 高 34.7（16 对 22），Crispin 能一次找 Psychic + Darkness 两种基本能量，正好给 Munkidori 和 Slowking；Lucky Helmet 高 4.3（18 对 20）；带 Zeraora 低 14.5（17 对 21）。
 - 对手方：带 Bloodmoon Ursaluna ex 的卡表对你低 11.3（18 对 17，它是 2 奖靶子）；Explorer's Guidance 低 3.9（17 对 18）；Spiritomb 高 3.3（15 对 20）。
 - 建议：此对局必须带 Munkidori + 2 Darkness Energy + Crispin（数据支持，样本小但差值很大）。
+- 录像：Frankfurt 第 46 名 Gnoli 的卡表三样都没带（带了 Pawmot、Unown 各 1），第 6 轮 0-2 输给 Launay。只是一场；没有 Munkidori，后备区的 Shaymin 和 Dhelmise 只能靠 Ghostly Blow 慢慢磨（推断）。
 
 **常见失误**
 - Ghostly Blow 的 5 个指示物或 Munkidori 的 3 个指示物放到 Hide 'n' Sneak 宝可梦身上（无效）；目标应该是 Dhelmise。
 - Trifrost 只顾收后备区小怪，帮对手填弃牌区，Dhelmise 却一只没倒。
 - 让 Patrat 留在场上，Munkidori 整局不能用。
+- 对手后备区有 Shaymin 还按"Trifrost 先铺后备区 110"的路线打，后备区一点伤害都没有。
 
 ---
 

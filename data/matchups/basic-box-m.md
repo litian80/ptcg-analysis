@@ -343,7 +343,8 @@
 
 **对局性质**
 - 对手全单奖。Festival Grounds 在场时，Dipplin（TWM 18，80 HP，草，弱火）Do the Wave 打两次，每次后备区每只 20：后备区 5 只 100×2；对 ex 带 Brave Bangle 每下 +30；最后一张手牌是 Gladion's Final Battle 时每下 +80。
-- 我方血量对照：130×2 = 260 打不倒 Kangaskhan（300），能击倒其他所有 ex；Gladion 后 210×2 = 420 一击 Kangaskhan。
+- 我方血量对照：只靠 Brave Bangle 是 130×2 = 260，打不倒满血 Kangaskhan（300），能击倒其他所有 ex。但对手 94% 的卡表（48/51）带 Kieran，当回合对战斗场 ex 再 +30，就是 160×2 = 320，满血 Kangaskhan 也一回合倒下，对手拿 3 张；对手后备区压到 4 只时是 140×2 = 280，打不死。Gladion 后 210×2 = 420。
+- 录像：Frankfurt 2026 第 1 天第 7 轮 B 桌第 2 局（Cremascoli 2-0 Fritz），Cremascoli 从 Judge 后的 4 张里找到 Festival Grounds，Dipplin 两下 Do the Wave 击倒 Mega Kangaskhan ex，从 6 比 3 一回合追到 3 比 3（[6:32:15](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=23535s)）。解说说 200 就够，这只 Kangaskhan 多半之前受过伤；画面看不清有没有用 Kieran。
 - 对手要击倒 3 只 2 奖 ex，我们要击倒 6 只单奖。
 
 **开局与先后攻**
@@ -352,7 +353,7 @@
 
 **奖赏卡路线**
 - 关键动作：对手打出 Festival Grounds 后，我们回合从手上放 Chien-Pao 到后备区，Snow Sink 弃掉它，Dipplin 这回合只能打一次（推断收益）。之后再打出我们的 Area Zero 占住场地位。
-- 击倒顺序：Thwackey（100，每只每回合找任意 1 张）> Dipplin（80）> Rabsca（70，Spherical Shield 让后备区不受招式伤害）。Rabsca 在场时我们的后备区狙击（Wellspring 120）无效，要先 Boss 拉 Rabsca 打掉（推断顺序）。
+- 击倒顺序：Thwackey（100，每只每回合找任意 1 张）> Dipplin（80）> Rabsca（70，Spherical Shield 让后备区不受招式伤害）。录像：同一局 Fritz 先用 Boss's Orders 打 Applin（[6:23:15](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=22995s)），再用 Meowth ex 找 Boss's Orders 打 Thwackey（[6:26:15](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=23175s)），Prime Catcher 打第二只 Thwackey 后接 Judge（[6:30:25](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=23425s)），三回合拿 3 张，但对手只要摸到 Festival Grounds 和一只 Dipplin 就能一回合追回来。Rabsca 在场时我们的后备区狙击（Wellspring 120）无效，要先 Boss 拉 Rabsca 打掉（推断顺序）。
 - 单奖换单奖：Enamorus（双方都有草属性时 200）和 Chien-Pao（120）都只给 1 张，打 80-110 HP 的对手正好。
 - Iron Crown ex 的 Twin Shotels 50 + 50 能同时击倒 Applin（40）、Rellor（40）、Goldeen（50）这类（Rabsca 在场时能否打后备区需裁定，推断）。
 
@@ -369,6 +370,7 @@
 **常见失误**
 - 用 Ultra Ball 提前把 Chien-Pao 放上场，Snow Sink 在没有对手场地时浪费。
 - 让 Kangaskhan 站在战斗场时对手手牌只剩 1-2 张（Gladion's 威胁）。
+- 以为 Do the Wave 两下打不倒 Kangaskhan，就让它留在战斗场：对手后备区 5 只时 Brave Bangle + Kieran 是 320，受过 40 以上伤害时只要 Bangle（录像第 7 轮 B 桌）。
 - 用 2 奖 ex 去换对手 80 HP 的 Dipplin，结果奖赏卡交换 2:1 输。
 
 ---

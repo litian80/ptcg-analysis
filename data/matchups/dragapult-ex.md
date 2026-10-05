@@ -52,6 +52,7 @@
 
 **开局与先后攻**
 - 战斗场放 Budew，后备区 2-3 只 Dreepy 加 1 只 Munkidori，Munkidori 尽早贴 Darkness。
+- Budew 只有 30 HP，对手的 Munkidori 挪 3 个指示物就能击倒它，白送 1 张。录像（Frankfurt 2026 第 1 天第 5 轮，Reklev 2-0 Secchi）：Reklev 第 1 局因此没急着用 Budew，赛后专门讲了这一点。对手的 Munkidori 身上有 Darkness、它那边又有指示物可挪（中毒、受过伤）时，Budew 锁一回合的收益要和送 1 张比一比（推断）。
 - 倾向后攻（推断）。后攻第 1 回合 Budew 用 Itchy Pollen，对手第 2 回合不能用 Buddy-Buddy Poffin、Poké Pad、N's PP Up、Binding Mochi、Ultra Ball、Secret Box，第 2 回合就凑出 Night Joker + 加成的概率下降（Janine's Secret Art、Lillie's Determination 等支援者仍能用）。
 - 对手 78% 的卡表带 3 张 Team Rocket's Watchtower：无色宝可梦没有特性，会关掉我方 Meowth ex 的 Last-Ditch Catch 和 Dudunsparce 的 Run Away Draw。Meowth ex 尽量在 Watchtower 落地前用掉；Watchtower 已在场时，先打 Risky Ruins 把它换掉，再放 Meowth ex。
 - 不要提前放 Fezandipiti ex 或用完的 Meowth ex：Boss's Orders + 250 对它们都是一击 2 奖。
@@ -74,10 +75,11 @@
 - 让非 ex 挡刀：Drakloak、Moltres 站在战斗场被打只送 1 张，Black Belt's Training 对它们没有加成（推断，节奏上的取舍）。
 - N's Darmanitan（28% 卡表）：Back Draft 按我方弃牌区的基本能量张数每张 30，Flamebody Cannon 90 并另打后备区 90（能击倒 Drakloak）。对方带它时，Ultra Ball 尽量不要弃基本能量（推断）。后备区的 Dragapult ex 不受这 90 的伤害。
 - Yveltal（MEG 88，110 HP，撤退 0）：Clutch 让我方战斗场下回合不能撤退，Dark Feather 110。
+- Xerosic's Machinations（四场比赛 27% 的卡表带）：让我们的手牌弃到 3 张。录像（同一场第 1 局）：Reklev 被弃到 3 张时留下 Unfair Stamp、Boss's Orders 和 Dragapult ex（[3:02:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=10950s)）。之后对手先后击倒他的 Budew 和 Munkidori，他打出 Unfair Stamp 让对手只剩 2 张手牌，Phantom Dive 一回合拿 3 张（[3:12:10](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=11530s)），最后用 Meowth ex 找 Boss's Orders 击倒 Pecharunt ex。
 
 **关键卡与构筑**
 - Judge：带的 60.7%（206 局）对不带的 51.2%（43 局），+9.5 个百分点。对手的一击要同时凑 Pecharunt、Mochi、PP Up、Black Belt's Training，手牌被打回 4 张时更难凑齐（推断）。
-- Dunsparce + Dudunsparce：带的 62.1%（154 局）对不带的 54.0%（95 局），+8.1。注意对手 Watchtower 在场时 Dudunsparce 的特性无效。
+- Dunsparce + Dudunsparce：带的 62.1%（154 局）对不带的 54.0%（95 局），+8.1。注意对手 Watchtower 在场时 Dudunsparce 的特性无效。录像（同一场第 2 局）：Reklev 用 Dunsparce TEF 128（60 HP，撤退 0，可以免费撤退）起手，第 2 回合靠 Dudunsparce 和两张 Night Stretcher 一回合铺出三只 Drakloak，之后 Boss's Orders 加 Phantom Dive 连续拿奖。四场比赛的 Dragapult 卡表多数用 JTG 120（145 / 279 份，70 HP，撤退 1），TEF 128 只有 22 份。
 - 我方 Team Rocket's Watchtower：带的 49.1%（53 局）对不带的 61.7%（196 局），−12.7。对手的核心特性（Trade、Subjugating Chains、Adrena-Brain）都不是无色宝可梦的，Watchtower 关不掉它们，反而关掉自己的 Meowth ex 和 Dudunsparce（推断）。这个对局不建议带。
   - 录像（Frankfurt 2026 第 13 轮，第 7 名 Kamerman 2-0 Schrader）：带了的话这样用。Schrader 用 Cyrano 亮出 Meowth ex 后，Kamerman 马上打出 Watchtower。Meowth ex 的 Last-Ditch Catch 只在放到后备区时触发，Watchtower 要在那之前就在场，对手就找不到支援者；再加 Budew 锁物品，对手凑不出一击。Kamerman 的卡表没带 Dudunsparce，Watchtower 只关掉双方的 Meowth ex。Schrader 的卡表没带 N's Reshiram，[1:48:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=6510s) Phantom Dive + Adrena-Brain 一次击倒 N's Zoroark ex 和后备区的 N's Zorua，拿 3 张。
 - Special Red Card：带的 55.1%（121 局）对不带的 62.8%（128 局），−7.7。

@@ -112,3 +112,14 @@ inferred:
   - Rampaging Thunder 的"下回合不能攻击"作用在 Zoroark 身上，这是按复制招式的一般规则推断的。
   - Mysterious Rock Inn 只挡宝可梦 ex 的伤害，N's Zekrom 不是 ex，Shred 的 70 一定打得到 Crustle。
   - Night Joker 复制 Powerful Rage 时按 Zoroark 自己身上的伤害指示物计算，这是按复制招式的一般规则推断的。
+
+evidence:
+  - source: video-reviews/frankfurt-2026-day1.md（项目共享文件夹）
+    game: Frankfurt 区域赛（2026-09-26）第 1 天第 9 轮，Scott（N's Zoroark，第 12 名，不带 N's Reshiram）2-0 Borda（Lopunny Dusknoir + Bronzong）
+    window: TEF-30C
+    confirms:
+      - Boss's Orders 拉出 Fezandipiti ex（210），Night Joker 复制 N's Zekrom 的 Rampaging Thunder 250 击倒（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=30775s）
+    adds:
+      - 对手的 Bronzong（TEF 69）Evolution Jammer 让下回合不能从手上进化，第 2 局 Scott 握着 Zoroark 进化不了（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=31800s）。Bronzor（TEF 68）80 HP、弱恶：Pecharunt ex 换上中毒的 N's Zorua，带 Binding Mochi 的 Scratch 是 (20 + 40) ×2 = 120，能在它进化前击倒（推断，按卡牌文字）
+      - 对 Dusknoir 卡组找不到 Boss's Orders 时，不往后备区多放单奖宝可梦，少给 Cursed Blast 目标，再用 Special Red Card 反打（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=31320s）
+    caveat: 一场比赛；第 2 局 Borda 只差 1 张时被判罚 2 张奖赏卡（击倒后多看了一张牌），胜负受判罚影响。
