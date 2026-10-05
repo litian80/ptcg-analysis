@@ -4,6 +4,8 @@
 
 **样本量提醒**：这套牌使用率不到 1%，每个对局只有 15 到 113 局，大多数在 30 到 50 局。胜率差 10 个百分点以内的对局，基本分不出强弱。"带某张卡与不带某张卡"的对比只有 Dragapult ex 一个对局有足够样本，而且这些数据只来自公开卡表的玩家（成绩较好的玩家），所以只能看差值，不能看绝对值。卡表数据里没有先后攻信息，也没有逐局记录。下文凡是没有卡牌文字或数据直接支持的判断，都标了"（推断）"。
 
+**录像**：Frankfurt 区域赛（2026-09-26）的决赛（Chałupka 对 Łaszkiewicz，镜像）和两场四强（对 Festival Lead、对 Dragapult Dusknoir）有直播录像（[第 2 天直播](https://www.youtube.com/watch?v=NOi0qAFjnME)）。从录像得出的打法标了"（录像）"，只代表这几局。
+
 ---
 
 ## 速查表
@@ -14,16 +16,17 @@
 |---|---|---|
 | Dragapult ex | 46.0%（113） | 后备区只留 HP 高于 60 的宝可梦，Dusknoir 13 个指示物加 10 张手牌击倒 Dragapult ex |
 | N's Zoroark | 46.7%（45） | 我方全体弱恶，挨一下就倒；Dusknoir 正好击倒 130 HP 的 N's Zekrom，先拆复制来源 |
-| Dragapult Dusknoir | 51.5%（55） | 和 Dragapult ex 打法相同，再防对方 Cursed Blast 加 Phantom Dive 合计 190 击倒后备区 Alakazam |
+| Dragapult Dusknoir | 51.5%（55） | 和 Dragapult ex 打法相同，再防对方 Cursed Blast 加 Phantom Dive 合计 190 击倒后备区 Alakazam；落后时 Prime Catcher 拉 Fez 加 Shadow Bind 锁住 |
 | Basic Box（Mega Kangaskhan） | 71.5%（41） | 对方几乎全是 2 奖 ex，我方只需 3 次击倒；Dusknoir 加 Dusclops 不用攻击也能击倒后备区 Meowth ex |
 | Slowking | 70.6%（34） | Slowking 120 HP 只要 6 张手牌；Shaymin 挡住 Trifrost 打后备区的部分 |
 | Alakazam Dudunsparce | 66.7%（32） | Battle Cage 让 Cursed Blast 只能打战斗场；先 Cursed Blast 击倒战斗场，再打新上来的 |
 | Mega Excadrill | 88.2%（34） | 两只 Mega 共 6 奖；Powerful Hand 不吃 Protect Charge 减伤，Shaymin 挡 Sonic Ripper 打后备区 |
 | Dragapult Blaziken | 47.6%（35） | 对方只有 2 只 Torchic，早点击倒 Torchic 和 Combusken，Blaziken ex 就上不来 |
-| Festival Lead | 48.9%（30） | 用 Cursed Blast 压缩对方后备区，Do the Wave 的伤害跟着下降，Alakazam 就能活下来 |
+| Festival Lead | 48.9%（30） | 先清掉带 Festival Lead 的 Goldeen、Dipplin 和会进化成 Dipplin 的 Applin；用 Cursed Blast 压缩对方后备区，Do the Wave 的伤害跟着下降 |
 | Dhelmise | 24.4%（15） | Hide 'n' Sneak 同时挡住 Powerful Hand 和 Cursed Blast，只能打没有这个特性的 Dhelmise 和 2 奖 ex |
 | Ogerpon Meganium Hydrapple | 66.7%（22） | Dusknoir 单独就能击倒后备区的 Bayleef；Meganium 用 Dusknoir 加 Dusclops 或 Boss 加 8 张解决 |
 | Crustle | 26.9%（26） | Mist Energy 挡住 Powerful Hand；改为击倒两只 3 奖的 Mega Kangaskhan ex |
+| Alakazam Dusknoir（镜像） | 无（录像 3 局） | 先打掉对方的 Budew 解锁物品；Fezandipiti ex 是唯一的 2 奖目标；领先时清光对方 Abra 线，防止对方自爆拖成同时拿完 |
 
 ---
 
@@ -41,6 +44,8 @@
 
 1. **Alakazam 的 Powerful Hand**（只要 1 个 Psychic 能量）：手牌每张给对手战斗场宝可梦放 2 个伤害指示物。放指示物不是"伤害"，所以不受弱点、抗性、减伤（如 Genesect ex 的 Protect Charge）影响，也不受"防止伤害"类效果影响（如 Crustle 的 Mysterious Rock Inn）。但它是"招式的效果"，会被 Mist Energy、Hide 'n' Sneak 这类"防止招式效果"的卡挡住。
 2. **Dusknoir 的 Cursed Blast**（特性）：放 13 个伤害指示物（130）到对手任一宝可梦身上，然后 Dusknoir 自己被击倒，对手拿 1 张奖赏卡。Dusclops 是同名特性，放 5 个（50）。因为是特性，不受"防止招式伤害或效果"的保护影响，可以打后备区的太晶宝可梦（Dragapult ex、Teal Mask Ogerpon ex 在后备区只防招式伤害）。会被三类卡挡住：Battle Cage（不能往后备区放）、Hide 'n' Sneak（防特性效果）、Psyduck 的 Damp（推断：Cursed Blast 属于"需要自己被击倒"的特性）。
+
+Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方下回合被打的宝可梦不能撤退）。整副只有 5 个能量，平时用不上；落后、Alakazam 线断掉时，它是不靠手牌的攻击手和锁人手段（见 vs Dragapult Dusknoir）。
 
 **手牌数对照**（只用 Powerful Hand 时需要的手牌张数 = HP ÷ 20 向上取整）：
 
@@ -80,7 +85,7 @@
 
 - **Shaymin（DRI 10）**：Flower Curtain 防止我方后备区无规则宝可梦受到对手招式的"伤害"。它挡 Fezandipiti ex 的 Cruel Arrow、Kyurem 的 Trifrost、Wellspring Mask Ogerpon ex 的 120、Mega Skarmory ex 的 Sonic Ripper 打后备区。它不挡放指示物（Phantom Dive、Cursed Blast、Munkidori、Matcha Spin、Ghostly Blow 的 5 个指示物）。
 - **Budew（ASC 16）**：Itchy Pollen 不需要能量，10 伤害，对手下回合不能用物品卡。撤退费 0，是理想的起手宝可梦。
-- **Abra（TWM 80）**：Teleporter 特性，在战斗场时可以把自己和身上的卡洗回牌库，等于免费撤退。
+- **Abra（TWM 80）**：40 HP。Teleporter 特性，在战斗场时可以把自己和身上的卡洗回牌库，等于免费撤退。配合 Prime Catcher：Prime Catcher 会强制换掉自己的战斗场宝可梦，换上这只 Abra 再用 Teleporter 洗掉，原来的攻击手就回到战斗场，不用付撤退费（录像，Frankfurt 四强第 2 局）。
 - **Patrat（CRI 70）**：Watchful Eye 让双方都不能移动伤害指示物，克制 Munkidori 和 Alakazam（TWM 82）的 Strange Hacking。它是无色宝可梦，对手的 Team Rocket's Watchtower 在场时特性失效。
 - **Fezandipiti ex**：我方宝可梦在对手回合被击倒后抽 3，是对手 Unfair Stamp、Judge 之后补手牌的主要手段。2 奖，用完别站在战斗场。
 - **弱点**：Abra 线和 Duskull 线全部弱恶。对手的恶属性攻击（N's Zoroark ex、Pecharunt ex、Yveltal、对手的 Fezandipiti ex 的 Cruel Arrow 打战斗场）伤害翻倍。
@@ -90,6 +95,7 @@
 - 后攻第 1 回合可以用支援者（Dawn 一次拿齐 Abra、Kadabra、Alakazam），Budew 第 1 回合就能锁对手第 2 回合的物品。先攻第 1 回合既不能攻击也不能用支援者。
 - 双方的第 2 回合都可能被对方的 Budew 锁物品（Rare Candy 是物品）。后攻时我方的 Budew 锁对手不占用我方任何攻击回合；先攻时要锁对手只能在第 2 回合用 Budew 攻击，就放弃了 Alakazam 第 2 回合的攻击。
 - 所以除非下文另有说明，默认选后攻。
+- 录像：Frankfurt 决赛三局，有选择权的一方都选了后攻。四强对 Festival Lead 的第 1 局，第 1 种子 Chałupka 选先攻，也在第 2 回合清场获胜（见 vs Festival Lead）。
 
 ---
 
@@ -114,6 +120,7 @@
 3. **我方第 4 回合**（拿 2 张，累计 5）：第二只 Dragapult ex。手牌 16 张直接击倒，或者第二只 Dusknoir + 10 张。手牌不够时改用 Boss 拉 Meowth ex（170，9 张）或 Fezandipiti ex（210，11 张）。
 4. **我方第 5 回合**（拿 1 张，累计 6）：任意单奖收尾，Munkidori（110，6 张）、Budew（30，2 张）、Dreepy（70，4 张）。
 - 这条路线用了 2 次 Dusknoir，对方因此多拿 2 张，只需要再击倒 4 次。所以 Dusknoir 只用在 Dragapult ex 身上，不要拿去换 Dreepy。
+- **落后时**：Dragapult 的卡表几乎不带换位卡（没有一张换位物品进入 25% 以上的卡表）。Prime Catcher 把后备区没有能量的 Fezandipiti ex 或 Meowth ex 拉到战斗场，再用 Dusknoir 的 Shadow Bind 锁住，对方一回合打不出攻击。打法和录像见 vs Dragapult Dusknoir 的"落后时的翻盘"。
 
 **对手的套路，怎么防**
 - **后备区狙击**：6 个指示物加 Munkidori 的 3 个，合计最多 90。能被一次收掉的是 Abra 50、Duskull 60、Budew 30、Kadabra 80、Dusclops 90。对策：Abra 尽快进化成 Kadabra，不进化的 Abra、Duskull 不要放出来；Patrat 在场时 Munkidori 移不了指示物（只有 25% 的对方卡表带 Watchtower）。
@@ -200,6 +207,24 @@
 - **Cursed Blast 加 Jet Headbutt 打战斗场**：对方不需要 Dragapult ex 的完整能量就能击倒我方战斗场的 Alakazam，代价是送我方 1 张。
 - **Fezandipiti ex**：对方的自爆是在对方自己回合，不触发对方的 Flip the Script；我方用 Cursed Blast 自爆也不触发我方的 Flip the Script。
 - **Unfair Stamp 和 Special Red Card**：同 Dragapult ex。
+
+**落后时的翻盘：Shadow Bind 锁人**（录像）
+
+Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dusknoir），2-0 的第 2 局：
+- [7:04:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=25470s) Conti 用 Boss's Orders 加 Phantom Dive 一回合击倒两只 50 HP 的 Abra（战斗场一只，后备区一只），Łaszkiewicz 的 Abra 线断了。这正是上面"后备区只放要进化的 Abra"要防的局面。
+- 没有攻击手的几回合里，他把能量贴给后备区的 Duskull 线，进化成 Dusknoir 时身上已经攒到 Shadow Bind 要的 3 个能量。
+- [7:12:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=25920s) 一回合的连招：
+  1. Prime Catcher 把 Conti 后备区的 Fezandipiti ex 拉到战斗场；Prime Catcher 同时强制换掉自己的战斗场，他换上 Teleporter Abra；
+  2. Abra 用 Teleporter 把自己洗回牌库，Dusknoir 回到战斗场，没付撤退费；
+  3. Special Red Card 把 Conti 的手牌重置成 3 张；
+  4. Shadow Bind 150 打 Fez（剩 60），Fez 下回合不能撤退。
+- Fez 的 Cruel Arrow 要 3 个能量，这只 Fez 身上没有，Conti 的卡组也没有换位卡，这一回合打不出攻击。
+- [7:17:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=26220s) 收尾一回合拿 5 张：战斗场 Dusknoir 的 Cursed Blast 击倒剩 60 的 Fez（2 张）；Rare Candy 进第二只 Dusknoir，Cursed Blast 击倒新上来的 Drakloak（90，1 张）；Boss's Orders 拉出 Dragapult ex，Powerful Hand 击倒（2 张）。两次自爆送 Conti 2 张，他从剩 3 张变成剩 1 张，差一张没拿完。
+
+要点：
+- Shadow Bind 要 3 个能量，整副只有 5 个。只有在落后、Alakazam 线断掉、需要一个不靠手牌的攻击手时，才提前几回合给 Duskull 线攒能量（推断）。
+- Prime Catcher 强制换掉自己的战斗场。后备区留一只 Teleporter Abra，就能把这次换位抵消掉。
+- 收尾回合用几次 Cursed Blast，按对手剩几张算：对手剩 3 张时最多自爆 2 次，第 3 次送出的奖赏卡会让对手先拿完。录像里正好用了 2 次。
 
 **关键卡与构筑**
 - 没有带卡与不带卡的对比数据（公开卡表只有 19 局）。
@@ -418,12 +443,15 @@
 **开局与先后攻**
 - 选后攻（推断）。Budew 锁物品挡住对方第 2 回合的 Buddy-Buddy Poffin、Ultra Ball、Poké Pad，对方后备区铺不满，Do the Wave 伤害就低。
 - 我方后备区只放需要的宝可梦。对方后备区宝可梦被 Rabsca 保护（对方后备区不受招式伤害和效果影响），但 Rabsca 不挡特性。
+- 录像：Frankfurt 四强第 1 局，第 1 种子 Chałupka 选先攻。Duclos 没进化出 Thwackey，Chałupka 第 2 回合用 Cursed Blast 和 Powerful Hand 清空对方场面获胜（[6:36:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=23790s)）。先攻也能赢，但只有这一局，不改默认。
 
 **奖赏卡路线**
 1. **我方第 2 回合**（拿 1 到 2 张）：Powerful Hand 打战斗场的 Dipplin（4 张）。如果有 Dusknoir，Cursed Blast 先击倒后备区的 Thwackey（100）：Boom Boom Groove 每回合从牌库找任意 1 张，是对方的检索引擎。
 2. **我方第 3、4 回合**（每回合 2 张）：每回合 Cursed Blast 或 Dusclops（50，能击倒 Applin、Goldeen、Rellor）击倒一只后备区宝可梦，再用 Powerful Hand 击倒战斗场。
 3. **我方第 5 回合**：收尾。
 - **压缩后备区的计算**：对方后备区 5 只时 Do the Wave 是 100 × 2 = 200，击倒 Alakazam；4 只时 80 × 2 = 160，仍然击倒；3 只时 60 × 2 = 120，Alakazam 能活下来（推断，按卡牌文字计算，不算 Gladion's Final Battle）。所以每击倒对方一只后备区宝可梦，都在降低对方下回合的伤害。
+- **先清 Festival Lead 宝可梦**：一回合攻击两次的是战斗场上带 Festival Lead 特性的宝可梦，也就是 Dipplin、Goldeen、Seaking；Grookey、Thwackey、Applin 没有。场上没有它们、也没有能进化成 Dipplin 的 Applin 时，对方一回合只能攻击一次。录像：Frankfurt 四强第 2 局，Duclos 场上唯一的 Festival Lead 宝可梦是 Goldeen（50），Chałupka 第 2 回合先用 Dusclops 的 Cursed Blast 击倒它（[6:47:20](https://www.youtube.com/watch?v=NOi0qAFjnME&t=24440s)），第二次 Cursed Blast 击倒一只已经受伤、剩 50 的 Grookey，满血的 Grookey（70）没打。
+- **自爆打开 Special Red Card**：Cursed Blast 每次送对方 1 张。同一局双方都剩 5 张，两次自爆让 Duclos 降到 3 张，正好满足 Special Red Card 的条件。Chałupka 当回合打出 Special Red Card 重置他的手牌，再用 Powerful Hand 击倒战斗场的 Applin（[6:48:04](https://www.youtube.com/watch?v=NOi0qAFjnME&t=24484s)），对方场上只剩一只 Grookey，认输（录像）。用 Cursed Blast 前先算对方会不会因此降到 3 张以下，是的话 Special Red Card 同一回合就能用。
 
 **对手的套路，怎么防**
 - **Psyduck（35%）**：Damp 让 Cursed Blast 无效（推断）。Psyduck 70 HP，Boss / Prime Catcher 拉出来用 4 张手牌击倒，再用 Dusknoir。
@@ -439,6 +467,7 @@
 - 只打战斗场，不处理后备区，对方 Do the Wave 一直保持 100 × 2。
 - 后备区摆满 Abra，被对方两次攻击中的第二下收掉。
 - 对方 Psyduck 在场时就进化 Dusknoir，特性用不出来，白占后备区。
+- 用 Dusclops 的 50 打满血的 Grookey（70），打不死还送对方 1 张。
 
 ---
 
@@ -550,6 +579,39 @@
 - 对着贴了 Mist Energy 的 Crustle 用 Powerful Hand，打出 0 伤害。
 - 用两次自爆（送 2 张）去换 1 张的 Crustle，结果让对方离胜利更近。
 - 手牌多时不先用掉能用的牌，被 Xerosic's Machinations 弃掉 Rare Candy 和 Dusknoir。
+
+---
+
+## vs Alakazam Dusknoir（镜像）
+
+没有统计：镜像胜率按定义是 50%，这里只写打法。来源是 Frankfurt 区域赛决赛 Chałupka 2-1 Łaszkiewicz 的直播录像（第 2 局打成同时拿完，进入突然死亡）。一场比赛不代表普遍规律。
+
+**对局性质**
+- 双方的伤害都是 Powerful Hand 加 Cursed Blast，宝可梦几乎全是单奖。唯一的 2 奖目标是 Fezandipiti ex（210 HP）：先 Cursed Blast 130，Powerful Hand 只要 4 张手牌。决赛第 1、3 局都是"击倒 Fez 拿 2 张"定局（录像）。
+- 前半局是 Budew 之争。后攻方第 1 回合用 Itchy Pollen 锁物品，对方的 Rare Candy、Poffin、Poké Pad 都用不了。谁先打掉对方的 Budew（30 HP），谁先能进化。能打 Budew 的：Dusclops 的 Cursed Blast（50）、Kadabra 的 Super Psy Bolt（30，1 个超能量）、Powerful Hand 2 张手牌。
+- 双方都带 2 张 Special Red Card。谁先剩 3 张以下，谁的手牌就可能被重置成 3 张。
+
+**开局与先后攻**
+- 选后攻（录像：决赛三局有选择权的一方都选了后攻）。后攻第 1 回合用 Dawn 拿齐进化线，Budew 先锁对方（[7:37:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=27420s)）。
+- 尽量别让 Fezandipiti ex 起手在战斗场：撤退要 1 个能量（整副只有 5 个），留在前场就是送对方的 2 奖目标。决赛第 1、3 局 Łaszkiewicz 都是 Fez 起手，两局都输在 Fez 被击倒上（录像）。
+
+**奖赏卡路线**（录像 + 推断）
+1. **前两回合**：用 Dusclops 的 Cursed Blast 或 Kadabra 打掉对方的 Budew。别的对局里 Cursed Blast 只用来"击倒 2 奖、一回合两次击倒、拆引擎"；镜像里对方的物品锁就是引擎，第 2、3 回合用它打 Budew 值得。决赛第 2 局双方都这样互打 Budew（[7:56:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=28560s)）。
+2. **中盘**：Dusknoir 击倒对方已经进化的 Kadabra / Alakazam，对方的攻击手和抽牌引擎同时少一只（决赛第 1 局 [7:48:10](https://www.youtube.com/watch?v=NOi0qAFjnME&t=28090s)）。
+3. **收尾**：对方剩 3 张以下时，Prime Catcher 或 Boss's Orders 拉出 Fez，Special Red Card 把对方手牌重置成 3 张，Powerful Hand 击倒 Fez 拿 2 张（决赛第 1 局 [7:48:40](https://www.youtube.com/watch?v=NOi0qAFjnME&t=28120s)、第 3 局 [8:15:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=29700s)）。
+
+**同时拿完与突然死亡**（录像）
+- 决赛第 2 局：Chałupka 用 Special Red Card 加 Dusknoir 打到双方各剩 2 张（[8:00:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=28830s)），但没有清光 Łaszkiewicz 的 Abra 线。下一回合 Łaszkiewicz 击倒 Chałupka 的两只 Abra，最后一下用的是 Dusclops 的 Cursed Blast：他拿到最后一张，自爆送出的奖赏卡也让 Chałupka 拿完，双方同时拿完，进入突然死亡（[8:01:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=28890s)），Łaszkiewicz 赢下突然死亡。
+- 领先方：拿最后几张之前，先数对方还有没有能自爆的 Dusclops / Dusknoir。能清光对方的 Abra 线就清光，让对方拿不到最后一张（推断；解说也说第 2 局多清一只 Abra 可能直接夺冠）。
+- 落后方：这一回合拿不完、对方下回合又能拿完时，算一算用 Cursed Blast 拿最后几张、同时送出对方最后几张，能不能打成同时拿完，把必输局拖进突然死亡（推断）。
+
+**补手牌**（录像）
+- Strange Timepiece 把 Alakazam 卡收回手牌，再从手牌进化就能再用一次 Psychic Draw 抽 3。按卡牌文字，被退化的那只本回合不能进化，所以当回合要进化在另一只 Kadabra 上。决赛第 3 局双方 Budew 互锁，Chałupka 一解锁就用它补手牌（[8:13:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=29580s)）。
+- 手牌被 Special Red Card 重置到 3 张后，靠进化抽牌把手牌滚回来。决赛第 3 局打到 1 对 1，Chałupka 只有 3 张手牌，用 Night Stretcher 捡回进化卡一路进化抽牌，找到能量拿下最后一张（[8:19:20](https://www.youtube.com/watch?v=NOi0qAFjnME&t=29960s)）。
+
+**常见失误**
+- 领先时没清光对方的 Abra 线，被 Cursed Blast 拖成同时拿完（决赛第 2 局，推断是失误）。
+- Fezandipiti ex 起手后一直留在战斗场，被对方用 Special Red Card 加 Powerful Hand 收掉 2 张。
 
 ---
 

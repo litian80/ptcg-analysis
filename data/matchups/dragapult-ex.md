@@ -21,7 +21,7 @@
 | Festival Lead | 60.6%（360） | Risky Ruins 换掉 Festival Grounds，Dipplin 只能打一次；先处理 Rabsca，否则后备区指示物放不上。 |
 | Dhelmise | 42.9%（336） | Hide 'n' Sneak 挡住后备区指示物；Fairy Zone 下 Dhelmise 170×2 = 340 一击 Dragapult ex，先 Boss 掉 Lillie's Clefairy ex。 |
 | Ogerpon Meganium Hydrapple | 62.9%（302） | 狙 Chikorita / Bayleef 断 Meganium；Moltres 打弱火的 Teal Mask Ogerpon ex 是 220 正好一击。 |
-| Alakazam Dusknoir | 50.4%（113） | 没有 Battle Cage，一发 Phantom Dive 的 6 个指示物能同时收掉 Abra 和 Duskull。 |
+| Alakazam Dusknoir | 50.4%（113） | 没有 Battle Cage，一发 Phantom Dive 的 6 个指示物能同时收掉 Abra 和 Duskull；对手还有 Prime Catcher 时，别把没有能量的 2 奖 ex 留在后备区。 |
 | Dragapult ex（镜像） | — | Budew 互锁物品时，先保住自己能用物品，再想锁对手；Munkidori 的 Darkness 能量是 Crushing Hammer 的目标；Unfair Stamp 留到对手只差 1-2 张。来自一个视频，没有数据。 |
 
 ## 本卡组通用数字和规则
@@ -516,11 +516,13 @@
 **奖赏卡路线**（推断，按卡牌伤害计算）
 - 每发 Phantom Dive：战斗场 1 只 + 后备区：吃过 Ruins 的 Abra（MEG 54）剩 30（3 个），Duskull 剩 40（4 个），TWM 80 的 Abra 剩 20（2 个）。6 个指示物通常能收 2 只（例如 3 + 3 两只 Abra，或 2 + 4 一只 TWM Abra 加一只 Duskull）。
 - 先收 Duskull，断掉 Dusknoir 的 130。
+- 录像（Frankfurt 区域赛四强第 2 局，Conti 的 Dragapult Dusknoir 对 Łaszkiewicz）：Boss's Orders 拉一只 Abra 到战斗场，Phantom Dive 200 击倒它，6 个指示物击倒后备区另一只 50 HP 的 Abra，对手一回合没了 Alakazam 线（[7:04:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=25470s)）。
 
 **对手的套路，怎么防**
 - Strange Timepiece 把进化宝可梦退化回手，下回合再进化重复 Psychic Draw 抽牌（推断）。
 - 控手牌：Unfair Stamp、Judge、Special Red Card 和打 Alakazam Dudunsparce 时一样。
 - 每次 Cursed Blast 送我们 1 张，数清奖赏卡。
+- **Prime Catcher 加 Shadow Bind 锁人**（录像，同一局）：对手用 Prime Catcher 把我们后备区没有能量的 Fezandipiti ex 拉到战斗场，Dusknoir 的 Shadow Bind（150）让它下回合不能撤退（[7:12:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=25920s)）。Fez 的 Cruel Arrow 要 3 个能量，卡组里又没有换位物品，白停一回合；下回合对手两次 Cursed Blast 加 Powerful Hand 一回合拿 5 张，逆转。Shadow Bind 只禁止撤退，Switch 这类换位物品照样能换下去（推断：对 Alakazam Dusknoir 多的环境可以考虑带 1 张）。对手还留着 Prime Catcher 时，Meowth ex 这种用完特性就没事做的 2 奖 ex 别留在后备区（推断）。
 
 **关键卡与构筑**
 - Special Red Card：带的 62.1%（29 局）对不带的 77.8%（15 局），−15.7。Moltres：带的 50.9%（19 局）对不带的 80.0%（25 局），−29.1。Dunsparce 线：带的 72.5%（23 局）对不带的 61.9%（21 局），+10.6。样本都在 15-30 局，只能作参考。
