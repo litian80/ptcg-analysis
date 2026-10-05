@@ -8,19 +8,21 @@ import pytest
 
 from ptcg_video import cli
 from ptcg_video.frames import Frame
-from ptcg_video.prizes import PRIZE_PRESETS, count_column, describe, prize_games, prize_timeline, read_prizes
+from ptcg_video.prizes import (PRIZE_FAMILIES, PRIZE_PRESETS, count_column, describe, prize_games, prize_timeline,
+                                read_prizes, read_prizes_auto)
 
 SIDES = PRIZE_PRESETS["sides"]
+BALTIMORE = PRIZE_PRESETS["sides-baltimore"]
 LIT, DARK = 140, 50  # mean gray of a lit ball and an empty slot on the real overlay: 115-165 and 38-65
 
 
-def column(n: int, lit: int = LIT, dark: int = DARK, gap: int | None = None) -> np.ndarray:
+def column(n: int, lit: int = LIT, dark: int = DARK, gap: int | None = None, layout=SIDES) -> np.ndarray:
     """One panel's prize column with n lit balls from the top (gap: ball index left dark)."""
-    col = np.full((SIDES.height, 24), dark, dtype=np.uint8)
+    col = np.full((layout.height, 24), dark, dtype=np.uint8)
     for k in range(n):
         if k != gap:
-            y = SIDES.y0 + SIDES.pitch * k
-            col[y : y + SIDES.ball] = lit
+            y = layout.y0 + layout.pitch * k
+            col[y : y + layout.ball] = lit
     return col
 
 
@@ -33,6 +35,9 @@ def test_count_column_rejects_what_is_not_the_board():
     assert count_column(column(6, lit=235), SIDES) is None  # a white pop-up card over the column
     assert count_column(column(2, dark=10), SIDES) is None  # black break screen
     assert count_column(column(3, dark=95), SIDES) is None  # a lighter background, e.g. a desk shot
+    mixed = column(3, lit=190, dark=107)  # the Baltimore overlay read with the Frankfurt preset:
+    assert count_column(mixed, SIDES) is None  # its empty slots pass as balls, but far darker than the lit ones
+    assert count_column(column(3, lit=185, dark=107, layout=BALTIMORE), BALTIMORE) == 3
 
 
 def frames_with(readings, every=5.0):
@@ -80,6 +85,15 @@ def test_timeline_change_time_range_when_the_panel_was_hidden():
 REPLAY_BLUE = (109, 174, 223)  # the REPLAY banner on the Frankfurt stream
 
 
+def _jpeg(img: np.ndarray, path: Path) -> Path:
+    subprocess.run(
+        ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24",
+         "-s", "1280x720", "-i", "-", "-q:v", "3", str(path)],
+        input=img.tobytes(), check=True,
+    )
+    return path
+
+
 @pytest.fixture
 def overlay_frames(tmp_path):
     """1280x720 JPEGs of the sides overlay: prize columns at 6-6, then 4-5, then a white pop-up over them,
@@ -102,13 +116,7 @@ def overlay_frames(tmp_path):
             img[26:53, 552:727] = (150, 90, 160)
         if i == 5:
             img[:, :] = REPLAY_BLUE
-        path = tmp_path / f"frame_{i + 1:05d}.jpg"
-        subprocess.run(
-            ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24",
-             "-s", "1280x720", "-i", "-", "-q:v", "3", str(path)],
-            input=img.tobytes(), check=True,
-        )
-        paths.append(path)
+        paths.append(_jpeg(img, tmp_path / f"frame_{i + 1:05d}.jpg"))
     return [Frame(t=i * 5.0, path=p) for i, p in enumerate(paths)]
 
 
@@ -127,6 +135,23 @@ def test_read_prizes_from_jpegs(overlay_frames, tmp_path):
     pack = write_review_pack(tmp_path, {"title": "t"}, [], CaptionAnalysis(), overlay_frames, window=60,
                              max_frames=10).read_text(encoding="utf-8")
     assert "frame_00004.jpg` (replay)" in pack and "frame_00002.jpg` (replay)" not in pack
+
+
+def test_auto_keeps_the_preset_that_reads_the_overlay(overlay_frames, tmp_path):
+    presets = {n: PRIZE_PRESETS[n] for n in PRIZE_FAMILIES["sides"]}
+    assert read_prizes_auto(overlay_frames, presets) == "sides"
+    assert [f.prizes for f in overlay_frames] == [(6, 6), (4, 5), None, None, (4, 5), None]
+    assert [f.replay for f in overlay_frames] == [False, False, False, True, False, False]
+
+    frames = []  # the Baltimore Day 1 overlay: smaller balls on a lighter panel
+    for i, (left, right) in enumerate([(6, 6), (5, 6), (3, 4)]):
+        img = np.full((720, 1280, 3), 70, dtype=np.uint8)
+        for (x0, x1), n in zip(BALTIMORE.columns, (left, right)):
+            img[: BALTIMORE.height, x0 - 4 : x1 + 4] = 107
+            img[: BALTIMORE.height, x0:x1] = column(n, lit=185, dark=107, layout=BALTIMORE)[:, : x1 - x0, None]
+        frames.append(Frame(t=i * 5.0, path=_jpeg(img, tmp_path / f"baltimore_{i}.jpg")))
+    assert read_prizes_auto(frames, presets) == "sides-baltimore"
+    assert [f.prizes for f in frames] == [(6, 6), (5, 6), (3, 4)]
 
 
 def _box(x: int, y: int, w: int, h: int, gray: int, when: str = "") -> str:
