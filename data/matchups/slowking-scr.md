@@ -414,12 +414,13 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 **对局性质**
 - 对手是能量堆叠：Meganium（MEG 10，160 HP，1 张）的 Wild Growth 让每个基本草能量当 2 个草能量，Teal Mask Ogerpon ex（210，Tera）和 Hydrapple ex（330，非 Tera）每回合用特性额外贴能量。Teal Mask Ogerpon ex 的 Myriad Leaf Shower 30 + 双方战斗场每个能量 30，你的 Slowking 身上有 2 个能量也算进去，很容易打到 120 以上。
-- Meganium 是引擎，倒了对手伤害就掉；它的进化线 Chikorita 70、Bayleef（MEG 9）110，都在 Trifrost 一击范围内。
+- Meganium 是引擎，倒了对手伤害就掉；它的进化线 Chikorita 70、Bayleef（MEG 9）110，都在 Trifrost 一击范围内。但 Hydrapple ex 已经在场时，对手靠 Ripening Charge 和 Teal Dance 手贴也凑得够：录像（Baltimore 2026 四强，Dobberstein 2-0 Dreitzler）第 2 局 Dobberstein 没有 Meganium，两只 Hydrapple ex 照样连续击倒。
 - 对手 Forest of Vitality ×4 让草宝可梦放下当回合就能进化（第 1 回合除外），所以 Meganium 最早对手第 2 回合上场。
 
 **开局与先后攻**
 - 先攻（推断）：你第 2 回合（整局第 3 回合）早于对手第 2 回合，可以在 Meganium 进化前击倒 Chikorita。
 - Forest of Vitality 会盖掉你的 Academy at Night，反之亦然：你换掉它，对手当回合就不能一口气进化到 2 阶。
+- 两条思路：先攻、能赶在 Forest 之前出手时，第 2 回合用 Trifrost 断进化线；对手已经同时放下 Meganium 和 Hydrapple ex 时，改走 Metagross 加 Brave Bangle 一击 Hydrapple ex（推断）。录像：同一场第 1 局 Dobberstein 先攻，第 2 回合用 Forest 让 Meganium 和 Hydrapple ex 同回合上场（[5:55:00](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=21300s)）；Dreitzler 和解说都把 Metagross 当成这个对局的关键，Dreitzler 开局就用 Ultra Ball 弃掉了 Kyurem。
 
 **奖赏卡路线**
 - 你第 2 回合（取 2 到 3）：Trifrost 击倒 Chikorita（70）、Bayleef（110）、Applin（40）、Dipplin（80 或 90）、Celebi（80）中的 3 只，优先 Meganium 线。
@@ -440,6 +441,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - Trifrost 打后备区的 Teal Mask Ogerpon ex。
 - 放着 Chikorita/Bayleef 不打，让 Meganium 上场。
 - Thunder Raid 打满血 Hydrapple ex（210 对 330）。
+- 后备区放满，Kangaskhan 上不了场：录像同一场第 2 局 Dreitzler 两张 Poké Pad 在奖赏卡里，后备区又摆满 4 只 Slowpoke、Latias ex、Meowth ex，连续三回合没有攻击。后备区留一格给 Kangaskhan（推断）。
 
 ---
 

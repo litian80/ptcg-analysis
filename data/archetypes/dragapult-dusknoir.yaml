@@ -103,6 +103,29 @@ matchups:
     win_rate: 0.695
     plan: 对方单奖、HP 低，Phantom Dive 每回合拿 2 张；对方 Psyduck 在场时 Cursed Blast 无效，先击倒 Psyduck。
 
+evidence:
+  - source: video-reviews/worlds2026-finals.md（项目共享文件夹）
+    game: 2026 世界赛少年组决赛，Araki（本卡组，ACE SPEC Unfair Stamp）2-1 Giffen（Dragapult ex，两只 Munkidori，ACE SPEC Hero's Cape）
+    window: TEF-PBL
+    confirms:
+      - 用 Team Rocket's Watchtower 关掉对手的 Dudunsparce 和 Meowth ex
+      - Rare Candy 直接进 Dusknoir，Cursed Blast 收掉对手唯一的 Drakloak（https://www.youtube.com/watch?v=wZe0cfNyUY8&t=4410s）
+    adds:
+      - 对手 Dragapult ex 挂 Hero's Cape 是 420 HP，Phantom Dive 200 + Dusknoir 130 = 330 打不倒，第 1 局因此投降
+      - 对手场上宝可梦少时，一回合全部击倒就赢（第 3 局 Phantom Dive 加 Munkidori 收掉最后的 Dreepy 和 Dunsparce）
+      - 先攻第 1 回合把物品用完，防下回合被 Budew 锁物品
+    caveat: 少年组；我们的数据没有少年组卡表，双方卡组来自解说。
+  - source: video-reviews/naic-2026.md（项目共享文件夹）
+    game: NAIC 2026（2026-06）决赛，Kosek（本卡组，4 张 Crushing Hammer，Unfair Stamp，Watchtower）1-2 Kowalski（Clefairy 版 Basic Box，没有抽牌支援者）
+    window: TEF-CRI
+    confirms:
+      - Phantom Dive 击倒没挂 Lillie's Pearl 的 Lillie's Clefairy ex 拿 2 张
+    adds:
+      - 对不带抽牌支援者的对手，Unfair Stamp 和 Watchtower（关掉 Kangaskhan、Meowth ex 的特性）一起用，第 1 局靠这个赢
+      - 对手的 Fezandipiti ex 用 Cruel Arrow 依次收 Dusclops、Duskull、Dreepy、Drakloak，第 2、3 局输在这里；第 3 局一张奖赏卡没拿到
+      - 6 张奖赏卡时打 Lillie's Determination 强制抽 8，第 2 局牌库只剩 2 张，只能硬攻
+    caveat: NAIC 在世界赛之前，卡池比现在少，用到的关键卡现在都还合法；NAIC 的旧版面板读不准局数，拿奖时间按解说。
+
 mistakes:
   - 在无关紧要的回合用 Cursed Blast，白送 1 张奖赏卡。
   - 以为 Cursed Blast 之后能用 Fezandipiti ex 抽牌（只有对手回合被击倒才行）。
