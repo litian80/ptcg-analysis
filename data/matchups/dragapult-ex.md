@@ -206,7 +206,7 @@
 - 我们更快。Alakazam 第 2 回合靠 Rare Candy 才能上，没有 Rare Candy 就是第 3 回合。
 - 对手的伤害：Powerful Hand（1 个超能）按手牌每张放 2 个指示物到我方战斗场。放的是指示物，不吃弱点，Fairy Zone 对它没影响。打 Dragapult ex（320）要 16 张手牌，Drakloak（90）要 5 张，Meowth ex（170）要 9 张，Fezandipiti ex（210）要 11 张。
 - 奖赏卡：对手除 Fezandipiti ex（和可能的 Lillie's Clefairy ex）外全是单奖，我们要击倒 6 次，所以必须每回合"战斗场 1 只 + 后备区 1-2 只"。对手只要击倒 3 只 Dragapult ex。
-- 胜负手是场地：对手 75% 卡表带 3 张 Battle Cage（挡住招式和特性往后备区放指示物），52% 卡表带 3 张 Nighttime Mine（太晶宝可梦的招式多要 1 个无色，Phantom Dive 变成 3 个能量）。Risky Ruins 能换掉这两张；Team Rocket's Watchtower 也能，还顺带关掉对手 Dudunsparce 的 Run Away Draw（无色宝可梦没有特性，双方都算），见"关键卡与构筑"。
+- 胜负手是场地：对手 75% 卡表带 3 张 Battle Cage（挡住招式和特性往后备区放指示物），52% 卡表带 3 张 Nighttime Mine（太晶宝可梦的招式多要 1 个无色，Phantom Dive 变成 3 个能量）。Risky Ruins 能换掉这两张；Team Rocket's Watchtower 也能，还顺带关掉对手 Dudunsparce 的 Run Away Draw（无色宝可梦没有特性，双方都算），见"关键卡与构筑"。对手也可能完全不带 Battle Cage、只带 4 张 Nighttime Mine（现在 62 份卡表里 8 份），我们 2 张 Risky Ruins 换不过来，要留给打 Phantom Dive 的那一回合（推断）。录像：Indianapolis 2026 第 2 天第 12 轮 Jones 2-0 Hamilton（TEF-POR；Jones 是这一站的冠军），Jones 赛后说觉得 Battle Cage 对 Dragapult 没多大用；第 1 局 Hamilton 用 Ruins 换掉一次 Mine，Phantom Dive 拿了 2 张（[1:42:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=6120s)），之后就换不过来了。
 - Battle Cage 只挡后备区，战斗场照样能放伤害和指示物。没有场地可换时，用 Boss's Orders 把目标拉到战斗场：Phantom Dive 的 200 照打，Munkidori 也能把指示物挪到战斗场（Munkidori 这条按卡牌文字推断）。录像：2026 世界赛四强第 1 局，Chao（Dragapult Dusknoir，场地只带 1 张 Jamming Tower）整局没打场地，先用 Boss's Orders 拉出 Kadabra 击倒，最后拉出 Genesect，Cursed Blast 打战斗场、Phantom Dive 收尾（[24:00](https://www.youtube.com/watch?v=mq3UY7pQe4c&t=1440s)）。
 
 **开局与先后攻**
@@ -227,7 +227,7 @@
 
 **对手的套路，怎么防**
 - 主线：Battle Cage 护住 Abra / Kadabra，用 Kadabra、Alakazam、Dudunsparce 的进化抽牌把手牌养到 16 张，一击 Dragapult ex。
-- 控手牌：Unfair Stamp（上回合我方有宝可梦被击倒时）让对手只剩 2 张手牌，Powerful Hand 掉到 40；Judge 回到 4 张；Special Red Card（对手剩 3 张以下）回到 3 张。对手的 Genesect（SFA 40）带道具时我们不能打 ACE SPEC，Unfair Stamp 会被封，先用 Phantom Dive 或 Boss 处理 Genesect（110 HP）（推断）。Special Red Card 不是 ACE SPEC，Genesect 封不住它；Tool Scrapper 弃掉 Genesect 身上的道具也能解封（按卡牌文字推断）。录像：NAIC 2026 少年组决赛（Giffen 的 Dragapult ex 2-0 Oono 的 Alakazam；NAIC 在世界赛之前，用到的卡现在都还合法）第 1 局，Giffen 的 Stamp 被封，最后一回合改用 Special Red Card。反过来的例子：Indianapolis 2026 四强第 2 局（TEF-POR 环境），Newdorf 的 Dragapult Dusknoir 没带 Judge 和 Special Red Card，Jones 每次都先给 Genesect 挂上道具再击倒，Newdorf 一次 Stamp 也打不出来，也没有别的办法压对手手牌，对手每回合拿 1 张赢下（[视频](https://www.youtube.com/watch?v=bnVzhTKp3jg)）。
+- 控手牌：Unfair Stamp（上回合我方有宝可梦被击倒时）让对手只剩 2 张手牌，Powerful Hand 掉到 40；Judge 回到 4 张；Special Red Card（对手剩 3 张以下）回到 3 张。对手的 Genesect（SFA 40）带道具时我们不能打 ACE SPEC，Unfair Stamp 会被封，先用 Phantom Dive 或 Boss 处理 Genesect（110 HP）（推断）。Special Red Card 不是 ACE SPEC，Genesect 封不住它；Tool Scrapper 弃掉 Genesect 身上的道具也能解封（按卡牌文字推断）。录像：NAIC 2026 少年组决赛（Giffen 的 Dragapult ex 2-0 Oono 的 Alakazam；NAIC 在世界赛之前，用到的卡现在都还合法）第 1 局，Giffen 的 Stamp 被封，最后一回合改用 Special Red Card。反过来的例子：Indianapolis 2026 四强第 2 局（TEF-POR 环境），Newdorf 的 Dragapult Dusknoir 没带 Judge 和 Special Red Card，Jones 每次都先给 Genesect 挂上道具再击倒，Newdorf 一次 Stamp 也打不出来，也没有别的办法压对手手牌，对手每回合拿 1 张赢下（[视频](https://www.youtube.com/watch?v=bnVzhTKp3jg)）。同一站第 2 天第 12 轮又是这样：Hamilton（当时 11-0，主线 Hammer 版）没带 Special Red Card，两局 Genesect 都挂着道具，Unfair Stamp 一次也打不出来，解说说它比 Crushing Hammer 还没用；他只有一张 Judge 能压对手手牌，0-2（[1:37:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=5820s)）。
 - 对手同时放两只 Genesect 时（四场比赛 62 份卡表里 7 份带 2 张），收掉一只还有一只封着，Unfair Stamp 基本打不出来；改靠 Judge、Special Red Card，或用 Tool Scrapper 一次弃掉两只身上的道具（按卡牌文字推断）。录像：2026 世界赛四强第 3 局，Cassiraga 同时放下两只 Genesect，Chao 整个系列一次 Unfair Stamp 都没打出来。
 - Judge 把对手打回 4 张，不代表下回合安全：同一场第 3 局，Chao 打出 Jamming Tower 和 Judge、用上 Dusknoir，Phantom Dive 击倒 Alakazam，Cassiraga 的手牌回到 4 张；他下一回合连抽到正好 16 张，一击 Dragapult ex（[1:15:00](https://www.youtube.com/watch?v=mq3UY7pQe4c&t=4500s)）。Brisbane 第 10 轮 Ibbotson 也从 3 张手牌连抽到过 16 张（[1:10:30](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4230s)）。Judge 之后，对手场上的 Dunsparce 只要进化成 Dudunsparce，就能用 Run Away Draw 再抽 3（Watchtower 在场时不行）。录像：Utrecht 2026 决赛（对手是 Mega Lopunny Dudunsparce，同样靠 Run Away Draw 抽牌，TEF-POR）第 1 局，Kunukcu 在对手场上有两只 Dunsparce 时打 Judge，被对手抽了回来（[18:00](https://www.youtube.com/watch?v=lLy0TaVIhvc&t=1080s)）；第 2 局等对手场上没有 Dunsparce 才打（[39:30](https://www.youtube.com/watch?v=lLy0TaVIhvc&t=2370s)），赢下这一局。
 - 对手 95% 卡表带 Eri（看我方手牌，弃最多 2 张物品）。Special Red Card 要等对手剩 3 张以下才能打，握在手里等的时候容易被弃。录像：2026 世界赛决赛第 1 局 Cassiraga 用 Eri 弃掉 Hedrick 的 Special Red Card 和 Night Stretcher（[23:00](https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1380s)），四强第 1 局又弃掉 Chao 的 Special Red Card。
@@ -250,6 +250,7 @@
 - 第 2 回合只有 1 只 Drakloak，第 3 回合进化不出 Dragapult ex。
 - 一回合打出好几张手牌之前没算对手手牌数，忘了对手有 16 张就能一击。
 - Nighttime Mine 在场时只给 Dragapult ex 准备了 2 个能量。
+- 对手第 2 回合可能用 Rare Candy 进化出 Alakazam 时，把唯一的能量贴在战斗场的 Drakloak 上：Powerful Hand 5 张手牌就收掉 90 HP 的 Drakloak，能量跟着进弃牌区。能量先贴在后备区、下回合要进化成 Dragapult ex 的那只上（推断）。录像：Indianapolis 2026 第 2 天第 12 轮第 1 局 Hamilton 这样贴，Jones 第 2 回合 Rare Candy 进化 Alakazam 收掉了它（[1:37:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=5820s)）。
 
 ---
 
@@ -509,12 +510,12 @@
 
 **对局性质**
 - 我们更快，对手的 2 阶要靠 Forest of Vitality 一回合进化到底。
-- 对手的伤害：Teal Mask Ogerpon ex 的 Myriad Leaf Shower 30 + 双方战斗场每个能量 30；Hydrapple ex 的 Syrup Storm 30 + 我方全场每个草能量 30；Meganium 的 Wild Growth 让基本草能量各当 2 个草用。Tapu Bulu 的 Wood Hammer 220（非 ex）。
+- 对手的伤害：Teal Mask Ogerpon ex 的 Myriad Leaf Shower 30 + 双方战斗场每个能量 30；Hydrapple ex 的 Syrup Storm 30 + 对手自己全场每个草能量 30；Meganium 的 Wild Growth 让基本草能量各当 2 个草用，Meganium 在场时 6 个基本草能量就是 30 + 360 = 390，一击 Dragapult ex。录像：Indianapolis 2026 第 2 天第 13 轮第 1 局，Hope 的 Hydrapple ex 打出了 390（[2:55:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=10500s)），解说也这样算。Tapu Bulu 的 Wood Hammer 220（非 ex）。
 - 对手全是草，全弱火。我们的火属性只有 Moltres：打 Teal Mask Ogerpon ex 是 110×2 = 220，正好一击 210 HP。
 - 奖赏卡：对手的主攻都是 2 奖 ex；Meganium 1 奖，但它倒了对手伤害骤降。
 
 **开局与先后攻**
-- 后攻时 Budew 锁物品挡对手第 2 回合的 Bug Catching Set、Ultra Ball（推断）。
+- 后攻时 Budew 锁物品挡对手第 2 回合的 Bug Catching Set、Ultra Ball（推断）。挡不住 Celebi（MEG 12，37 份卡表里 36 份带）：它的 Traverse Time 是招式，找 3 张草宝可梦或场地。同一场第 2 局 Zheng 用 Budew 锁了物品，Hope 用 Traverse Time 照样找齐了进化线（[3:08:30](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=11310s)）；第 1 局 Zheng 开局没锁，Hope 铺得更快。
 - 先打 Risky Ruins：会顶掉对手的 Forest of Vitality，对手的 2 阶要多等一回合；对手放下的每只基础宝可梦都掉 20。
 
 **奖赏卡路线**（推断，按卡牌伤害计算）
@@ -522,12 +523,13 @@
 - Teal Mask Ogerpon ex（210）：Phantom Dive 200 + Ruins 20 或 Munkidori 30；或 Moltres 220。后备区的太晶 Ogerpon 也能放指示物。
 - Meganium（160）：Boss's Orders + 200；或后备区 60 + 60 + Munkidori 30 + Chikorita 时吃的 Ruins 20 = 170。
 - Hydrapple ex（330，每回合 Ripening Charge 贴草时回 30）：Phantom Dive 200 + 两只 Munkidori 60 + 前回合放的 60 = 320，加上 Applin 时吃的 Ruins 20 = 340；或 Moltres 220 + 前回合 60 + 两只 Munkidori 60 = 340。
-- 对手剩 2 张时会用 Briar（太晶 Ogerpon 击倒战斗场时多拿 1 张）：对手剩 2 张时，别让 Dragapult ex 被 Ogerpon 击倒变成送 3 张（推断）。
+- 我们剩 2 张时，对手会用 Briar（只能在它的对手剩正好 2 张奖赏卡时打；这一回合太晶宝可梦的招式击倒我方战斗场宝可梦时多拿 1 张）：我们剩 2 张时，别让 Dragapult ex 留在战斗场被 Teal Mask Ogerpon ex 击倒，变成送 3 张（推断）。录像：同一场第 2 局，Zheng 剩 2 张时，Hope 用 Fezandipiti ex 的 Flip the Script 抽到 Briar，收尾（[3:27:30](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=12450s)）。
 
 **对手的套路，怎么防**
 - 主线：Forest of Vitality 一回合进化 Meganium / Hydrapple ex，Ogerpon 叠能量打大伤害。
-- 防法：狙进化线，Ruins 换场地，Meganium 一上场就收。
+- 防法：狙进化线，Ruins 换场地，Meganium 一上场就收，比 Teal Mask Ogerpon ex 优先（信心 60%，dpx-omh-01）：Meganium 和 Hydrapple ex 同时在场后，Syrup Storm 能打 390，一击 Dragapult ex。录像：同一场第 1 局，Zheng 先用 Boss's Orders 拉出 Teal Mask Ogerpon ex，Moltres 220 击倒（[2:54:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=10440s)）；下一回合 Hope 打 Unfair Stamp，Hydrapple ex 在 Meganium 在场时打出 390（[2:55:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=10500s)）。后来 Meganium 被收掉，Hope 用 Night Stretcher 又拿回来，赢下这一局。
 - Crushing Hammer 对 13 个基本草能量 + 两个贴能特性的卡组效果有限（推断）。
+- 对手 92% 卡表带 Unfair Stamp（37 份里 34 份）：我们击倒一只后，对手下一回合可能把我们的手牌打到 2 张。同一场第 1 局 Moltres 击倒 Teal Mask Ogerpon ex 后，Hope 马上打了 Stamp。
 
 **关键卡与构筑**
 - Special Red Card：带的 83.0%（51 局）对不带的 65.8%（40 局），+17.2。
@@ -537,7 +539,7 @@
 **常见失误**
 - 只打战斗场的 Ogerpon，放任后备区的 Chikorita 进化成 Meganium。
 - 手里有 Moltres 却用 Dragapult ex 打 Ogerpon，多付一张 2 奖的风险。
-- 对手剩 2 张时忘了 Briar。
+- 我们剩 2 张时忘了对手的 Briar。
 
 ---
 
@@ -577,20 +579,21 @@
 
 ## vs Dragapult ex（镜像）
 
-没有统计：镜像胜率按定义是 50%，这里只写打法。来源是五场比赛的录像：BrentyMon（Brent Tonisson，Brisbane 区域赛 2026-09-26 第 3 名）的复盘视频，他当天打了 4 次镜像，视频里是四强对 Edmund Khoo（最终冠军）的两局，Khoo 2-0；Frankfurt 区域赛第 13 轮 Denk 2-0 Tobyn 的直播；2026 世界赛 Masters 四强 Hedrick 2-0 Tonisson；Melbourne 2026 决赛 Sasaki 2-0 Murphy 和 Los Angeles 2026 决赛 Hedrick 2-0 Pitcher（这两场见最后两节）。要点来自对局画面和解说，五场比赛不代表普遍规律。
+没有统计：镜像胜率按定义是 50%，这里只写打法。来源是七场比赛的录像：BrentyMon（Brent Tonisson，Brisbane 区域赛 2026-09-26 第 3 名）的复盘视频，他当天打了 4 次镜像，视频里是四强对 Edmund Khoo（最终冠军）的两局，Khoo 2-0；Frankfurt 区域赛第 13 轮 Denk 2-0 Tobyn 的直播；2026 世界赛 Masters 四强 Hedrick 2-0 Tonisson；Melbourne 2026 决赛 Sasaki 2-0 Murphy、Los Angeles 2026 决赛 Hedrick 2-0 Pitcher、Baltimore 2026 第 2 天第 14 轮 Halliburton 2-0 Melville 和 2026 世界赛第 1 天第 3 轮 Tonisson 2-0 Madsen（这四场见后面四节）。要点来自对局画面和解说，七场比赛不代表普遍规律。
 
 **对局性质**
 - 双方都有 Budew。后攻方第 1 回合用 Itchy Pollen 锁对手物品，接下来谁先赢下 Budew 之争（先把对方 Budew 打掉或绕开锁），谁就先把 Dreepy 线铺起来。
 - Munkidori 的 Adrena-Brain 是双方的额外伤害来源，前提是它身上有 Darkness 能量；多数卡表只有 2 个 Darkness，所以它们是 Crushing Hammer 的首要目标。
 
 **开局**
-- 保住自己能用物品比锁住对手更重要（信心 65%，dpx-mir-01）：第 1 局 Khoo 宁可不再锁 Brent，也先让自己能打物品；Brent 在锁物品下卡死，只能用 Mind Bend 拿奖，最后手牌打空认输（[1:19:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4740s)）。
+- 保住自己能用物品比锁住对手更重要（信心 75%，dpx-mir-01）：第 1 局 Khoo 宁可不再锁 Brent，也先让自己能打物品；Brent 在锁物品下卡死，只能用 Mind Bend 拿奖，最后手牌打空认输（[1:19:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=4740s)）。Baltimore 2026 第 14 轮第 1 局和 2026 世界赛第 1 天第 3 轮第 1 局也是这样：被锁的一方先用 Itchy Pollen 击倒对方的 Budew，解开自己的锁（见"拿奖与收尾"第一条）。
 - Risky Ruins 先削对方新放下的基础宝可梦：Dreepy 70 HP 吃 20 后，Phantom Dive 的指示物更容易收掉。
 - 第 1 局 Khoo 的收尾顺序：Crushing Hammer 拆掉 Brent 的 Darkness，打出 Risky Ruins，Unfair Stamp，再上 Dragapult ex。
 - Meowth ex 尽量别在开局摆放时放下：那样用不了 Last-Ditch Catch，只剩一个 2 奖靶子。世界赛四强第 1 局 Tonisson 开局就放下了 Meowth ex；两局最后的 2 张都是 Hedrick 用 Boss's Orders 拉出他的 Meowth ex 拿的。
 - 开局摆放时放下的基础宝可梦不吃 Risky Ruins（开局时还没有场地卡）；之后不管是从手上放，还是用 Buddy-Buddy Poffin 从牌库放，都会吃 20。对手带 Ruins 时，Dreepy 能在开局放下就开局放下（推断）。
 
 **拿奖与收尾**
+- 第一次拿奖用 Itchy Pollen 击倒对方的 Budew（信心 60%，dpx-mir-03）：Risky Ruins 在场时，对方新放上后备区的 Budew（30 HP）带着 2 个指示物；没有的话，用 Munkidori 把我方身上 Ruins 放的 2 个指示物挪过去，Itchy Pollen 的 10 就能击倒。拿 1 张，对方下回合锁不了我们，我们还锁住了对方；对方被锁时也打不出 Unfair Stamp（物品）。录像：Baltimore 2026 第 2 天第 14 轮第 1 局双方各这样打了一次（[2:59:00](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=10740s)、[3:01:00](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=10860s)）；2026 世界赛第 1 天第 3 轮第 1 局 Tonisson 也这样解锁（[4:07:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=14820s)），解说给的理由一样。
 - 诱对手多放伤害：第 2 局 Brent 把 Munkidori 和 Darkness 扣在手里，只贴 Fire，让 Khoo 以为 Budew 之争已赢、多投入伤害，然后反手击倒（[1:29:30](https://www.youtube.com/watch?v=KfJk7KymeYI&t=5370s) 到 1:33）。
 - Boss's Orders + Phantom Dive 一回合拿 3 张（[1:37:20](https://www.youtube.com/watch?v=KfJk7KymeYI&t=5840s)）是镜像里最快的拿奖方式，但会把对手推到可以用 Unfair Stamp 的位置。
 - Unfair Stamp 留到对手只差 1-2 张时用：Khoo 在 Brent 只差 1 张时，用 Fezandipiti ex 抽牌接 Unfair Stamp，Brent 连续两回合找不到 Boss's Orders（他的 Meowth ex 被压在奖赏卡里），Crushing Hammer 也是反面，Khoo 翻盘（[1:37:40](https://www.youtube.com/watch?v=KfJk7KymeYI&t=5860s)，[1:42:00](https://www.youtube.com/watch?v=KfJk7KymeYI&t=6120s)）。
@@ -606,7 +609,7 @@
 
 [录像](https://www.youtube.com/watch?v=R4d7ll0oz1Q)，世界赛卡池（TEF-PBL），用到的卡现在都合法。Hedrick 最后夺冠，Tonisson 就是上面的 BrentyMon。
 - 构筑：两人都带 2 张 Budew、2 张 Risky Ruins、4 张 Crushing Hammer、1 张 Rosa's Encouragement。Hedrick 9 个能量，其中 Darkness 3 张，解说认为 Hammer 互拆的镜像里这张就是差别；Tonisson 8 个能量，多带 1 张 Judge 和 Moltres。世界赛 22 份 Dragapult ex 卡表里只有 Hedrick 带 3 张 Darkness、只有 3 份带 2 张 Budew；之后的 Baltimore、Frankfurt、Brisbane，2 张 Budew 占 86% 到 92%，3 张 Darkness 占 24% 到 29%。
-- Judge 会把自己也打乱：第 1 局 Tonisson 打 Judge 后自己没抽到要的牌，Hedrick 反而补齐了进化线。上面 Denk 的 Judge 有用，是在对手被锁物品时打的。镜像里只在自己手牌差、对手手牌好时打（推断），和 Dragapult Dusknoir 一节带 Judge 数据更差（−14.6）的方向一致。Melbourne 2026 决赛第 2 局和 Los Angeles 2026 决赛第 2 局正好一反一正，见最后两节。
+- Judge 会把自己也打乱：第 1 局 Tonisson 打 Judge 后自己没抽到要的牌，Hedrick 反而补齐了进化线。上面 Denk 的 Judge 有用，是在对手被锁物品时打的。镜像里只在自己手牌差、对手手牌好时打（推断），和 Dragapult Dusknoir 一节带 Judge 数据更差（−14.6）的方向一致。Melbourne 2026 决赛第 2 局和 Los Angeles 2026 决赛第 2 局正好一反一正，见后面 Melbourne 和 Los Angeles 两节。
 - 被 Munkidori 的 Mind Bend 混乱时不赌硬币：Hedrick 把混乱的宝可梦撤到 Budew，换下去就解除混乱，Budew 不要能量也能攻击。
 - Boss's Orders + Phantom Dive 一回合多张：[17:50](https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=1070s) 拉出 Munkidori 击倒，指示物收掉后备区的 Budew（2 张）；[29:30](https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=1770s) 拉出 Meowth ex 击倒，指示物收掉后备区只剩 60 HP 的 Munkidori（3 张），赢下第 1 局。
 - Crushing Hammer 的目标：第 1 局 Hedrick 的 Hammer 先拆 Munkidori 的 Darkness。第 2 局 Tonisson 两张 Hammer 都正面，拆掉 Hedrick 后备区 Drakloak 预贴的两个能量，再打 Judge、用 Jet Headbutt 击倒 Drakloak，Hedrick 赛后说这是最吓人的一回合。后备区预贴的能量别都压在一只身上（推断）。
@@ -623,6 +626,21 @@
 
 [录像](https://www.youtube.com/watch?v=m8np08cT-TQ)，TEF-POR 环境，用到的卡现在都合法。Hedrick 是主线（4 张 Crushing Hammer）；Pitcher 是 Dragapult Dudunsparce（同样的 Dreepy 线加 Munkidori，带 2 张 Rare Candy，没有 Hammer），这里算作镜像。
 - 有 Risky Ruins 时 Drakloak 不安全：对手的 Drakloak（90）身上只要有 20，我方 Drakloak 的 Dragon Headbutt（70）就能一击，不用 Rare Candy，第 2 回合就能打。对手的 Dreepy 在 Ruins 下放上后备区就自带 20；没有的话，Munkidori 把我方宝可梦身上 Ruins 放的指示物挪 2 个过去。第 1 局 Hedrick 就这样击倒 Pitcher 的 Drakloak（[13:30](https://www.youtube.com/watch?v=m8np08cT-TQ&t=810s)）；Pitcher 以为对手没有 Rare Candy、Drakloak 是安全的，第 2 回合就投降。
-- 对手的 Munkidori 有 Darkness 能量时，没有击倒目标就别用 Phantom Dive 撒指示物，先用 Jet Headbutt（信心 60%，dpx-mir-02）：对手的 Adrena-Brain 是从对手自己的宝可梦往我们身上挪指示物，我们留在对手场上、没打死的指示物就是它下回合的弹药。第 2 局 Hedrick 第一次攻击用 Jet Headbutt（70），不用 Phantom Dive（[29:00](https://www.youtube.com/watch?v=m8np08cT-TQ&t=1740s)），解说说这是不给对手的 Munkidori 送弹药。和上面世界赛四强第 2 局那一发"故意不击倒"不冲突：那一发是为了下一回合一次收多只；对手的 Munkidori 能动时，铺下去的指示物每只 Munkidori 每回合能挪走 3 个，要先算（推断）。
+- 对手的 Munkidori 有 Darkness 能量时，没有击倒目标就别用 Phantom Dive 撒指示物，先用 Jet Headbutt 或 Budew 的 Itchy Pollen 拖（信心 60%，dpx-mir-02）：对手的 Adrena-Brain 是从对手自己的宝可梦往我们身上挪指示物，我们留在对手场上、没打死的指示物就是它下回合的弹药。第 2 局 Hedrick 第一次攻击用 Jet Headbutt（70），不用 Phantom Dive（[29:00](https://www.youtube.com/watch?v=m8np08cT-TQ&t=1740s)），解说说这是不给对手的 Munkidori 送弹药。和上面世界赛四强第 2 局那一发"故意不击倒"不冲突：那一发是为了下一回合一次收多只；对手的 Munkidori 能动时，铺下去的指示物每只 Munkidori 每回合能挪走 3 个，要先算（推断）。2026 世界赛第 1 天第 3 轮 Tonisson 两局拖的时候用的都是 Itchy Pollen，见后面那一节。
 - Judge 打在对手被锁物品、又缺能量的时候：第 2 局 Pitcher 上回合没贴能量，Hedrick 先用 Crushing Hammer 拆掉他唯一的 Fire，再打 Judge 加 Itchy Pollen（[22:30](https://www.youtube.com/watch?v=m8np08cT-TQ&t=1350s)）。和 Melbourne 决赛那张适得其反的 Judge 正好相反。
 - 收尾：Pitcher 用 Unfair Stamp 加 Phantom Dive 反扑，一度只差 1 张（其中 2 张是 Hedrick 出牌太慢被判罚给的）。Hedrick 两张 Crushing Hammer 都是正面，先拆对手 Munkidori 的 Darkness、再拆 Drakloak 的 Fire（[42:30](https://www.youtube.com/watch?v=m8np08cT-TQ&t=2550s)），然后 Unfair Stamp，放下 Meowth ex 找 Crispin，Phantom Dive 一回合拿 3 张；最后撤到自己的 Munkidori，用 Adrena-Brain 挪完指示物再 Mind Bend 收尾（[47:30](https://www.youtube.com/watch?v=m8np08cT-TQ&t=2850s)）。
+
+**录像：Baltimore 2026 第 2 天第 14 轮 Halliburton 2-0 Melville**
+
+[录像](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=9990s)，TEF-PBL 环境，用到的卡现在都合法。两人是同样的 60 张主线（4 张 Crushing Hammer、2 只 Budew、2 张 Risky Ruins、2 个 Darkness、Rosa's Encouragement、Judge、Unfair Stamp），Halliburton 最终第 7，Melville 第 27。
+- 第 1 局 Melville 先攻，第 1 回合先把物品用完，之后用 Budew 锁物品；Halliburton 没有先锁，之后几乎每回合都被锁，手里全是物品。双方各用了一次"拿奖与收尾"第一条的组合，击倒对方的 Budew。
+- Melville 先用 Crushing Hammer 拆掉 Halliburton 的 Munkidori 的 Darkness，再用 Boss's Orders + Phantom Dive 一次收掉两只 Drakloak（[3:08:30](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=11310s)）。
+- Halliburton 翻盘：放下 Meowth ex，用 Last-Ditch Catch 找到 Rosa's Encouragement 贴能量，Night Stretcher 拿回 Darkness，再打 Unfair Stamp（[3:11:30](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=11490s)）。Melville 只差一张 Boss's Orders，没摸到。之后 Halliburton 不赌 Mind Bend 的混乱硬币，用 Boss's Orders 把对方撤退不了的 Dunsparce 拉到战斗场困住，再收掉它，断掉对方的抽牌。
+- 第 2 局 Melville 的 Dunsparce、Fezandipiti ex、Unfair Stamp 都在奖赏卡里，第 1 回合没有支援者；Halliburton 第 3 回合用 Phantom Dive 收掉她的 Dreepy，Melville 投降。
+
+**录像：2026 世界赛第 1 天第 3 轮 Tonisson 2-0 Madsen**
+
+[录像](https://www.youtube.com/watch?v=iEM8bQbnA90&t=14400s)，世界赛卡池（TEF-PBL），用到的卡现在都合法。Tonisson 就是上面的 BrentyMon，主线，带 Special Red Card、Judge、Moltres，最终第 3；Madsen 也是 Hammer 版，没进第 2 天，比赛数据里没有他的卡表。Madsen 两局都选后攻，两局都输。
+- 第 1 局 Madsen 的 Unfair Stamp 和 Fezandipiti ex 都在奖赏卡里，开局只能放下 Meowth ex。Madsen 先锁物品，Tonisson 用 Itchy Pollen 击倒他的 Budew，先解开自己的锁再锁住他（[4:07:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=14820s)）。
+- 之后 Tonisson 两次能打 Phantom Dive，但没有击倒目标，都改用 Itchy Pollen 继续锁（[4:09:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=14940s)）；在对手被锁时打 Judge，Phantom Dive 一次收两只 Dreepy；最后 Boss's Orders 拉出 Meowth ex，一回合拿 3 张。解说："别人会更早出手，Brent 知道自己领先，一点风险不冒。"
+- 第 2 局 Tonisson 先攻，先用 Drakloak 收掉 Dunsparce、再用 Munkidori 收掉 Drakloak，领先 3 张；Madsen 用 Unfair Stamp、Crushing Hammer 和 Mind Bend 反扑。解说："这回合赢不了，没必要 Phantom Dive，用 Itchy Pollen 再拖。"（[4:34:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=16440s)）最后 Tonisson 用 Mind Bend 60 加两只 Munkidori 的 Adrena-Brain 各 30，正好收掉对方受了伤的 Dragapult ex（[4:41:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=16860s)）。

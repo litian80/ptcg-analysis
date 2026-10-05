@@ -1,0 +1,14 @@
+kind: video
+date: 2026-10-05
+ref: video-reviews/baltimore-2026-day2-swiss.md（项目共享文件夹）
+title: Baltimore 2026 区域赛第 2 天瑞士轮（第 13、14 轮）
+window: TEF-PBL
+observations:
+  - judgment: dpx-mir-01
+    game: 第 14 轮第 1 局 Halliburton（Dragapult ex）胜 Melville（Dragapult ex）
+    result: held
+    note: 互锁时双方都先用 Risky Ruins 的指示物加 Munkidori、Itchy Pollen 击倒对方的 Budew，解开自己的锁（https://www.youtube.com/watch?v=nLkFmtXdXGE&t=10740s）；Halliburton 开局没锁、多数回合被锁，解锁后靠 Night Stretcher 和 Unfair Stamp 这两张物品翻盘
+  - judgment: dpx-mir-01
+    game: 第 14 轮第 2 局 Halliburton 胜 Melville
+    result: n/a
+    note: 没有互锁，Melville 卡手投降

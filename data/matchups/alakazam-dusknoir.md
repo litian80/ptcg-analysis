@@ -533,7 +533,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 14 胜 6 负 2 平。
 
 **对局性质**
-- 对方是草能量堆叠：Meganium（MEG 10，160 HP，1 奖）的 Wild Growth 让每个基本草能量提供 2 个草能量。Teal Mask Ogerpon ex ×4（210，2 奖，在后备区不受招式伤害）的 Myriad Leaf Shower 30 + 双方战斗场每个能量 30。Hydrapple ex（SCR 14，330 HP，2 奖）每回合贴草回 30，Syrup Storm 30 + 我方全场每个草能量 30。Tapu Bulu（140 HP，1 奖）Wood Hammer 220。
+- 对方是草能量堆叠：Meganium（MEG 10，160 HP，1 奖）的 Wild Growth 让每个基本草能量提供 2 个草能量。Teal Mask Ogerpon ex ×4（210，2 奖，在后备区不受招式伤害）的 Myriad Leaf Shower 30 + 双方战斗场每个能量 30。Hydrapple ex（SCR 14，330 HP，2 奖）每回合贴草回 30，Syrup Storm 30 + 对方自己全场每个草能量 30（Meganium 在场时 6 个基本草能量就是 390）。Tapu Bulu（140 HP，1 奖）Wood Hammer 220。
 - 对方每回合能击倒我方一只，需要 6 次。对方的 2 奖宝可梦很多（Ogerpon ex ×4、Hydrapple ex、Meowth ex、Fezandipiti ex），我方 3 次击倒 2 奖 ex 就赢。
 - Forest of Vitality 让对方的草宝可梦放下当回合就能进化，所以 Chikorita / Bayleef 在后备区停留的时间短（推断）。
 

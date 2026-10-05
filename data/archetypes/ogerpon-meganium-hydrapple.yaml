@@ -132,6 +132,17 @@ evidence:
       - Hydrapple ex 在场时，没有 Meganium 也能靠 Ripening Charge 和 Teal Dance 一击（第 2 局）
       - 对手 Slowking 复制 Metallic Hammer 300，加 Brave Bangle 30，一击满血 Hydrapple ex（https://www.youtube.com/watch?v=nLkFmtXdXGE&t=22446s）
     caveat: 两局都是对手卡手（第 2 局对手两张 Poké Pad 在奖赏卡里），不代表胜率。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛第 2 天第 13 轮，Hope（本卡组，最终第 10：Celebi、Briar、Unfair Stamp、14 个基本草能量）2-0 Zheng（Dragapult ex，带 Moltres）
+    window: TEF-POR
+    confirms:
+      - Meganium 在场时 6 个基本草能量算 12 个，Syrup Storm 打出 390（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=10500s），解说也这样算
+      - 对手剩 2 张时打 Briar，Teal Mask Ogerpon ex 击倒战斗场多拿 1 张，收尾（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=12450s）
+    adds:
+      - 对 Dragapult：Celebi 的 Traverse Time 是招式，被 Budew 锁物品时照样找齐进化线（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=11310s）
+      - 对 Dragapult：对手用 Moltres 收掉 Teal Mask Ogerpon ex 后，下一回合打 Unfair Stamp（第 1 局）
+      - Meganium 被收掉后用 Night Stretcher 拿回来（第 1 局）
+    caveat: 一场两局；第 1 局对手开局没锁物品，两张 Crushing Hammer 都是反面。
 
 mistakes:
   - 没打出 Forest of Vitality 就在第 2 回合试图上 2 阶。
@@ -139,5 +150,5 @@ mistakes:
   - 对手剩 2 张时手里有 Briar 却用别的支援者。
 
 inferred:
-  - "Wild Growth 让每个基本草能量在 Myriad Leaf Shower / Syrup Storm 的计数里算 2 个，按卡牌文字\"provides GrassGrass Energy\"推断，需裁定确认。"
+  - "Wild Growth 让每个基本草能量在 Myriad Leaf Shower / Syrup Storm 的计数里算 2 个，按卡牌文字\"provides GrassGrass Energy\"推断；Indianapolis 2026 的录像里解说也这样算 Syrup Storm（见 evidence），还没找到正式裁定。"
   - Briar 翻盘路线按卡牌文字推断。

@@ -1,10 +1,10 @@
 # Indianapolis 2026 区域赛复盘
 
-比赛 2026-05-30，环境 TEF-POR（比现在少 CRI、PBL、30C 三个系列），下面用到的关键卡现在都还合法。卡组和成绩对照 data/tournaments/2026-05-30_559_regional-indianapolis-in。八强：Jones（Alakazam Dudunsparce，冠军）、Reddy（Crustle，亚军）、Newdorf（Dragapult Dusknoir）、Melville、Hamilton、Hedrick、Sakadjian、Lu（都是 Dragapult ex）。直播只播了八强、四强、决赛各一场，都已看完。
+比赛 2026-05-30，环境 TEF-POR（比现在少 CRI、PBL、30C 三个系列），下面用到的关键卡现在都还合法。卡组和成绩对照 data/tournaments/2026-05-30_559_regional-indianapolis-in。八强：Jones（Alakazam Dudunsparce，冠军）、Reddy（Crustle，亚军）、Newdorf（Dragapult Dusknoir）、Melville、Hamilton、Hedrick、Sakadjian、Lu（都是 Dragapult ex）。决赛圈直播只播了八强、四强、决赛各一场，都已看完；后来又看了直播里有推荐卡组的四场瑞士轮（第 2 天第 11、12、13 轮，第 1 天第 4 轮），放在后面。
 
 做法：没有调用 API，在你电脑上逐张看截图、对照解说写成。决赛和八强用的是旧版侧边面板，工具读出的奖赏卡变化不全（决赛还切错了局数），拿奖时间按解说；四强用的是 Baltimore 那一款面板，读数和解说一致。
 
-判断台账（data/judgments/）里还没有这几场对局的判断，没有要记的验证结果。台账里 Alakazam Dudunsparce 对 Dragapult 的三条判断说的是纯 Dragapult ex，四强的对手是 Dragapult Dusknoir，没有算进去。这次写进手册的关键判断登记成了新判断，编号写在各场的"写进手册的"里。
+判断台账（data/judgments/）：决赛圈三场的对局当时还没有登记判断，没有要记的验证结果。台账里 Alakazam Dudunsparce 对 Dragapult 的三条判断说的是纯 Dragapult ex，四强的对手是 Dragapult Dusknoir，没有算进去。这次写进手册的关键判断登记成了新判断，编号写在各场的"写进手册的"里。瑞士轮第 12 轮是 Alakazam Dudunsparce 对纯 Dragapult ex，验证结果和第 13 轮发现的纠错记在 data/judgments/sources/2026-10-05_video_indianapolis-2026.yaml。
 
 ## 决赛：Jones（Alakazam Dudunsparce）2-0 Reddy（Crustle）
 
@@ -93,3 +93,80 @@ Crustle vs Dragapult ex（68.6%）说中的：ex 打不动 Crustle；Jumbo Ice C
 3. 构筑建议"至少 2 张场地"加了这一场作旁证。dragapult-ex.md 的 vs Crustle 也在 Crushing Hammer 那条补了这一场。
 
 crustle-dri.yaml 和 dragapult-ex.yaml 也补了这一场的录像证据。
+
+## 第 2 天第 12 轮：Jones（Alakazam Dudunsparce）2-0 Hamilton（Dragapult ex）
+
+视频：第 2 天直播 https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=5340s （约 1:29-2:21）。Jones 的卡表见决赛：4 张 Nighttime Mine，没有 Battle Cage，也没有 Eri。Alex Hamilton 当时 11-0，最终第 5：主线 Hammer 版，1 张 Judge、1 张 Unfair Stamp，没有 Special Red Card。奖赏卡数取自解说。
+
+### 第 1 局：Jones 胜
+
+- Hamilton 先攻，把唯一的能量贴在战斗场的 Drakloak 上。Jones 第 2 回合用 Rare Candy 进化 Alakazam，Powerful Hand 收掉这只 Drakloak；同一回合她给 Genesect 挂上道具、打出 Nighttime Mine（[1:37:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=5820s)）。Hamilton 的 Unfair Stamp 从此打不出来。
+- Hamilton 用 Risky Ruins 换掉 Nighttime Mine，Phantom Dive 拿 2 张（[1:42:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=6120s)）。
+- Jones 用 Lana's Aid 把手牌攒到 19 张，收掉 Dragapult ex（[1:45:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=6300s)）；Lucky Helmet 挂在 Alakazam 上（[1:50:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=6600s)）。之后她还有 Nighttime Mine 可打，Hamilton 的 2 张 Ruins 换不过来。
+
+### 第 2 局：Jones 胜
+
+- 解说复盘说前两回合和第 1 局几乎一样（[2:18:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=8280s)）。Genesect 又封住 Unfair Stamp，解说说这张 Stamp 比 Crushing Hammer 还没用；Hamilton 只有一张 Judge 能压对手手牌，Crispin 用完后撑不住。
+- 两局 Hamilton 都没用 Budew 锁物品。
+
+### 对照手册
+
+dragapult-ex.md 的 vs Alakazam Dudunsparce（60.4%）说中的：胜负手是场地；Nighttime Mine 在场时 Phantom Dive 要 3 个能量；Genesect 封住 Unfair Stamp 时要靠 Special Red Card 或 Tool Scrapper。继上面四强 Newdorf 之后，这是第二场没带就输的录像。
+
+台账：adu-dpx-02（第 2 回合有没有 Rare Candy 基本决定这局）两局都记 held，从 40% 升到 55%，Hamilton 两局都没锁物品；adu-dpx-01（先放 Battle Cage）记 n/a，Jones 没带 Battle Cage，赛后说觉得它对 Dragapult 没多大用；dpx-adu-01（后攻吃亏）记 n/a，第 1 局 Hamilton 先攻也输了。
+
+写进手册的（PR #34）：
+
+1. dragapult-ex.md "胜负手是场地"那条：对手可能完全不带 Battle Cage、只带 4 张 Nighttime Mine（现在 62 份卡表里 8 份），2 张 Risky Ruins 换不过来，留给要打 Phantom Dive 的那一回合（推断）。
+2. Genesect 那条补了这一场。
+3. 常见失误加一条：对手第 2 回合可能 Rare Candy 进化出 Alakazam 时，别把唯一的能量贴在战斗场的 Drakloak 上。
+
+alakazam-dudunsparce.yaml 和 dragapult-ex.yaml 也补了这一场的录像证据。
+
+## 第 2 天第 13 轮：Hope（Ogerpon Meganium Hydrapple）2-0 Zheng（Dragapult ex）
+
+视频：第 2 天直播 https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=9540s （约 2:39-3:29）。Cody Hope 最终第 10，卡表带 Celebi、Briar、Unfair Stamp、Fezandipiti ex、14 个基本草能量。Bulin Zheng 最终第 33：主线 Hammer 版，带 Moltres、Watchtower，只有 1 只 Budew。dragapult-ex.md 的 vs Ogerpon Meganium Hydrapple 一节，这是第一场录像。奖赏卡数取自解说。
+
+### 第 1 局：Hope 胜
+
+- Zheng 开局没用 Budew 锁物品，两张 Crushing Hammer 都是反面。Hope 用 Dipplin 拿第 1 张。
+- Zheng 用 Boss's Orders 拉出 Teal Mask Ogerpon ex，Moltres 打 220 击倒（[2:54:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=10440s)）。
+- Hope 下一回合打 Unfair Stamp，Hydrapple ex 上场。Meganium 在场，6 个基本草能量算 12 个，Syrup Storm 打出 390（[2:55:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=10500s)），解说也这样算。后来 Meganium 被收掉，Hope 用 Night Stretcher 拿回来，赢下这一局。
+
+### 第 2 局：Hope 胜
+
+- Zheng 用 Budew 锁了物品，Hope 用 Celebi 的 Traverse Time（招式，物品锁挡不住）照样找齐进化线（[3:08:30](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=11310s)）。
+- Zheng 打出 Unfair Stamp、Risky Ruins 加 Phantom Dive（[3:21:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=12060s)）；Hope 用 Lana's Aid 补回能量，Teal Mask Ogerpon ex 打 330。
+- Zheng 剩 2 张时，Hope 用 Fezandipiti ex 的 Flip the Script 抽到 Briar，收尾（[3:27:30](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=12450s)）。
+
+### 对照手册
+
+dragapult-ex.md 的 vs Ogerpon Meganium Hydrapple（62.9%）说中的：Moltres 打弱火的 Teal Mask Ogerpon ex 是 220，一击；Risky Ruins 换掉 Forest of Vitality；Crushing Hammer 对十几个基本草能量效果有限；Briar。
+
+写进手册的（PR #34）：
+
+1. 改正两处写反的地方：Syrup Storm 数的是对手（Hydrapple 一方）自己全场的草能量，手册写成了我方；Briar 是对手在我们剩 2 张时打的，手册写成了对手剩 2 张时（"常见失误"里也是）。alakazam-dusknoir.md 的 Syrup Storm 也是同样的写法，一起改了。登记成已核对的纠错 c-20261005-indy-01。
+2. 伤害计算：Meganium 在场时 6 个基本草能量就是 390，一击 Dragapult ex。"Meganium 一上场就收"加上"比 Teal Mask Ogerpon ex 优先"，登记成判断 dpx-omh-01，信心 60%。什么结果算推翻：收掉 Meganium 后，对手用 Night Stretcher 或 Lana's Aid 马上补回来，没有拖慢对手（第 1 局补回过一次）。
+3. Celebi（37 份卡表里 36 份带）的 Traverse Time 是招式，Budew 锁不住。
+4. 对手 92% 卡表带 Unfair Stamp（37 份里 34 份），我们击倒一只后要防。
+
+ogerpon-meganium-hydrapple.yaml 和 dragapult-ex.yaml 也补了这一场的录像证据；ogerpon-meganium-hydrapple.yaml 里"Wild Growth 在计数里算 2 个"那条推断补上了解说的算法，还没找到正式裁定。
+
+## 第 2 天第 11 轮：Aguilar（Dragapult ex）胜 Frink（Kangaskhan Bouffalant）
+
+视频：第 2 天直播 https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=1260s 。Evan Aguilar 最终第 13，主线 Hammer 版；Joshua Frink 最终第 31（解说念成 Josh Frank），Joltik、Mega Kangaskhan ex、Bouffalant、Bloodmoon Ursaluna ex 的 box。手册没有这个卡组，只做简要记录；赛果按比赛数据。
+
+- 第 1 局 Aguilar 胜：Itchy Pollen 锁住对手的 Precious Trolley；先收能量来源 Joltik；不碰 3 奖的 Mega Kangaskhan ex，把 Phantom Dive 的指示物和两次 Adrena-Brain 叠在 Bloodmoon Ursaluna ex 上（[45:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=2700s)）。Bouffalant 的 Curly Wall 只减招式伤害（基础无色宝可梦 −60），指示物不受影响。
+- 第 2 局：Frink 的 Kangaskhan 充满能量开始拿奖，时间快到时他要连续两次正面才能逼出第 3 局，没成功（[1:11:00](https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=4260s)）。后段只粗读了。
+
+dragapult-ex.yaml 补了这一场的录像证据。
+
+## 第 1 天第 4 轮：Yamaguchi（Dragapult ex）2-1 Tate（Mega Diancie Dusknoir）
+
+视频：第 1 天直播 https://www.youtube.com/watch?v=1Z6jmnN6-Ks&t=1980s 。电脑上的复盘先把 Dragapult 一方认成了 Schemanske（字幕里的"Diancie"），比赛数据里是 Yoshiyuki Yamaguchi（Hammer 版，3 张 Crushing Hammer，带 Moltres）；赛果按比赛数据。比赛数据里没有 Yakira Tate 的卡表。手册没有这个卡组，只做简要记录。
+
+- 第 1 局 Yamaguchi 胜：Phantom Dive 先打战斗场能攻击的 Latias；对手一直没找到 Lillie's Clefairy ex。
+- 第 2 局 Tate 胜：Mega Diancie ex 的 Garland Ray（弃能量，每个 120）加 Powerglass（回合结束时从弃牌区贴回 1 个基本能量）连续攻击，Cursed Blast 收掉 Budew；Yamaguchi 两张 Hammer 都是反面。
+- 第 3 局 Yamaguchi 胜：他打 Judge，把自己从一手死牌里救回来。后段只粗读了。
+
+dragapult-ex.yaml 补了这一场的录像证据。

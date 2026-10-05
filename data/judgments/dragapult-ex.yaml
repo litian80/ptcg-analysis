@@ -28,10 +28,10 @@ judgments:
     where: data/matchups/dragapult-ex.md
   - id: dpx-mir-02
     vs: dragapult-ex
-    text: 镜像里对手的 Munkidori 有 Darkness 能量时，没有击倒目标就别用 Phantom Dive 撒指示物，先用 Jet Headbutt
+    text: 镜像里对手的 Munkidori 有 Darkness 能量时，没有击倒目标就别用 Phantom Dive 撒指示物，先用 Jet Headbutt 或 Budew 的 Itchy Pollen 拖
     confidence: 0.6
     weight: 2
-    basis: 卡牌文字（Adrena-Brain 从对手自己的宝可梦挪指示物）；录像：Los Angeles 2026 决赛第 2 局（TEF-POR），Hedrick 第一次攻击用 Jet Headbutt，解说说是不给对手的 Munkidori 送弹药
+    basis: 卡牌文字（Adrena-Brain 从对手自己的宝可梦挪指示物）；录像：Los Angeles 2026 决赛第 2 局（TEF-POR），Hedrick 第一次攻击用 Jet Headbutt，解说说是不给对手的 Munkidori 送弹药；2026-10-05 看完 2026 世界赛第 1 天第 3 轮（TEF-PBL）后把 Itchy Pollen 加进去：Tonisson 两次能打 Phantom Dive 却没有击倒目标，都改用 Itchy Pollen，第 2 局解说也这样讲
     window: TEF-30C
     depends_on: [Munkidori]
     where: data/matchups/dragapult-ex.md
@@ -52,4 +52,22 @@ judgments:
     basis: 推断；录像：Los Angeles 2026 四强（TEF-POR）Hedrick 两局都这样打，2-0；2026 世界赛四强镜像第 2 局他也这样打
     window: TEF-30C
     depends_on: [Unfair Stamp, Fezandipiti ex, Munkidori]
+    where: data/matchups/dragapult-ex.md
+  - id: dpx-mir-03
+    vs: dragapult-ex
+    text: 镜像里第一次拿奖选在能用 Itchy Pollen 击倒对方 Budew 的那一回合：拿 1 张、对方下回合锁不了我们、还锁住对方，对方被锁时打不出 Unfair Stamp
+    confidence: 0.6
+    weight: 3
+    basis: 卡牌文字（Budew 30 HP，Risky Ruins 的 2 个指示物加 Itchy Pollen 10 正好击倒；Unfair Stamp 是物品）；录像：Baltimore 2026 第 2 天第 14 轮第 1 局（TEF-PBL）双方各这样打了一次，2026 世界赛第 1 天第 3 轮第 1 局（TEF-PBL）Tonisson 也这样解锁，解说给的理由一样
+    window: TEF-30C
+    depends_on: [Budew, Unfair Stamp, Munkidori, Risky Ruins]
+    where: data/matchups/dragapult-ex.md
+  - id: dpx-omh-01
+    vs: ogerpon-meganium-hydrapple
+    text: 对 Ogerpon Meganium Hydrapple，Meganium 一上场就收，比 Teal Mask Ogerpon ex 优先：Meganium 和 Hydrapple ex 同时在场后，Syrup Storm 能打 390，一击 Dragapult ex
+    confidence: 0.6
+    weight: 3
+    basis: 伤害计算（Meganium 在场时每个基本草能量算 2 个，6 个就是 30 + 360 = 390）；录像：Indianapolis 2026 第 2 天第 13 轮第 1 局（TEF-POR），Zheng 先用 Moltres 收掉 Teal Mask Ogerpon ex，下一回合 Hope 的 Hydrapple ex 在 Meganium 在场时打出 390，Hope 赢下
+    window: TEF-30C
+    depends_on: [Meganium, Hydrapple ex, Teal Mask Ogerpon ex]
     where: data/matchups/dragapult-ex.md
