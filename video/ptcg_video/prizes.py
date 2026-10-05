@@ -7,9 +7,13 @@ sampled frame gives an exact prize timeline, which is the most reliable signal
 for who knocked out what, and when.
 
 Frames that are not the board (a zoomed card, the "PRIZES" banner, a desk shot,
-a break screen) fail the check below and read as unknown. Post-game replays
-show older board states, so a count may only go down, unless the higher count
-holds long enough to be a new game.
+a break screen) fail the check below and read as unknown. Replays carry a
+REPLAY banner and are skipped too. Other older board states shown again can
+only raise a count, so a count may only go down, unless the higher count holds
+long enough to be a new game.
+
+The balls are set by hand: on the Frankfurt final they changed 20-30 seconds
+after the knockout.
 """
 
 from __future__ import annotations
@@ -26,6 +30,15 @@ from .frames import Frame
 
 
 @dataclass(frozen=True)
+class ReplayTag:
+    """The broadcast's REPLAY banner: plain patches inside it and the colour their means fall in."""
+
+    patches: tuple[tuple[int, int, int, int], ...]  # (x0, x1, y0, y1); all the same height
+    rgb: tuple[tuple[float, float], tuple[float, float], tuple[float, float]]  # mean R, G, B ranges
+    max_std: float = 25.0  # a flat banner, not a busy picture that happens to average the same
+
+
+@dataclass(frozen=True)
 class PrizeLayout:
     """Prize-ball geometry in pixels of a ``ref``-sized frame."""
 
@@ -37,6 +50,7 @@ class PrizeLayout:
     on: float = 100.0  # mean gray above this = ball lit
     lit: tuple[float, float] = (105.0, 200.0)  # every lit ball must read in this range ...
     dark: tuple[float, float] = (30.0, 80.0)  # ... and every dark slot in this one, or the frame is not the board
+    replay: ReplayTag | None = None
 
     @property
     def height(self) -> int:
@@ -46,7 +60,14 @@ class PrizeLayout:
 PRIZE_PRESETS: dict[str, PrizeLayout] = {
     # Measured on the Frankfurt 2026 regional Day 2 stream (the same overlay as
     # Worlds): lit balls (white ring) read 115-165, empty slots (dark navy) 38-65.
-    "sides": PrizeLayout(columns=((276, 300), (980, 1004)), y0=4, pitch=19, ball=17),
+    # The REPLAY banner (x 552-727, y 26-53) is light blue, about (109, 174, 223),
+    # with white text in the middle; the patches sit either side of the text.
+    # On the final it matched every replay frame and nothing else.
+    "sides": PrizeLayout(
+        columns=((276, 300), (980, 1004)), y0=4, pitch=19, ball=17,
+        replay=ReplayTag(patches=((565, 605, 32, 50), (680, 715, 32, 50)),
+                         rgb=((10.0, 120.0), (135.0, 180.0), (205.0, 230.0))),
+    ),
 }
 
 
@@ -68,21 +89,35 @@ def count_column(column: np.ndarray, layout: PrizeLayout) -> int | None:
 
 
 def read_prizes(frames: list[Frame], layout: PrizeLayout) -> None:
-    """Set ``frame.prizes`` to (left, right) prizes left, or None where the overlay isn't readable."""
+    """Set ``frame.prizes`` to (left, right) prizes left, or None where the overlay isn't readable.
+
+    Frames showing the REPLAY banner get ``frame.replay`` and no prizes.
+    """
     if not frames:
         return
     if not shutil.which("ffmpeg"):
         raise RuntimeError("ffmpeg is needed to read prize markers")
     (lx0, lx1), (rx0, rx1) = layout.columns
+    lw = lx1 - lx0
+    strips = _crops(frames, layout, "gray", [(lx0, lx1, 0, layout.height), (rx0, rx1, 0, layout.height)])
+    tags = _crops(frames, layout, "rgb24", layout.replay.patches) if layout.replay else None
+    for i, (f, strip) in enumerate(zip(frames, strips)):
+        f.replay = tags is not None and _is_replay(tags[i], layout.replay)
+        left, right = count_column(strip[:, :lw], layout), count_column(strip[:, lw:], layout)
+        # Both columns dark is a dark screen, not a 0-0 board.
+        f.prizes = None if f.replay or left is None or right is None or (left, right) == (0, 0) else (left, right)
+
+
+def _crops(frames: list[Frame], layout: PrizeLayout, pix_fmt: str, boxes) -> np.ndarray:
+    """The boxes (x0, x1, y0, y1; all the same height) of every frame, side by side: (frames, h, w[, 3])."""
     w, h = layout.ref
-    filt = (
-        f"scale={w}:{h},format=gray,split=2[a][b];"
-        f"[a]crop={lx1 - lx0}:{layout.height}:{lx0}:0[l];"
-        f"[b]crop={rx1 - rx0}:{layout.height}:{rx0}:0[r];"
-        "[l][r]hstack=inputs=2"
-    )
+    n = len(boxes)
+    height = boxes[0][3] - boxes[0][2]
+    width = sum(x1 - x0 for x0, x1, _, _ in boxes)
+    filt = f"scale={w}:{h},format={pix_fmt},split={n}" + "".join(f"[s{i}]" for i in range(n)) + ";"
+    filt += "".join(f"[s{i}]crop={x1 - x0}:{y1 - y0}:{x0}:{y0}[c{i}];" for i, (x0, x1, y0, y1) in enumerate(boxes))
+    filt += ("".join(f"[c{i}]" for i in range(n)) + f"hstack=inputs={n}") if n > 1 else "[c0]null"
     # One ffmpeg pass over the sampled JPEGs, listed in a concat file so any file names work.
-    lw, rw = lx1 - lx0, rx1 - rx0
     with tempfile.TemporaryDirectory() as tmp:
         listing = Path(tmp) / "frames.txt"
         listing.write_text(
@@ -96,15 +131,26 @@ def read_prizes(frames: list[Frame], layout: PrizeLayout) -> None:
         )
     if proc.returncode != 0:
         raise RuntimeError(f"ffmpeg failed reading prize markers:\n{proc.stderr.decode(errors='replace')[-2000:]}")
-    size = (lw + rw) * layout.height
+    channels = 3 if pix_fmt == "rgb24" else 1
+    size = width * height * channels
     raw = np.frombuffer(proc.stdout, dtype=np.uint8)
-    strips = raw[: len(raw) // size * size].reshape(-1, layout.height, lw + rw)
-    if len(strips) != len(frames):
-        raise RuntimeError(f"ffmpeg returned {len(strips)} images for {len(frames)} frames")
-    for f, strip in zip(frames, strips):
-        left, right = count_column(strip[:, :lw], layout), count_column(strip[:, lw:], layout)
-        # Both columns dark is a dark screen, not a 0-0 board.
-        f.prizes = None if left is None or right is None or (left, right) == (0, 0) else (left, right)
+    out = raw[: len(raw) // size * size].reshape((-1, height, width) + ((3,) if channels == 3 else ()))
+    if len(out) != len(frames):
+        raise RuntimeError(f"ffmpeg returned {len(out)} images for {len(frames)} frames")
+    return out
+
+
+def _is_replay(tag: np.ndarray, replay: ReplayTag) -> bool:
+    """True if every patch is a flat area in the banner's colour."""
+    x = 0
+    for x0, x1, _, _ in replay.patches:
+        patch = tag[:, x : x + x1 - x0].reshape(-1, 3).astype(float)
+        x += x1 - x0
+        if patch.std(axis=0).max() >= replay.max_std:
+            return False
+        if any(not lo <= m <= hi for m, (lo, hi) in zip(patch.mean(axis=0), replay.rgb)):
+            return False
+    return True
 
 
 def _quote(path: str) -> str:

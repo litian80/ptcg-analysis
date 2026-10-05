@@ -97,12 +97,15 @@ class Frame:
     # (left, right) prizes left, read from the overlay's prize markers; None if
     # not read or not readable in this frame.
     prizes: tuple[int, int] | None = None
+    replay: bool = False  # the broadcast's REPLAY banner is on screen
 
     def to_dict(self) -> dict:
         d = {"t": round(self.t, 2), "path": str(self.path), "keyframe": self.keyframe,
              "change": round(self.change, 4)}
         if self.prizes is not None:
             d["prizes"] = list(self.prizes)
+        if self.replay:
+            d["replay"] = True
         return d
 
 
