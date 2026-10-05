@@ -94,10 +94,16 @@ class Frame:
     # Largest changed fraction of any region against the previous keyframe, to
     # help tune --change-threshold.
     change: float = 0.0
+    # (left, right) prizes left, read from the overlay's prize markers; None if
+    # not read or not readable in this frame.
+    prizes: tuple[int, int] | None = None
 
     def to_dict(self) -> dict:
-        return {"t": round(self.t, 2), "path": str(self.path), "keyframe": self.keyframe,
-                "change": round(self.change, 4)}
+        d = {"t": round(self.t, 2), "path": str(self.path), "keyframe": self.keyframe,
+             "change": round(self.change, 4)}
+        if self.prizes is not None:
+            d["prizes"] = list(self.prizes)
+        return d
 
 
 def _changed(a: np.ndarray, b: np.ndarray, dead_band: int = DEAD_BAND) -> np.ndarray:

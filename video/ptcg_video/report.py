@@ -7,8 +7,9 @@ import os
 from pathlib import Path
 
 from .captions import Segment, text_between
-from .events import CaptionAnalysis
+from .events import CaptionAnalysis, game_at
 from .frames import Frame
+from .prizes import PrizeChange, describe, prize_timeline
 from .timeutil import fmt_ts
 from .vision import WindowResult, pick_frames, windows_of
 
@@ -35,6 +36,9 @@ def write_outputs(
             json.dumps([w.to_dict() for w in windows], ensure_ascii=False, indent=1), encoding="utf-8"
         )
     (out_dir / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=1, default=str), encoding="utf-8")
+    prize_log = prize_timeline(frames)
+    if prize_log:
+        (out_dir / "prizes.json").write_text(json.dumps([c.to_dict() for c in prize_log], indent=1), encoding="utf-8")
 
     url = meta.get("url")
     lines = [f"# {meta.get('title') or meta.get('video_id')}", ""]
@@ -72,6 +76,9 @@ def write_outputs(
                 f"| {_link(url, w.start)} | {w.data.get('game_number') or ''} | {side(players[0])} | {side(players[1])} | {w.data.get('stadium') or ''} | {what.replace('|', '/')} |"
             )
         lines.append("")
+
+    if prize_log:
+        lines += _prize_table(prize_log, url)
 
     if captions.games:
         lines += ["## Games detected from commentary", ""]
@@ -111,6 +118,22 @@ def write_outputs(
     return report
 
 
+PRIZE_NOTE = ("Prizes left, read from the overlay's six prize markers per player (left panel / right panel). "
+              "A count is kept once two samples in a row agree. Counts only go down, so replays are ignored; "
+              "a count that goes back up and holds for a minute starts a new game. The last prize of a game "
+              "is often missing because the broadcast cuts away on the winning knockout.")
+
+
+def _prize_table(prizes: list[PrizeChange], url: str | None) -> list[str]:
+    lines = ["## Prizes left (from the overlay)", "", PRIZE_NOTE, "",
+             "| Time | Game | Left | Right | Change |", "|---|---|---|---|---|"]
+    for i, c in enumerate(prizes):
+        lines.append(f"| {_link(url, c.t)} | {c.game} | {c.left} | {c.right} | "
+                     f"{describe(c, prizes[i - 1] if i else None)} |")
+    lines.append("")
+    return lines
+
+
 PACK_INTRO = """Everything needed to read this match by eye, without an API key: for each \
 window, the frames where the board changed, what the casters said, and the card \
 names they mentioned. Open the frames in order. On Play! Pokémon streams the side \
@@ -121,13 +144,6 @@ not prizes. The middle camera shows what is being played. Regional streams have 
 side panels: read games won and the six prize markers per player from the scorebar \
 at the top, and played cards from the callout that pops up on the left. Commentary is auto-captioned, so card \
 names can be misspelled; trust the overlay over the captions."""
-
-
-def _game_at(games: list[tuple[float, float | None]], t: float) -> int | None:
-    for i, (a, b) in enumerate(games, 1):
-        if a <= t and (b is None or t <= b):
-            return i
-    return None
 
 
 def write_review_pack(
@@ -149,16 +165,22 @@ def write_review_pack(
     if lines[-1]:
         lines.append("")
     lines += [PACK_INTRO, ""]
+    prizes = prize_timeline(frames)
+    if prizes:
+        lines += [PRIZE_NOTE, ""]
     if captions.games:
         lines += ["## Games from commentary", ""]
         for i, (a, b) in enumerate(captions.games, 1):
             lines.append(f"- Game {i}: {_link(url, a)} - {_link(url, b) if b is not None else 'end'}")
         lines.append("")
     for n, (t, w_end, in_window) in enumerate(windows_of(frames, window), 1):
-        game = _game_at(captions.games, t)
+        game = game_at(captions.games, t)
         lines += [f"## Window {n}: {_link(url, t)} - {fmt_ts(w_end)}" + (f" (game {game})" if game else ""), ""]
         for f in pick_frames(in_window, max_frames):
             lines.append(f"- {fmt_ts(f.t)}: `{Path(os.path.relpath(f.path, out_dir)).as_posix()}`")
+        if prizes:
+            lines.append("")
+            lines += _prize_lines(prizes, t, w_end)
         cards = captions.cards_between(t, w_end)
         if cards:
             lines.append(f"\nCards mentioned: {', '.join(cards)}")
@@ -171,3 +193,16 @@ def write_review_pack(
     pack = out_dir / "review_pack.md"
     pack.write_text("\n".join(lines), encoding="utf-8")
     return pack
+
+
+def _prize_lines(prizes: list[PrizeChange], start: float, end: float) -> list[str]:
+    """Prizes left at a window's start, then each change inside it."""
+    before = [c for c in prizes if c.t <= start]
+    lines = []
+    if before:
+        lines.append(f"Prizes left (left / right): {before[-1].left} / {before[-1].right}")
+    for i, c in enumerate(prizes):
+        if start < c.t < end:
+            note = describe(c, prizes[i - 1] if i else None)
+            lines.append(f"Prizes left → {c.left} / {c.right} at {fmt_ts(c.t)}" + (f" ({note})" if note else ""))
+    return lines
