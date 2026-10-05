@@ -24,7 +24,7 @@
 | Dragapult Blaziken | 47.6%（35） | 对方只有 2 只 Torchic，早点击倒 Torchic 和 Combusken，Blaziken ex 就上不来 |
 | Festival Lead | 48.9%（30） | 先清掉带 Festival Lead 的 Goldeen、Dipplin 和会进化成 Dipplin 的 Applin；用 Cursed Blast 压缩对方后备区，Do the Wave 的伤害跟着下降 |
 | Dhelmise | 24.4%（15） | Hide 'n' Sneak 同时挡住 Powerful Hand 和 Cursed Blast，只能打没有这个特性的 Dhelmise 和 2 奖 ex |
-| Ogerpon Meganium Hydrapple | 66.7%（22） | Dusknoir 单独就能击倒后备区的 Bayleef；Meganium 用 Dusknoir 加 Dusclops 或 Boss 加 8 张解决 |
+| Ogerpon Meganium Hydrapple | 66.7%（22） | Dusknoir 单独就能击倒后备区的 Bayleef；Meganium 用 Dusknoir 加 Dusclops 或 Boss 加 8 张解决；Budew 锁不住 Forest of Vitality；Fez 起手先用 Dawn 铺基础宝可梦 |
 | Crustle | 26.9%（26） | Mist Energy 挡住 Powerful Hand；改为击倒两只 3 奖的 Mega Kangaskhan ex |
 | Alakazam Dusknoir（镜像） | 无（录像 3 局） | 先打掉对方的 Budew 解锁物品；Fezandipiti ex 是唯一的 2 奖目标；领先时清光对方 Abra 线，防止对方自爆拖成同时拿完 |
 
@@ -521,7 +521,9 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - Forest of Vitality 让对方的草宝可梦放下当回合就能进化，所以 Chikorita / Bayleef 在后备区停留的时间短（推断）。
 
 **开局与先后攻**
-- 选后攻（推断），Budew 锁物品：对方第 2 回合的 Bug Catching Set ×4、Ultra Ball ×4 都用不了，Meganium 线和 Hydrapple 线慢一回合。
+- 选后攻（推断），Budew 锁物品：对方第 2 回合的 Bug Catching Set ×4、Ultra Ball ×4 都用不了，Meganium 线和 Hydrapple 线找起来慢。
+- 但 Budew 锁不住 Forest of Vitality：它是场地卡（四场比赛 37 份卡表全带），对方手上有进化卡时，刚放下的 Chikorita 当回合照样进化到 Meganium。录像：Frankfurt 2026 第 1 天第 8 轮第 2 局，Chałupka 锁住了物品，Pippard 仍然上了 Meganium，用 Boss's Orders 拉出 Fezandipiti ex，Myriad Leaf Shower 正好 210 击倒（[7:10:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=25830s)）。
+- Fezandipiti ex 起手时，后攻第 1 回合先用 Dawn（一次拿基础、1 阶、2 阶）或 Buddy-Buddy Poffin 往后备区放基础宝可梦，不要用 Hilda（只找进化卡和能量）。Fez 的 210 HP 是 Ogerpon ex 带上 Meganium 一回合就打得出的伤害，后备区没人时被击倒就直接输。录像：同一场第 1 局，Chałupka 第 1 回合打了 Hilda，场上只有 Fez；Pippard 第 2 回合用 Forest of Vitality 当回合进化出 Meganium，击倒 Fez 获胜（[7:01:00](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=25260s)）。
 
 **奖赏卡路线**
 1. **我方第 2 回合**（拿 1 到 2 张）：Powerful Hand 打战斗场的宝可梦。是 Ogerpon ex（210）就打 11 张拿 2 张；是 Chikorita（70）就 4 张。有 Dusknoir 时，Cursed Blast 13 个指示物能单独击倒后备区的 Bayleef（MEG 9 110 HP / ASC 9 100 HP）。
@@ -531,16 +533,19 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 
 **对手的套路，怎么防**
 - **Myriad Leaf Shower**：计算按双方战斗场的能量。我方 Alakazam 只贴 1 个能量，对方的伤害主要来自自己的能量。3 个草能量的 Ogerpon ex 打 1 个能量的 Alakazam 就是 30 + 4 × 30 = 150，击倒。
-- **Briar**（88%）：我方剩 2 张奖赏卡时可用，对方太晶宝可梦（Teal Mask Ogerpon ex）击倒我方战斗场宝可梦时多拿 1 张。我方剩 2 张时，战斗场的宝可梦被击倒会让对方拿 2 张。
+- **Briar**（88%）：我方剩 2 张奖赏卡时可用，对方太晶宝可梦（Teal Mask Ogerpon ex）击倒我方战斗场宝可梦时多拿 1 张。我方剩 2 张时，战斗场的宝可梦被击倒会让对方拿 2 张。录像：第 8 轮第 2 局打到 2 对 2，Pippard 用 Meowth ex 找到 Briar，Ogerpon ex 一次击倒拿完最后 2 张（[7:22:50](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=26570s)）。
 - **Hydrapple ex 回血**：Powerful Hand 放的指示物会被 Ripening Charge 的回复抵消一部分，不要分两回合打 Hydrapple ex。
+- **Judge（68%）、Unfair Stamp（92%）**：Powerful Hand 靠手牌数，被打回 4 张或 2 张后一回合补不回来，打 Hydrapple ex 要的 17 张更不可能。Pippard 赛后说他针对的就是这一点：这套牌没有 Dudunsparce 那样的额外抽牌。录像：第 8 轮第 2 局，Chałupka 只有 12 张手牌，打 Hydrapple ex 240 没打死；Pippard 回血后打 Judge 让他回到 4 张，再击倒第二只 Alakazam（[7:20:35](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=26435s)）。应对是把 Dusknoir 提前放在场上，Cursed Blast 不需要手牌（推断）：Dusknoir 130 + 10 张就够击倒 Hydrapple ex。
 
 **关键卡与构筑**
 - 没有带卡与不带卡的对比数据（公开卡表只有 15 局）。
+- 选手看法：Pippard（用的是 Baltimore 亚军 Ben Dobberstein 的卡表）赛后认为这个对局对 Alakazam Dusknoir 是五五开。我们的 66.7% 只有 22 局；他 2-0 赢下的这一场，是 Chałupka 整个 Frankfurt 夺冠路上唯一输掉的一场。
 
 **常见失误**
 - 花 17 张手牌去打 Hydrapple ex，放着 Meganium 和 Ogerpon ex 不管。
 - 用 Cursed Blast 打后备区的 Teal Mask Ogerpon ex 后又没有后续，单纯送 1 张。
 - 我方剩 2 张时忘了 Briar，以为还要两次击倒才会输。
+- Fezandipiti ex 起手却用 Hilda，后备区没有宝可梦，Fez 被一击就输（录像）。
 
 ---
 
