@@ -134,3 +134,11 @@ evidence:
       - 构筑分两种（四场比赛 112 份卡表）：3 到 4 张 Watchtower 的 51 份里 33 份带 N's Purrloin，只有 2 份带 N's Castle、没有 N's Darmanitan；带 N's Castle 的 57 份里 Watchtower 多是 0 到 1 张，31 份带 N's Darmanitan，只有 2 份带 Purrloin。解说也把它们叫作两个版本
       - 战斗场的满血 Zoroark ex 会被 Slowking 复制的 Metallic Hammer 一击：复制来的 Hammer 是 300（官方裁定，Slowking 没有钢能量也能 +150），Zoroark ex 只有 280（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s）
     caveat: 一局；第 1 局没有播出。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 6 轮，Lepine（本卡组，N's Castle 版，1 张 Special Red Card，没有 Watchtower 和 Judge）1-2 Łaszkiewicz（Alakazam Dusknoir）
+    window: TEF-PBL
+    adds:
+      - 对手（Alakazam Dusknoir）拿到 2 张后停手，只打伤不击倒，Special Red Card 一直打不出来，最后一回合一次拿 4 张（https://www.youtube.com/watch?v=iEM8bQbnA90&t=28920s、https://www.youtube.com/watch?v=iEM8bQbnA90&t=30090s）。只靠 Special Red Card 一张手牌干扰压不住这种打法，Judge 这类不看奖赏卡的干扰更稳（推断）
+      - 没带 Watchtower 时，对手的 Patrat 让 Munkidori 挪不了指示物（第 3 局）
+      - Pecharunt ex 加 Binding Mochi 第 1 回合就收掉对手前场的 Budew（第 2 局）
+    caveat: 一场三局；第 2 局细节没看清。
