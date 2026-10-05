@@ -133,3 +133,22 @@ def test_exact_shorter_name_beats_fuzzy_longer_gram():
         ("Lillie's Determination", "lillies determination", 100.0),
         ("Night Stretcher", "night stretcher", 100.0),
     ]
+
+
+def test_split_games_at_chapters_and_parse_games():
+    from ptcg_video.events import parse_games, split_at
+
+    assert split_at([(10, 600), (700, None)], [0, 300, 900]) == [(10, 300), (300, 600), (700, 900), (900, None)]
+    assert parse_games("43:40-53:20, 1:16:20-") == [(2620, 3200), (4580, None)]
+    for bad in ("43:40", "53:20-43:40"):
+        try:
+            parse_games(bad)
+        except ValueError:
+            continue
+        raise AssertionError(bad)
+
+
+def test_player_shorthand_aliases():
+    m = CardMatcher(["Dragapult ex", "Munkidori", "Toucannon", "Alakazam", "Budew"])
+    found = [n for n, _, _ in m.find("pult takes two, monkey dory moves three, two cannon is scary, zam needs 16, beddo locks")]
+    assert found == ["Dragapult ex", "Munkidori", "Toucannon", "Alakazam", "Budew"]

@@ -117,7 +117,9 @@ names they mentioned. Open the frames in order. On Play! Pokémon streams the si
 overlays carry the board: the LEFT panel is P1 and the RIGHT panel is P2, each with \
 player name, a column of six small prize markers, the Active Pokémon and its HP, the \
 Bench, and the Stadium. The large number beside the name is games won in the match, \
-not prizes. The middle camera shows what is being played. Commentary is auto-captioned, so card \
+not prizes. The middle camera shows what is being played. Regional streams have no \
+side panels: read games won and the six prize markers per player from the scorebar \
+at the top, and played cards from the callout that pops up on the left. Commentary is auto-captioned, so card \
 names can be misspelled; trust the overlay over the captions."""
 
 

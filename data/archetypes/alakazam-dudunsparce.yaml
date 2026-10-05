@@ -117,6 +117,16 @@ evidence:
       - Eri 弃掉对手的 Special Red Card 和 Night Stretcher（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1380s）
       - Genesect 带道具封住 Unfair Stamp
     caveat: 26:50 那次 Boss's Orders 是复盘推断的；这是一局，不代表胜率。
+  - source: video-reviews/brisbane-2026-brentymon-dragapult.md（项目共享文件夹）
+    game: Brisbane 区域赛（2026-09-26）第 10 轮，Marcus Ibbotson（Alakazam）1-2 负 BrentyMon（Dragapult ex）
+    window: TEF-30C
+    confirms:
+      - 16 张手牌 Powerful Hand 击倒 Dragapult ex，第 3 局从 3 张手牌连抽到正好 16 张（https://www.youtube.com/watch?v=KfJk7KymeYI&t=4230s）
+      - 对手 Judge 能把手牌打回 4 张，伤害随之掉下来（https://www.youtube.com/watch?v=KfJk7KymeYI&t=2980s）
+    adds:
+      - 另一个版本：带 Toucannon（PBL 68）、4 张 Boss's Orders、4 张 Battle Cage，没有 Genesect，所以对手的 Unfair Stamp 能用（公开卡表里没有这个版本）
+      - 第 1 局对手后攻第 1 回合用 Budew 锁物品，Alakazam 第 2 回合上了场却没有能量，白过一回合（https://www.youtube.com/watch?v=KfJk7KymeYI&t=2680s）
+    caveat: 区域赛直播是俯拍桌面，没有侧边数据面板；卡组构成来自选手的口述复盘。
 
 mistakes:
   - 只带一张 Battle Cage 或过早打出，被 Risky Ruins 换掉后没有第二张。

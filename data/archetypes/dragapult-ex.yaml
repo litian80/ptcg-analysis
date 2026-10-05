@@ -129,6 +129,19 @@ evidence:
       - 故意把对方 Fezandipiti ex 打到 10 HP 不击倒，拒绝 Flip the Script 并保持落后以便用 Rosa's Encouragement（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=840s）
       - 对方手牌 16 张，Powerful Hand 一击满血 Dragapult ex（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1051s）
     caveat: 26:50 那次 Boss's Orders 是复盘根据前后画面推断的；这是一局，不代表胜率。
+  - source: video-reviews/brisbane-2026-brentymon-dragapult.md（项目共享文件夹）
+    game: Brisbane 区域赛（2026-09-26）BrentyMon（Dragapult ex，第 3 名）第 10 轮 2-1 胜 Marcus Ibbotson（Alakazam），四强 0-2 负 Edmund Khoo（Dragapult ex 镜像，冠军）
+    window: TEF-30C
+    confirms:
+      - 对 Alakazam：过早打 Risky Ruins 被 Battle Cage 换回，差点被翻盘（https://www.youtube.com/watch?v=KfJk7KymeYI&t=3000s）
+      - 对 Alakazam：找到第二张 Risky Ruins 后一回合拿 2 张收尾（https://www.youtube.com/watch?v=KfJk7KymeYI&t=3170s）
+    adds:
+      - 对 Alakazam 后攻吃亏（选手判断），他第 2 局认输换第 3 局先攻
+      - Risky Ruins 后 Phantom Dive 的指示物按对手进化后的 HP 分配（https://www.youtube.com/watch?v=KfJk7KymeYI&t=4090s）
+      - 镜像：先保住自己能用物品，再想用 Budew 锁对手（https://www.youtube.com/watch?v=KfJk7KymeYI&t=4740s）
+      - 镜像：扣住 Munkidori 和 Darkness 诱对手多放伤害（https://www.youtube.com/watch?v=KfJk7KymeYI&t=5370s）
+      - 镜像：对手只差 1 张时用 Fezandipiti ex 接 Unfair Stamp 翻盘（https://www.youtube.com/watch?v=KfJk7KymeYI&t=5860s）
+    caveat: 区域赛直播是俯拍桌面，没有侧边数据面板；击倒了谁多半根据选手解说推断。
 
 mistakes:
   - 对 Battle Cage 卡组时过早打掉 Risky Ruins，关键回合没有场地可换。
@@ -136,6 +149,7 @@ mistakes:
   - Phantom Dive 的 6 个指示物没有对准下回合能击倒的目标，平均撒开。
   - 主动铺出 Fezandipiti ex / Meowth ex 却没用到特性，白给 2 奖靶子。
   - 对 Crustle、Dhelmise 仍然只用 Dragapult ex 正面打。
+  - 以为手里有 Night Stretcher 就先进化、硬上攻击，结果没有（Brisbane 第 10 轮第 2 局）。
 
 inferred:
   - 第 3 回合起攻的节奏是按进化规则和卡表推的，不是从对局记录统计的。

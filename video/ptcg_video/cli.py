@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 
 from . import captions as cap
-from .events import analyze_captions
+from .events import analyze_captions, parse_games, split_at
 from .fetch import chapter_range, fetch_metadata, fetch_youtube, from_local, is_youtube
 from .cardpool import find_data_dir, load_pool, parse_date, season_for
 from .frames import mark_keyframes, parse_regions, sample_frames
@@ -44,9 +44,10 @@ def cmd_analyze(args) -> int:
 
         work = out_root / video_id_from(args.target)
         _log("downloading captions" + ("" if args.captions_only else " and video") + " ...")
-        src = fetch_youtube(args.target, work / "source", start, end, args.max_height, not args.captions_only)
-        # The downloaded clip already starts at `start`; frame times get the offset.
-        clip_start, clip_end = None, None
+        # The whole video, then cut locally: yt-dlp's range download goes through
+        # ffmpeg at a fraction of the normal speed (0.3 MB/s vs ~17 MB/s seen).
+        src = fetch_youtube(args.target, work / "source", None, None, args.max_height, not args.captions_only)
+        clip_start, clip_end = start, end
     else:
         video = None if args.captions_only else args.target
         captions_file = args.captions or _sibling_captions(Path(args.target))
@@ -63,6 +64,10 @@ def cmd_analyze(args) -> int:
     matcher = _card_matcher(args, meta)
     uploaded = _upload_date(meta)
     captions = analyze_captions(segments, matcher, year=uploaded.year if uploaded else None)
+    if args.games:
+        captions.games = args.games
+    elif meta.get("chapters"):
+        captions.games = split_at(captions.games, [float(c["start_time"]) for c in meta["chapters"]])
 
     frames = []
     if src.video_path:
@@ -158,6 +163,13 @@ def _regions(spec: str) -> str:
     return spec
 
 
+def _games(spec: str):
+    try:
+        return parse_games(spec)
+    except ValueError as e:
+        raise argparse.ArgumentTypeError(str(e))
+
+
 def _positive_int(value: str) -> int:
     n = int(value)
     if n < 1:
@@ -179,6 +191,9 @@ def build_parser() -> argparse.ArgumentParser:
     a.add_argument("--start", help="start time, e.g. 1:02:30")
     a.add_argument("--end", help="end time")
     a.add_argument("--chapter", help="YouTube chapter number or title substring")
+    a.add_argument("--games", type=_games,
+                   help="game boundaries when the commentary can't tell, e.g. '43:40-53:20,53:40-1:04:20' "
+                        "(default: from caster calls, split at chapter starts)")
     a.add_argument("--cards", help="card name list (.txt/.json/.csv), 'auto' (default: the legal pool for the "
                    "video's season from the repo's data/), or 'none'; also PTCG_CARD_NAMES")
     a.add_argument("--data-dir", help="the repo's data/ directory, if not found automatically")
@@ -186,6 +201,7 @@ def build_parser() -> argparse.ArgumentParser:
     a.add_argument("--live", action="store_true", help="TCG Live video: use Live's rotation dates")
     a.add_argument("--hash-regions", default="full", type=_regions,
                    help="where to look for board changes: 'full', 'sides' (Play! Pokémon broadcast overlay), "
+                        "'regional' (regional stream: top scorebar and left card callout), "
                         "or 'x,y,w,h;...' fractions of the frame")
     a.add_argument("--every", type=float, default=5.0, help="seconds between sampled frames (default 5)")
     a.add_argument("--change-threshold", type=float,
