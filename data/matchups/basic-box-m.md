@@ -8,17 +8,17 @@
 
 | 对手 | 胜率（局数） | 一句话要点 |
 |---|---|---|
-| Dragapult ex | 52.7%（732） | 后备区放 Lillie's Clefairy ex 后，Latias ex 打 Dragapult ex 是 400；Clefairy 只在要用的回合才放下。 |
+| Dragapult ex | 52.7%（732） | 后备区放 Lillie's Clefairy ex 后，Latias ex 打 Dragapult ex 是 400；Clefairy 只在要用的回合才放下（挂 Hero's Cape 时例外）；Fezandipiti ex 的 Cruel Arrow 逐只收 Dreepy / Drakloak。 |
 | N's Zoroark | 48.9%（341） | Zoroark ex 弱草，Iron Leaves ex 180×2 一击；Latias ex 弱恶别站前面；Kangaskhan 吃得住单发 250。 |
-| Dragapult Dusknoir | 52.9%（263） | Dusknoir 130 + Phantom Dive 60 正好收掉后备区 190 HP 的 Clefairy；后备区 ex 越少越好。 |
-| Alakazam Dudunsparce | 42.1%（259） | 对手全单奖、伤害看手牌数：用 Iron Crown ex 狙 Abra，用 Enamorus 打单奖，用 Unfair Stamp / Special Red Card 削手牌。 |
+| Dragapult Dusknoir | 52.9%（263） | Dusknoir 130 + Phantom Dive 60 正好收掉后备区 190 HP 的 Clefairy；后备区 ex 越少越好；Cruel Arrow 逐只收 Duskull 线和 Dreepy 线。 |
+| Alakazam Dudunsparce | 42.1%（259） | 对手全单奖、伤害看手牌数：用 Iron Crown ex 狙 Abra，用 Enamorus 打单奖，用 Unfair Stamp / Special Red Card 削手牌（Stamp 要和击倒在同一回合）。 |
 | Slowking | 51.3%（254） | 先 Boss 对手的 Mega Kangaskhan ex 拿 3 张；自己的 Kangaskhan 别站前面吃 Metallic Hammer 300 或 Destined Fight。 |
 | Dragapult Blaziken | 52.6%（222） | 和打 Dragapult 一样用 Fairy Zone；Blaziken ex 弱水但我们的水攻击手打不满 320，Torchic 线在后备区先狙掉。 |
 | Mega Excadrill ex | 54.0%（190） | 两只 Mega 各给 3 张：Raging Bolt ex 弃 5 能量 350 一击 Excadrill；先狙 Metang 断能量。 |
 | Crustle | 42.6%（147） | ex 的招式伤害打不进 Crustle；主线是 Boss 对手的两只 Mega Kangaskhan ex 直接拿 6 张。 |
 | Festival Lead | 48.7%（130） | 用 Chien-Pao 的 Snow Sink 拆 Festival Grounds，Dipplin 就只能打一次；多用单奖攻击手。 |
 | Dhelmise | 62.9%（114） | Fezandipiti ex 打战斗场 Dhelmise 是 200；Meowth ex 170 HP 正好被 Vengeful Anchor 一击，不要留在后备区。 |
-| Ogerpon Meganium Hydrapple | 33.3%（110） | 最差对局之一：先 Boss 掉 Meganium，Snow Sink 拆 Forest of Vitality，Raging Bolt ex 弃 5 打 Hydrapple。 |
+| Ogerpon Meganium Hydrapple | 33.3%（110） | 最差对局之一：先 Boss 掉 Meganium，Snow Sink 拆 Forest of Vitality，Raging Bolt ex 弃 5 打 Hydrapple；吃对手的单奖诱饵前先放好 Fezandipiti ex 或 Kangaskhan，防 Unfair Stamp。 |
 | Alakazam Dusknoir | 27.6%（41） | 样本小但很差：后备区只放必要的 ex，Fezandipiti ex 打弱恶的 Alakazam / Dusknoir。 |
 
 ## 本卡组几个通用要点
@@ -45,9 +45,11 @@
 - 倾向后攻（推断）：后攻时我们第 1 回合就能用支援者和攻击，而且这一回合不会被锁物品（对手先攻第 1 回合不能攻击）。Budew 的 Itchy Pollen 无论先后攻都可能锁住我们第 2 回合的物品；区别是我们选先攻时，第 1 回合既不能攻击也不能用支援者，第 2 回合又可能被锁，前两回合都很弱。录像（Frankfurt 2026 第 1 天第 7 轮，Christen 2-0 Kamerman）：第 2 局 Kamerman 先攻，Christen 后攻第 1 回合用 Crispin 和 Energy Switch 凑齐 3 个能量，Mega Kangaskhan ex 第 1 回合就攻击（[5:54:30](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21270s)），之后一直用 Boss's Orders 点掉对手唯一的 Drakloak（[5:59:45](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21585s)）。
 - 战斗场：Latias ex（开 Skyliner，之后谁都能免费撤退）。后备区：Teal Mask Ogerpon ex（太晶，在后备区不受招式伤害），再放 Area Zero Underdepths。
 - Lillie's Clefairy ex 第 1 回合不要放（推断）：它只在我们攻击 Dragapult ex 的那一回合需要在场，早放就是对手 Boss + 200 的 2 奖靶子。
+- 例外是带 Hero's Cape（ACE SPEC，+100 HP）：Clefairy 挂上后是 290，Phantom Dive 200 打不倒，第 1 回合就放下当主攻手。录像：Baltimore 2026 四强第 2 局，Kasturi 第 1 回合就给 Clefairy 挂上 Cape，[7:05:37](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=25537s) Full Moon Rondo 击倒 Dragapult ex，Potti 打不倒 290 的 Clefairy，投降；同一天八强 White 带的是 Prime Catcher，Clefairy 两局都被一击。数据的方向相反，见"关键卡与构筑"。
 
 **奖赏卡路线**
 - 第 1-2 回合（对手还没 Dragapult ex）：Latias ex 或 Kangaskhan 击倒战斗场的 Dreepy（70）/ Drakloak（90），拿 1 张；如果对手后备区有 Meowth ex（170）或 Fezandipiti ex（210），用 Boss's Orders 拉出来用 Latias 200 / Kangaskhan 200 起击倒拿 2 张。
+- Fezandipiti ex 的 Cruel Arrow（3 个无色，对手任意一只 100）不用 Boss 就能收后备区的 Dreepy（70）和 Drakloak（90），每回合 1 张；进化线断了，Dragapult ex 就上不来（后备区的 Dragapult ex 是太晶，打不到）。录像：Baltimore 2026 四强 Kasturi 第 1 局连续击倒两只 Drakloak（[6:34:10](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=23650s)），三局一共用它拿了 4 张。
 - Wellspring Mask Ogerpon ex 的 Torrential Pump（Water + 2 无色）100，把身上 3 个能量洗回牌库可再对后备区 120：一次击倒后备区的 Drakloak（90）或 Munkidori（110）。Drakloak 少一只，对手的 Recon Directive 检索就少一次。录像（同一场第 1 局）：Christen 用它击倒后备区的 Drakloak（[5:43:05](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20585s)），对手 Dragapult ex 上场后放下 Lillie's Clefairy ex，Full Moon Rondo 一击（[5:47:20](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20840s)）。
 - 对手 Dragapult ex 上场那回合：放下 Lillie's Clefairy ex，Latias ex Eon Blade 400 击倒，拿 2 张。
 - 下一回合：Latias 不能连续攻击。用第二只 Latias，或 Clefairy 自己的 Full Moon Rondo（后备区合计 7 只以上即可一击），或 Iron Leaves ex 放下时用 Rapid Vernier 把 Latias 身上的能量挪过来（Iron Leaves 180 不够打 Dragapult，只用来打 1 奖小怪或 210 HP 以下的 ex）。
@@ -55,10 +57,11 @@
 - 被对手追平时留着 Unfair Stamp：录像（同一场第 1 局）：Kamerman 在 Christen 剩 2 张时打出 Special Red Card，再击倒他的宝可梦打到 2 对 2。Christen 随即用 Unfair Stamp 重抽 5 张（对手只剩 2 张手牌），Fezandipiti ex 再抽 3，第二次 Full Moon Rondo 拿下（[5:50:00](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=21000s)）。
 
 **对手的套路，怎么防**
-- Boss's Orders 拉 Lillie's Clefairy ex（190）用 200 击倒，同时让我们失去 Fairy Zone：带 2 张 Clefairy，第二张留在手上或牌库里（Cyrano、Ultra Ball 可找）；一回合场上只放一只。
-- Phantom Dive 的 6 个指示物 + Munkidori 每回合 3 个，专门磨后备区：放置伤害指示物不是"伤害"，太晶 Ogerpon 在后备区的保护挡的是"伤害"，所以挡不住指示物（推断，按规则）。后备区只摆真正要用的 ex，用完的 Meowth ex 可以让它待在战斗场后用 Tuck Tail（3 无色，60）收回手上。
+- Boss's Orders 拉 Lillie's Clefairy ex（190）用 200 击倒，同时让我们失去 Fairy Zone：带 2 张 Clefairy，第二张留在手上或牌库里（Cyrano、Ultra Ball 可找）；一回合场上只放一只。挂 Hero's Cape 的 Clefairy（290）不怕这一下，对手的办法是 Crushing Hammer 拆掉它的 Psychic 能量，或者用 Fezandipiti ex 的 Cruel Arrow 和 Munkidori 先把它磨进 200 的范围。录像：Baltimore 2026 八强 Halliburton 把 290 的 Clefairy 磨到 130，Kasturi 靠后备区的第二只 Clefairy 收尾。
+- Phantom Dive 的 6 个指示物 + Munkidori 每回合 3 个，专门磨后备区：放置伤害指示物不是"伤害"，太晶 Ogerpon 在后备区的保护挡的是"伤害"，所以挡不住指示物（推断，按规则）。后备区只摆真正要用的 ex，用完的 Meowth ex 可以让它待在战斗场后用 Tuck Tail（3 无色，60）收回手上。Chien-Pao 的 Snow Sink 弃掉 Area Zero Underdepths 时，后备区要弃到 5 只，可以趁机弃掉身上有指示物的宝可梦，不让对手收（推断；Baltimore 八强 White 想这样做，没找到 Chien-Pao）。
 - Risky Ruins（90%，2 张）：我方把非恶属性的基础宝可梦放到后备区时放 2 个指示物，几乎我们每只宝可梦都中。打出自己的 Area Zero 就能把它换掉；Chien-Pao 放下时的 Snow Sink 也能弃掉场地。
-- Crushing Hammer ×4（96% 卡表）：抛硬币弃我们一个能量。不要把能量全堆在一只身上，Teal Dance 和 Energy Switch 让能量分散后再集中（推断）。
+- Crushing Hammer ×4（96% 卡表）：抛硬币弃我们一个能量。不要把能量全堆在一只身上，Teal Dance 和 Energy Switch 让能量分散后再集中（推断）。录像里这是对手翻盘的关键：Baltimore 2026 四强三局，Potti 每次翻盘都是 Hammer 拆掉 Clefairy 唯一的 Psychic 能量；第 1 局 Kasturi 剩下的 Psychic 能量都在奖赏卡里，投降。Psychic 能量只有 3 张，压进奖赏卡 2 张就打不出 Full Moon Rondo 和 Eon Blade，八强的 White 第 2 局也卡在这里。
+- 领先时别为了凑击倒去赌 Rapid-Fire Combo 的正面：抛出反面只打 200，留在对手宝可梦身上的伤害会被它的 Munkidori 挪到我方（推断；Baltimore 八强 Kasturi 领先时就不这样打）。
 - Budew 锁物品：被锁的那回合靠支援者（Crispin、Cyrano）和特性（Teal Dance）推进。
 - Team Rocket's Watchtower（四场比赛 19% 的 Dragapult 卡表带）：关掉 Kangaskhan 的 Run Errand 和 Meowth ex 的 Last-Ditch Catch。打出自己的 Area Zero Underdepths 换掉它（录像：同一场第 1 局 Christen 就是这样做的）。
 - 对手 Moltres（46%，Fighting Wings 对战斗场 ex 110）、Unfair Stamp 在我们击倒对手宝可梦后会用来翻盘：Kangaskhan 300 HP，200 + Munkidori 30 + Moltres 不同回合累计才能击倒，Kangaskhan 吃对手两下，适合在对手只剩两三张奖赏卡时作为最后的坦克（推断）。
@@ -66,6 +69,7 @@
 **关键卡与构筑**
 - 我方关键卡（本对局公开卡表 313 局，带的卡表胜率 67.1%）：Water Energy 带 70.8%（263 局）对不带 47.3%（50 局）；Crispin 带 70.3%（267）对不带 48.6%（46）；Fighting Energy 带 70.4%（262）对 50.3%（51）。不带 Water / Crispin 的那组卡表同时带 N's Plan（48.6%，48 局 vs 70.4%）、Bug Catching Set（48.5%，44 局）、Pecharunt（50.3%，53 局）、Prism Energy（53.8%，57 局）、Paldean Tauros（53.2%，42 局），都更差。结论：打 Dragapult 用标准的 Crispin + 多色基本能量版本，Water Energy 让 Wellspring Ogerpon 能狙 Drakloak / Munkidori（推断其原因）。
 - Jamming Tower：带 76.5%（68 局）对不带 64.5%（245 局）。对手核心卡表里没有关键道具，它的作用更可能是作为第二种场地换掉 Risky Ruins（推断其原因）。
+- Hero's Cape 和 Prime Catcher 抢同一个 ACE SPEC 位置。Baltimore 2026 八强、四强的录像里 Cape 挂在 Clefairy 上效果很好（见"开局"），解说认为 Clefairy + Cape 会成为对 Dragapult 的主流打法；但四场比赛的数据方向相反：带 Cape 的卡表 63.6%（44 局）对不带 67.7%（269 局），带 Prime Catcher 71.0%（122 局）对不带 64.6%（191 局）。带 Cape 的样本小，先当作一种可选打法（推断）。
 - 对手方：带 Dudunsparce ex 的 Dragapult 卡表胜率 69.6%（45 局）对不带 48.4%（235 局）；Moltres 带 55.1%（132）对 48.9%（148），差距小。
 - Judge 在我方卡表里是负的（56.9%，51 局 vs 69.1%）。
 
@@ -134,11 +138,15 @@
 - Dragapult ex 上场回合：放 Clefairy，Latias 400 拿 2 张。
 - 之后：Boss 拉对手的 Meowth ex / Fezandipiti ex 拿 2 张，第二只 Dragapult ex 用 Clefairy 的 Full Moon Rondo 或第二只 Latias。对手自爆送的 1 张可能让我们提前凑够。
 - 对手剩 3 张以下时用 Special Red Card；Unfair Stamp（44%）在我方宝可梦被击倒后的回合用，让对手只剩 2 张手牌。
+- Fezandipiti ex 的 Cruel Arrow 收进化线：Duskull（60）、Dusclops（90）、Dreepy、Drakloak 都是 100 以内。录像（NAIC 2026 决赛，Kowalski 的 Clefairy 版 2-1 Kosek；NAIC 在世界赛之前，但用到的关键卡现在都还合法）：第 2 局 Kowalski 手里有 Clefairy 也先放 Fezandipiti ex 贴能量，Cruel Arrow 依次收掉 Dusclops 和 Duskull，对手这局没出过 Dusknoir；第 3 局每回合收一只 Dreepy / Drakloak，对手一张奖赏卡都没拿到。他带 2 张 Fezandipiti ex 加 4 张 Dusk Ball 来稳定找到它。
+- Boss's Orders 把对手的 Fezandipiti ex 拉到战斗场，逼它花能量撤退（同一场第 2 局）。
 
 **对手的套路，怎么防**
 - "一回合 4 张"：战斗场 200 + Dusknoir 收后备区 2 奖 ex。对策：Clefairy 只在要靠它的 Fairy Zone 攻击的那回合放下（或直接让它自己上战斗场打 Full Moon Rondo），不要提前一回合摆在后备区；后备区不留 190 HP 以下的 ex（推断）。
 - Team Rocket's Watchtower（49%）关掉 Kangaskhan 和 Meowth ex 的特性；Jamming Tower（76%）关道具。这两张场地都会替换我们的 Area Zero，后备区回到 5 只。
 - Crushing Hammer（29%，4 张）、Munkidori（50%）：同 Dragapult ex 一节。
+- Unfair Stamp 加 Team Rocket's Watchtower：Watchtower 关掉 Kangaskhan 的 Run Errand 和 Meowth ex 的特性，再被 Stamp 到 2 张，不带抽牌支援者的版本就断手牌。录像：NAIC 2026 决赛第 1 局 Kosek 很早就这样打，Kowalski 输了这一局。对策：预计要被 Stamp 时，先用 Area Zero Underdepths 的 8 格把手上的宝可梦放下（同一场第 2 局）。
+- Clefairy 被击倒送 2 张：Lillie's Pearl 挂在 Lillie's 宝可梦身上，它被招式击倒时对手少拿 1 张。Kowalski 带了 2 张；第 1 局没找到，Clefairy 被 Phantom Dive 击倒送了 2 张。
 - 对手卡表里有 Patrat（45%，Watchful Eye：双方都不能移动伤害指示物），对我们没有直接影响。
 
 **关键卡与构筑**
@@ -173,9 +181,13 @@
 
 **对手的套路，怎么防**
 - 手牌数就是伤害：Unfair Stamp（我方宝可梦在上回合被击倒时才能用）让对手洗回手牌只抽 2；Special Red Card（对手剩 3 张以下时）让对手手牌放到牌库底再抽 3。这两张都直接把下一发 Powerful Hand 砍到 4-6 张的量级（推断）。
+- Stamp 要和击倒在同一回合：先确认撤退手段（Latias ex）和攻击手都已就位再打。录像（2026 世界赛青少年组决赛，Ng 的 Alakazam 2-1 Huh 的 Basic Box）：第 2 局 Huh 用 Ciphermaniac's 叠出 Stamp 打了，但没有 Latias 可撤退、找不到 Area Zero，Kangaskhan 卡在战斗场没有攻击，Ng 从 2 张手牌抽回来，三只 Alakazam 上场。第 1 局 Huh 先用 Cyrano 和 Fezandipiti ex 抽牌再打 Stamp，同一回合 Kangaskhan 击倒，这才是对的顺序。
+- 对手手牌被 Stamp 打小之后，Boss's Orders 拉 Kadabra（抽牌引擎）比打 Alakazam 更有效（同一场第 1 局，Huh 这样赢下）。
 - 用单奖攻击手换对手的单奖：Enamorus（120 HP，1 奖）和 Chien-Pao（120 HP，1 奖，Icicle Loop 120 击倒 Kadabra / Abra / Dunsparce，打不倒 140 的 Alakazam）。我方 2 奖 ex 不要无意义地站在战斗场（推断）。
 - 场地：对手的 Battle Cage（75%，3 张）只挡"放在后备区的指示物"，挡不住我们打后备区的招式伤害；Nighttime Mine（52%，3 张）让太晶宝可梦的招式多 1 个无色（两种 Ogerpon 受影响）。两张都会替换我们的 Area Zero，后备区回到 5 只。Chien-Pao 的 Snow Sink 可以弃掉它们。
 - Genesect（SFA 40，95%）带道具时我们不能打出 ACE SPEC（Prime Catcher、Unfair Stamp）。Genesect 110 HP，Chien-Pao 120 或 Wellspring 后备区 120 一击（推断优先度）。
+- 对手带 Rabsca 时，后备区受它保护（Spherical Shield 挡住招式对后备区的伤害和效果），Wellspring 后备区 120 打 Kadabra 这条路线不成立；对手的 Forest of Vitality 让 Rabsca 放下当回合就能进化（同一场，Ng 两样都带）。
+- 我方唯一的太晶宝可梦被击倒，Area Zero Underdepths 立刻失效，后备区要弃到 5 只。后备区至少留两只太晶 Ogerpon，或者先放 Meowth ex（同一场第 3 局，Ng 击倒 Huh 唯一的 Teal Mask 后，Huh 放下 Clefairy 就连 Meowth 都放不下了）。
 - Eri（95%）看我们手牌并弃 2 张物品：Energy Switch、Ultra Ball 能当回合用就当回合用，不要囤在手里（推断）。
 - Enhanced Hammer（46%）只能弃特殊能量，我们的核心卡表全是基本能量，它是死卡。
 
@@ -186,6 +198,7 @@
 - Crispin / Water Energy 带 52.3%（72）对不带 57.8%（15），差距小。
 - 对手方：Special Red Card 带 84.8%（35）对 62.9%（44）；Night Stretcher 76.5%（61）对 59.3%（18）；Psyduck 带 55.6%（18）对 77.6%（61）；Lana's Aid 65.2%（47）对 83.3%（32）；Dedenne 63.1%（37）对 81.0%（42）；Enhanced Hammer 62.9%（35）对 80.3%（44，符合"打不到我们"）。
 - 构筑建议：这个对局常见就把 Iron Crown ex 和 Enamorus 作为固定位（推断）。
+- 先攻 Kangaskhan 加 Unfair Stamp 是一条可行路线：录像（同一场第 1 局）Huh 先攻，Rapid-Fire Combo 连拿两张单奖，Alakazam 要 15 张手牌才打得倒 300 的 Kangaskhan；Ng 好不容易抽到 15 张击倒它，Huh 马上 Stamp 加第二只 Kangaskhan。青少年组、世界赛的卡池，只是一场。
 
 **常见失误**
 - 在对手手牌 10 张以上时让 2 奖 ex 站在战斗场，白送 2 张。
@@ -415,6 +428,8 @@
 - 对手 Myriad Leaf Shower 按"双方战斗场的能量"加伤害：我们战斗场的能量越多，对手打我们越痛。
 - 我们没有火属性，需要 330 才能一击 Hydrapple，只有 Raging Bolt ex 弃 5（350）做得到。Teal Mask Ogerpon ex 210：Raging Bolt 弃 3（210）一击；Latias 200、Iron Leaves 180 都差一点。
 - 对手也有太晶宝可梦，Area Zero 让对手也能放 8 只。
+- 我方的 Teal Mask Ogerpon ex 也能吃对手的能量：Myriad Leaf Shower 算的是双方战斗场的能量，对手战斗场堆着 8 个能量时，我们只要凑够 3 个草就能反杀。录像：Baltimore 2026 决赛第 2 局约 0:31:50，Kasturi 用 Teal Dance 加 Crispin 凑满 3 个能量，靠对手 Ogerpon 身上的 8 个能量击倒它，扳成 1-1（https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=1910s）。
+- Enamorus 的 Love Resonance 在双方场上有同属性宝可梦时 200：对手全是草属性，我方 Teal Mask 在场就满足条件，专收对手的单奖诱饵（同一场第 1、3 局）。
 
 **开局与先后攻**
 - 倾向后攻（推断）：对手要靠 Forest of Vitality 第 2 回合一口气进化，Chikorita（70）、Applin（40）早期在场。后攻第 1 回合可以先击倒战斗场的进化前。
@@ -426,16 +441,19 @@
 - Bayleef（110）/ Chikorita / Applin / Dipplin（90）：Wellspring 后备区 120 一击（1），或 Iron Crown 50 + 50 打两只 Applin / Chikorita 垫血。
 - Ogerpon ex：Raging Bolt 弃 3 一击（2）；Hydrapple ex：Raging Bolt 弃 5 一击（2）。不要分两回合打 Hydrapple，它每回合回 30（推断）。
 - 示例：Meganium（1）→ Bayleef 或 Celebi（1）→ Ogerpon ex（2）→ Hydrapple ex（2）。
+- Raging Bolt ex 弃 5 一击 Hydrapple 的录像：Baltimore 2026 决赛第 2 局 Kasturi 弃掉全场能量一击 Hydrapple ex（[0:27:31](https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=1651s)），对手两张 Night Stretcher 都已用掉，这局再也做不出 Hydrapple。最后一张也是 Boss's Orders 拉 Meganium。
+- Lillie's Clefairy ex 挂 Hero's Cape（290）当前期攻击手，连续拿对手的单奖进化前（同一场第 2 局 Applin、Chikorita，[0:19:06](https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=1146s)）。对手控制后备区数量时，Full Moon Rondo 要靠 Area Zero 才打得够。
 
 **对手的套路，怎么防**
 - Raging Bolt 的 Bellowing Thunder 可以从"我方任何宝可梦"弃能量，所以 Raging Bolt 自己身上只放 Lightning + Fighting 两个，其他能量放在后备区，战斗场能量少，对手的 Myriad Leaf Shower 吃不到我们的能量加成（推断）。
 - 对手的 Briar 只能在我们剩余奖赏卡正好 2 张时用：当回合对手的太晶宝可梦击倒我方战斗场宝可梦时多拿 1 张。我们剩 2 张时，战斗场尽量放 1 奖宝可梦（推断）。
-- Kangaskhan 200 起 + 正面在对手 Hydrapple 回血下很难两下打穿，而它本身给 3 张（推断）。
+- Kangaskhan 200 起 + 正面在对手 Hydrapple 回血下很难两下打穿，而它本身给 3 张（推断）。例外是挂 Hero's Cape：400 HP 挡得住 Teal Mask 的 300。录像：Baltimore 2026 决赛第 3 局 Kasturi 的 Cape Kangaskhan 连续 3 次正面打出 350，击倒 Hydrapple ex，对手 Teal Mask 的 300 打不倒它（[0:56:28](https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=3388s)）。
+- 对手的 Unfair Stamp 陷阱：先把 Tapu Bulu 或 Celebi 这类单奖放到战斗场当诱饵，我们击倒后马上 Stamp，我们手牌只剩 2 张。决赛三局里打了两次：第 1 局 Kasturi 被 Stamp 后场上没有 Fezandipiti ex 也没有 Kangaskhan，抽不回来，投降；第 2 局场上有这两只，就抽出来了。吃诱饵之前先把 Fezandipiti ex 或 Kangaskhan 放好（推断）。我们的核心卡表没有抽牌支援者，被 Stamp 时只能靠这两只。
 
 **关键卡与构筑**
 - 本对局我方公开卡表只有 38 局，所有关键卡"不带"一侧都在 15 局以下，不引用。
 - 对手：带 Dawn 76.9%（26 局）对不带 88.9%（15 局）。
-- 构筑建议（推断）：这局要第二张拆场地的手段，Chien-Pao 只有 1 张；Night Stretcher 可回收。
+- 构筑建议（推断）：这局要第二张拆场地的手段，Chien-Pao 只有 1 张；Night Stretcher 可回收。Baltimore 决赛三局里 Chien-Pao 的 Snow Sink 一次都没用上（两局在奖赏卡里），Area Zero 也难找，和这条建议一致。
 
 **常见失误**
 - 用两回合打 Hydrapple ex，中间被回 30。

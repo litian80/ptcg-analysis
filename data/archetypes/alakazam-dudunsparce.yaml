@@ -127,6 +127,24 @@ evidence:
       - 另一个版本：带 Toucannon（PBL 68）、4 张 Boss's Orders、4 张 Battle Cage，没有 Genesect，所以对手的 Unfair Stamp 能用（公开卡表里没有这个版本）
       - 第 1 局对手后攻第 1 回合用 Budew 锁物品，Alakazam 第 2 回合上了场却没有能量，白过一回合（https://www.youtube.com/watch?v=KfJk7KymeYI&t=2680s）
     caveat: 区域赛直播是俯拍桌面，没有侧边数据面板；卡组构成来自选手的口述复盘。
+  - source: video-reviews/worlds2026-finals.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 决赛第 2 局，Cassiraga（Alakazam）牌库耗尽，输给 Hedrick（Dragapult ex），Hedrick 2-0 夺冠
+    window: TEF-PBL
+    confirms:
+      - Genesect 要挂上道具才封得住 Unfair Stamp：Cassiraga 一直没找到道具，几回合不敢进攻
+    adds:
+      - 牌库耗尽：Run Away Draw 和大手牌把牌库抽薄，牌库只剩 4 张时把 Lucky Helmet 挂在战斗场，对手用小招式反复打它，每次抽 2，最后牌库耗尽（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=3090s）。手牌大时要数自己的牌库
+    caveat: 一局；对手开局奖赏卡很差（两只 Budew、Risky Ruins、唯一的 Dunsparce 都在奖赏卡里），整局一张奖赏卡没拿。
+  - source: video-reviews/worlds2026-finals.md（项目共享文件夹）
+    game: 2026 世界赛青少年组决赛，Ng（Alakazam，带 Rabsca 和 Forest of Vitality，ACE SPEC 是 Enriching Energy）2-1 Huh（Basic Box）
+    window: TEF-PBL
+    confirms:
+      - 对手的 Unfair Stamp 把手牌打到 2 张，Powerful Hand 就打不出来（第 1 局）
+    adds:
+      - Rabsca 挡住对手打后备区的招式（Spherical Shield），Forest of Vitality 让它放下当回合就进化
+      - 预计被 Stamp 前先把 Fezandipiti ex 和 Dunsparce 放到场上，被打到 2 张后靠它们抽回 11 张以上（第 3 局）
+      - 击倒对手唯一的太晶宝可梦，对手的 Area Zero Underdepths 就失效，后备区要弃到 5 只（第 3 局 Ng 击倒 Huh 唯一的 Teal Mask）
+    caveat: 青少年组；我们的数据只有大师组卡表，双方卡组来自解说和画面。
 
 mistakes:
   - 只带一张 Battle Cage 或过早打出，被 Risky Ruins 换掉后没有第二张。

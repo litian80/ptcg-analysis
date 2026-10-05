@@ -110,6 +110,29 @@ matchups:
     win_rate: 0.616
     plan: Zoroark ex 弱草。
 
+evidence:
+  - source: video-reviews/baltimore-2026-top-cut.md（项目共享文件夹）
+    game: Baltimore 区域赛（2026-09-19）决赛，Dobberstein（本卡组）1-2 Kasturi（Basic Box）
+    window: TEF-PBL
+    confirms:
+      - Forest of Vitality 让 Hydrapple ex 第 2 回合直接上场
+      - 对手 Raging Bolt ex 弃 5 个能量一击 Hydrapple ex（https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=1651s）
+    adds:
+      - 单奖诱饵加 Unfair Stamp：把 Tapu Bulu 或 Celebi 放到战斗场让对手击倒，下回合用 Ciphermaniac's 叠好的 Stamp 把对手手牌打到 2 张。Basic Box 没有抽牌支援者，场上没有 Fezandipiti ex 或 Kangaskhan 时抽不回来，第 1 局对手因此投降
+      - Hydrapple ex 的资源上限：只有 2 张 Night Stretcher，Lana's Aid 拿不回 ex。第 2 局两张都用掉后，再也做不出 Hydrapple ex
+      - 对手挂 Hero's Cape 的 Mega Kangaskhan ex（400）挡得住 Teal Mask 的 300，再用 Rapid-Fire Combo 三次正面 350 击倒 Hydrapple ex（https://www.youtube.com/watch?v=yCYfZA3AOxQ&t=3388s）
+      - 对手的 Teal Mask Ogerpon ex 也算我方战斗场的能量：Teal Mask 身上堆着 8 个能量时，对手只要 3 个能量就能反杀（第 2 局）
+    caveat: 一场；两局最后一击的面板没更新，按解说补上；第 3 局两处疑问操作的评价来自解说。
+  - source: video-reviews/baltimore-2026-top-cut.md（项目共享文件夹）
+    game: Baltimore 区域赛（2026-09-19）四强，Dobberstein（本卡组）2-0 Dreitzler（Slowking）
+    window: TEF-PBL
+    confirms:
+      - Forest of Vitality 让 Meganium 和 Hydrapple ex 在第 2 回合同时上场（https://www.youtube.com/watch?v=nLkFmtXdXGE&t=21300s）
+    adds:
+      - Hydrapple ex 在场时，没有 Meganium 也能靠 Ripening Charge 和 Teal Dance 一击（第 2 局）
+      - 对手 Slowking 复制 Metallic Hammer 300，加 Brave Bangle 30，一击满血 Hydrapple ex（https://www.youtube.com/watch?v=nLkFmtXdXGE&t=22446s）
+    caveat: 两局都是对手卡手（第 2 局对手两张 Poké Pad 在奖赏卡里），不代表胜率。
+
 mistakes:
   - 没打出 Forest of Vitality 就在第 2 回合试图上 2 阶。
   - Meganium 在后备区没有保护，被 Boss 击倒后伤害不足。
