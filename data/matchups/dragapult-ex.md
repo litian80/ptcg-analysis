@@ -584,7 +584,7 @@
 - Risky Ruins 先削对方新放下的基础宝可梦：Dreepy 70 HP 吃 20 后，Phantom Dive 的指示物更容易收掉。
 - 第 1 局 Khoo 的收尾顺序：Crushing Hammer 拆掉 Brent 的 Darkness，打出 Risky Ruins，Unfair Stamp，再上 Dragapult ex。
 - Meowth ex 尽量别在开局摆放时放下：那样用不了 Last-Ditch Catch，只剩一个 2 奖靶子。世界赛四强第 1 局 Tonisson 开局就放下了 Meowth ex；两局最后的 2 张都是 Hedrick 用 Boss's Orders 拉出他的 Meowth ex 拿的。
-- 开局摆放时放下的基础宝可梦不吃 Risky Ruins（Ruins 只管自己回合从手上放下的）。对手带 Ruins 时，Dreepy 能在开局放下就开局放下（推断）。
+- 开局摆放时放下的基础宝可梦不吃 Risky Ruins（开局时还没有场地卡）；之后不管是从手上放，还是用 Buddy-Buddy Poffin 从牌库放，都会吃 20。对手带 Ruins 时，Dreepy 能在开局放下就开局放下（推断）。
 
 **拿奖与收尾**
 - 诱对手多放伤害：第 2 局 Brent 把 Munkidori 和 Darkness 扣在手里，只贴 Fire，让 Khoo 以为 Budew 之争已赢、多投入伤害，然后反手击倒（[1:29:30](https://www.youtube.com/watch?v=KfJk7KymeYI&t=5370s) 到 1:33）。
