@@ -198,7 +198,7 @@
 - Crispin / Water Energy 带 52.3%（72）对不带 57.8%（15），差距小。
 - 对手方：Special Red Card 带 84.8%（35）对 62.9%（44）；Night Stretcher 76.5%（61）对 59.3%（18）；Psyduck 带 55.6%（18）对 77.6%（61）；Lana's Aid 65.2%（47）对 83.3%（32）；Dedenne 63.1%（37）对 81.0%（42）；Enhanced Hammer 62.9%（35）对 80.3%（44，符合"打不到我们"）。
 - 构筑建议：这个对局常见就把 Iron Crown ex 和 Enamorus 作为固定位（推断）。
-- 先攻 Kangaskhan 加 Unfair Stamp 是一条可行路线：录像（同一场第 1 局）Huh 先攻，Rapid-Fire Combo 连拿两张单奖，Alakazam 要 15 张手牌才打得倒 300 的 Kangaskhan；Ng 好不容易抽到 15 张击倒它，Huh 马上 Stamp 加第二只 Kangaskhan。青少年组、世界赛的卡池，只是一场。
+- 先攻 Kangaskhan 加 Unfair Stamp 是一条可行路线：录像（2026 世界赛青少年组决赛第 1 局）Huh 先攻，Rapid-Fire Combo 连拿两张单奖，Alakazam 要 15 张手牌才打得倒 300 的 Kangaskhan；Ng 好不容易抽到 15 张击倒它，Huh 马上 Stamp 加第二只 Kangaskhan。青少年组、世界赛的卡池，只是一场。
 
 **常见失误**
 - 在对手手牌 10 张以上时让 2 奖 ex 站在战斗场，白送 2 张。

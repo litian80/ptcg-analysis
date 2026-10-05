@@ -208,7 +208,7 @@
 - 后备区 Dreepy ×3、Munkidori。后攻时 Budew 锁物品能挡对手第 2 回合的 Rare Candy、Buddy-Buddy Poffin、Poké Pad（推断，Rare Candy 是对手第 2 回合上 Alakazam 的唯一途径）。
 - 先后攻：数据里没有先后攻记录。Brisbane 第 3 名 BrentyMon 认为这个对局后攻吃亏：对手先攻、先打出 6-4 的奖赏差后很难追（视频复盘里他的判断）。他第 2 局主动认输，换第 3 局的先攻。
 - 2 张 Risky Ruins 至少留 1 张到对手打出 Battle Cage 之后再用。对手第一张场地打下来前，不要用 Ultra Ball 把 Ruins 弃掉。
-- 开局奖赏卡很差时的备用打法：录像（同一局）Hedrick 的两只 Budew、Risky Ruins 和唯一的 Dunsparce 都在奖赏卡里，他用 Ultra Ball 弃掉 Drakloak 和 Dreepy，再用 Night Stretcher 拿回 Drakloak，后备区铺 4 只 Dreepy；需要一回合时把 Meowth ex 撤到战斗场送 2 张换时间。
+- 开局奖赏卡很差时的备用打法：录像（2026 世界赛决赛第 2 局）Hedrick 的两只 Budew、Risky Ruins 和唯一的 Dunsparce 都在奖赏卡里，他用 Ultra Ball 弃掉 Drakloak 和 Dreepy，再用 Night Stretcher 拿回 Drakloak，后备区铺 4 只 Dreepy；需要一回合时把 Meowth ex 撤到战斗场送 2 张换时间。
 - Nighttime Mine 在场时，要攻击的 Dragapult ex 需要 3 个能量：Crispin 一次给 1 贴 1 进手，Rosa's Encouragement 落后时一次贴 2。
 
 **奖赏卡路线**（推断，部分见于 2026 世界赛决赛第 1 局的复盘）
