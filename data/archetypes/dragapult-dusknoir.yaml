@@ -147,6 +147,26 @@ evidence:
       - 对手落后时用 Dusknoir 和 Dusclops 的 Cursed Blast 让双方同时拿完，突然死亡里赢下第 2 局；领先时要先算对手还能自爆几次（推断）
       - 起手卡手时顶抽到 Lillie's Determination，Unfair Stamp 在奖赏卡里，照样赢下第 3 局
     caveat: 一场三局；时间按解说，比赛从第 2 天直播 6:46 开始（https://www.youtube.com/watch?v=qwBID2ApsOY&t=24360s）。
+  - source: video-reviews/naic-2026.md（项目共享文件夹）
+    game: NAIC 2026（2026-06）四强，Kosek（本卡组，4 张 Crushing Hammer，Unfair Stamp，Special Red Card，Watchtower，Jamming Tower）2-1 Cawthon（Slowking）
+    window: TEF-CRI
+    confirms:
+      - 对 Slowking：Unfair Stamp 加 Boss's Orders 把撤退 3 的 Slowking 拉到战斗场困住，再换掉 Academy at Night（第 1 局）
+      - 对 Slowking：对手提前放下的 Lillie's Clefairy ex 用 Boss's Orders 拉出来击倒（第 3 局）
+    adds:
+      - 对 Slowking：对手只差 1 张、自己一张没拿时，连续两回合打战斗场的 Mega Kangaskhan ex，最后 Munkidori 挪 30 加 Phantom Dive 击倒它，指示物再收后备区两只残血宝可梦，一回合拿 6 张翻盘（第 1 局）
+      - 对 Slowking：第 2 局打得太急，对手用 Secret Box 和 Academy at Night 叠出 Trifrost，一次收 3 只
+    caveat: 第三方转播，字幕是机器翻译，局面按画面上的奖赏卡读出（https://www.youtube.com/watch?v=YMk7L7SwuCI）。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛四强，Newdorf（本卡组，3 张 Crushing Hammer，Unfair Stamp，2 张 Watchtower，没有 Judge 和 Special Red Card）0-2 Jones（Alakazam Dudunsparce，Psyduck，Genesect，4 张 Nighttime Mine）
+    window: TEF-POR
+    confirms:
+      - 对手 Psyduck 在场时 Cursed Blast 用不了（第 2 局）
+      - 对 Alakazam Dudunsparce：Watchtower 留到关键回合顶掉 Nighttime Mine，Phantom Dive 一次击倒 Alakazam 和后备区的 Abra（第 1 局）
+    adds:
+      - 对手每次先给 Genesect 挂道具再击倒，Unfair Stamp 一次都打不出来；没有 Judge 和 Special Red Card 就压不住对手手牌（第 2 局）
+      - Cursed Blast 连收三只 Abra，每次送 1 张，对手用 Lana's Aid 把 Abra 捡回来（第 1 局）
+    caveat: 一场两局；第 1 局三只 Dragapult ex 有两只在奖赏卡里（https://www.youtube.com/watch?v=bnVzhTKp3jg）。
 
 mistakes:
   - 在无关紧要的回合用 Cursed Blast，白送 1 张奖赏卡。

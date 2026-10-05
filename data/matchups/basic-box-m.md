@@ -228,7 +228,7 @@
 - 路线示例：第 2 回合击倒战斗场 Slowpoke / Slowking（1）；第 3 回合 Boss 对手 Kangaskhan 用 Raging Bolt 一击（3）；第 4 回合 Boss Latias ex / Meowth ex / Fezandipiti ex 一击（2）。
 
 **对手的套路，怎么防**
-- Metallic Hammer 300：我方战斗场上 300 HP 以内的宝可梦都会被一击，包括满血 Mega Kangaskhan ex（送 3 张）；只有挂 Hero's Cape（400）的 Kangaskhan 扛得住。对手回合留在战斗场的最好是 1 奖的 Chien-Pao / Enamorus（推断）。
+- Metallic Hammer 300：我方战斗场上 300 HP 以内的宝可梦都会被一击，包括满血 Mega Kangaskhan ex（送 3 张）；只有挂 Hero's Cape（400）的 Kangaskhan 扛得住。对手回合留在战斗场的最好是 1 奖的 Chien-Pao / Enamorus（推断）。录像：Turin 2026 四强 Clark（本卡组）0-2 Kamerman（[视频](https://www.youtube.com/watch?v=-2gCfGeqBm8)）：第 1 局 Hammer 先后一击战斗场的 Latias ex（[6:45](https://www.youtube.com/watch?v=-2gCfGeqBm8&t=405s)）和满血 Kangaskhan（[16:26](https://www.youtube.com/watch?v=-2gCfGeqBm8&t=986s)）；第 2 局 Clark 第 1 回合没贴上能量，战斗场的 Kangaskhan 撤不下来，Slowking 第 2 回合就把它打倒。Kamerman 两局 12 张奖赏卡里 6 张来自两只 Kangaskhan。Slowking 第 2 回合打 300 不需要支援者（第 1 回合贴 Telepathic Psychic Energy；第 2 回合进化、贴能量，Poké Pad 拿 Metagross，Academy at Night 放到牌库顶），所以在对手的第 2 回合之前，我们的战斗场就该换成 1 奖宝可梦，或者场上有 Latias ex，让 Kangaskhan 能零撤退换下（Skyliner：基础宝可梦撤退费为 0）（信心 70%，bbm-slk-01）。
 - Destined Fight：对手牌库顶被 Academy at Night 放了 Annihilape 时，我方战斗场是什么就会被击倒。战斗场放 1 奖的 Chien-Pao / Enamorus，或刚用完的低价值宝可梦；Kangaskhan 不要在对手回合留在战斗场（推断）。
 - Trifrost 打 3 只：后备区不要排 3 只 110 HP 以上但 220 以下的 ex 让对手两轮收 3 只；太晶 Ogerpon 放后备区是安全的。
 - Zeraora 的 Thunder Raid 只能打后备区 ex，Kangaskhan（300）在后备区吃 210 不倒。
@@ -236,12 +236,12 @@
 - 牌库顶布局：Unfair Stamp 让双方把手牌洗回牌库，会洗乱对手用 Ciphermaniac's Codebreaking 预先叠好的牌库顶；但 Academy at Night 是对手在自己回合当场把牌放上去再攻击，挡不住。Special Red Card 只把手牌放到牌库底，不动牌库顶（推断，按卡牌文字）。
 
 **关键卡与构筑**
-- 我方：Glass Trumpet 带 52.9%（80 局）对不带 76.9%（26 局）；Raging Bolt ex / Lightning Energy 带 53.6%（79）对 74.1%（27）；Fighting Energy 54.0%（84）对 77.3%（22）；Prism Energy 带 77.3%（22）对 54.0%（84）；Pecharunt 76.2%（21）对 54.5%（85）；Munkidori 77.1%（16）对 55.6%（90）；N's Plan 73.7%（19）对 55.6%（87）；Unfair Stamp 66.1%（59）对 49.6%（47）。这一组差距一致指向：不带 Raging Bolt / Glass Trumpet、带 Pecharunt（SVP 149）/ Munkidori 的变体打 Slowking 更好（推断其原因，样本只有约 20 局）。
+- 我方：Glass Trumpet 带 52.9%（80 局）对不带 76.9%（26 局）；Raging Bolt ex / Lightning Energy 带 53.6%（79）对 74.1%（27）；Fighting Energy 54.0%（84）对 77.3%（22）；Prism Energy 带 77.3%（22）对 54.0%（84）；Pecharunt 76.2%（21）对 54.5%（85）；Munkidori 77.1%（16）对 55.6%（90）；N's Plan 73.7%（19）对 55.6%（87）；Unfair Stamp 66.1%（59）对 49.6%（47）。这一组差距一致指向：不带 Raging Bolt / Glass Trumpet、带 Pecharunt（SVP 149）/ Munkidori 的变体打 Slowking 更好（推断其原因，样本只有约 20 局）。录像旁证：Turin 2026 四强 Clark 带 2 只 Raging Bolt ex、2 张 Glass Trumpet，0-2 输给 Kamerman；第 1 局他唯一的 Wellspring Ogerpon 和唯一的 Water Energy 都在奖赏卡里，Raging Bolt ex 差 1 个能量打不出击倒，也没摸到 Unfair Stamp（一场只是旁证）。
 - 对手：带 Annihilape 51.2%（67）对不带 74.2%（40）；Smoochum 带 79.6%（18）对 55.8%（89）；Brave Bangle 带 43.9%（19）对 63.3%（88）；Cofagrigus 74.5%（17）对 57.0%（90）。
 - 构筑建议：这局带 Unfair Stamp 更好，数据支持，卡牌文字上它能洗乱对手预先叠好的牌库顶并把对手手牌压到 2 张（推断其原因）。
 
 **常见失误**
-- 让 Kangaskhan 在战斗场过回合，被复制的 Metallic Hammer 300 或 Destined Fight 送 3 张。
+- 让 Kangaskhan 在战斗场过回合，被复制的 Metallic Hammer 300 或 Destined Fight 送 3 张（录像：Turin 2026 四强，Clark 两局各被这样拿走 3 张）。
 - 用 2 奖 ex 去打 1 奖的 Slowking，而不是先找对手的 Kangaskhan / ex。
 - 后备区排了多只 210 HP 的 ex，被 Zeraora 和 Trifrost 连续收。
 

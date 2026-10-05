@@ -40,8 +40,9 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 
 几条每局都适用的规则：
 
-- 复制来的 Metallic Hammer 是 300。官方裁定（[Chaos Rising FAQ](https://pokegym.net/2026/05/08/me-chaos-rising-faq/)，日本官方 Q&A 相同）：Slowking 身上没有钢能量也能选 +150，什么都不用弃；身上有钢能量时才要弃，最多 3 个。英文卡面读起来像必须先弃 3 个钢能量，是翻译造成的误会；Pokémon TCG Live 也按 300 结算。所以战斗场上 300 HP 以内的宝可梦都是一击：满血 Mega Kangaskhan ex（300）、N's Zoroark ex（280）、任何 Crustle（最高 290）；加 Brave Bangle 30 能一击 Hydrapple ex（330）；满血 Dragapult ex（320）剩 20，Fairy Zone 下是 600。录像里都是这样结算的：Baltimore 2026 第 1 天第 4 轮，Carullo 把满血 Dragapult ex 打到剩 20（[1:06:30](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3990s)）；B 桌 Smith 一下打倒满血 N's Zoroark ex（[1:25:20](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s)）；四强 Dreitzler 用 Brave Bangle 加 Hammer 一下打倒满血 Hydrapple ex（[6:14:06](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=22446s)）。限制在张数：卡表只有 2 张 Metagross，用一次弃一张，要靠 Slowpoke 的 Dangle Tail 或 Night Stretcher 捡回（推断）。
+- 复制来的 Metallic Hammer 是 300。官方裁定（[Chaos Rising FAQ](https://pokegym.net/2026/05/08/me-chaos-rising-faq/)，日本官方 Q&A 相同）：Slowking 身上没有钢能量也能选 +150，什么都不用弃；身上有钢能量时才要弃，最多 3 个。英文卡面读起来像必须先弃 3 个钢能量，是翻译造成的误会；Pokémon TCG Live 也按 300 结算。所以战斗场上 300 HP 以内的宝可梦都是一击：满血 Mega Kangaskhan ex（300）、N's Zoroark ex（280）、任何 Crustle（最高 290）；加 Brave Bangle 30 能一击 Hydrapple ex（330）；满血 Dragapult ex（320）剩 20（挂 Brave Bangle 就是 330，一击），Fairy Zone 下是 600。录像里都是这样结算的：Baltimore 2026 第 1 天第 4 轮，Carullo 把满血 Dragapult ex 打到剩 20（[1:06:30](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3990s)）；B 桌 Smith 一下打倒满血 N's Zoroark ex（[1:25:20](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s)）；四强 Dreitzler 用 Brave Bangle 加 Hammer 一下打倒满血 Hydrapple ex（[6:14:06](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=22446s)）。限制在张数：卡表只有 2 张 Metagross，用一次弃一张，要靠 Slowpoke 的 Dangle Tail 或 Night Stretcher 捡回（推断）。
 - Tera 宝可梦 ex（Dragapult ex、Teal Mask Ogerpon ex、Wellspring Mask Ogerpon ex）在后备区时不受任何招式伤害，Trifrost 的后备区部分和 Thunder Raid 对它们无效；但伤害指示物的"放置"（Ghostly Blow、Cofagrigus、Munkidori）不是伤害，照样有效。
+- 对手后备区有 Shaymin（DRI 10）时，Flower Curtain 挡住招式对后备区无规则宝可梦的伤害：Trifrost 只剩战斗场那一份，Fezandipiti ex 的 Cruel Arrow 也打不到后备区。挡不住的有：Thunder Raid（打的是后备区的 ex，有规则框）、Ghostly Blow 和 Cofagrigus 放的指示物（放指示物不是伤害；对手的 Battle Cage 在场时另说）。你的卡表几乎不带拉人的卡：103 份里 Boss's Orders 2 份、Prime Catcher 29 份（它和 Secret Box 都是 ACE SPEC，只能二选一，68 份选了 Secret Box），所以通常只能等对手的宝可梦上战斗场再打。常带 Shaymin 的对手：Alakazam Dudunsparce（62 份里 42 份）、Dhelmise（58%）、Festival Lead。录像：Turin 2026 决赛（TEF-CRI 环境），López 的 Hop's Trevenant 两局都早早放下 Shaymin，Kamerman 的卡表没有 Boss's Orders 和 Prime Catcher，后备区一只都打不到，0-2；他赛前就说过，Shaymin 一下来他大概赢不了（[视频](https://www.youtube.com/watch?v=P1gzE_BFuUA)）。要不要为此改带 Prime Catcher，数据给不出答案：对 Alakazam Dudunsparce，带 Prime Catcher 的卡表还低 2.1 个百分点（19 对 52 局）。
 - Trifrost、Thunder Raid 之后 Slowking 只剩 Boomerang Energy。下回合手贴 1 个超能量就能再用 Seek Inspiration；Wondrous Patch 只能贴给后备区的超属性宝可梦，所以下一只 Slowking 要在后备区先补好能量。
 - 攻击前的顺序：先用所有会洗牌或抽牌的东西（Lillie's Determination、Ultra Ball、Poké Pad、Surfer、Mega Kangaskhan ex 的 Run Errand），最后才用 Academy at Night 放目标，然后攻击。
 - 对手打出别的场地卡会把 Academy at Night 弃掉，所以手里尽量常备一张。Codebreaking 放的第二张牌要过对手一个回合，会被 Judge、Unfair Stamp（洗牌）、Mega Excadrill ex 的 Undermine（弃牌库顶 2 张）破坏，不要把关键回合押在它上面。
@@ -61,13 +62,16 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 选先攻（推断）：你第 2 回合是整局第 3 回合，对手在第 2 回合放下的 Dreepy 还没法进化，Trifrost 能打到 3 只进化前宝可梦。
 - 战斗场放 Slowpoke 或 Mega Kangaskhan ex。对手前期招式（Dreepy 的 Bite 40、Drakloak 的 Dragon Headbutt 70）打不穿 300 HP，Kangaskhan 在战斗场每回合 Run Errand 抽 2。Latias ex 在场时基础宝可梦撤退费为 0，Kangaskhan 可以随时退下来。
 - 第 1 回合给战斗场的 Slowpoke 手贴 Telepathic Psychic Energy，从牌库拿 2 只基础超属性宝可梦（通常 2 只 Slowpoke）。
-- Lillie's Clefairy ex 的 Fairy Zone 让对手所有龙属性宝可梦弱超能（×2）。它 190 HP，Phantom Dive 200 能一击。在你要打 Dragapult ex 的那个回合再放（Telepathic Psychic Energy 或 Ultra Ball 都能拿它，它是基础超属性），不要提前几回合摆在后备区当靶子（推断）。
+- 对手后攻会用 Budew 锁物品：战斗场的 Slowpoke 挂 Lucky Helmet（103 份卡表里 49 份带），Itchy Pollen 每打一次（10 伤害）你就抽 2 张（信心 55%，slk-dpx-02）。录像：Turin 2026 八强第 2 局 Kamerman 就是这样拿到牌的（[第 2 天直播](https://www.youtube.com/watch?v=WuXEbywON7g&t=10274s)）。不过本对局带 Lucky Helmet 的卡表数据略差（见关键卡）。
+- Lillie's Clefairy ex 的 Fairy Zone 让对手所有龙属性宝可梦弱超能（×2）。它 190 HP，Phantom Dive 200 能一击。在你要打 Dragapult ex 的那个回合再放（Telepathic Psychic Energy 或 Ultra Ball 都能拿它，它是基础超属性），不要提前几回合摆在后备区当靶子（推断；NAIC 2026 四强第 3 局就是这样输的，见 Dragapult Dusknoir 一节的录像）（信心 65%，slk-dpx-01）。
 
 **奖赏卡路线**
 - 你第 1 回合：Slowpoke + 2 只 Slowpoke 上场，Poké Pad 拿 Kyurem 留在手上，打出 Academy at Night。
 - 你第 2 回合（取 3）：进化 Slowking，贴第 2 个能量，用 Academy at Night 把 Kyurem 放到牌库顶，Seek Inspiration → Trifrost。目标优先级：Munkidori（110，正好击倒，它是对手收你后备区 Slowpoke 的关键）、Drakloak（90）、Dreepy（70）、Budew（30）。Fairy Zone 在场时战斗场的龙属性吃 220。
-- 你第 3 回合（取 2）：对手若把 Fezandipiti ex 或 Meowth ex 放在后备区，Thunder Raid 210 直接击倒（Fezandipiti ex 210、Meowth ex 170）。若战斗场是新上来的 Dragapult ex（320）：Fairy Zone 在场时 Metallic Hammer 300 × 2 = 600，一击；没有 Clefairy 时 300 还差 20，需要 Munkidori 的 3 个指示物或之前 Ghostly Blow 放的 5 个指示物。Pawmot 的 Voltaic Fist 130 × 2 = 260 并可让它麻痹（推断：对手核心卡表里没有 Switch，麻痹的 Dragapult ex 下回合既打不了也撤不了），下回合补刀。
+- 你第 3 回合（取 2）：对手若把 Fezandipiti ex 或 Meowth ex 放在后备区，Thunder Raid 210 直接击倒（Fezandipiti ex 210、Meowth ex 170）。若战斗场是新上来的 Dragapult ex（320）：Fairy Zone 在场时 Metallic Hammer 300 × 2 = 600，一击；没有 Clefairy 时 300 还差 20：攻击的 Slowking 挂着 Brave Bangle 就是 330，一击（对手的 Jamming Tower 在场时道具无效，纯 Dragapult 卡表 279 份里 26 份带）；没有 Bangle 就要靠 Munkidori 的 3 个指示物或之前 Ghostly Blow 放的 5 个指示物。Pawmot 的 Voltaic Fist 130 × 2 = 260 并可让它麻痹（推断：对手核心卡表里没有 Switch，麻痹的 Dragapult ex 下回合既打不了也撤不了），下回合补刀。
 - 你第 4 回合（取最后 1 到 2 张）：Trifrost 或 Metallic Hammer 收残血。
+- 只剩 Budew（30）这类小目标要收时，不用浪费 Metagross：用 Codebreaking 把 Slowpoke 放到牌库顶，Seek Inspiration 复制它的 Tackle（30）就够。录像：Turin 2026 八强第 2 局，Kamerman 先用 Trifrost 收两只 Drakloak 和一只 Dreepy，再这样收掉 Budew，把 Metagross 留到最后。
+- 唯一的 Slowking 被 Boss's Orders 拉出来击倒、下一只还没进化时，Lillie's Clefairy ex 自己也能打：Full Moon Rondo（超 + 无色）20，双方后备区每只宝可梦再加 20，Fairy Zone 下打龙属性翻倍，双方后备区合计 7 只就能一击满血 Dragapult ex（推断，按卡牌文字）。录像：同一场第 1 局，Kamerman 用 Wondrous Patch 补能量、Switch 换上 Clefairy，Full Moon Rondo 击倒 Dragapult ex；但 Clefairy 下回合被击倒送 2 张，对手再打 Unfair Stamp 和 Watchtower，他手里没有 Academy at Night 和 Codebreaking，只能盲翻 Seek Inspiration，投降。
 - 没有 Fairy Zone 时，满血 Dragapult ex 吃 Metallic Hammer 剩 20，先用 Ghostly Blow 或 Munkidori 放好 20 以上就是一击；否则用 SSP 100 版 Annihilape 的 Destined Fight 双方战斗场同归于尽：你送 1 张，拿 2 张。
 - 不要用 Trifrost 或 Thunder Raid 去打后备区的 Dragapult ex（Tera 规则：在后备区时不受招式伤害）。想提前削它只能放指示物：Ghostly Blow 的 5 个指示物可以放在后备区的 Dragapult ex 上。
 
@@ -83,7 +87,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 本对局你方带牌对比（n 均 ≥ 15）：带 Mew ex 的卡表胜率高 12.2 个百分点（41 对 214 局）；Pawmot 高 9.4 个百分点（40 对 215）；带 Budew 低 8.9（55 对 200）；Brave Bangle 低 7.3（50 对 205）；Drapion 低 6.3（46 对 209）；Lucky Helmet 低 4.2（126 对 129）。
 - Pawmot 的正面效果与卡牌文字吻合：Fairy Zone 下 260 加麻痹，两回合内击倒 Dragapult ex（推断）。Mew ex（160 HP，撤退 0）的 Memory Helix 能使用后备区 Slowking 的 Seek Inspiration，相当于多一个零撤退的攻击位（推断）。
 - 对手方：带 Judge 的 Dragapult ex 卡表对你胜率高 8.9 个百分点（194 对 43 局），说明打乱手牌和牌库顶确实有效；带 Team Rocket's Watchtower 高 4.1（57 对 180），它会关掉你 Mega Kangaskhan ex 和 Meowth ex 的特性。
-- 建议：此对局 Pawmot 或 Mew ex 值得占一个位置（数据支持）；没有 Clefairy 时，Munkidori + Darkness Energy 能补 Metallic Hammer 300 打 Dragapult ex 差的 20（推断，本对局无足量数据）。
+- 建议：此对局 Pawmot 或 Mew ex 值得占一个位置（数据支持）；没有 Clefairy 时，Munkidori + Darkness Energy 能补 Metallic Hammer 300 打 Dragapult ex 差的 20（推断，本对局无足量数据）；Brave Bangle 按卡牌文字也能补，但上面的数据是带它的卡表低 7.3，原因未明。
 
 **常见失误**
 - Trifrost 的三个目标里选了后备区的 Dragapult ex，伤害全部被 Tera 规则挡掉。
@@ -165,6 +169,11 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - **对手先铺指示物不收**：Conti 用 Boss's Orders 拉出 Latias ex，Phantom Dive 的指示物分散放（[5:28](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19680s)）。你的核心构筑里没有回复卡，这些指示物会一直留着，是在准备一回合多收。
 - **Kangaskhan 别在对手有 Dusknoir 时站战斗场**：Malaca 为了用 Run Errand（只在战斗场能用）把 Mega Kangaskhan ex 放到战斗场，Conti 用 Cursed Blast 130 加 Phantom Dive 200（合计 330，超过 300）击倒它，指示物收掉铺过伤害的 Latias ex 和 Slowking，一回合拿 6 张（[5:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19800s)）。
 
+**录像：NAIC 2026 四强 Cawthon（Slowking）1-2 Kosek（Dragapult Dusknoir）**（第三方转播 [YMk7L7SwuCI](https://www.youtube.com/watch?v=YMk7L7SwuCI)，字幕是机器翻译，局面按画面上的奖赏卡读出，没有逐条时间。Cawthon 的卡表和核心构筑一致：3 只 Kangaskhan、Zeraora、Secret Box、Brave Bangle、Lucky Helmet，没有 Boss's Orders 和 Prime Catcher。Kosek 带 4 张 Crushing Hammer、Unfair Stamp、Special Red Card、Watchtower 和 Jamming Tower。NAIC 在 PBL 之前，用到的卡现在都还合法。）
+- **只差 1 张时被一回合拿 6 张**：第 1 局 Cawthon 第 2 回合 Trifrost 拿 3 张，很快只剩 1 张，Kosek 一张没拿。Kosek 先打 Unfair Stamp（Cawthon 手牌剩 2 张），用 Boss's Orders 把撤退 3 的 Slowking 拉到战斗场困住，换掉 Academy at Night，连续两回合打战斗场的 Mega Kangaskhan ex；最后 Munkidori 挪 30、Phantom Dive 击倒 Kangaskhan，6 个指示物收掉后备区两只吃过伤害的宝可梦，一回合拿 6 张。和上面 Malaca 那一局、Dragapult ex 一节 Baltimore 那一局是同一种输法：领先时先数对手下回合最多能拿几张，战斗场的 Kangaskhan 加上后备区吃过伤害的宝可梦够 6 张，就先把 Kangaskhan 换下战斗场（推断）（信心 65%，slk-dpd-01）。
+- **第 2 局的赢法**：Kosek 的 Unfair Stamp 在奖赏卡里。Cawthon 用 Secret Box 和 Academy at Night 把 Kyurem 放到牌库顶，Trifrost 一次击倒 3 只，之后 Clefairy 和 Slowking 都接得上，拿下。转播认为 Kosek 这一局打得太急。
+- **Brave Bangle 在奖赏卡里，就没有一击 Dragapult ex 的路线**：第 3 局 Cawthon 的 Bangle 在奖赏卡里，Metallic Hammer 只有 300，差 20。他提前放下 Lillie's Clefairy ex，Kosek 用 Boss's Orders 拉出来击倒，同一回合再收一只，接着打 Unfair Stamp，Kosek 只剩 1 张、Cawthon 还剩 4 张，随后输掉。Clefairy 要在打 Dragapult ex 的那一回合再放（见 Dragapult ex 一节）。Bangle 在这个对局本来也靠不住：对手 76% 的卡表带 Jamming Tower，它在场时道具无效。
+
 **关键卡与构筑**
 - 你方（n 均 ≥ 15）：带 Zeraora 高 16.3 个百分点（52 对 27 局），与对手 Fezandipiti ex（全部卡表）、Meowth ex（95%）都是 Thunder Raid 的一击目标吻合；Lucky Helmet 高 13.6（38 对 41）；Annihilape 高 10.7（61 对 18）；Surfer 高 6.8（38 对 41）。
 - 对手方：带 Rare Candy 的卡表对你低 12.4（25 对 48）；Moltres 高 7.6（37 对 36）；Dawn 低 6.8（50 对 23）；Judge 高 6.3（48 对 25）；Patrat 高 5.3（24 对 49）；Jamming Tower 低 4.0（51 对 22）。
@@ -175,6 +184,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 后备区留着 Meowth ex，被 Phantom Dive 60 + Dusknoir 130 一回合收 2 张。
 - 以为对手自爆是好事而放任 Dusclops 留在后备区：它自爆收掉的是你的 Slowpoke 或残血 Slowking，奖赏数打平，但你的攻击线断了（推断）。
 - 对手场上有 Dusknoir 时让 Mega Kangaskhan ex 站战斗场用 Run Errand，被 Phantom Dive 加 Cursed Blast 一次收 3 张（录像）。
+- 只差 1 到 2 张时，让 Kangaskhan 留在战斗场挨打、后备区又留着吃过伤害的宝可梦，被对手一回合拿 6 张翻盘（录像：NAIC 2026 四强第 1 局）。
 
 ---
 
@@ -203,6 +213,11 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - Wellspring Mask Ogerpon ex 的 Torrential Pump 打战斗场 100，再对后备区 120：能同时收后备区的 Slowking（120）或 Slowpoke。后备区备用的 Slowking 只放一只。
 - Unfair Stamp（你上回合击倒了它的宝可梦才可用）：你洗手牌只抽 2。Kyurem 和 Academy at Night 别都押在手上；击倒对手后的那个回合预期会被 Stamp。
 - Boss's Orders、Prime Catcher 拉你的 2 奖 ex：后备区只放用得上的 ex。
+
+**录像：Turin 2026 四强 Kamerman（Slowking）2-0 Clark（Basic Box）**（[视频](https://www.youtube.com/watch?v=-2gCfGeqBm8)，TEF-CRI 环境，用到的卡现在都还合法。Kamerman 的卡表：2 只 Kangaskhan、2 只 Latias ex、Smoochum、Secret Box、Lana's Aid、Brave Bangle、Lucky Helmet，没有 Zeraora、Boss's Orders 和 Prime Catcher。Clark 带 3 只 Kangaskhan、3 只 Meowth ex、2 只 Raging Bolt ex、2 张 Glass Trumpet 和 Unfair Stamp，正是下面数据里对你胜率低的那一类构筑。）
+- **Metallic Hammer 打战斗场的 ex**：第 1 局 Kamerman 用 Academy at Night 把 Metagross 放到牌库顶，Hammer 300 击倒战斗场的 Latias ex（[6:45](https://www.youtube.com/watch?v=-2gCfGeqBm8&t=405s)），后来又一击战斗场的满血 Mega Kangaskhan ex，拿 3 张（[16:26](https://www.youtube.com/watch?v=-2gCfGeqBm8&t=986s)）。第 2 局 Clark 第 1 回合没贴上能量，战斗场的 Kangaskhan 撤不下来，Kamerman 第 2 回合就把它打倒。两局 12 张奖赏卡里 6 张来自两只 Kangaskhan。
+- **Brave Bangle 在这个对局没用**：对手没有 HP 超过 300 的宝可梦（挂 Hero's Cape 的 Kangaskhan 是 400，加 30 也不够），Kamerman 主动弃掉了它，和下面"带 Brave Bangle 低 19.4"一致。
+- **被 Unfair Stamp 打到 2 张手牌也接得上**：第 2 局 Clark 用 Codebreaking 找到 Stamp，Iron Leaves ex 击倒 Slowking，Kamerman 剩下的两张手牌仍然够用；之后用 Lana's Aid 加两张 Night Stretcher 排好最后两回合的攻击。
 
 **关键卡与构筑**
 - 你方（n 均 ≥ 15）：带 Smoochum 高 23.8 个百分点（18 对 89）；Cofagrigus 高 17.5（17 对 90）；Prime Catcher 高 8.3（32 对 75）；Drapion 高 7.0（24 对 83）；Munkidori 高 6.4（30 对 77）；Crispin 高 5.9（27 对 80）；Annihilape 低 22.9（67 对 40）；Brave Bangle 低 19.4（19 对 88）。

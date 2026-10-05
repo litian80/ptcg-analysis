@@ -1,0 +1,19 @@
+deck: crustle-dri
+judgments:
+  - id: cru-dpx-01
+    vs: dragapult-ex
+    text: 对 Dragapult ex，Hero's Cape 挂在 Crustle 上（贴 2 张 Growing Grass 时 290 HP），对手的小伤害打不穿，Jumbo Ice Cream 每回合回 80
+    confidence: 0.7
+    basis: 伤害计算；录像：Indianapolis 2026 八强 Reddy 2-0 Sakadjian（TEF-POR），两局都靠挂 Cape 的 Crustle 撑住
+    window: TEF-30C
+    depends_on: [Hero's Cape, Crustle, Jumbo Ice Cream]
+    where: data/matchups/crustle-dri.md
+  - id: cru-adu-01
+    vs: alakazam-dudunsparce
+    text: 对 Alakazam Dudunsparce，Dedenne 是第一个要击倒的目标，在后备区就用 Boss's Orders 拉出来，不让它反复捡回 Enhanced Hammer
+    confidence: 0.6
+    weight: 3
+    basis: 推断（卡牌文字）；数据：带 Dedenne 的 Alakazam 卡表对 Crustle 56.2%（16 局），不带的 30.0%（20 局）；录像：Indianapolis 2026 决赛第 1 局（TEF-POR），Jones 用 Dedenne 反复捡回 Enhanced Hammer
+    window: TEF-30C
+    depends_on: [Dedenne, Enhanced Hammer, Boss's Orders]
+    where: data/matchups/crustle-dri.md
