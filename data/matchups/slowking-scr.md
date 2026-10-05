@@ -89,6 +89,8 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 在 Risky Ruins 还在场时铺 Slowpoke，被 Phantom Dive 的 60 指示物一回合收掉两只。
 - 提前好几回合把 Lillie's Clefairy ex 放在后备区，被 Boss's Orders + Phantom Dive 白拿 2 张。
 - 用 Academy at Night 放好 Kyurem 后才用 Run Errand 或 Poké Pad，把 Kyurem 抽走或洗掉。
+- 对手连着几回合只放指示物不击倒时，以为安全，后备区同时留着 Latias ex 和 Mega Kangaskhan ex。录像：Baltimore 2026 第 1 天第 4 轮第 1 局，Hedrick 不击倒是为了不让 Fezandipiti ex 抽牌，最后一发 Phantom Dive 击倒战斗场 Slowking 加后备区这两只，一回合拿 6 张（[0:51:00](https://www.youtube.com/watch?v=Gq_tjemCPs8&t=3060s)）。被铺过指示物的 ex 要算进对手下回合的奖赏卡里。
+- 用 Drapion 麻痹对手后，后备区留着能量不够、撤退 3 的 Slowking：对手用 Boss's Orders 把它拉到战斗场，麻痹换来的一回合就抵消了（同一局）。
 
 ---
 
