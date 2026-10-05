@@ -463,7 +463,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 
 **关键卡与构筑**
 - 没有带卡与不带卡的对比数据（公开卡表只有 17 局）。
-- 本对局 Dusclops 也有价值：50 正好击倒 Applin（40）、Goldeen（50）、Rellor（50）。
+- 本对局 Dusclops 也有价值：50 正好击倒 Applin（40）、Goldeen（50）、Rellor（50）。Rellor 贴了 Growing Grass Energy（草属性 +20 HP）就是 70，Dusclops 打不死，要用 Dusknoir（130）。录像：Frankfurt 2026 第 14 轮 Soler（Festival Lead）对 Dragapult Dusknoir，第 1 局他的 Rellor 被 Dusclops 收掉（[2:38:20](https://www.youtube.com/watch?v=NOi0qAFjnME&t=9500s)），第 2 局他先给 Rellor 贴 Growing Grass Energy，Rabsca 才上了场（[2:54:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=10440s)）。
 
 **常见失误**
 - 只打战斗场，不处理后备区，对方 Do the Wave 一直保持 100 × 2。
