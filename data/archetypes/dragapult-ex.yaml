@@ -142,6 +142,19 @@ evidence:
       - 镜像：扣住 Munkidori 和 Darkness 诱对手多放伤害（https://www.youtube.com/watch?v=KfJk7KymeYI&t=5370s）
       - 镜像：对手只差 1 张时用 Fezandipiti ex 接 Unfair Stamp 翻盘（https://www.youtube.com/watch?v=KfJk7KymeYI&t=5860s）
     caveat: 区域赛直播是俯拍桌面，没有侧边数据面板；击倒了谁多半根据选手解说推断。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 四强，Hedrick 2-0 Tonisson（Dragapult ex 镜像，双方都带 4 张 Crushing Hammer）
+    window: TEF-PBL
+    confirms:
+      - 镜像：Munkidori 的 Darkness 能量是 Crushing Hammer 的首要目标
+      - Boss's Orders + Phantom Dive 一回合拿 3 张（https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=1770s）
+    adds:
+      - 镜像：Judge 把自己也打乱，第 1 局 Tonisson 打完自己没抽到要的牌
+      - 镜像：被 Mind Bend 混乱时撤到 Budew，不赌硬币
+      - 镜像：Hammer 互拆后，落后方用 Rosa's Encouragement 从弃牌区贴回 2 个能量
+      - 镜像：Phantom Dive 故意不击倒，下回合 Hammer 加 Phantom Dive 一回合拿 3 张（https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=3045s）
+      - 构筑：Hedrick 9 个能量含 3 张 Darkness，解说认为这是 Hammer 互拆的镜像里的差别
+    caveat: 一场两局；拿奖读数和解说对得上，"故意不击倒"的理由是推断的。
 
 mistakes:
   - 对 Battle Cage 卡组时过早打掉 Risky Ruins，关键回合没有场地可换。

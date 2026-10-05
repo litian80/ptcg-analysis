@@ -7,7 +7,7 @@
 | Frankfurt 区域赛 | 2026-09-26 | TEF-30C | 第 1 天 8TMRgaIe7LQ、第 2 天 NOi0qAFjnME（已看完，见 frankfurt-2026-*.md） |
 | Brisbane 区域赛 | 2026-09-26 | TEF-30C | BrentyMon 的对局视频 KfJk7KymeYI（已看） |
 | Baltimore 区域赛 | 2026-09-19 | TEF-PBL | 第 1 天 Gq_tjemCPs8（第 4 轮两桌已看，见 baltimore-2026-day1.md；其余焦点桌待看）；第 2 天主舞台 nLkFmtXdXGE（八强、四强已看）；★ 决赛 Dobberstein（Hydrapple）vs Kasturi（Basic Box）yCYfZA3AOxQ（已看；决赛圈见 baltimore-2026-top-cut.md）；副舞台 XNbKnvdrNoY（无解说，只粗读了 Kasturi vs Halliburton）；第三方：1esvHhud8ew、slNSyuvZoMs、gbRRf9Ca2so |
-| 世界赛 Anaheim | 2026-08-28 | TEF-PBL | 第 1 天 iEM8bQbnA90、第 2 天 qwBID2ApsOY；决赛日 cqXdwdtjzuA（没有字幕和章节；带字幕的版本 wZsfNzoOV7s，TCG 部分只有三个组别的决赛）；三个组别的决赛已看完：Masters KQ-32rHXKM8、青少年组 6gDfKq1x6fg、少年组 wZe0cfNyUY8（见 worlds2026-*.md）；四强 Tonisson vs Hedrick 转载 R4d7ll0oz1Q（待看）；八强待找 |
+| 世界赛 Anaheim | 2026-08-28 | TEF-PBL | 第 1 天 iEM8bQbnA90、第 2 天 qwBID2ApsOY；决赛日 cqXdwdtjzuA（没有字幕和章节；带字幕的版本 wZsfNzoOV7s，TCG 部分只有三个组别的决赛）；三个组别的决赛已看完：Masters KQ-32rHXKM8、青少年组 6gDfKq1x6fg、少年组 wZe0cfNyUY8（见 worlds2026-*.md）；四强已看完：Hedrick vs Tonisson 转载 R4d7ll0oz1Q、Cassiraga vs Chao 转载 mq3UY7pQe4c（见 worlds2026-masters-top-cut.md）；八强待找，先查第 2 天直播 qwBID2ApsOY |
 | NAIC New Orleans | 2026-06-10 | TEF-CRI | 第 1 天 UOCabX5Hqrw、第 2 天 pz4kUF2bnl8、决赛日 igPt0ZyyUSY（TCG 只有少年组、青少年组决赛，已看）；★ 决赛 Kowalski vs Kosek IWA_e9ff_EA（已看，见 naic-2026.md）；四强转载 YMk7L7SwuCI（待看） |
 | Turin 特别赛 | 2026-06-06 | TEF-CRI | 第 1 天 NJB0ycdqzMU、第 2 天 WuXEbywON7g；★ 决赛 Kamerman vs López P1gzE_BFuUA；四强 -2gCfGeqBm8、8vgD89uRQOg；八强转载 RzvabPbaEW0、lvZ98hQg_xs |
 | Indianapolis 区域赛 | 2026-05-30 | TEF-POR | 第 1 天 1Z6jmnN6-Ks、第 2 天 6Nl_UgEEXM8；★ 决赛 Reddy vs Jones nlj_HY9SoJo；四强 bnVzhTKp3jg |
@@ -20,4 +20,4 @@
 
 视频链接：https://www.youtube.com/watch?v= 加上表里的编号。
 
-看的顺序：Baltimore 决赛 → Baltimore 第 2 天八强 → 世界赛决赛日 → NAIC 决赛和决赛日（以上已看完）→ 世界赛 Masters 四强和八强 → NAIC 四强 → Baltimore 第 1 天其余焦点桌 → Turin → Indianapolis → Melbourne → Lima → Utrecht → LA → Prague → 各比赛第 2 天瑞士轮焦点桌。每个比赛先看决赛、四强、八强。
+看的顺序：Baltimore 决赛 → Baltimore 第 2 天八强 → 世界赛决赛日 → NAIC 决赛和决赛日 → 世界赛 Masters 四强（以上已看完）→ 世界赛 Masters 八强 → NAIC 四强 → Baltimore 第 1 天其余焦点桌 → Turin → Indianapolis → Melbourne → Lima → Utrecht → LA → Prague → 各比赛第 2 天瑞士轮焦点桌。每个比赛先看决赛、四强、八强。
