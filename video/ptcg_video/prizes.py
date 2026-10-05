@@ -15,9 +15,10 @@ long enough to be a new game.
 The balls are set by hand: on the Frankfurt final they changed 20-30 seconds
 after the knockout.
 
-The overlay is not the same at every event (Baltimore 2026 Day 1 draws the
-balls smaller and on a lighter panel), so there is a preset per overlay and
-``read_prizes_auto`` keeps whichever reads the most frames.
+The overlay is not the same at every event (Baltimore, Worlds and NAIC 2026
+draw the balls smaller and on a lighter panel than Frankfurt 2026), so there is
+a preset per overlay and ``read_prizes_auto`` keeps whichever reads the most
+frames.
 """
 
 from __future__ import annotations
@@ -66,8 +67,8 @@ class PrizeLayout:
 
 
 PRIZE_PRESETS: dict[str, PrizeLayout] = {
-    # Measured on the Frankfurt 2026 regional Day 2 stream (the same overlay as
-    # Worlds): lit balls (white ring) read 115-165, empty slots (dark navy) 38-65.
+    # Measured on the Frankfurt 2026 regional Day 2 stream: lit balls (white
+    # ring) read 115-165, empty slots (dark navy) 38-65.
     # The REPLAY banner (x 552-727, y 26-53) is light blue, about (109, 174, 223),
     # with white text in the middle; the patches sit either side of the text.
     # On the final it matched every replay frame, and otherwise only the blue
@@ -80,12 +81,16 @@ PRIZE_PRESETS: dict[str, PrizeLayout] = {
                          rgb=((10.0, 120.0), (135.0, 180.0), (205.0, 230.0)),
                          outside=((520, 545, 32, 50),)),
     ),
-    # Baltimore 2026 Day 1: smaller balls on a lighter panel. Lit balls read
-    # 170-196, empty slots about 107, so the Frankfurt thresholds count empty
-    # slots as balls. REPLAY banner not measured yet.
+    # Baltimore 2026, also used at Worlds 2026 and NAIC 2026: smaller balls on
+    # a lighter panel, so the Frankfurt thresholds count empty slots as balls.
+    # Lit balls read 164-195 at Baltimore and 160-184 at NAIC; empty slots read
+    # 106-109 at Baltimore but 76-97 at NAIC. With empty slots limited to 80+,
+    # most NAIC frames failed and the Frankfurt preset won on frame count, which
+    # misread enough to split the NAIC final into 5 games instead of 3.
+    # REPLAY banner not measured yet.
     "sides-baltimore": PrizeLayout(
         columns=((276, 291), (988, 1003)), y0=3, pitch=18, ball=16,
-        on=140.0, lit=(150.0, 215.0), dark=(80.0, 135.0),
+        on=130.0, lit=(140.0, 215.0), dark=(65.0, 125.0),
     ),
 }
 

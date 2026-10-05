@@ -105,11 +105,13 @@ def fetch_youtube(
         "subtitlesformat": "vtt",
         "writeinfojson": True,
         "skip_download": not download_video,
+        # Only the picture is used (captions come separately), so take the
+        # video stream alone. Merging in an audio track also fails with HTTP
+        # 403 on videos that carry auto-dubbed audio (NAIC 2026 final).
         "format": (
-            f"bv*[height<={max_height}][ext=mp4]+ba[ext=m4a]/"
-            f"b[height<={max_height}][ext=mp4]/b[height<={max_height}]/b"
+            f"bv*[height<={max_height}][ext=mp4]/bv*[height<={max_height}]/"
+            f"b[height<={max_height}]/b"
         ),
-        "merge_output_format": "mp4",
     }
     if download_video and (start is not None or end is not None):
         opts["download_ranges"] = download_range_func(None, [(start or 0, end or float("inf"))])

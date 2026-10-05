@@ -38,6 +38,8 @@ def test_count_column_rejects_what_is_not_the_board():
     mixed = column(3, lit=190, dark=107)  # the Baltimore overlay read with the Frankfurt preset:
     assert count_column(mixed, SIDES) is None  # its empty slots pass as balls, but far darker than the lit ones
     assert count_column(column(3, lit=185, dark=107, layout=BALTIMORE), BALTIMORE) == 3
+    # NAIC 2026 uses the Baltimore overlay with darker empty slots (76-97).
+    assert count_column(column(2, lit=170, dark=76, layout=BALTIMORE), BALTIMORE) == 2
 
 
 def frames_with(readings, every=5.0):
@@ -152,6 +154,16 @@ def test_auto_keeps_the_preset_that_reads_the_overlay(overlay_frames, tmp_path):
         frames.append(Frame(t=i * 5.0, path=_jpeg(img, tmp_path / f"baltimore_{i}.jpg")))
     assert read_prizes_auto(frames, presets) == "sides-baltimore"
     assert [f.prizes for f in frames] == [(6, 6), (5, 6), (3, 4)]
+
+    frames = []  # NAIC 2026: the Baltimore overlay with darker empty slots, 76-97
+    for i, (left, right) in enumerate([(6, 6), (5, 6), (3, 4), (1, 2)]):
+        img = np.full((720, 1280, 3), 70, dtype=np.uint8)
+        for (x0, x1), n, dark in zip(BALTIMORE.columns, (left, right), (76, 97)):
+            img[: BALTIMORE.height, x0 - 4 : x1 + 4] = dark
+            img[: BALTIMORE.height, x0:x1] = column(n, lit=170, dark=dark, layout=BALTIMORE)[:, : x1 - x0, None]
+        frames.append(Frame(t=i * 5.0, path=_jpeg(img, tmp_path / f"naic_{i}.jpg")))
+    assert read_prizes_auto(frames, presets) == "sides-baltimore"
+    assert [f.prizes for f in frames] == [(6, 6), (5, 6), (3, 4), (1, 2)]
 
 
 def _box(x: int, y: int, w: int, h: int, gray: int, when: str = "") -> str:
