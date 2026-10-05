@@ -98,6 +98,7 @@ def fetch_youtube(
     opts = {
         "quiet": True,
         "no_warnings": True,
+        "noprogress": True,  # as a library, quiet doesn't hide the progress bar
         "outtmpl": str(out_dir / "%(id)s.%(ext)s"),
         "writesubtitles": True,
         "writeautomaticsub": True,

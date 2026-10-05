@@ -76,6 +76,16 @@ def test_timeline_short_fresh_board_is_a_new_game_but_other_rises_are_not():
     assert [(c.left, c.right, c.game) for c in changes] == [(1, 1, 1), (6, 6, 2), (5, 6, 2)]
 
 
+def test_timeline_never_opens_a_game_on_a_zero():
+    # NAIC 2026 final: the pre-match player cam read as 0-2 for a minute before the first board.
+    readings = [(0, 2)] * 12 + [None] * 4 + [(6, 6)] * 5 + [(5, 6)] * 2
+    changes = prize_timeline(frames_with(readings))
+    assert [(c.left, c.right, c.game) for c in changes] == [(6, 6, 1), (5, 6, 1)]
+    # Mid-game, a count reaching 0 still ends the game as before.
+    changes = prize_timeline(frames_with([(2, 1)] * 2 + [(2, 0)] * 2 + [(6, 6)] * 5))
+    assert [(c.left, c.right, c.game) for c in changes] == [(2, 1, 1), (2, 0, 1), (6, 6, 2)]
+
+
 def test_timeline_change_time_range_when_the_panel_was_hidden():
     # A knockout at about 0:20, then a pop-up covers the panel until 0:45.
     readings = [(3, 2)] * 4 + [None] * 5 + [(1, 2)] * 3
