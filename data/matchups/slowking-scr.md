@@ -154,6 +154,12 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - Duskull 的 Come and Get You 从弃牌区拉回最多 3 只 Duskull：Trifrost 收掉的 Duskull 会回来，后期仍要留一次 Trifrost 清场（推断）。
 - Moltres（PFL 14）的 Fighting Wings 对战斗场宝可梦 ex 打 110，对 Slowking 只有 20：它是用来打你战斗场的 Kangaskhan、Latias ex 的。
 
+**录像：Frankfurt 区域赛八强 Malaca（Slowking）0-2 Conti（Dragapult Dusknoir）**
+- **Budew 锁物品就是锁能量**：第 1 局 Conti 先攻，Budew 连续 5 回合 Itchy Pollen（[5:05](https://www.youtube.com/watch?v=NOi0qAFjnME&t=18300s)）。Wondrous Patch 是物品，用不了，Slowking 线一直接不上能量。对手有 Budew 时，每回合的手贴能量优先给下一只 Slowking（推断）。
+- **Trifrost 收 3 只**：第 2 局 Trifrost 一次击倒两只 Drakloak 和一只 Dusclops，拿 3 张（[5:23:44](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19424s)），和上面的路线一致。但 Trifrost 弃光了能量，下一回合接不上攻击，对手趁机用 Crispin、Dusknoir、Jamming Tower 重建。打 Trifrost 之前，后备区要有一只已经有能量的 Slowking。
+- **对手先铺指示物不收**：Conti 用 Boss's Orders 拉出 Latias ex，Phantom Dive 的指示物分散放（[5:28](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19680s)）。你的核心构筑里没有回复卡，这些指示物会一直留着，是在准备一回合多收。
+- **Kangaskhan 别在对手有 Dusknoir 时站战斗场**：Malaca 为了用 Run Errand（只在战斗场能用）把 Mega Kangaskhan ex 放到战斗场，Conti 用 Cursed Blast 130 加 Phantom Dive 200（合计 330，超过 300）击倒它，指示物收掉铺过伤害的 Latias ex 和 Slowking，一回合拿 6 张（[5:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19800s)）。
+
 **关键卡与构筑**
 - 你方（n 均 ≥ 15）：带 Zeraora 高 16.3 个百分点（52 对 27 局），与对手 Fezandipiti ex（全部卡表）、Meowth ex（95%）都是 Thunder Raid 的一击目标吻合；Lucky Helmet 高 13.6（38 对 41）；Annihilape 高 10.7（61 对 18）；Surfer 高 6.8（38 对 41）。
 - 对手方：带 Rare Candy 的卡表对你低 12.4（25 对 48）；Moltres 高 7.6（37 对 36）；Dawn 低 6.8（50 对 23）；Judge 高 6.3（48 对 25）；Patrat 高 5.3（24 对 49）；Jamming Tower 低 4.0（51 对 22）。
@@ -163,6 +169,7 @@ Slowking（SCR 58，120 HP，超属性，弱恶，撤退 3）的 Seek Inspiratio
 - 把 Trifrost 打在 Dragapult ex 上而不是 Dusclops，下回合被 Cursed Blast 补刀。
 - 后备区留着 Meowth ex，被 Phantom Dive 60 + Dusknoir 130 一回合收 2 张。
 - 以为对手自爆是好事而放任 Dusclops 留在后备区：它自爆收掉的是你的 Slowpoke 或残血 Slowking，奖赏数打平，但你的攻击线断了（推断）。
+- 对手场上有 Dusknoir 时让 Mega Kangaskhan ex 站战斗场用 Run Errand，被 Phantom Dive 加 Cursed Blast 一次收 3 张（录像）。
 
 ---
 

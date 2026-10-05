@@ -116,6 +116,7 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 
 **奖赏卡路线**
 1. **我方第 2 回合**（拿 1 张）：Rare Candy 进化 Alakazam，Powerful Hand 打战斗场的 Dreepy（70，4 张手牌）。如果对方有 Drakloak（90，5 张手牌）在后备区，优先用 Prime Catcher 或 Boss's Orders 拉出来击倒：Drakloak 的 Recon Directive 是对方找 Dragapult ex 的引擎。
+   - 录像（Frankfurt 区域赛第 15 轮，Łaszkiewicz 2-0 Lattanzi）：对方卡表没有 Rare Candy，场上只有一只 Drakloak 时，Powerful Hand 或 Dusknoir 打掉它，Dragapult ex 就上不来，只能从 Dreepy 重新进化。两局里 Dragapult 一次 Phantom Dive 都没打出来（[4:20:24](https://www.youtube.com/watch?v=NOi0qAFjnME&t=15624s)、[4:37:48](https://www.youtube.com/watch?v=NOi0qAFjnME&t=16668s)）。
 2. **我方第 3 回合**（拿 2 张，累计 3）：对方的 Dragapult ex 在战斗场。Rare Candy 进化 Dusknoir，Cursed Blast 放 130，再 Powerful Hand 10 张手牌（190），合计 320 击倒。对方因此拿 1 张。如果 Dragapult ex 还在后备区，Cursed Blast 照样能放上去（太晶规则只防招式伤害），等它上战斗场再补 10 张手牌。
 3. **我方第 4 回合**（拿 2 张，累计 5）：第二只 Dragapult ex。手牌 16 张直接击倒，或者第二只 Dusknoir + 10 张。手牌不够时改用 Boss 拉 Meowth ex（170，9 张）或 Fezandipiti ex（210，11 张）。
 4. **我方第 5 回合**（拿 1 张，累计 6）：任意单奖收尾，Munkidori（110，6 张）、Budew（30，2 张）、Dreepy（70，4 张）。
@@ -124,6 +125,7 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 
 **对手的套路，怎么防**
 - **后备区狙击**：6 个指示物加 Munkidori 的 3 个，合计最多 90。能被一次收掉的是 Abra 50、Duskull 60、Budew 30、Kadabra 80、Dusclops 90。对策：Abra 尽快进化成 Kadabra，不进化的 Abra、Duskull 不要放出来；Patrat 在场时 Munkidori 移不了指示物（只有 25% 的对方卡表带 Watchtower）。
+- **Budew 之争**（录像，同一场）：Dusclops 的 Cursed Blast 50 正好击倒 Budew（30）。对方放两只 Budew 时连续自爆两次清光，之后只有我方在锁对方物品（[4:33:28](https://www.youtube.com/watch?v=NOi0qAFjnME&t=16408s)）。要自爆的 Duskull 可以先放在战斗场吃对方 Itchy Pollen 的 10 点伤害，它进化成 Dusclops 自爆后这点伤害就白打了（[4:30:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=16230s)）。
 - **Crushing Hammer 拆能量**：能量只在攻击当回合贴给攻击的 Alakazam。第 1 回合贴 Telepathic Psychic Energy 是为了铺场，被拆也认了。Hilda 和唯一的 Psychic Energy + Night Stretcher 留到后期。
 - **Unfair Stamp**：我方击倒对方宝可梦后，对方下回合可以让双方手牌洗回，我方只抽 2 张。这一回合对方通常也会击倒我方 Alakazam，所以下回合 Fezandipiti ex 的 Flip the Script 能抽 3，再加回合抽牌、Dawn 或 Gwynn，手牌可以回到 8 张左右（推断）。所以 Fezandipiti ex 要放在后备区，但不要放到战斗场。
 - **对方 Fezandipiti ex 的 Cruel Arrow**：打我方战斗场的 Alakazam 是 100 × 2（弱恶）= 200，直接击倒。打后备区时 Shaymin 挡住。

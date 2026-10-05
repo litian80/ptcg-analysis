@@ -237,6 +237,7 @@
 - 倾向后攻（推断）：Budew 锁物品让对手第 2 回合不能用 Poké Pad、Ultra Ball、Wondrous Patch、Secret Box，拿不到要叠到牌库顶的复制目标（Academy at Night 和 Ciphermaniac's 仍可用）。
 - 后备区不要一次铺满 Dreepy / Drakloak：Trifrost 一次打 3 只各 110，Drakloak（90）、Dreepy、Munkidori（110）都会被收掉，后备区的 Dragapult ex 不受影响（太晶保护）。保持 2-3 只进化线即可（推断）。
 - Zeraora 的 Thunder Raid 打后备区 ex 210：Meowth ex、Fezandipiti ex 留在后备区会被一击，后备区的 Dragapult ex 不受影响。
+- 录像（Frankfurt 区域赛八强，Conti 的 Dragapult Dusknoir 2-0 Malaca 的 Slowking）：Conti 先攻，从自己第 2 回合起 Budew 连续 5 回合锁物品，Wondrous Patch 用不了，对手的 Slowking 线一直接不上能量（[5:05](https://www.youtube.com/watch?v=NOi0qAFjnME&t=18300s)）。第 2 局他后备区放了 3 只 110 HP 以下的宝可梦，被 Trifrost 一次收掉两只 Drakloak 和一只 Dusclops（[5:23:44](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19424s)），正是上面这条要防的。
 
 **奖赏卡路线**（推断，按卡牌伤害计算）
 - 先打 Risky Ruins 换掉 Academy at Night，同时让对手之后放下的 Slowpoke 掉 20（剩 60）。
@@ -244,6 +245,8 @@
 - T4：Boss's Orders 拉 Lillie's Clefairy ex（190），200 击倒（2 张），后备区 60 放在下一只 Slowking / Slowpoke 上。
 - T5：战斗场 Slowking 200 击倒，后备区那只补到倒下（例如 Slowking 120 = 60 + 60），2 张，累计 6 张。
 - Mega Kangaskhan ex 站到战斗场时（对手用 Run Errand 抽 2 时它必须在战斗场）：200 + 前回合 60 + 两只 Munkidori 60 = 320 ≥ 300，一次 3 张。Mew ex（160 HP）是 200 一击 2 张。
+- Trifrost 会弃掉 Slowking 身上的全部能量，对手打完 Trifrost 的下一回合通常接不上攻击，是我们重建的回合（录像：Conti 用 Crispin 补能量、换上 Jamming Tower 盖掉 Academy at Night）。
+- 录像里 Conti 还有 Dusknoir：他先用 Phantom Dive 把指示物铺在 Latias ex、Slowking 上不收（Slowking 卡组没有回复卡），等 Kangaskhan 上战斗场，Cursed Blast 130 加 Phantom Dive 200 一回合拿 6 张（[5:30](https://www.youtube.com/watch?v=NOi0qAFjnME&t=19800s)）。纯 Dragapult ex 没有 Dusknoir 的 130，铺指示物要按上面的数字算清楚，不然就是常见失误里的"花在打不死的 Latias ex / Kangaskhan 上"。
 
 **对手的套路，怎么防**
 - 主线：Clefairy 在后备区，每回合用牌库顶的复制目标打 Dragapult ex 翻倍，或者 Trifrost 一次收后备区两只进化线。
@@ -530,6 +533,8 @@
 **常见失误**
 - 把 6 个指示物花在 Kadabra / Alakazam 上，放过了吃过 Ruins、一碰就倒的 Abra 和 Duskull。
 - 没算 Dusknoir 的 130：对手手牌 10 张就够一击 Dragapult ex。
+- 只养一只 Drakloak：录像（Frankfurt 区域赛第 15 轮，Lattanzi 0-2 Łaszkiewicz）两局 Drakloak 都被单独打掉，我们没有 Rare Candy，只能从 Dreepy 重来，两局一次 Phantom Dive 都没打出来（[4:20:24](https://www.youtube.com/watch?v=NOi0qAFjnME&t=15624s)）。宁可慢一回合也要同时铺两到三只 Dreepy（推断）。
+- 拿 Budew 之争当主线：对手的 Dusclops 自爆 50 正好击倒 Budew，录像里 Lattanzi 放的两只 Budew 被连续两次 Cursed Blast 打掉，之后只有对手在锁物品（[4:33:28](https://www.youtube.com/watch?v=NOi0qAFjnME&t=16408s)）。
 
 ---
 
