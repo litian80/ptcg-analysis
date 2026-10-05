@@ -4,7 +4,7 @@
 
 **样本量提醒**：这套牌使用率不到 1%，每个对局只有 15 到 113 局，大多数在 30 到 50 局。胜率差 10 个百分点以内的对局，基本分不出强弱。"带某张卡与不带某张卡"的对比只有 Dragapult ex 一个对局有足够样本，而且这些数据只来自公开卡表的玩家（成绩较好的玩家），所以只能看差值，不能看绝对值。卡表数据里没有先后攻信息，也没有逐局记录。下文凡是没有卡牌文字或数据直接支持的判断，都标了"（推断）"。
 
-**录像**：Frankfurt 区域赛（2026-09-26）的决赛（Chałupka 对 Łaszkiewicz，镜像）和两场四强（对 Festival Lead、对 Dragapult Dusknoir）有直播录像（[第 2 天直播](https://www.youtube.com/watch?v=NOi0qAFjnME)）。从录像得出的打法标了"（录像）"，只代表这几局。另外引用了 2026 世界赛 Masters 四强 Cassiraga（Alakazam Dudunsparce）2-1 Chao（Dragapult Dusknoir）的[录像](https://www.youtube.com/watch?v=mq3UY7pQe4c)：两个卡组共用 Alakazam 核心，只取能照搬的打法。
+**录像**：Frankfurt 区域赛（2026-09-26）的决赛（Chałupka 对 Łaszkiewicz，镜像）和两场四强（对 Festival Lead、对 Dragapult Dusknoir）有直播录像（[第 2 天直播](https://www.youtube.com/watch?v=NOi0qAFjnME)）。从录像得出的打法标了"（录像）"，只代表这几局。另外引用了 2026 世界赛 Masters 四强 Cassiraga（Alakazam Dudunsparce）2-1 Chao（Dragapult Dusknoir）的[录像](https://www.youtube.com/watch?v=mq3UY7pQe4c)：两个卡组共用 Alakazam 核心，只取能照搬的打法；以及同一届八强 Chao 2-1 Łaszkiewicz（本卡组，卡表和下面的核心构筑基本一致）的[录像](https://www.youtube.com/watch?v=qwBID2ApsOY&t=24360s)。
 
 ---
 
@@ -16,7 +16,7 @@
 |---|---|---|
 | Dragapult ex | 46.0%（113） | 后备区只留 HP 高于 60 的宝可梦，Dusknoir 13 个指示物加 10 张手牌击倒 Dragapult ex |
 | N's Zoroark | 46.7%（45） | 我方全体弱恶，挨一下就倒；Dusknoir 正好击倒 130 HP 的 N's Zekrom，先拆复制来源 |
-| Dragapult Dusknoir | 51.5%（55） | 和 Dragapult ex 打法相同，再防对方 Cursed Blast 加 Phantom Dive 合计 190 击倒后备区 Alakazam；落后时 Prime Catcher 拉 Fez 加 Shadow Bind 锁住 |
+| Dragapult Dusknoir | 51.5%（55） | 和 Dragapult ex 打法相同，再防对方 Cursed Blast 加 Phantom Dive 合计 190 击倒后备区 Alakazam；落后时 Prime Catcher 拉 Fez 加 Shadow Bind 锁住，或用 Cursed Blast 拖成同时拿完；收对方的 Budew 会给对方 Unfair Stamp |
 | Basic Box（Mega Kangaskhan） | 71.5%（41） | 对方几乎全是 2 奖 ex，我方只需 3 次击倒；Dusknoir 加 Dusclops 不用攻击也能击倒后备区 Meowth ex |
 | Slowking | 70.6%（34） | Slowking 120 HP 只要 6 张手牌；Shaymin 挡住 Trifrost 打后备区的部分 |
 | Alakazam Dudunsparce | 66.7%（32） | Battle Cage 让 Cursed Blast 只能打战斗场；先 Cursed Blast 击倒战斗场，再打新上来的 |
@@ -34,8 +34,8 @@
 
 ### 核心构筑（22 份卡表，中位数张数）
 
-- **宝可梦**：Abra ×4（MEG 54 ×3 + TWM 80 ×1，22 份卡表都是这个配比）、Kadabra ×4（MEG 55）、Alakazam ×3（MEG 56）、Duskull ×4、Dusclops ×2、Dusknoir ×2（都是 PRE 版）、Shaymin ×1（DRI 10，Flower Curtain）、Fezandipiti ex ×1（95%）、Budew ×2（82%）、Patrat ×1（CRI 70，36%）。
-- **支援者**：Hilda ×4、Dawn ×3（Frankfurt 冠亚军都是 4）、Gwynn ×3、Boss's Orders ×1。
+- **宝可梦**：Abra ×4（22 份卡表都是 4 张：MEG 54 和 TWM 80 各 2 张的 14 份，3 + 1 的 5 份，包括 Frankfurt 冠亚军，1 + 3 的 3 份）、Kadabra ×4（MEG 55）、Alakazam ×3（MEG 56）、Duskull ×4、Dusclops ×2、Dusknoir ×2（都是 PRE 版）、Shaymin ×1（DRI 10，Flower Curtain）、Fezandipiti ex ×1（95%）、Budew ×2（82%）、Patrat ×1（CRI 70，36%）。
+- **支援者**：Hilda ×4、Dawn ×3（Frankfurt 冠亚军都是 4）、Gwynn ×3（10 份带 4 张）、Boss's Orders ×1。
 - **物品**：Rare Candy ×4、Poké Pad ×4、Buddy-Buddy Poffin ×3、Strange Timepiece ×3、Special Red Card ×2、Night Stretcher ×2、Prime Catcher ×1、Sacred Ash ×1。
 - **能量**：Telepathic Psychic Energy ×4、Psychic Energy ×1，整副牌只有 5 个能量。
 - **少数卡表的变化**：5 份卡表带 Frillish + Jellicent ex，其中 4 份配 Latias ex 和 Mist Energy；2 份带 Switch ×2。
@@ -209,6 +209,8 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 - **Cursed Blast 加 Jet Headbutt 打战斗场**：对方不需要 Dragapult ex 的完整能量就能击倒我方战斗场的 Alakazam，代价是送我方 1 张。
 - **Fezandipiti ex**：对方的自爆是在对方自己回合，不触发对方的 Flip the Script；我方用 Cursed Blast 自爆也不触发我方的 Flip the Script。
 - **Unfair Stamp 和 Special Red Card**：同 Dragapult ex。
+- **收对方的 Budew 等于给对方 Unfair Stamp**（录像）：Stamp 的条件是对方的宝可梦上回合被击倒，用 Kadabra 或 Cursed Blast 收 Budew 也算。2026 世界赛八强第 1 局，Łaszkiewicz 用 Kadabra 击倒 Chao 的 Budew 解锁物品，Chao 下回合就打 Stamp，他只剩 2 张手牌；Chao 接着用 Cursed Blast 加 Phantom Dive 收光他的 Abra 和 Alakazam，他投降。第 2 局他不再碰 Budew，Chao 整局没机会打 Stamp。被锁物品时 Kadabra、Alakazam、Dusknoir 照样能从手上进化，用不了的是 Rare Candy 和铺场物品。所以只在 Stamp 之后还接得上时才去收 Budew：场上已经有不靠手牌的 Dusclops 或 Dusknoir，Fezandipiti ex 在后备区（推断）。vs Dragapult ex 一节 Frankfurt 的录像里，用 Cursed Blast 清掉两只 Budew 后赢了，两种结果都有。
+- **手牌不够时分两回合击倒 Dragapult ex**（录像）：同一场第 2 局，Łaszkiewicz 用 Boss's Orders 拉出 Dragapult ex，Powerful Hand 打 240（12 张手牌），留它 80，准备下回合用 Dusknoir 的 Cursed Blast（130）收掉（他最后确实是用 Dusknoir 和 Dusclops 的两次 Cursed Blast 拿完了奖赏卡，见下面"拖进突然死亡"）。这一回合不击倒，对方下回合就没有 Stamp 可打；Cursed Blast 是特性，不看手牌，对方中间用 Judge 或 Special Red Card 打乱手牌也挡不住（推断）。
 
 **落后时的翻盘：Shadow Bind 锁人**（录像）
 
@@ -224,9 +226,15 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - [7:17:00](https://www.youtube.com/watch?v=NOi0qAFjnME&t=26220s) 收尾一回合拿 5 张：战斗场 Dusknoir 的 Cursed Blast 击倒剩 60 的 Fez（2 张）；Rare Candy 进第二只 Dusknoir，Cursed Blast 击倒新上来的 Drakloak（90，1 张）；Boss's Orders 拉出 Dragapult ex，Powerful Hand 击倒（2 张）。两次自爆送 Conti 2 张，他从剩 3 张变成剩 1 张，差一张没拿完。
 
 要点：
-- Shadow Bind 要 3 个能量，整副只有 5 个。只有在落后、Alakazam 线断掉、需要一个不靠手牌的攻击手时，才提前几回合给 Duskull 线攒能量（推断）。
+- Shadow Bind 要 3 个能量，整副只有 5 个（2 个压在奖赏卡里时只剩 3 个，Alakazam 攻击还要用，这条路基本走不通）。只有在落后、Alakazam 线断掉、需要一个不靠手牌的攻击手时，才提前几回合给 Duskull 线攒能量（推断）。
 - Prime Catcher 强制换掉自己的战斗场。后备区留一只 Teleporter Abra，就能把这次换位抵消掉。
 - 收尾回合用几次 Cursed Blast，按对手剩几张算：对手剩 3 张时最多自爆 2 次，第 3 次送出的奖赏卡会让对手先拿完。录像里正好用了 2 次。
+
+**落后时的另一条路：拖进突然死亡**（录像）
+
+- Cursed Blast 击倒对方的同时自己也被击倒，送对方 1 张。双方都只差最后几张时，可以在自己拿完的同一回合也把对方送到拿完，双方同时拿完就进入突然死亡（双方各放 1 张奖赏卡重新开一局）。
+- 2026 世界赛八强第 2 局：Chao 用两次 Cursed Blast 收掉 Łaszkiewicz 的 Alakazam 和 Kadabra，他没有攻击手了，就用 Dusknoir 和 Dusclops 的两次 Cursed Blast 拿完最后的奖赏卡，同时把 Chao 送到拿完，进入突然死亡并赢下。第 3 局他差一张 Rare Candy，没能再拖一次。Frankfurt 决赛的镜像也打出过同样的局面（见镜像一节）。
+- 我方领先时反过来要防：对方的 Dusclops、Dusknoir 也能这样自爆，先算对方还能用几次 Cursed Blast，会不会和我方同时拿完（推断）。
 
 **关键卡与构筑**
 - 没有带卡与不带卡的对比数据（公开卡表只有 19 局）。
@@ -237,6 +245,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - 后备区摆着两只 Alakazam，被 Dusknoir 加 Phantom Dive 一回合收掉一只，另一只被打战斗场。
 - 没把对方自爆送来的奖赏卡算进路线，多用了一次自己的 Dusknoir。
 - 在对方剩 3 张以下之前就把 Special Red Card 用掉或弃掉。
+- 为了解锁物品收掉对方的 Budew，下回合吃 Unfair Stamp，只剩 2 张手牌（世界赛八强第 1 局）。
 
 ---
 
@@ -634,7 +643,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 
 1. **dragapult-dusknoir.yaml**（vs alakazam-dudunsparce）："Dusknoir 13 个指示物直接击倒 Alakazam（140 HP）"。Dusknoir（PRE 37）的 Cursed Blast 放 13 个指示物，即 130；Alakazam（MEG 56）HP 140。130 打不死 140，还差 1 个指示物，而 Battle Cage 在场时 Phantom Dive 的后备区指示物也补不上。
 2. **mega-excadrill-ex.yaml**（vs dragapult-blaziken）："Hero's Cape（440 HP）也不够"。Blaziken ex 的 Smolder-sault 200，Excadrill 弱火 ×2 = 400；Hero's Cape 让 340 HP 变 440，400 打不死，Excadrill 剩 40 HP。所以带 Hero's Cape 是够的。
-3. **dhelmise-pbl.yaml**（单奖路线）："Matcha Spin 全场 40，收掉 Applin/Abra 级别的小怪"。Alakazam 卡组 3 张 Abra 是 MEG 54，HP 50，40 打不死；只有 1 张 Abra（TWM 80）是 40 HP。
+3. **dhelmise-pbl.yaml**（单奖路线）："Matcha Spin 全场 40，收掉 Applin/Abra 级别的小怪"。Alakazam 卡组的 Abra 有两种：MEG 54 是 50 HP，40 打不死；TWM 80 是 40 HP，多数卡表带 2 张（本卡组 22 份卡表里 14 份是两种各 2 张）。
 4. **crustle-dri.yaml**（prize_map）：把"Alakazam 的指示物"列为对 Crustle 的威胁。但 Mist Energy 的文字是"防止对手宝可梦的招式对这只宝可梦造成的所有效果"，Powerful Hand 放指示物是招式效果，贴 Mist Energy 的 Crustle 不受影响。真正的威胁是 Dusknoir 的 Cursed Blast（特性）和 Shadow Bind（伤害）。
 5. **crustle-dri.yaml 与 festival-lead.yaml**（vs festival-lead / vs crustle-dri）："100 ×2 = 200 一回合击倒 Crustle（带 Growing Grass Energy 也只有 170）"。Crustle 卡表 100% 带 Hero's Cape（+100 HP），带上后是 250 或 270，200 打不死。crustle-dri.yaml 自己的 setup 也写了 Hero's Cape 后 250 / 270，前后矛盾。
 6. **dhelmise-pbl.yaml**（vs n-zoroark）："全队超能弱恶"。Poltchageist 和 Sinistcha（PBL 5、PBL 6）是草属性，弱火，不弱恶。

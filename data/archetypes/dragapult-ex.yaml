@@ -155,6 +155,17 @@ evidence:
       - 镜像：Phantom Dive 故意不击倒，下回合 Hammer 加 Phantom Dive 一回合拿 3 张（https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=3045s）
       - 构筑：Hedrick 9 个能量含 3 张 Darkness，解说认为这是 Hammer 互拆的镜像里的差别
     caveat: 一场两局；拿奖读数和解说对得上，"故意不击倒"的理由是推断的。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 八强，Tonisson 2-0 Spry（Basic Box，带 Prime Catcher、Enamorus、Jamming Tower，没有 Hero's Cape 和 Unfair Stamp）
+    window: TEF-PBL
+    confirms:
+      - 对 Basic Box：Wellspring Ogerpon 的 Torrential Pump 一次收掉两只 Drakloak（第 2 局）
+      - 对 Basic Box：对手要连续三次正面才能用 Kangaskhan 一击 Dragapult ex，第 1 局第一次就抛出反面
+    adds:
+      - 对 Basic Box：Moltres 先打 Kangaskhan 110，对手击倒 Moltres 后，同一回合 Rosa's Encouragement + Unfair Stamp + Phantom Dive 击倒 Kangaskhan 拿 3 张（https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s）
+      - 对 Basic Box：Moltres 打弱火的 Iron Leaves ex 是 220，一击（第 2 局）
+      - 对 Basic Box：Boss's Orders + Special Red Card + Phantom Dive 几回合拿 5 张（https://www.youtube.com/watch?v=qwBID2ApsOY&t=30687s）
+    caveat: 一场两局；第 2 局那 5 张的顺序没有逐回合核对。
 
 mistakes:
   - 对 Battle Cage 卡组时过早打掉 Risky Ruins，关键回合没有场地可换。

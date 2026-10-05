@@ -1,6 +1,6 @@
-# 2026 世界赛 Masters 决赛圈复盘（四强）
+# 2026 世界赛 Masters 决赛圈复盘（四强、八强）
 
-世界赛 2026-08-28 在 Anaheim，环境 TEF-PBL（比现在少 30C 系列），这几局用到的卡现在都还合法。卡组和成绩对照 data/tournaments/2026-08-28_515_world-championships-2026。两场四强都是单独上传的转载：Hedrick 对 Tonisson 是 R4d7ll0oz1Q，Cassiraga 对 Chao 是 mq3UY7pQe4c。八强还没找到，第 2 天直播 qwBID2ApsOY 待查。决赛见 [worlds2026-masters-final-game1.md](worlds2026-masters-final-game1.md) 和 [worlds2026-finals.md](worlds2026-finals.md)。
+世界赛 2026-08-28 在 Anaheim，环境 TEF-PBL（比现在少 30C 系列），这几局用到的卡现在都还合法。卡组和成绩对照 data/tournaments/2026-08-28_515_world-championships-2026。两场四强都是单独上传的转载：Hedrick 对 Tonisson 是 R4d7ll0oz1Q，Cassiraga 对 Chao 是 mq3UY7pQe4c。八强有两场上了第 2 天直播 qwBID2ApsOY（6:46 起 Chao 对 Łaszkiewicz，7:58 起 Tonisson 对 Spry），Hedrick、Cassiraga 的八强没有直播。决赛见 [worlds2026-masters-final-game1.md](worlds2026-masters-final-game1.md) 和 [worlds2026-finals.md](worlds2026-finals.md)。
 
 做法：没有调用 API，在你电脑上逐张看截图、对照解说写成。拿奖时间是视频工具读的侧边面板（Baltimore 预设），和解说对得上。
 
@@ -75,3 +75,69 @@ Dragapult ex vs Alakazam Dudunsparce（60.4%）说中的：场地之争；Genese
 6. Alakazam Dusknoir：给"优先拉 Drakloak""后备区只放要进化的 Abra"补了录像证据。Cassiraga 的另外两点（先挂好 Genesect 的道具再进攻、对手只带 1 张场地时第 1 回合就打 Battle Cage）用不上：我们的 Alakazam Dusknoir 卡表没有 Genesect 和 Battle Cage。
 
 三份打法文件（dragapult-ex.yaml、dragapult-dusknoir.yaml、alakazam-dudunsparce.yaml）也补了这两场的录像证据。
+
+## 八强：Chao（Dragapult Dusknoir）2-1 Łaszkiewicz（Alakazam Dusknoir）
+
+视频：第 2 天直播 https://www.youtube.com/watch?v=qwBID2ApsOY&t=24360s （6:46 到 7:41，660 帧读出 529 帧，和解说对得上）。Mateusz Łaszkiewicz 也是 Frankfurt 亚军，这次的卡表和手册的核心构筑基本一致：Abra 两种各 2 张，Gwynn 4 张，Dawn 2 张，5 个能量，没有 Genesect 和 Battle Cage。Chao 的卡表见上面四强一节。括号里是剩余奖赏卡，Chao 在前。
+
+### 第 1 局：Chao 胜
+
+- Łaszkiewicz 用 Kadabra 击倒 Chao 的 Budew 解锁物品，Chao 下回合就打 Unfair Stamp，他只剩 2 张手牌。
+- Chao 用 Cursed Blast 加 Phantom Dive 收光他的 Abra 和 Alakazam，Łaszkiewicz 投降。
+
+### 第 2 局：Łaszkiewicz 胜（突然死亡）
+
+- Łaszkiewicz 不再碰 Budew，Chao 没有机会打 Stamp。
+- 他用 Boss's Orders 拉出 Dragapult ex，Powerful Hand 打 240 不击倒（剩 80），准备下回合用 Cursed Blast 收掉。
+- Chao 用两次 Cursed Blast 收掉他的 Alakazam 和 Kadabra。
+- Łaszkiewicz 用 Dusknoir 和 Dusclops 的两次 Cursed Blast 拿完最后的奖赏卡，自爆送出的奖赏卡也让 Chao 拿完，双方同时拿完，进入突然死亡。突然死亡也是 Łaszkiewicz 赢。
+
+### 第 3 局：Chao 胜
+
+- Chao 起手卡手，顶抽到 Lillie's Determination；他的 Unfair Stamp 在奖赏卡里，是后来拿奖时拿到的。
+- Cursed Blast、Special Red Card、一次拿 4 张的 Phantom Dive，打到 1 对 1。
+- Łaszkiewicz 差一张 Rare Candy，没能再拖一次突然死亡。
+
+### 对照手册（Alakazam Dusknoir vs Dragapult Dusknoir，51.5%）
+
+说中的：后备区只放要进化的 Abra（Dusclops 一下就能收）；收尾回合按对手剩几张算 Cursed Blast 的次数；Special Red Card 留到对手剩 3 张以下。
+
+写进手册的（PR #27）：
+
+1. 收对方的 Budew 等于给对方 Unfair Stamp（对方 93% 卡表带）。只在 Stamp 之后还接得上时才收（推断）。Frankfurt 那场用 Cursed Blast 清 Budew 是赢了的，两种结果都写上了。
+2. 手牌不够 16 张时分两回合击倒 Dragapult ex：先用 Powerful Hand 打一半，下回合 Cursed Blast 收掉。中间对方没有 Stamp 可打，Judge、Special Red Card 也挡不住特性（推断）。
+3. 落后时用 Cursed Blast 让双方同时拿完，拖进突然死亡；领先时防对方这样做。
+4. 核心构筑的 Abra 配比改正：22 份卡表里两种各 2 张的 14 份，3 + 1 的 5 份，1 + 3 的 3 份。手册原来写"22 份都是 3 + 1"，是错的。另外注明 Gwynn 有 10 份带 4 张。
+
+Dragapult Dusknoir 的打法文件（dragapult-dusknoir.yaml）也补了这一场的录像证据。
+
+## 八强：Tonisson（Dragapult ex）2-0 Spry（Basic Box）
+
+视频：第 2 天直播 https://www.youtube.com/watch?v=qwBID2ApsOY&t=28680s （7:58 到 8:33，372 帧读出 326 帧）。Tonisson 的卡表见上面四强一节。Nathan Spry 的 Basic Box 带 Prime Catcher、Enamorus、1 张 Jamming Tower、4 张 Energy Switch，没有 Hero's Cape，也没有 Unfair Stamp。括号里是剩余奖赏卡，Tonisson 在前。
+
+### 第 1 局：Tonisson 胜
+
+- Spry 起手没有 Kangaskhan。Enamorus 击倒 Tonisson 的 Budew（6/5）。
+- Tonisson 用 Moltres 的 Fighting Wings 打 Spry 战斗场的 Kangaskhan 110，它剩 190，进了 Phantom Dive 200 的范围。
+- Spry 击倒 Moltres（6/4）。[8:14:41](https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s) Tonisson 落后、宝可梦又刚被击倒，同一回合打出 Rosa's Encouragement 和 Unfair Stamp，Phantom Dive 击倒 Kangaskhan，一回合拿 3 张（3/4）。
+- Spry 最后只能用 Rapid-Fire Combo 赌三次正面，第一次就是反面，投降。
+
+### 第 2 局：Tonisson 胜
+
+- Spry 起手 Iron Leaves ex，没有支援者；Tonisson 用 Budew 锁物品。
+- Spry 用 Prime Catcher 加两张 Energy Switch，Wellspring Ogerpon 的 Torrential Pump 一次收掉两只 Drakloak（6/3）。
+- Tonisson 换上第二只 Munkidori，拿 Moltres 对付弱火的 Iron Leaves ex，再用 Boss's Orders、Special Red Card 和 Phantom Dive，几回合拿了 5 张（[8:31:27](https://www.youtube.com/watch?v=qwBID2ApsOY&t=30687s)，1/3），最后用 Boss's Orders 拿下最后一张。
+- Spry 的 Lillie's Clefairy ex 整个系列没有攻击过。
+
+### 对照手册
+
+Basic Box vs Dragapult ex（52.7%）说中的：Torrential Pump 收 Drakloak；对手的 Moltres 和 Unfair Stamp 会反打；别赌 Kangaskhan 的三次正面。Dragapult ex vs Basic Box（42.6%）说中的：Mega Kangaskhan ex 要先垫伤害再收；Moltres 打 2 奖 ex 只送 1 张。
+
+写进手册的（PR #27）：
+
+1. 两份手册都加了第 1 局的反打：Moltres 打 Kangaskhan 110，对手击倒 Moltres 后，同一回合 Rosa、Stamp、Phantom Dive 拿 3 张。Dragapult ex 一方因此可以让对手先拿单奖（推断）；Basic Box 一方在 Kangaskhan 吃过 Moltres 之后，收 Moltres 前先算对手的反打（推断）。
+2. Moltres 打弱火的 Iron Leaves ex（220）和 Teal Mask Ogerpon ex（210）是 220，一击（按卡牌文字；第 2 局 Tonisson 拿它对付 Iron Leaves ex）。
+3. 第 2 局 Torrential Pump 一次收两只 Drakloak，给两份手册的这一条补了录像；第 1 局的三次正面补进 Basic Box 的常见失误。
+4. 没写进手册的：复盘时有一种看法认为这一场说明 Hero's Cape 比 Prime Catcher 更适合当 ACE SPEC。但 Spry 带的是 Prime Catcher，没有 Cape，这一场看不出两者高下；四场比赛的数据是带 Prime Catcher 的卡表更好（71.0% 对 64.6%），所以没有采纳。
+
+dragapult-ex.yaml 和 basic-box-m.yaml 也补了这一场的录像证据。

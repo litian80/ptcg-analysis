@@ -50,7 +50,7 @@
 **奖赏卡路线**
 - 第 1-2 回合（对手还没 Dragapult ex）：Latias ex 或 Kangaskhan 击倒战斗场的 Dreepy（70）/ Drakloak（90），拿 1 张；如果对手后备区有 Meowth ex（170）或 Fezandipiti ex（210），用 Boss's Orders 拉出来用 Latias 200 / Kangaskhan 200 起击倒拿 2 张。
 - Fezandipiti ex 的 Cruel Arrow（3 个无色，对手任意一只 100）不用 Boss 就能收后备区的 Dreepy（70）和 Drakloak（90），每回合 1 张；进化线断了，Dragapult ex 就上不来（后备区的 Dragapult ex 是太晶，打不到）。录像：Baltimore 2026 四强 Kasturi 第 1 局连续击倒两只 Drakloak（[6:34:10](https://www.youtube.com/watch?v=nLkFmtXdXGE&t=23650s)），三局一共用它拿了 4 张。
-- Wellspring Mask Ogerpon ex 的 Torrential Pump（Water + 2 无色）100，把身上 3 个能量洗回牌库可再对后备区 120：一次击倒后备区的 Drakloak（90）或 Munkidori（110）。Drakloak 少一只，对手的 Recon Directive 检索就少一次。录像（同一场第 1 局）：Christen 用它击倒后备区的 Drakloak（[5:43:05](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20585s)），对手 Dragapult ex 上场后放下 Lillie's Clefairy ex，Full Moon Rondo 一击（[5:47:20](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20840s)）。
+- Wellspring Mask Ogerpon ex 的 Torrential Pump（Water + 2 无色）100，把身上 3 个能量洗回牌库可再对后备区 120：一次击倒后备区的 Drakloak（90）或 Munkidori（110）。Drakloak 少一只，对手的 Recon Directive 检索就少一次。录像（同一场第 1 局）：Christen 用它击倒后备区的 Drakloak（[5:43:05](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20585s)），对手 Dragapult ex 上场后放下 Lillie's Clefairy ex，Full Moon Rondo 一击（[5:47:20](https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=20840s)）。2026 世界赛八强第 2 局，Spry 用 Prime Catcher 加两张 Energy Switch，Torrential Pump 一次收掉两只 Drakloak（战斗场 100、后备区 120）。
 - 对手 Dragapult ex 上场那回合：放下 Lillie's Clefairy ex，Latias ex Eon Blade 400 击倒，拿 2 张。
 - 下一回合：Latias 不能连续攻击。用第二只 Latias，或 Clefairy 自己的 Full Moon Rondo（后备区合计 7 只以上即可一击），或 Iron Leaves ex 放下时用 Rapid Vernier 把 Latias 身上的能量挪过来（Iron Leaves 180 不够打 Dragapult，只用来打 1 奖小怪或 210 HP 以下的 ex）。
 - 收尾：Prime Catcher（41% 卡表）或 Boss's Orders 拉后备区的 2 奖 ex。对手剩 3 张以下时用 Special Red Card 打乱对手手牌。
@@ -64,7 +64,8 @@
 - 领先时别为了凑击倒去赌 Rapid-Fire Combo 的正面：抛出反面只打 200，留在对手宝可梦身上的伤害会被它的 Munkidori 挪到我方（推断；Baltimore 八强 Kasturi 领先时就不这样打）。
 - Budew 锁物品：被锁的那回合靠支援者（Crispin、Cyrano）和特性（Teal Dance）推进。
 - Team Rocket's Watchtower（四场比赛 19% 的 Dragapult 卡表带）：关掉 Kangaskhan 的 Run Errand 和 Meowth ex 的 Last-Ditch Catch。打出自己的 Area Zero Underdepths 换掉它（录像：同一场第 1 局 Christen 就是这样做的）。
-- 对手 Moltres（46%，Fighting Wings 对战斗场 ex 110）、Unfair Stamp 在我们击倒对手宝可梦后会用来翻盘：Kangaskhan 300 HP，200 + Munkidori 30 + Moltres 不同回合累计才能击倒，Kangaskhan 吃对手两下，适合在对手只剩两三张奖赏卡时作为最后的坦克（推断）。
+- 对手 Moltres（46%，Fighting Wings 对战斗场 ex 110）、Unfair Stamp 在我们击倒对手宝可梦后会用来翻盘：Kangaskhan 300 HP，200 + Munkidori 30 + Moltres 不同回合累计才能击倒，Kangaskhan 吃对手两下，适合在对手只剩两三张奖赏卡时作为最后的坦克（推断）。录像：2026 世界赛八强第 1 局，Tonisson 先用 Moltres 打 Spry 战斗场的 Kangaskhan 110，它剩 190，进了 Phantom Dive 200 的范围；Spry 击倒 Moltres 拿 1 张，Tonisson 落后、宝可梦又刚被击倒，同一回合打出 Rosa's Encouragement 和 Unfair Stamp，Phantom Dive 击倒 Kangaskhan 拿 3 张（[8:14:41](https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s)）。Kangaskhan 吃过 Moltres 之后，收 Moltres 那 1 张换来的是对手拿 3 张的回合。收之前先算对手下回合能不能一击它（对手落后时，Rosa's Encouragement 能从弃牌区给 Dragapult ex 贴 2 个能量），能的话别让它留在战斗场（推断）。
+- 对手的 Moltres 打弱火的 Iron Leaves ex（220）和 Teal Mask Ogerpon ex（210）是 110 × 2 = 220，一击。对手带 Moltres 时，这两只别站在战斗场（推断）。录像：同一场第 2 局 Spry 起手 Iron Leaves ex，Tonisson 就拿 Moltres 对付它。
 
 **关键卡与构筑**
 - 我方关键卡（本对局公开卡表 313 局，带的卡表胜率 67.1%）：Water Energy 带 70.8%（263 局）对不带 47.3%（50 局）；Crispin 带 70.3%（267）对不带 48.6%（46）；Fighting Energy 带 70.4%（262）对 50.3%（51）。不带 Water / Crispin 的那组卡表同时带 N's Plan（48.6%，48 局 vs 70.4%）、Bug Catching Set（48.5%，44 局）、Pecharunt（50.3%，53 局）、Prism Energy（53.8%，57 局）、Paldean Tauros（53.2%，42 局），都更差。结论：打 Dragapult 用标准的 Crispin + 多色基本能量版本，Water Energy 让 Wellspring Ogerpon 能狙 Drakloak / Munkidori（推断其原因）。
@@ -75,7 +76,7 @@
 
 **常见失误**
 - 第 1 回合就把 Lillie's Clefairy ex 放在后备区，对手 Dragapult ex 上场当回合 Boss 它，我们失去弱点又送 2 张。
-- 用 Kangaskhan 正面打 Dragapult ex：200 加正面次数，要连续 3 次正面（350）才够 320，Kangaskhan 被击倒还送 3 张。
+- 用 Kangaskhan 正面打 Dragapult ex：200 加正面次数，要连续 3 次正面（350）才够 320，Kangaskhan 被击倒还送 3 张。世界赛八强第 1 局 Spry 最后只能赌三次正面，第一次就是反面，随后投降。
 - Latias ex 打完 Eon Blade 后下回合没有第二个攻击手准备好（另一只 Latias、Clefairy 或 Iron Leaves）。
 - 后备区摆满 8 只却被对手换场地弃到 5 只，弃掉了要用的宝可梦。
 
