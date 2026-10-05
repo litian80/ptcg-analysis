@@ -125,6 +125,16 @@ evidence:
       - 对手的 Fezandipiti ex 用 Cruel Arrow 依次收 Dusclops、Duskull、Dreepy、Drakloak，第 2、3 局输在这里；第 3 局一张奖赏卡没拿到
       - 6 张奖赏卡时打 Lillie's Determination 强制抽 8，第 2 局牌库只剩 2 张，只能硬攻
     caveat: NAIC 在世界赛之前，卡池比现在少，用到的关键卡现在都还合法；NAIC 的旧版面板读不准局数，拿奖时间按解说。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 四强，Chao（本卡组，没有 Crushing Hammer，场地只有 1 张 Jamming Tower）1-2 Cassiraga（Alakazam Dudunsparce，2 张 Genesect，4 张 Battle Cage）
+    window: TEF-PBL
+    confirms:
+      - Battle Cage 挡不住放到战斗场的指示物：第 1 局一张场地没打，Boss's Orders 拉出 Genesect，Cursed Blast 打战斗场、Phantom Dive 收尾（https://www.youtube.com/watch?v=mq3UY7pQe4c&t=1440s）
+    adds:
+      - 对手同时放两只 Genesect，收掉一只还有一只封着，整个系列一次 Unfair Stamp 都没打出来
+      - 对手用 Eri 弃掉手里等条件的 Special Red Card（第 1 局）
+      - Judge 把对手手牌打回 4 张，对手下一回合又凑到 16 张一击 Dragapult ex（https://www.youtube.com/watch?v=mq3UY7pQe4c&t=4500s）
+    caveat: 一场三局；带 2 张 Genesect 的对手只占四场比赛 62 份卡表里的 7 份。
 
 mistakes:
   - 在无关紧要的回合用 Cursed Blast，白送 1 张奖赏卡。

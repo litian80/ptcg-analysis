@@ -4,7 +4,7 @@
 
 **样本量提醒**：这套牌使用率不到 1%，每个对局只有 15 到 113 局，大多数在 30 到 50 局。胜率差 10 个百分点以内的对局，基本分不出强弱。"带某张卡与不带某张卡"的对比只有 Dragapult ex 一个对局有足够样本，而且这些数据只来自公开卡表的玩家（成绩较好的玩家），所以只能看差值，不能看绝对值。卡表数据里没有先后攻信息，也没有逐局记录。下文凡是没有卡牌文字或数据直接支持的判断，都标了"（推断）"。
 
-**录像**：Frankfurt 区域赛（2026-09-26）的决赛（Chałupka 对 Łaszkiewicz，镜像）和两场四强（对 Festival Lead、对 Dragapult Dusknoir）有直播录像（[第 2 天直播](https://www.youtube.com/watch?v=NOi0qAFjnME)）。从录像得出的打法标了"（录像）"，只代表这几局。
+**录像**：Frankfurt 区域赛（2026-09-26）的决赛（Chałupka 对 Łaszkiewicz，镜像）和两场四强（对 Festival Lead、对 Dragapult Dusknoir）有直播录像（[第 2 天直播](https://www.youtube.com/watch?v=NOi0qAFjnME)）。从录像得出的打法标了"（录像）"，只代表这几局。另外引用了 2026 世界赛 Masters 四强 Cassiraga（Alakazam Dudunsparce）2-1 Chao（Dragapult Dusknoir）的[录像](https://www.youtube.com/watch?v=mq3UY7pQe4c)：两个卡组共用 Alakazam 核心，只取能照搬的打法。
 
 ---
 
@@ -195,10 +195,10 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 
 **开局与先后攻**
 - 选后攻，起手 Budew 锁物品（推断，理由同 Dragapult ex）。对方 26% 卡表带 2 张 Rare Candy，第 2 回合就可能有 Dusknoir。
-- 后备区只放要进化的 Abra / Duskull。对方 Dusclops 的 5 个指示物就能击倒一只 Abra。
+- 后备区只放要进化的 Abra / Duskull。对方 Dusclops 的 5 个指示物就能击倒一只 Abra。录像：2026 世界赛四强第 3 局，Chao 很早就用 Dusclops 的 Cursed Blast 收掉 Abra。
 
 **奖赏卡路线**
-1. **我方第 2 回合**（拿 1 张）：Powerful Hand 打战斗场的 Dreepy（4 张）。或者用 Boss / Prime Catcher 拉对方的 Duskull（60，3 张）或 Drakloak（90，5 张）。优先拉 Drakloak；对方只有 2 只 Duskull 时，打 Duskull 能直接断掉 Dusknoir 线（推断）。
+1. **我方第 2 回合**（拿 1 张）：Powerful Hand 打战斗场的 Dreepy（4 张）。或者用 Boss / Prime Catcher 拉对方的 Duskull（60，3 张）或 Drakloak（90，5 张）。优先拉 Drakloak；对方只有 2 只 Duskull 时，打 Duskull 能直接断掉 Dusknoir 线（推断）。录像：2026 世界赛四强第 2 局，Cassiraga 用 Boss's Orders 连续两回合击倒贴着能量的 Drakloak，Chao 交掉 Crispin 和 Rosa's Encouragement 也补不回来，投降。
 2. **我方第 3 回合**（拿 2 张，累计 3）：Dusknoir 130 + Powerful Hand 10 张，击倒战斗场的 Dragapult ex。
 3. **我方第 4 回合**（拿 2 张，累计 5）：第二只 Dragapult ex，手牌 16 张或第二只 Dusknoir + 10 张。对方自爆送的奖赏卡可以替代其中一步。
 4. **我方第 5 回合**（拿 1 张，累计 6）：任意单奖收尾。
