@@ -67,6 +67,7 @@ def cmd_analyze(args) -> int:
     captions = analyze_captions(segments, matcher, year=uploaded.year if uploaded else None)
     if args.games:
         captions.games = args.games
+        meta["games_from"] = "--games"
     elif meta.get("chapters"):
         captions.games = split_at(captions.games, [float(c["start_time"]) for c in meta["chapters"]])
 

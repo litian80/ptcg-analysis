@@ -118,25 +118,38 @@ class PrizeChange:
     left: int
     right: int
     game: int = 1  # counted from the prize readings: a new game starts when the counts go back up
+    # Last sample that still showed the previous count: the change happened
+    # between ``after`` and ``t``. Pop-ups and banners often cover the panel
+    # right after a knockout, so the gap can be most of a minute.
+    after: float | None = None
 
     def to_dict(self) -> dict:
-        return {"t": round(self.t, 2), "left": self.left, "right": self.right, "game": self.game}
+        d = {"t": round(self.t, 2), "left": self.left, "right": self.right, "game": self.game}
+        if self.after is not None:
+            d["after"] = round(self.after, 2)
+        return d
 
 
-def prize_timeline(frames: list[Frame], hold: int = 2, new_game_hold: float = 60.0) -> list[PrizeChange]:
+def prize_timeline(
+    frames: list[Frame], hold: int = 2, new_game_hold: float = 60.0, reset_hold: float = 20.0
+) -> list[PrizeChange]:
     """Confirmed prize counts over time, one entry per change.
 
     A count is kept once ``hold`` readable samples in a row agree. Prizes are
     never given back, so a count that goes up is a replay of an earlier board
-    and is ignored, unless it holds for ``new_game_hold`` seconds: then a new
-    game has started. Caption-based game spans are not used; on long streams
-    they miss games.
+    and is ignored, unless it holds long enough to be a new game: ``reset_hold``
+    seconds for a fresh 6-6 board (short sudden-death games included),
+    ``new_game_hold`` for any other count. Caption-based game spans are not
+    used; on long streams they miss games.
     """
     out: list[PrizeChange] = []
     run_value, run_start, run_len = None, 0.0, 0
+    state_seen = None  # last sample showing the current confirmed count
     for f in frames:
         if f.prizes is None:
             continue
+        if out and f.prizes == (out[-1].left, out[-1].right):
+            state_seen = f.t
         if f.prizes == run_value:
             run_len += 1
         else:
@@ -150,10 +163,19 @@ def prize_timeline(frames: list[Frame], hold: int = 2, new_game_hold: float = 60
         elif (left, right) == (last.left, last.right):
             continue
         elif left <= last.left and right <= last.right:
-            out.append(PrizeChange(run_start, left, right, last.game))
-        elif f.t - run_start >= new_game_hold:
-            out.append(PrizeChange(run_start, left, right, last.game + 1))
+            out.append(PrizeChange(run_start, left, right, last.game, state_seen))
+        elif f.t - run_start >= (reset_hold if run_value == (6, 6) else new_game_hold):
+            out.append(PrizeChange(run_start, left, right, last.game + 1, state_seen))
+        else:
+            continue
+        state_seen = f.t
     return out
+
+
+def prize_games(changes: list[PrizeChange]) -> list[tuple[float, float | None]]:
+    """Game spans from the prize timeline: each game runs until the next one's first reading."""
+    firsts = [c.t for i, c in enumerate(changes) if i == 0 or c.game != changes[i - 1].game]
+    return [(a, firsts[i + 1] if i + 1 < len(firsts) else None) for i, a in enumerate(firsts)]
 
 
 def describe(change: PrizeChange, before: PrizeChange | None) -> str:

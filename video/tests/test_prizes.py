@@ -8,7 +8,7 @@ import pytest
 
 from ptcg_video import cli
 from ptcg_video.frames import Frame
-from ptcg_video.prizes import PRIZE_PRESETS, count_column, describe, prize_timeline, read_prizes
+from ptcg_video.prizes import PRIZE_PRESETS, count_column, describe, prize_games, prize_timeline, read_prizes
 
 SIDES = PRIZE_PRESETS["sides"]
 LIT, DARK = 140, 50  # mean gray of a lit ball and an empty slot on the real overlay: 115-165 and 38-65
@@ -58,6 +58,23 @@ def test_timeline_new_game_when_counts_hold_high():
     assert [(c.left, c.right, c.game) for c in changes] == [(2, 1, 1), (6, 6, 2), (6, 5, 2)]
     assert changes[1].t == 15  # first sample of the new game, not when it was confirmed
     assert describe(changes[1], changes[0]) == "new game"
+    assert prize_games(changes) == [(0, 15), (15, None)]
+
+
+def test_timeline_short_fresh_board_is_a_new_game_but_other_rises_are_not():
+    # A 30 s replay of an earlier mid-game count is not a game; a fresh 6-6 board for 20 s
+    # (a sudden-death game) is.
+    readings = [(1, 1)] * 2 + [(4, 4)] * 7 + [None] * 3 + [(6, 6)] * 5 + [(5, 6)] * 2
+    changes = prize_timeline(frames_with(readings))
+    assert [(c.left, c.right, c.game) for c in changes] == [(1, 1, 1), (6, 6, 2), (5, 6, 2)]
+
+
+def test_timeline_change_time_range_when_the_panel_was_hidden():
+    # A knockout at about 0:20, then a pop-up covers the panel until 0:45.
+    readings = [(3, 2)] * 4 + [None] * 5 + [(1, 2)] * 3
+    changes = prize_timeline(frames_with(readings))
+    assert [(c.after, c.t) for c in changes] == [(None, 0), (15, 45)]
+    assert changes[1].to_dict()["after"] == 15
 
 
 @pytest.fixture
@@ -124,3 +141,26 @@ def test_cli_reads_prizes_on_sides_overlay(tmp_path):
     assert cli.main(["analyze", str(video), "--captions", str(Path(__file__).parent / "fixtures" / "simple.srt"),
                      "--hash-regions", "sides", "--prizes", "off", "--no-llm", "--out", str(off)]) == 0
     assert not (off / "overlay" / "prizes.json").exists()
+
+
+def test_report_games_from_prizes_and_time_ranges(tmp_path):
+    from ptcg_video.events import CaptionAnalysis
+    from ptcg_video.report import write_outputs, write_review_pack
+
+    readings = [(6, 6)] * 4 + [None] * 4 + [(4, 6)] * 4 + [(6, 6)] * 6 + [(6, 5)] * 3
+    frames = frames_with(readings)
+    for f in frames:
+        f.keyframe = True
+    captions = CaptionAnalysis(games=[(0.0, None)])  # the commentary found one game; the prizes find two
+    meta = {"title": "t", "url": "https://youtu.be/x?v=1"}
+    report = write_outputs(tmp_path, meta, [], captions, frames, [], None).read_text(encoding="utf-8")
+    assert "## Games (from prize markers)" in report
+    assert "- Game 2: [1:00]" in report
+    assert "| [0:15](https://youtu.be/x?v=1&t=15s) - 0:40 | 1 | 4 | 6 | left took 2 |" in report
+    pack = write_review_pack(tmp_path, meta, [], captions, frames, window=30).read_text(encoding="utf-8")
+    assert "Prizes left → 4 / 6 between 0:15 and 0:40 (left took 2)" in pack
+    assert "(game 2)" in pack
+
+    meta["games_from"] = "--games"
+    report = write_outputs(tmp_path, meta, [], captions, frames, [], None).read_text(encoding="utf-8")
+    assert "## Games (from --games)" in report and "Game 2" not in report
