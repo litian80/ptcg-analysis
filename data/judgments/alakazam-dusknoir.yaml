@@ -33,3 +33,12 @@ judgments:
     window: TEF-30C
     depends_on: [Fezandipiti ex]
     where: data/matchups/alakazam-dusknoir.md
+  - id: akd-zor-01
+    vs: n-zoroark
+    text: 对 N's Zoroark（对方带 Special Red Card），拿到第 2 张后先不拿第 3 张，只打伤不击倒，直到能一回合拿完剩下的 4 张
+    confidence: 0.6
+    weight: 3
+    basis: 录像：2026 世界赛第 1 天第 6 轮 Łaszkiewicz 2-1 Lepine（TEF-PBL），第 1、3 局都这样赢，解说讲了原因；Lepine 没带 Judge
+    window: TEF-30C
+    depends_on: [Special Red Card, Dusknoir, Alakazam]
+    where: data/matchups/alakazam-dusknoir.md

@@ -4,7 +4,7 @@
 
 **样本量提醒**：这套牌使用率不到 1%，每个对局只有 15 到 113 局，大多数在 30 到 50 局。胜率差 10 个百分点以内的对局，基本分不出强弱。"带某张卡与不带某张卡"的对比只有 Dragapult ex 一个对局有足够样本，而且这些数据只来自公开卡表的玩家（成绩较好的玩家），所以只能看差值，不能看绝对值。卡表数据里没有先后攻信息，也没有逐局记录。下文凡是没有卡牌文字或数据直接支持的判断，都标了"（推断）"。
 
-**录像**：Frankfurt 区域赛（2026-09-26）的决赛（Chałupka 对 Łaszkiewicz，镜像）和两场四强（对 Festival Lead、对 Dragapult Dusknoir）有直播录像（[第 2 天直播](https://www.youtube.com/watch?v=NOi0qAFjnME)）。从录像得出的打法标了"（录像）"，只代表这几局。另外引用了 2026 世界赛 Masters 四强 Cassiraga（Alakazam Dudunsparce）2-1 Chao（Dragapult Dusknoir）的[录像](https://www.youtube.com/watch?v=mq3UY7pQe4c)：两个卡组共用 Alakazam 核心，只取能照搬的打法；以及同一届八强 Chao 2-1 Łaszkiewicz（本卡组，卡表和下面的核心构筑基本一致）的[录像](https://www.youtube.com/watch?v=qwBID2ApsOY&t=24360s)。
+**录像**：Frankfurt 区域赛（2026-09-26）的决赛（Chałupka 对 Łaszkiewicz，镜像）和两场四强（对 Festival Lead、对 Dragapult Dusknoir）有直播录像（[第 2 天直播](https://www.youtube.com/watch?v=NOi0qAFjnME)）。从录像得出的打法标了"（录像）"，只代表这几局。另外引用了 2026 世界赛 Masters 四强 Cassiraga（Alakazam Dudunsparce）2-1 Chao（Dragapult Dusknoir）的[录像](https://www.youtube.com/watch?v=mq3UY7pQe4c)：两个卡组共用 Alakazam 核心，只取能照搬的打法；以及同一届八强 Chao 2-1 Łaszkiewicz（本卡组，卡表和下面的核心构筑基本一致）的[录像](https://www.youtube.com/watch?v=qwBID2ApsOY&t=24360s)。世界赛瑞士轮还看了两场，写在对应章节里：第 1 天第 6 轮 Łaszkiewicz 2-1 Lepine（N's Zoroark），第 2 天第 12 轮 Johnson（本卡组，卡表和 Łaszkiewicz 一张不差）0-2 Matsui（Crustle）。
 
 ---
 
@@ -15,7 +15,7 @@
 | 对手 | 胜率（局数） | 一句话要点 |
 |---|---|---|
 | Dragapult ex | 46.0%（113） | 后备区只留 HP 高于 60 的宝可梦，Dusknoir 13 个指示物加 10 张手牌击倒 Dragapult ex |
-| N's Zoroark | 46.7%（45） | 我方全体弱恶，挨一下就倒；Dusknoir 正好击倒 130 HP 的 N's Zekrom，先拆复制来源 |
+| N's Zoroark | 46.7%（45） | 我方全体弱恶，挨一下就倒；Dusknoir 正好击倒 130 HP 的 N's Zekrom，先拆复制来源；对方有 Special Red Card，拿到 2 张后先停手，攒到一回合拿 4 张 |
 | Dragapult Dusknoir | 51.5%（55） | 和 Dragapult ex 打法相同，再防对方 Cursed Blast 加 Phantom Dive 合计 190 击倒后备区 Alakazam；落后时 Prime Catcher 拉 Fez 加 Shadow Bind 锁住，或用 Cursed Blast 拖成同时拿完；收对方的 Budew 会给对方 Unfair Stamp |
 | Basic Box（Mega Kangaskhan） | 71.5%（41） | 对方几乎全是 2 奖 ex，我方只需 3 次击倒；Dusknoir 加 Dusclops 不用攻击也能击倒后备区 Meowth ex |
 | Slowking | 70.6%（34） | Slowking 120 HP 只要 6 张手牌；Shaymin 挡住 Trifrost 打后备区的部分 |
@@ -25,7 +25,7 @@
 | Festival Lead | 48.9%（30） | 先清掉带 Festival Lead 的 Goldeen、Dipplin 和会进化成 Dipplin 的 Applin；用 Cursed Blast 压缩对方后备区，Do the Wave 的伤害跟着下降 |
 | Dhelmise | 24.4%（15） | Hide 'n' Sneak 同时挡住 Powerful Hand 和 Cursed Blast，只能打没有这个特性的 Dhelmise 和 2 奖 ex |
 | Ogerpon Meganium Hydrapple | 66.7%（22） | Dusknoir 单独就能击倒后备区的 Bayleef；Meganium 用 Dusknoir 加 Dusclops 或 Boss 加 8 张解决；Budew 锁不住 Forest of Vitality；Fez 起手先用 Dawn 铺基础宝可梦 |
-| Crustle | 26.9%（26） | Mist Energy 挡住 Powerful Hand；改为击倒两只 3 奖的 Mega Kangaskhan ex |
+| Crustle | 26.9%（26） | Mist Energy 挡住 Powerful Hand；改为击倒两只 3 奖的 Mega Kangaskhan ex，但它贴了 Mist 再挂 Hero's Cape 是 400，三次 Cursed Blast 也打不倒 |
 | Alakazam Dusknoir（镜像） | 无（录像 3 局） | 先打掉对方的 Budew 解锁物品；Fezandipiti ex 是唯一的 2 奖目标；领先时清光对方 Abra 线，防止对方自爆拖成同时拿完 |
 
 ---
@@ -157,24 +157,26 @@ Dusknoir 还有招式 **Shadow Bind**（Psychic Psychic Colorless，150，对方
 
 **开局与先后攻**
 - 选后攻（推断）。对方 26% 卡表带 Budew，锁物品对双方都有效；我方后攻用 Budew 锁对手第 2 回合的 N's PP Up、Poffin、Ultra Ball，能推迟 Zoroark ex 第一次攻击。
-- 后备区只放要进化的 Abra 和 Duskull。Patrat 在本对局没用：对方 78% 卡表带 Team Rocket's Watchtower（无色宝可梦没有特性），而且对方只有 1 张 Munkidori。
+- 后备区只放要进化的 Abra 和 Duskull。Patrat 看对方卡表：对方 78% 卡表带 Team Rocket's Watchtower（无色宝可梦没有特性），Patrat 就没用；但带 N's Castle 的版本多半只带 0 到 1 张 Watchtower，这时 Patrat 能关掉对方唯一的 Munkidori。录像：2026 世界赛第 1 天第 6 轮第 3 局，Lepine（N's Castle 版，没带 Watchtower）的 Munkidori 被 Łaszkiewicz 的 Patrat 关住，挪不了指示物。
 
 **奖赏卡路线**
 1. **我方第 2 回合**（拿 2 张，送 1 张）：Rare Candy 进化 Dusknoir，Cursed Blast 13 个指示物放在后备区的 N's Zekrom（130 HP）上，正好击倒，复制来源少一个。再用 Alakazam 的 Powerful Hand 打战斗场的 N's Zorua（70，4 张手牌），阻止它进化。如果资源只够一样，优先 Powerful Hand 打 Zorua，Dusknoir 留到下回合。
 2. **我方第 3 回合**（拿 2 张，累计 4）：战斗场的 Zoroark ex。第二只 Dusknoir 放 130，Powerful Hand 8 张手牌（150）击倒。没有 Dusknoir 时要 14 张。
 3. **我方第 4 回合**（拿 2 张，累计 6）：第二只 Zoroark ex（14 张），或者 Boss 拉 Pecharunt ex（190，10 张）、Fezandipiti ex（210，11 张）。N's Reshiram 130 HP、Tatsugiri 70 HP、Munkidori 110 HP 都是 1 奖的补位目标。
 - 后备区的 N's Zekrom / Reshiram 只要都被清掉，Night Joker 就只能复制 N's Zorua 的 Scratch（40）这类低伤害招式（推断：取决于对方后备区还剩哪些 N 的宝可梦）。
+- 对方带 Special Red Card（96%）时，第 2、3 步不要一回合一只地拿：先把两只 Zoroark ex 都打进击倒范围，再一回合拿 4 张，见下面"防 Special Red Card 的拿奖节奏"。
 
 **对手的套路，怎么防**
 - **一回合一只**：对方第 2 回合就能 Rampaging Thunder。用 Rampaging Thunder 的 Zoroark 下回合不能攻击，对方需要第二只 Zoroark 轮换，N's Castle 让 N 的宝可梦撤退费为 0。所以每回合优先击倒对方"下回合能攻击的那只"。
 - **手牌干扰**：Judge（74%）、Xerosic's Machinations（27%，让我方手牌弃到 3 张）、Special Red Card（96%）、N's Purrloin（32%）。我方的应对是把 Dusknoir 提前放在场上：Cursed Blast 不需要手牌。
+- **防 Special Red Card 的拿奖节奏**（信心 60%，akd-zor-01）：Special Red Card 要等我方剩 3 张以下才能打。拿到第 2 张（剩 4 张）后先停手，只打伤、不击倒，把两只 Zoroark ex 都打进击倒范围，再在一回合里用 Cursed Blast 和 Powerful Hand 收掉两只，一次拿 4 张。录像：2026 世界赛第 1 天第 6 轮 Łaszkiewicz 2-1 Lepine，第 1 局（[8:02:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=28920s)）和第 3 局（[8:21:30](https://www.youtube.com/watch?v=iEM8bQbnA90&t=30090s)）都是这样赢的，解说专门讲了这个节奏（[7:59:00](https://www.youtube.com/watch?v=iEM8bQbnA90&t=28740s)）。Lepine 没带 Judge；对方有 Judge 时，停手期间手牌照样会被打乱，伤害要提前放在场上（推断）。
 - **Black Belt's Training**：对方战斗场的宝可梦 ex 受到 +40。我方只有 Fezandipiti ex 是 ex，不要让它上战斗场。
 - **Janine's Secret Art、N's PP Up 加速**：对方能量来得快，用 Budew 锁物品能拖一回合 N's PP Up。
 
 **关键卡与构筑**
 - 本对局没有带卡与不带卡的对比数据（公开卡表样本只有 22 局）。
 - Dusknoir 是这个对局的核心：130 正好等于 N's Zekrom 和 N's Reshiram 的 HP。2 张 Dusknoir 加 Night Stretcher、Sacred Ash 回收，要尽量多用。
-- Patrat 在本对局是空位（Watchtower）。如果预期 N's Zoroark 很多，Patrat 的位置换成第 3 张 Dusknoir 或第 2 张 Boss's Orders 更合理（推断）。
+- 对方是 Watchtower 版（3 到 4 张）时，Patrat 是空位；N's Castle 版常常不带 Watchtower，Patrat 能关掉 Munkidori（见上）。如果预期 N's Zoroark 很多、而且多是 Watchtower 版，Patrat 的位置换成第 3 张 Dusknoir 或第 2 张 Boss's Orders 更合理（推断）。
 
 **常见失误**
 - 先打 Zoroark ex 而放着后备区的 N's Zekrom，对方下回合照样 Rampaging Thunder。
@@ -577,11 +579,11 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - 奖赏卡数学：**两只 Mega Kangaskhan ex 就是 6 张**。这是本对局最现实的胜利路线（推断）。
 
 **开局与先后攻**
-- 选后攻（推断），Budew 锁物品挡住 Jumbo Ice Cream、Pokégear 3.0、Buddy-Buddy Poffin。
+- 选后攻（推断），Budew 锁物品挡住 Jumbo Ice Cream、Pokégear 3.0、Buddy-Buddy Poffin。但它挡不住 Hero's Cape（道具，对方用 Team Rocket's Petrel 拿）和 Lumiose City（场地，对方用它找 Kangaskhan）。录像：2026 世界赛第 12 轮 Johnson 0-2 Matsui，Johnson 用 Budew 锁物品，Matsui 第 1 局照样挂上 Cape，第 2 局用 Lumiose City 拿出 Kangaskhan。
 - 本对局对方不打后备区，可以多铺 Duskull，为多次 Cursed Blast 做准备。
 
 **奖赏卡路线**
-1. **对方 Kangaskhan 在战斗场时**（拿 3 张）：Dusknoir 130 + Powerful Hand 9 张（180）= 310 ≥ 300，击倒。对方为了 Run Errand 常让 Kangaskhan 待在战斗场，这是最好的时机。Kangaskhan 在后备区时用 Boss / Prime Catcher 拉出来。
+1. **对方 Kangaskhan 在战斗场时**（拿 3 张）：Dusknoir 130 + Powerful Hand 9 张（180）= 310 ≥ 300，击倒。对方为了 Run Errand 常让 Kangaskhan 待在战斗场，这是最好的时机。Kangaskhan 在后备区时用 Boss / Prime Catcher 拉出来。这条路只在 Kangaskhan 没贴 Mist 时成立：贴了 Mist，Powerful Hand 打不进；再挂 Hero's Cape 是 400，三次 Cursed Blast（390）也打不倒。录像：同一场第 1 局，Matsui 的 Kangaskhan 贴 Mist、挂 Cape 后还剩 270/400，Johnson 的两次 Cursed Blast 打不动它（[4:55:20](https://www.youtube.com/watch?v=qwBID2ApsOY&t=17720s)）。
 2. **第二只 Kangaskhan**（再拿 3 张，累计 6）：同上，或 15 张手牌。
 3. **只能打 Crustle 时**（每只 1 张）：
    - 没贴 Mist Energy 的 Crustle：150 要 8 张，170 要 9 张，270 要 14 张。
@@ -592,6 +594,7 @@ Frankfurt 四强第 2 局，Łaszkiewicz（本卡组）对 Conti（Dragapult Dus
 - **Xerosic's Machinations / Eri**：手牌被砍到 3 张时，Powerful Hand 只有 60 到 80（加回合抽牌和进化抽牌）。对策是把伤害放在场上：Dusknoir 提前进化好，Kangaskhan 一上战斗场就用 Cursed Blast 打。
 - **Crustle 当墙 + 回血**：不要和 Mist Energy Crustle 拼消耗，留着资源等 Kangaskhan。
 - **Spiky Energy、Handheld Fan（73%）**：两者都只在"受到招式伤害"时触发，Powerful Hand 只放指示物，不触发（推断）。
+- **对方先击倒带能量的宝可梦**：本卡组整副只有 5 个能量（世界赛的卡表是 4 张 Telepathic Psychic Energy 加 1 张 Psychic Energy），对方的 Crustle 主动击倒带能量的宝可梦，再用 Boss's Orders 拉出没能量的 Duskull 困在战斗场。录像：同一场第 2 局，Johnson 两只 Kadabra 和一张 Rare Candy 在奖赏卡里，场上的能量被清空（[5:03:05](https://www.youtube.com/watch?v=qwBID2ApsOY&t=18185s)），Matsui 拉出没能量的 Duskull，Johnson 认输。对方带 Enhanced Hammer 时（Matsui 带 1 张），Telepathic 是特殊能量，也会被拆。
 
 **关键卡与构筑**
 - 没有带卡与不带卡的对比数据（公开卡表只有 11 局）。

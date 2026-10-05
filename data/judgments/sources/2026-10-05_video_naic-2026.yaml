@@ -1,0 +1,13 @@
+kind: video
+date: 2026-10-05
+ref: video-reviews/naic-2026.md（项目共享文件夹）
+title: NAIC 2026 第 2 天瑞士轮 Crustle 镜像（Malnaik 2-1 Kull）
+window: TEF-CRI
+claims:
+  - id: c-20261005-naic-01
+    type: 玩家观点
+    text: Malnaik（NAIC 2026 第 30，Crustle）赛后说，他带 Hand Trimmer 和第二张 Eri 主要是为了对 Alakazam 的 Enhanced Hammer
+    deck: crustle-dri
+    vs: alakazam-dudunsparce
+    depends_on: [Hand Trimmer, Eri, Enhanced Hammer]
+    status: 观点

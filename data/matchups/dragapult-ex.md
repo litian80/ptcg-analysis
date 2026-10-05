@@ -404,16 +404,16 @@
 - 早期打 Dwebble：Dwebble 要在战斗场用 Ascension（1 个无色）才能从牌库进化，后备区的 Dwebble 要等下回合正常进化。吃过 Ruins 的 Dwebble 只有 50 HP，Phantom Dive 的 5 个指示物就能收掉；Dwebble 在战斗场时 Dragapult ex 的 200 也能直接打（Mysterious Rock Inn 只有 Crustle 有）。
 - 中期磨 Crustle：Dragapult ex 对战斗场 Crustle 用 Phantom Dive，伤害为 0，但 6 个指示物放到后备区没挂 Mist Energy 的 Crustle 上；两只 Munkidori 再挪 6 个。一回合 120 的指示物，后备区 150 HP 的 Crustle（挂 Growing Grass 是 170）两回合一只。Jumbo Ice Cream 只能回战斗场的，后备区的只能靠 Pokémon Center Lady。
 - 打战斗场的 Crustle 用非 ex：Drakloak 的 Dragon Headbutt 70、Munkidori 的 Mind Bend 60（Mist Energy 会挡掉混乱）、Dudunsparce 的 Land Crush 90、Moltres 的 Fighting Wings 20 对弱火的 Crustle 是 40。加上 Munkidori 的 60，Drakloak + 两次 Adrena-Brain 一回合是 130。
-- Mega Kangaskhan ex 一站到战斗场就收它：200 + 前回合 60 + Munkidori 30 + Ruins 20（它是基础无色宝可梦）= 310 ≥ 300，一次 3 张。Boss's Orders 也可以直接拉后备区的 Kangaskhan。这是最快拿奖的路线：Kangaskhan 3 张 + 3 只 Crustle / Dwebble。
+- Mega Kangaskhan ex 一站到战斗场就收它：200 + 前回合 60 + Munkidori 30 + Ruins 20（它是基础无色宝可梦）= 310 ≥ 300，一次 3 张。Boss's Orders 也可以直接拉后备区的 Kangaskhan。这是最快拿奖的路线：Kangaskhan 3 张 + 3 只 Crustle / Dwebble。录像：Prague 2026 决赛第 2 局，Tresp 起手 Kangaskhan，被 Budew 锁物品困在前场；Łaszkiewicz 先用 Risky Ruins 加 Phantom Dive 收掉一只没进化的 Dwebble，下一回合击倒 Kangaskhan 拿 3 张（[26:00](https://www.youtube.com/watch?v=vXSSxUzwDOE&t=1560s)）。
 
 **对手的套路，怎么防**
 - 主线：战斗场一只挂满能量的 Crustle 每回合 120，用 Jumbo Ice Cream、Pokémon Center Lady 回血，Eri（弃我方 2 张物品）和 Xerosic's Machinations（手牌弃到 3 张）卡我们。
-- Crushing Hammer ×4 是最好的反制：Superb Scissors 要 3 个能量，平均每 2 张 Hammer 拆掉 1 个，对手就要多花一回合补（推断）。Jumbo Ice Cream 要 3 个能量以上才能用，拆到 2 个它也回不了。录像：Indianapolis 2026 八强 Sakadjian（本卡组主线，多 2 张 Watchtower）0-2 Reddy，第 1 局 4 次 Crushing Hammer 都是反面；Reddy 把 Hero's Cape 挂在 Crustle 上（290），Jumbo Ice Cream 每回合回 80，解说算过要大约 5 个回合才打得穿；第 2 局 Sakadjian 手里的 Unfair Stamp 还被 Eri 弃掉（[视频](https://www.youtube.com/watch?v=rFR1ZVFc5ic)）。
+- Crushing Hammer ×4 是最好的反制：Superb Scissors 要 3 个能量，平均每 2 张 Hammer 拆掉 1 个，对手就要多花一回合补（推断）。Jumbo Ice Cream 要 3 个能量以上才能用，拆到 2 个它也回不了。录像：Indianapolis 2026 八强 Sakadjian（本卡组主线，多 2 张 Watchtower）0-2 Reddy，第 1 局 4 次 Crushing Hammer 都是反面；Reddy 把 Hero's Cape 挂在 Crustle 上（290），Jumbo Ice Cream 每回合回 80，解说算过要大约 5 个回合才打得穿；第 2 局 Sakadjian 手里的 Unfair Stamp 还被 Eri 弃掉（[视频](https://www.youtube.com/watch?v=rFR1ZVFc5ic)）。Prague 2026 八强 Reklev（没有 Hammer，也没有 Dudunsparce ex）0-2 Tresp：对手挂 Cape、贴 4 张 Growing Grass 的 Crustle 有 330，第 2 局拿了 4 张也打不穿（[4:16:30](https://www.youtube.com/watch?v=5ewTXCpaGpA&t=15390s)）。
 - Spiky Energy 每次给我方攻击手放 2 个指示物：用 Munkidori 把这些指示物挪回对手身上，正好是 Adrena-Brain 的"弹药"。
 - 对手的 Handheld Fan（73% 卡表）：带 Fan 的 Crustle 被打时把我方攻击手的 1 个能量挪到后备区，Drakloak 下回合要重新贴（推断）。
 
 **关键卡与构筑**
-- Dudunsparce ex（JTG 121）：带的 56.9%（24 局）对不带的 40.4%（109 局），+16.6。它的 Destructive Drill（3 个无色）150 "不受对手战斗场宝可梦身上任何效果影响"，是否能穿过 Mysterious Rock Inn 要看裁定（推断），数据支持它在这个对局有用。
+- Dudunsparce ex（JTG 121）：带的 56.9%（24 局）对不带的 40.4%（109 局），+16.6。它的 Destructive Drill（3 个无色）150 "不受对手战斗场宝可梦身上任何效果影响"，它能穿过 Mysterious Rock Inn：录像 Prague 2026 决赛（TEF-POR）Łaszkiewicz（Dragapult Dudunsparce，带 Dudunsparce ex 和 Hero's Cape）2-0 Tresp（Crustle），两局都是 Drill 打穿 Crustle，有裁判在场、没有人提出异议（[12:00](https://www.youtube.com/watch?v=vXSSxUzwDOE&t=720s)）。他先把 Hero's Cape 挂在 Dunsparce 上（进化成 Dudunsparce ex 就是 370，[2:00](https://www.youtube.com/watch?v=vXSSxUzwDOE&t=120s)），这只 Dunsparce 受伤后再用 Run Away Draw 连 Cape 一起洗回牌库。对手贴两张 Spiky Energy 时，Drill 每次反吃 40，攻击前先算：同一场第 2 局最后一次 Drill 击倒 Crustle，反伤也击倒了 Dudunsparce ex（[39:30](https://www.youtube.com/watch?v=vXSSxUzwDOE&t=2370s)）。
 - Special Red Card：带的 36.7%（60 局）对不带的 48.9%（73 局），−12.2。Team Rocket's Watchtower：带的 35.6%（30 局）对不带的 45.6%（103 局），−10.1（能关对手 Kangaskhan 的 Run Errand，但也关自己的 Meowth ex、Dudunsparce）。Moltres：带的 38.0%（50 局）对不带的 46.6%（83 局），−8.6，40 伤害太低。
 - 对手方面：带 Pokémon Center Lady 的对手 76.2%（133 局）对不带的 88.4%（23 局）；带 Team Rocket's Factory 的 76.0%（129 局）对不带的 87.7%（27 局）。即便如此，对手胜率都在 75% 以上。
 - 构筑建议：Crustle 多的环境里加 Dudunsparce ex，Moltres 可以换掉（推断）。
