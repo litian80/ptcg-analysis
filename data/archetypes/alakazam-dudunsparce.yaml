@@ -96,8 +96,8 @@ matchups:
     win_rate: 0.305
     plan: >-
       Dragapult ex 320 HP，手牌 16 张就能一击（世界赛决赛第 1 局见过）。Battle Cage 是生命线，对手会用 Risky Ruins 换掉它，
-      所以要留第二张场地。用 Eri 看对手手牌并弃掉 Special Red Card、Night Stretcher；Genesect 带道具封住 Unfair Stamp，保护手牌。
-      第 2 回合有没有 Rare Candy 基本决定这局。
+      所以要留第二张场地。用 Eri 看对手手牌并弃掉 Special Red Card、Night Stretcher（信心 75%，adu-dpx-03）；Genesect 带道具封住 Unfair Stamp，保护手牌。
+      第 2 回合有没有 Rare Candy 基本决定这局（信心 40%，adu-dpx-02）。
   - vs: slowking-scr
     win_rate: 0.737
     plan: Slowking 120 HP，6 张手牌就够。
@@ -163,7 +163,7 @@ mistakes:
   - 只带一张 Battle Cage 或过早打出，被 Risky Ruins 换掉后没有第二张。
   - 攻击前没先把能打的抽牌打完，手牌不够大。
   - 手牌多时乱用 Ultra Ball 等会减少手牌的卡。
-  - 对 Dragapult 没先放 Battle Cage，Abra 被 Phantom Dive 收掉。
+  - 对 Dragapult 没先放 Battle Cage，Abra 被 Phantom Dive 收掉。（信心 85%，adu-dpx-01）
 
 inferred:
   - 用 Rare Candy 从手上放 Alakazam 也触发 Psychic Draw，按卡牌文字推断（"when you play this Pokémon from your hand to evolve"）。

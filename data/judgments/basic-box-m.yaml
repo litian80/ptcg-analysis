@@ -1,0 +1,18 @@
+deck: basic-box-m
+judgments:
+  - id: bbm-dpx-01
+    vs: dragapult-ex
+    text: 对 Dragapult 倾向后攻
+    confidence: 0.55
+    basis: 推断（后攻第 1 回合能用支援者和攻击）；录像：Frankfurt 第 1 天第 7 轮第 2 局后攻方赢
+    window: TEF-30C
+    depends_on: [Budew]
+    where: data/matchups/basic-box-m.md
+  - id: bbm-dpx-02
+    vs: dragapult-ex
+    text: 带 Hero's Cape 时，第 1 回合就放下 Lillie's Clefairy ex 挂 Cape 当主攻手
+    confidence: 0.65
+    basis: 录像：Baltimore 2026 四强第 2 局赢；八强带 Prime Catcher 的一方 Clefairy 两局都被一击。数据方向相反
+    window: TEF-30C
+    depends_on: [Hero's Cape, Lillie's Clefairy ex, Dragapult ex]
+    where: data/matchups/basic-box-m.md

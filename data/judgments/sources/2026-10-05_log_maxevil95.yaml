@@ -1,0 +1,54 @@
+kind: log
+date: 2026-10-05
+ref: 2026-10-05_maxevil95.md（项目共享文件夹）
+title: Maxevil95 的三局 TCG Live（Alakazam Dudunsparce），2 胜 1 负
+window: TEF-30C
+observations:
+  - judgment: adu-dpx-01
+    game: 第 1 局 vs Dragapult ex（胜）
+    result: held
+    note: 整场没有 Battle Cage，T5 Phantom Dive 的后备区指示物多拿 1 次 2 奖
+  - judgment: adu-dpx-01
+    game: 第 3 局 vs Dragapult ex（胜）
+    result: held
+    note: T9 手上有 Battle Cage 没打出，T10 后备区指示物击倒 Genesect，又多丢一次
+  - judgment: adu-dpx-02
+    game: 第 1 局 vs Dragapult ex（胜）
+    result: failed
+    note: 有 Rare Candy 但被 Budew 锁物品，Alakazam 拖到 T6 才上场，仍然赢了
+  - judgment: adu-dpx-02
+    game: 第 3 局 vs Dragapult ex（胜）
+    result: failed
+    note: 自己第 2 回合被 Budew 锁物品，Alakazam T5 才上场，仍然拿满 6 张
+  - judgment: adu-dpx-03
+    game: 第 1 局 vs Dragapult ex（胜）
+    result: held
+    note: T10 Eri 弃掉 Unfair Stamp 和 Night Stretcher，同一回合击倒 Dragapult ex
+  - judgment: adu-dpx-03
+    game: 第 3 局 vs Dragapult ex（胜）
+    result: n/a
+    note: Special Red Card 打中时 Eri 还在牌库里
+claims:
+  - id: c-20261005-log-01
+    type: 新打法
+    text: 对 Dragapult，被 Budew 锁物品的回合靠支援者和自然进化推进，Rare Candy、Poké Pad、Buddy-Buddy Poffin 留到下一回合
+    deck: alakazam-dudunsparce
+    vs: dragapult-ex
+    depends_on: [Budew, Rare Candy]
+    check: 录像或日志里被锁回合的出牌顺序和下一回合的结果
+    status: 待验证
+  - id: c-20261005-log-02
+    type: 新打法
+    text: 对 Dragapult，拿到第 3 张奖赏卡前在后备区留一只 Dunsparce，被 Special Red Card 打回 3 张手牌后还能 Run Away Draw
+    deck: alakazam-dudunsparce
+    vs: dragapult-ex
+    depends_on: [Dunsparce, Special Red Card]
+    check: 被 Special Red Card 打中的局面里，有没有 Dunsparce 时下一回合能否攻击
+    status: 待验证
+  - id: c-20261005-log-03
+    type: 新打法
+    text: 对 Lucario Hariyama，能量贴在后备区，战斗场放 HP 高的宝可梦扛 Solrock 的 Cosmic Beam
+    deck: alakazam-dudunsparce
+    vs: lucario-hariyama
+    check: 这个对局的更多对局记录
+    status: 待验证

@@ -6,6 +6,7 @@
 |---|---|
 | `video-reviews/` | 每场看过的比赛视频一份复盘，`streams.md` 是各大赛的直播视频清单和复盘顺序 |
 | `deck-selection/2026-10-04_TEF-30C.md` | 选卡组分析报告 |
+| `feedback/feedback-template.md` | 随复盘发给玩家的英文反馈模板；玩家反馈原文（`feedback/raw/`）有名字，不放这里 |
 
 ## 没放进这里的内容
 

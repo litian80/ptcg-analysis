@@ -1,0 +1,28 @@
+deck: dragapult-ex
+judgments:
+  - id: dpx-adu-01
+    vs: alakazam-dudunsparce
+    text: 对 Alakazam Dudunsparce 后攻吃亏
+    confidence: 0.55
+    weight: 2
+    basis: 玩家观点：Brisbane 第 3 名 BrentyMon 在复盘视频里的判断，数据里没有先后攻记录
+    window: TEF-30C
+    depends_on: [Budew, Rare Candy]
+    where: data/matchups/dragapult-ex.md
+  - id: dpx-adu-02
+    vs: alakazam-dudunsparce
+    text: 对手牌库薄、战斗场挂着 Lucky Helmet 时，用小招式打牌库耗尽
+    confidence: 0.55
+    weight: 2
+    basis: 录像：2026 世界赛决赛第 2 局（一局）；前提条件是推断
+    window: TEF-30C
+    depends_on: [Lucky Helmet, Boss's Orders]
+    where: data/matchups/dragapult-ex.md
+  - id: dpx-mir-01
+    vs: dragapult-ex
+    text: 镜像里 Budew 互锁物品时，先保住自己能用物品，再想锁对手
+    confidence: 0.65
+    basis: 录像：Brisbane 四强第 1 局（Khoo）及另外两场的镜像
+    window: TEF-30C
+    depends_on: [Budew]
+    where: data/matchups/dragapult-ex.md
