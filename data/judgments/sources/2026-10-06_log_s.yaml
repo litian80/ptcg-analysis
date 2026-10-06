@@ -1,7 +1,8 @@
 kind: log
 date: 2026-10-06
 ref: 2026-10-06_maxevil95.md（项目共享文件夹）；data/gamelogs/logs/2026-10-06_1_vs-mega-excadrill-ex.txt
-title: Maxevil95 第一次用 Dragapult Blaziken，后攻 6:4 赢 Mega Excadrill ex
+title: 玩家 S 第一次用 Dragapult Blaziken，后攻 6:4 赢 Mega Excadrill ex
+player: S（执牌人本人在 2026-10-06_feedback_s 里回复了这局的复盘）
 window: TEF-30C
 # dragapult-ex 和 dragapult-blaziken 对 mega-excadrill-ex 都没有登记过判断（pending 为空），所以没有 observations。
 observations: []
