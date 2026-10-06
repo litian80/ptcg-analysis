@@ -1,0 +1,9 @@
+# Why a card-count change suggested by ptcg.tuning should help: written by hand from card text
+# and the playbooks, keyed deck -> card. ptcg.plan prints the note next to the suggestion;
+# a suggestion without a note says that the reason has not been checked yet.
+dragapult-ex:
+  Dunsparce: 带 Dunsparce / Dudunsparce 抽牌线，Dudunsparce 的 Run Away Draw 补手牌（推断：中后期续航靠它）。
+  Dudunsparce: 同 Dunsparce，两张一起进退。
+  Team Rocket's Watchtower: 它会同时关掉自己的 Dudunsparce（Run Away Draw）和 Meowth ex，和抽牌线互相冲突（手册 dragapult-ex.md 已核对卡牌原文）。
+  Special Red Card: 只能在对手剩 3 张以下奖赏卡时用，前中期是死卡；数据里不带的反而更好，原因未核实（推断：把位置让给更早能用的卡）。
+  Crushing Hammer: 4 张是对 Slowking（要 2 个能量）、Excadrill 等的拆能量手段，少带一张的样本只有 65 局，方向可信、幅度不可信。

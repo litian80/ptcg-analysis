@@ -1,10 +1,10 @@
 name: judgments
 on:
   push:
-    paths: ["ptcg/judgments.py", "ptcg/brief.py", "data/brief/**", "tests/**", "data/judgments/**", "data/matchups/*.md", "data/archetypes/*.yaml",
+    paths: ["ptcg/judgments.py", "ptcg/brief.py", "data/brief/**", "ptcg/forecast.py", "ptcg/tuning.py", "ptcg/plan.py", "data/plan/**", "tests/**", "data/judgments/**", "data/matchups/*.md", "data/archetypes/*.yaml",
             ".github/workflows/judgments.yml"]
   pull_request:
-    paths: ["ptcg/judgments.py", "ptcg/brief.py", "data/brief/**", "tests/**", "data/judgments/**", "data/matchups/*.md", "data/archetypes/*.yaml",
+    paths: ["ptcg/judgments.py", "ptcg/brief.py", "data/brief/**", "ptcg/forecast.py", "ptcg/tuning.py", "ptcg/plan.py", "data/plan/**", "tests/**", "data/judgments/**", "data/matchups/*.md", "data/archetypes/*.yaml",
             ".github/workflows/judgments.yml"]
 permissions:
   contents: read
