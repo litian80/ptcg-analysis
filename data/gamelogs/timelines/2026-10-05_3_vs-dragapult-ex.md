@@ -1,0 +1,22 @@
+# 2026-10-05_3_vs-dragapult-ex
+
+- 先攻：Maxevil95；视角：Maxevil95；胜者：Maxevil95（prizes）
+- 奖赏卡：Maxevil95 拿 6，K3vlarUK 拿 2
+- 对手卡组推测：dragapult-ex（79%），dragapult-dusknoir（44%），dragapult-blaziken（39%）
+- 对手亮出的牌：Budew, Dreepy, Fire Energy, Buddy-Buddy Poffin, Risky Ruins, Lillie's Determination, Dunsparce, Poké Pad, Drakloak, Crushing Hammer, Meowth ex, Dudunsparce, Crispin, Psychic Energy, Fezandipiti ex, Dragapult ex, Special Red Card, Night Stretcher, Munkidori, Darkness Energy
+- Maxevil95 起手：Abra, Night Stretcher, Nighttime Mine, Dawn, Alakazam, Kadabra, Genesect
+- Powerful Hand 时手牌：T5 Maxevil95 13 张 → K3vlarUK 的 Drakloak，T7 Maxevil95 12 张 → K3vlarUK 的 Meowth ex，T9 Maxevil95 9 张 → K3vlarUK 的 Budew，T11 Maxevil95 20 张 → K3vlarUK 的 Dragapult ex
+
+| 回合 | 玩家 | 关键动作 |
+|---|---|---|
+| 1 | Maxevil95（第 1 回合） | Air Balloon 贴 Genesect；Abra 上后备区 |
+| 2 | K3vlarUK（第 1 回合） | Fire Energy 贴 Budew；Buddy-Buddy Poffin（Dreepy, Dreepy）；场地 Risky Ruins；Lillie's Determination；Dunsparce 上后备区；Poké Pad；**Budew Itchy Pollen** → Genesect 0 |
+| 3 | Maxevil95（第 2 回合） | Telepathic Psychic Energy 贴 Abra；Dawn（Dunsparce, Dudunsparce, Alakazam）；场地 Nighttime Mine；Dunsparce 上后备区；Abra → Kadabra；Kadabra 特性 Psychic Draw（Boss's Orders, Fezandipiti ex） |
+| 4 | K3vlarUK（第 2 回合） | Dreepy → Drakloak；Dreepy → Drakloak；Crushing Hammer；Fire Energy 贴 Drakloak；Drakloak 特性 Recon Directive；Drakloak 特性 Recon Directive；Meowth ex 上后备区；Meowth ex 特性 Last-Ditch Catch；Poké Pad；Dunsparce → Dudunsparce；Dudunsparce 特性 Run Away Draw（Dudunsparce, Dunsparce）；Budew 撤退；Crispin；**Drakloak Dragon Headbutt** → Genesect 70 |
+| 5 | Maxevil95（第 3 回合） | Kadabra → Alakazam；Alakazam 特性 Psychic Draw（Rare Candy, Buddy-Buddy Poffin, Buddy-Buddy Poffin）；Dunsparce → Dudunsparce；Dudunsparce 特性 Run Away Draw（Enriching Energy, Dawn, Psyduck）；Buddy-Buddy Poffin（Dunsparce, Dunsparce）；Dawn（Abra, Kadabra, Alakazam）；Abra → Kadabra；Kadabra 特性 Psychic Draw（Telepathic Psychic Energy, Poké Pad）；Rare Candy；Alakazam 特性 Psychic Draw（Buddy-Buddy Poffin, Lana's Aid, Shaymin）；Telepathic Psychic Energy 贴 Alakazam；Genesect 撤退；Poké Pad；**Alakazam Powerful Hand** → Drakloak（放 26 个指示物）；**K3vlarUK 的 Drakloak 被击倒**；Maxevil95 拿 1 张奖赏卡 |
+| 6 | K3vlarUK（第 3 回合） | Fezandipiti ex 上后备区；Drakloak → Dragapult ex；Crushing Hammer；Psychic Energy 贴 Dragapult ex；Lillie's Determination；Dreepy 上后备区；Fezandipiti ex 特性 Flip the Script；Dreepy → Drakloak；Drakloak 特性 Recon Directive；Poké Pad；Dragapult ex 撤退；**Budew Itchy Pollen** → Alakazam 10 |
+| 7 | Maxevil95（第 4 回合） | Boss's Orders；Telepathic Psychic Energy 贴 Alakazam；Dunsparce → Dudunsparce；**Alakazam Powerful Hand** → Meowth ex（放 24 个指示物）；**K3vlarUK 的 Meowth ex 被击倒**；Maxevil95 拿 2 张奖赏卡 |
+| 8 | K3vlarUK（第 4 回合） | Special Red Card（Alakazam, Sacred Ash, Enriching Energy, Psyduck, Poké Pad, Lana's Aid, Buddy-Buddy Poffin, Battle Cage, Night Stretcher, Fezandipiti ex, Abra, Buddy-Buddy Poffin, Shaymin, Kadabra）；Drakloak 特性 Recon Directive；Dreepy → Drakloak；Drakloak 特性 Recon Directive；Drakloak → Dragapult ex；Crispin；Psychic Energy 贴 Dragapult ex；Night Stretcher；Dreepy 上后备区；Fezandipiti ex 特性 Flip the Script；**Budew Itchy Pollen** → Alakazam 10 |
+| 9 | Maxevil95（第 5 回合） | Dawn（Fezandipiti ex, Dudunsparce, Alakazam）；Dudunsparce 特性 Run Away Draw（Rare Candy, Kadabra, Handheld Fan）；Dunsparce → Dudunsparce；Dudunsparce 特性 Run Away Draw（Poké Pad, Battle Cage, Enhanced Hammer）；Dunsparce 上后备区；Kadabra → Alakazam；Alakazam 特性 Psychic Draw（Eri, Hilda, Boss's Orders）；Fezandipiti ex 上后备区；Telepathic Psychic Energy 贴 Alakazam；Handheld Fan 贴 Alakazam；**Alakazam Powerful Hand** → Budew（放 18 个指示物）；**K3vlarUK 的 Budew 被击倒**；Maxevil95 拿 1 张奖赏卡 |
+| 10 | K3vlarUK（第 5 回合） | Munkidori 上后备区；Darkness Energy 贴 Dragapult ex；Night Stretcher；Dreepy → Drakloak；Lillie's Determination；Fezandipiti ex 特性 Flip the Script；Crushing Hammer；Drakloak 特性 Recon Directive；Drakloak 特性 Recon Directive；Drakloak → Dragapult ex；**Dragapult ex Phantom Dive** → Alakazam 200（放 6 个指示物）；**Maxevil95 的 Alakazam 被击倒**；**Maxevil95 的 Genesect 被击倒**；K3vlarUK 拿 2 张奖赏卡 |
+| 11 | Maxevil95（第 6 回合） | Fezandipiti ex 特性 Flip the Script（Poké Pad, Night Stretcher, Buddy-Buddy Poffin）；Hilda（Dudunsparce, Enriching Energy）；Enriching Energy 贴 Dunsparce；Dunsparce → Dudunsparce；Dudunsparce 特性 Run Away Draw（Lana's Aid, Dunsparce, Nighttime Mine）；**Alakazam Powerful Hand** → Dragapult ex（放 40 个指示物）；**K3vlarUK 的 Dragapult ex 被击倒**；Maxevil95 拿 2 张奖赏卡；**All Prize cards taken. Maxevil95 wins.** |

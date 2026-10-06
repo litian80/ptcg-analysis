@@ -1,0 +1,129 @@
+Setup
+Maxevil95 chose tails for the opening coin flip.
+Maxevil95 won the coin toss.
+Maxevil95 decided to go first.
+Maxevil95 drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Poké Pad, Lana's Aid, Kadabra, Dawn, Hilda, Psyduck, Basic Psychic Energy
+AkiraYoshioka drew 7 cards for the opening hand.
+- 7 drawn cards.
+Maxevil95 played Psyduck to the Active Spot.
+AkiraYoshioka played Makuhita to the Active Spot.
+
+Maxevil95's Turn
+Maxevil95 drew Battle Cage.
+Maxevil95 played Poké Pad.
+- Maxevil95 drew Abra.
+- Maxevil95 shuffled their deck.
+Maxevil95 played Abra to the Bench.
+Maxevil95 attached Basic Psychic Energy to Psyduck in the Active Spot.
+Maxevil95 ended their turn.
+
+AkiraYoshioka's Turn
+AkiraYoshioka drew a card.
+AkiraYoshioka attached Air Balloon to Makuhita in the Active Spot.
+AkiraYoshioka played Fighting Gong.
+- AkiraYoshioka drew Solrock.
+- AkiraYoshioka shuffled their deck.
+AkiraYoshioka played Solrock to the Bench.
+AkiraYoshioka attached Basic Fighting Energy to Solrock on the Bench.
+AkiraYoshioka played Meowth ex to the Bench.
+AkiraYoshioka's Meowth ex used Last-Ditch Catch.
+- AkiraYoshioka drew Lillie's Determination.
+- AkiraYoshioka shuffled their deck.
+AkiraYoshioka played Lillie's Determination.
+- AkiraYoshioka shuffled 3 cards into their deck.
+- AkiraYoshioka drew 8 cards.
+AkiraYoshioka played Poké Pad.
+- AkiraYoshioka drew Lunatone.
+- AkiraYoshioka shuffled their deck.
+AkiraYoshioka played Riolu to the Bench.
+AkiraYoshioka played Lunatone to the Bench.
+AkiraYoshioka's Lunatone used Lunar Cycle.
+- AkiraYoshioka discarded Basic Fighting Energy.
+- AkiraYoshioka drew 3 cards.
+AkiraYoshioka retreated Makuhita to the Bench.
+AkiraYoshioka's Solrock is now in the Active Spot.
+AkiraYoshioka's Solrock used Cosmic Beam on Maxevil95’s Psyduck for 70 damage.
+Maxevil95's Psyduck was Knocked Out!
+Basic Psychic Energy was discarded from Maxevil95's Psyduck.
+AkiraYoshioka took a Prize card.
+A card was added to AkiraYoshioka's hand.
+Maxevil95's Abra is now in the Active Spot.
+
+Maxevil95's Turn
+Maxevil95 drew Boss's Orders.
+Maxevil95 played Dawn.
+- Maxevil95 drew 3 cards.
+   • Fezandipiti ex, Kadabra, Alakazam
+- Maxevil95 shuffled their deck.
+Maxevil95 played Fezandipiti ex to the Bench.
+Maxevil95's Fezandipiti ex used Flip the Script.
+- Maxevil95 drew 3 cards.
+   • Poké Pad, Dunsparce, Telepathic Psychic Energy
+Maxevil95 played Dunsparce to the Bench.
+Maxevil95 attached Telepathic Psychic Energy to Abra in the Active Spot.
+Telepathic Psychic Energy was activated.
+- Maxevil95 drew 2 cards and played them to the Bench.
+   • Abra, Abra
+- Maxevil95 shuffled their deck.
+Maxevil95 evolved Abra to Kadabra in the Active Spot.
+Maxevil95's Kadabra used Psychic Draw.
+- Maxevil95 drew 2 cards.
+   • Buddy-Buddy Poffin, Nighttime Mine
+Maxevil95 played Poké Pad.
+- Maxevil95 drew Dudunsparce.
+- Maxevil95 shuffled their deck.
+Maxevil95 played Buddy-Buddy Poffin.
+- Maxevil95 drew Dunsparce and played it to the Bench.
+- Maxevil95 shuffled their deck.
+Maxevil95's Kadabra used Super Psy Bolt on AkiraYoshioka’s Solrock for 30 damage.
+
+AkiraYoshioka's Turn
+AkiraYoshioka drew a card.
+AkiraYoshioka played Solrock to the Bench.
+AkiraYoshioka attached Rocky Fighting Energy to Solrock on the Bench.
+AkiraYoshioka retreated Solrock to the Bench.
+- Basic Fighting Energy was discarded from AkiraYoshioka's Solrock.
+AkiraYoshioka's Solrock is now in the Active Spot.
+AkiraYoshioka played Premium Power Pro.
+AkiraYoshioka played Judge.
+- AkiraYoshioka shuffled 6 cards into their deck.
+- Maxevil95 shuffled 8 cards into their deck.
+   • Lana's Aid, Kadabra, Hilda, Battle Cage, Boss's Orders, Alakazam, Nighttime Mine, Dudunsparce
+- AkiraYoshioka drew 4 cards.
+- Maxevil95 drew 4 cards.
+   • Abra, Telepathic Psychic Energy, Shaymin, Nighttime Mine
+AkiraYoshioka's Lunatone used Lunar Cycle.
+- AkiraYoshioka discarded Basic Fighting Energy.
+- AkiraYoshioka drew 3 cards.
+AkiraYoshioka's Solrock used Cosmic Beam on Maxevil95’s Kadabra for 100 damage.
+- Damage breakdown:
+   • Base damage: 70 damage
+   • (Item) Premium Power Pro: 30 damage
+   • Total damage: 100 damage
+
+Maxevil95's Kadabra was Knocked Out!
+- 2 cards were discarded from Maxevil95's Kadabra.
+   • Telepathic Psychic Energy, Abra
+AkiraYoshioka took a Prize card.
+A card was added to AkiraYoshioka's hand.
+Maxevil95's Abra is now in the Active Spot.
+
+Maxevil95's Turn
+Maxevil95 drew Dawn.
+Maxevil95 played Dawn.
+- Maxevil95 drew 3 cards.
+   • Dunsparce, Dudunsparce, Alakazam
+- Maxevil95 shuffled their deck.
+Maxevil95's Fezandipiti ex used Flip the Script.
+- Maxevil95 drew 3 cards.
+   • Handheld Fan, Boss's Orders, Dedenne
+Maxevil95 evolved Dunsparce to Dudunsparce on the Bench.
+Maxevil95 played Dudunsparce.
+- Maxevil95 drew 3 cards.
+   • Boss's Orders, Alakazam, Lana's Aid
+- Maxevil95 shuffled 2 cards into their deck.
+   • Dudunsparce, Dunsparce
+You conceded. AkiraYoshioka wins.
+

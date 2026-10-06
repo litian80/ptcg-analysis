@@ -18,6 +18,7 @@ Pokémon TCG 的环境数据、卡组选择分析，以及对局记录/视频分
 | `data/selection/` | 选卡组分析：`selection_<窗口>.json` 是每套卡组对当前环境的期望胜率和全部对位（`python -m ptcg.selection`），`<窗口>.md` 是据此写的推荐 |
 | `data/matchups/` | 逐个对局的打法：`<卡组>.md` 是推荐卡组对每套主流卡组怎么打（奖赏卡路线、对手套路、关键卡）；`tech_<窗口>.json` 是每个对局里带不带某张卡的胜率差（`python -m ptcg.matchups`） |
 | `data/judgments/` | 手册里关键判断的信心、每次复盘和玩家反馈对它们的验证结果（`python -m ptcg.judgments`），见其中 README |
+| `data/gamelogs/` | TCG Live 对局记录：原始日志、`python -m ptcg.gamelog` 生成的逐回合时间线、人工复盘，见其中 README |
 | `video/` | YouTube 对局视频分析（另一条工作线） |
 | `project-files/` | Claude 项目共享文件夹的备份（视频复盘、选卡组报告），见其中 README |
 
