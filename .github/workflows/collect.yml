@@ -50,6 +50,8 @@ jobs:
           python -m ptcg.selection
           python -m ptcg.matchups
           python -m ptcg.brief
+          python -m ptcg.forecast
+          python -m ptcg.plan
 
       - name: Commit
         run: |

@@ -1,0 +1,382 @@
+{
+ "backtest": {
+  "field": {
+   "before": {
+    "forecast": 0.194,
+    "last": 0.203,
+    "exact_field_vs_top32": 0.346,
+    "events": 23
+   },
+   "after": {
+    "forecast": 0.256,
+    "last": 0.265,
+    "exact_field_vs_top32": 0.373,
+    "events": 13
+   }
+  },
+  "picks": {
+   "before": {
+    "model_top8": {
+     "made_it": 54,
+     "average_deck": 33.9,
+     "lift": 1.59,
+     "players": 2113
+    },
+    "popular_top8": {
+     "made_it": 63,
+     "average_deck": 65.2,
+     "lift": 0.97,
+     "players": 4053
+    },
+    "last_winners_top8": {
+     "made_it": 27,
+     "average_deck": 25.1,
+     "lift": 1.08,
+     "players": 1565
+    },
+    "model_top32": {
+     "made_it": 202,
+     "average_deck": 135.7,
+     "lift": 1.49,
+     "players": 2113
+    },
+    "popular_top32": {
+     "made_it": 244,
+     "average_deck": 260.8,
+     "lift": 0.94,
+     "players": 4053
+    },
+    "last_winners_top32": {
+     "made_it": 124,
+     "average_deck": 100.3,
+     "lift": 1.24,
+     "players": 1565
+    },
+    "events": 23
+   },
+   "after": {
+    "model_top8": {
+     "made_it": 33,
+     "average_deck": 22.8,
+     "lift": 1.45,
+     "players": 1458
+    },
+    "popular_top8": {
+     "made_it": 41,
+     "average_deck": 32.2,
+     "lift": 1.27,
+     "players": 2058
+    },
+    "last_winners_top8": {
+     "made_it": 14,
+     "average_deck": 10.7,
+     "lift": 1.31,
+     "players": 682
+    },
+    "model_top32": {
+     "made_it": 115,
+     "average_deck": 91.3,
+     "lift": 1.26,
+     "players": 1458
+    },
+    "popular_top32": {
+     "made_it": 159,
+     "average_deck": 128.9,
+     "lift": 1.23,
+     "players": 2058
+    },
+    "last_winners_top32": {
+     "made_it": 50,
+     "average_deck": 42.7,
+     "lift": 1.17,
+     "players": 682
+    },
+    "events": 13
+   }
+  }
+ },
+ "next": {
+  "day": "2026-10-03",
+  "region": null,
+  "field": {
+   "dragapult-ex": 0.1958,
+   "basic-box-m": 0.0861,
+   "slowking-scr": 0.079,
+   "n-zoroark": 0.0705,
+   "dragapult-dusknoir": 0.0665,
+   "dragapult-blaziken": 0.0515,
+   "festival-lead": 0.0466,
+   "alakazam-dudunsparce": 0.0439,
+   "mega-excadrill-ex": 0.0393,
+   "ogerpon-meganium-hydrapple": 0.035,
+   "crustle-dri": 0.0315,
+   "dhelmise-pbl": 0.025,
+   "alakazam-dusknoir": 0.0235,
+   "lopunny-dusknoir": 0.0233,
+   "lucario-hariyama": 0.0209,
+   "rockets-honchkrow": 0.0188,
+   "lopunny-dudunsparce": 0.0161,
+   "cynthia-garchomp-ex": 0.012,
+   "sharpedo-toxtricity": 0.0116,
+   "mega-lucario-ex": 0.0083,
+   "seaking-pre": 0.0078,
+   "grimmsnarl-froslass": 0.0078,
+   "raging-bolt-ogerpon": 0.0064,
+   "ogerpon-meganium-arboliva": 0.0057,
+   "rocket-mewtwo-ex": 0.0054,
+   "mew-ex-30c": 0.0048,
+   "hops-trevenant": 0.0044,
+   "dragapult-dudunsparce": 0.0042,
+   "mega-greninja-ex": 0.0038,
+   "clefairy-ogerpon": 0.0037,
+   "greninja-ex": 0.0032,
+   "toucannon-pbl": 0.003,
+   "beedrill-ex-cri": 0.0029,
+   "tera-box": 0.0027,
+   "kangaskhan-bouffalant": 0.0027,
+   "mega-venusaur-ex": 0.0026,
+   "mega-chandelure-ex": 0.0025,
+   "starmie-froslass": 0.0025,
+   "lillie-clefairy": 0.0022,
+   "toxtricity-box": 0.0018,
+   "mega-absol-box": 0.0018,
+   "starmie-dusknoir": 0.0018,
+   "ethan-typhlosion": 0.0015,
+   "ceruledge-ex": 0.0014,
+   "metagross-cri": 0.0013,
+   "mega-starmie-ex": 0.0013,
+   "stevens-metagross": 0.0009,
+   "mega-darkrai-ex": 0.0009,
+   "ogerpon-meganium": 0.0008,
+   "okidogi-barbaracle": 0.0005,
+   "yanmega-ex": 0.0005,
+   "hydreigon-ex": 0.0005,
+   "blaziken-zoroark": 0.0005,
+   "paldean-tauros-pfl": 0.0005,
+   "diancie-dusknoir": 0.0003,
+   "marnie-grimmsnarl-ex": 0.0003,
+   "froslass-munkidori": 0.0,
+   "dudunsparce-control": 0.0,
+   "sylveon-pre": 0.0,
+   "dragapult-froslass": 0.0,
+   "flareon-noctowl": 0.0,
+   "archaludon-dudunsparce": 0.0,
+   "ursaluna-lunatone": 0.0,
+   "rocket-spidops": 0.0,
+   "archaludon-ex": 0.0,
+   "decidueye-ex": 0.0,
+   "?": 0.0,
+   "milotic-ex": 0.0,
+   "jellicent-dusknoir": 0.0,
+   "flareon-ex": 0.0,
+   "blaziken-ex-jtg": 0.0,
+   "bronzong-tef": 0.0,
+   "mega-froslass-ex": 0.0,
+   "joltik-box": 0.0,
+   "feraligatr-tef": 0.0,
+   "hop-zacian": 0.0,
+   "mega-lopunny-ex": 0.0,
+   "mega-froslass-dudunsparce": 0.0,
+   "gholdengo-lunatone": 0.0,
+   "gardevoir-ex-sv": 0.0,
+   "charizard-noctowl": 0.0,
+   "dragapult-charizard": 0.0,
+   "charizard-pidgeot": 0.0,
+   "archaludon-zoroark": 0.0,
+   "gardevoir-jellicent": 0.0,
+   "ho-oh-armarouge": 0.0,
+   "iron-hands-magneton": 0.0,
+   "gholdengo-joltik-box": 0.0,
+   "gholdengo-ex": 0.0,
+   "pidgeot-control": 0.0,
+   "okidogi-twm": 0.0,
+   "manectric-eelektrik": 0.0,
+   "conkeldurr-twm": 0.0,
+   "espathra-xatu": 0.0,
+   "charizard-ex": 0.0,
+   "greninja-blaziken": 0.0,
+   "roaring-moon-dudunsparce": 0.0,
+   "poison-archaludon": 0.0,
+   "copperajah-ex": 0.0,
+   "alakazam-meg": 0.0,
+   "mega-abomasnow-ex": 0.0,
+   "toedscruel-ex": 0.0,
+   "kangaskhan-forretress": 0.0,
+   "future-box": 0.0,
+   "greninja-froslass": 0.0,
+   "hydrapple-ogerpon": 0.0,
+   "mega-manectric-ex-meg": 0.0,
+   "chien-pao-baxcalibur": 0.0,
+   "mega-charizard-x-ex": 0.0,
+   "espathra-froslass": 0.0,
+   "ogerpon-ex": 0.0,
+   "roaring-moon-ex": 0.0,
+   "iron-thorns-crustle": 0.0,
+   "charizard-dragapult": 0.0,
+   "toxtricity-pfl": 0.0,
+   "miraidon-ex": 0.0,
+   "forretress-ex": 0.0,
+   "sinistcha-ogerpon": 0.0,
+   "tinkaton-ex": 0.0,
+   "iron-hands-ex": 0.0,
+   "poison-mega-latias": 0.0,
+   "miraidon-eelektrik": 0.0,
+   "mega-kangaskhan-ex": 0.0,
+   "raging-bolt-ex": 0.0,
+   "gholdengo-dragapult": 0.0,
+   "gholdengo-typhlosion": 0.0,
+   "slaking-ex": 0.0,
+   "zoroark-crustle": 0.0,
+   "palafin-ex": 0.0,
+   "farigiraf-crustle": 0.0,
+   "ancient-box": 0.0,
+   "hydrapple-ex": 0.0,
+   "farigiraf-milotic": 0.0,
+   "iron-thorns-ex": 0.0,
+   "mega-camerupt-ex": 0.0,
+   "great-tusk-tef": 0.0,
+   "wugtrio-svi": 0.0,
+   "n-zoroark-lucario": 0.0,
+   "blissey-ex": 0.0,
+   "terapagos-noctowl": 0.0,
+   "united-wings": 0.0,
+   "charizard-dusknoir": 0.0,
+   "chien-pao-noctowl": 0.0
+  },
+  "decks": {
+   "alakazam-dusknoir": {
+    "field": 0.0235,
+    "expected": 0.5077,
+    "conversion": 1.9745,
+    "games": 190.4506,
+    "score": 2.0759
+   },
+   "lopunny-dusknoir": {
+    "field": 0.0233,
+    "expected": 0.4833,
+    "conversion": 2.099,
+    "games": 307.511,
+    "score": 1.959
+   },
+   "dragapult-ex": {
+    "field": 0.1958,
+    "expected": 0.4926,
+    "conversion": 1.4953,
+    "games": 2393.37,
+    "score": 1.0988
+   },
+   "festival-lead": {
+    "field": 0.0466,
+    "expected": 0.4759,
+    "conversion": 1.5626,
+    "games": 747.2458,
+    "score": 0.9888
+   },
+   "ogerpon-meganium-hydrapple": {
+    "field": 0.035,
+    "expected": 0.4592,
+    "conversion": 1.3987,
+    "games": 564.68,
+    "score": 0.5037
+   },
+   "basic-box-m": {
+    "field": 0.0861,
+    "expected": 0.4906,
+    "conversion": 0.9525,
+    "games": 1089.3291,
+    "score": 0.188
+   },
+   "crustle-dri": {
+    "field": 0.0315,
+    "expected": 0.4957,
+    "conversion": 0.9087,
+    "games": 548.3037,
+    "score": 0.183
+   },
+   "slowking-scr": {
+    "field": 0.079,
+    "expected": 0.4871,
+    "conversion": 0.8983,
+    "games": 1070.5266,
+    "score": 0.0547
+   },
+   "n-zoroark": {
+    "field": 0.0705,
+    "expected": 0.4867,
+    "conversion": 0.6954,
+    "games": 1163.3258,
+    "score": -0.2819
+   },
+   "dragapult-dusknoir": {
+    "field": 0.0665,
+    "expected": 0.459,
+    "conversion": 0.8505,
+    "games": 1046.2654,
+    "score": -0.3904
+   },
+   "dragapult-blaziken": {
+    "field": 0.0515,
+    "expected": 0.4636,
+    "conversion": 0.8028,
+    "games": 792.7356,
+    "score": -0.4083
+   },
+   "lucario-hariyama": {
+    "field": 0.0209,
+    "expected": 0.4408,
+    "conversion": 0.9631,
+    "games": 402.1298,
+    "score": -0.4455
+   },
+   "sharpedo-toxtricity": {
+    "field": 0.0116,
+    "expected": 0.4613,
+    "conversion": 0.7096,
+    "games": 234.7274,
+    "score": -0.5909
+   },
+   "dhelmise-pbl": {
+    "field": 0.025,
+    "expected": 0.4716,
+    "conversion": 0.6137,
+    "games": 609.5633,
+    "score": -0.6123
+   },
+   "lopunny-dudunsparce": {
+    "field": 0.0161,
+    "expected": 0.4583,
+    "conversion": 0.6269,
+    "games": 458.5372,
+    "score": -0.7642
+   },
+   "cynthia-garchomp-ex": {
+    "field": 0.012,
+    "expected": 0.4503,
+    "conversion": 0.686,
+    "games": 223.2033,
+    "score": -0.7722
+   },
+   "rockets-honchkrow": {
+    "field": 0.0188,
+    "expected": 0.4615,
+    "conversion": 0.5887,
+    "games": 366.951,
+    "score": -0.7842
+   },
+   "alakazam-dudunsparce": {
+    "field": 0.0439,
+    "expected": 0.4402,
+    "conversion": 0.6433,
+    "games": 928.5984,
+    "score": -0.9748
+   },
+   "mega-excadrill-ex": {
+    "field": 0.0393,
+    "expected": 0.4487,
+    "conversion": 0.5424,
+    "games": 832.1601,
+    "score": -1.0271
+   }
+  }
+ }
+}
