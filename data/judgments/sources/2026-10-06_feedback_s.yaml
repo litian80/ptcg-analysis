@@ -1,0 +1,22 @@
+kind: feedback
+date: 2026-10-06
+ref: feedback/raw/2026-10-06_sebastian_dragapult-blaziken-vs-excadrill.md（项目共享文件夹）
+reviewer: S
+reviewer_context: 2026-10-06 那局 Dragapult Blaziken 对 Mega Excadrill ex 的执牌人本人；读的是英文复盘邮件
+window: TEF-30C
+observations: []
+claims:
+  - id: c-20261006-s-01
+    type: 备选路线
+    text: >-
+      T8 不打 Boss's Orders：对手就算有 Jumbo Ice Cream 和 Hero's Cape，下回合 Blaziken ex 仍能击倒 Excadrill；
+      Boss 留着防对手撤退或换上别的攻击手
+    deck: dragapult-blaziken
+    vs: mega-excadrill-ex
+    depends_on: [Boss's Orders, Hero's Cape, Jumbo Ice Cream]
+    status: 已核对
+    note: >-
+      第一句算得对：Phantom Dive 后 Excadrill 身上 200，回 80 剩 120，挂 Cape 是 440 HP，还剩 320，Smolder-sault 400 够。
+      但这条路线要 Blaziken ex（被打过 90，剩 230）活过对手 T9；对手改打 Blaziken ex 用 330 击倒的话，
+      Dragapult ex 的 200 + 60 打不倒挂 Cape 的 Excadrill（剩 320）。手上有 2 张 Boss，用掉 1 张拉 Genesect ex 拿到 5:2，
+      仍留 1 张防撤退，且最后 1 张可以用 Phantom Dive 的指示物收后备区 Drilbur。c-20261006-log-01 维持待验证。
