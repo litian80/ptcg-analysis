@@ -96,3 +96,16 @@ def test_markdown_and_json(g3, tmp_path):
     out = tmp_path / "out"
     assert gamelog.main([str(RAW / "2026-10-05_3_vs-dragapult-ex.txt"), "--out", str(out)]) == 0
     assert (out / "2026-10-05_3_vs-dragapult-ex.md").read_text(encoding="utf-8").startswith("# 2026-10-05_3")
+
+
+def test_dragapult_blaziken_vs_mega_excadrill():
+    # 2026-10-06: Maxevil95 won the toss, went second, and won 6:4 with two Smolder-saults.
+    g = load("2026-10-06_1_vs-mega-excadrill-ex.txt")
+    assert g.players == ["Lipikapipi", "Maxevil95"]
+    assert g.coin_winner == "Maxevil95"
+    assert (g.winner, g.end) == ("Maxevil95", "prizes")
+    assert g.prizes_taken == {"Lipikapipi": 4, "Maxevil95": 6}
+    kos = [(k["turn"], k["player"], k["card"]) for k in g.knockouts]
+    assert (6, "Lipikapipi", "Mega Excadrill ex") in kos
+    # Risky Ruins' counters on the opponent's Beldum are printed under the wrong owner.
+    assert (8, "Lipikapipi", "Beldum") in kos
