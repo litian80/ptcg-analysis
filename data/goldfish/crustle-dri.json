@@ -1,0 +1,317 @@
+{
+ "slug": "crustle-dri",
+ "name": "Crustle",
+ "list_source": "Frankfurt 区域赛 2026-09-26 第 19 名 Eemeli Reijonen",
+ "games_per_side": 20000,
+ "seed": 1,
+ "list": {
+  "Mega Kangaskhan ex": 4,
+  "Dwebble": 3,
+  "Crustle": 3,
+  "Lillie's Determination": 4,
+  "Boss's Orders": 4,
+  "Team Rocket's Petrel": 4,
+  "Hilda": 3,
+  "Xerosic's Machinations": 2,
+  "Eri": 2,
+  "Pokémon Center Lady": 1,
+  "Bianca's Devotion": 1,
+  "Jumbo Ice Cream": 4,
+  "Pokégear 3.0": 3,
+  "Buddy-Buddy Poffin": 2,
+  "Ultra Ball": 1,
+  "Switch": 1,
+  "Hero's Cape": 1,
+  "Handheld Fan": 1,
+  "Team Rocket's Factory": 1,
+  "Lumiose City": 1,
+  "Prism Tower": 1,
+  "Spiky Energy": 4,
+  "Growing Grass Energy": 4,
+  "Mist Energy": 4,
+  "Grass Energy": 1
+ },
+ "modelled": "Crustle (DRI 12): Eemeli Reijonen, Regional Frankfurt 2026-09-26, 19th (best Crustle list there).\n\nModelled (printed text): Dwebble Ascension (DRI 11, attack: evolve from the deck), Crustle\n(DRI 12, Superb Scissors G+C+C), Mega Kangaskhan ex Run Errand (MEG 104), Buddy-Buddy Poffin\n(TEF 144), Ultra Ball (MEG 131), Team Rocket's Petrel (DRI 176), Team Rocket's Factory (DRI 173),\nHilda (WHT 84), Lillie's Determination (MEG 119), Pokégear 3.0 (SVI 186), Switch (MEG 130),\nLumiose City (POR 77, ends the turn), Growing Grass Energy (POR 86, Grass).",
+ "blanks": [
+  "Boss's Orders",
+  "Xerosic's Machinations",
+  "Eri",
+  "Pokémon Center Lady",
+  "Bianca's Devotion",
+  "Jumbo Ice Cream",
+  "Hero's Cape",
+  "Handheld Fan",
+  "Prism Tower",
+  "Mist Energy / Spiky Energy（只当无色能量）"
+ ],
+ "notes": [
+  "Ascension 是招式：要 Dwebble 在战斗场、身上 1 个能量、本回合能攻击（先攻第 1 回合不行），且这只 Dwebble 不是本回合才上场的。",
+  "“后攻第 1 回合 Ascension”按允许计算（招式效果进化，手册 crustle-dri.md:22 也说以裁定为准）；规则问题里给出不允许时的数字。",
+  "Superb Scissors 能打 = 一只 Crustle 身上有 Grass（Growing Grass 或基本草）+ 另 2 个能量，且在战斗场或能换上来。能量优先 Growing Grass，其次 Mist、Grass、Spiky。",
+  "Kangaskhan 只当起手（没 Dwebble 时）和 Run Errand 抽 2；不主动放后备区。"
+ ],
+ "results": {
+  "先攻": {
+   "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.4707,
+   "第1回合场上有 Crustle": 0.0,
+   "第1回合 Crustle 在战斗场": 0.0,
+   "第1回合用 Ascension 进化": 0.0,
+   "第2回合场上有 Crustle": 0.7675,
+   "第2回合 Crustle 在战斗场": 0.6871,
+   "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.0863,
+   "第3回合场上有 Crustle": 0.9616,
+   "第3回合 Crustle 在战斗场": 0.8437,
+   "第3回合能用 Superb Scissors": 0.3315,
+   "第3回合场上 ≥2 只 Crustle": 0.2919,
+   "第4回合能用 Superb Scissors": 0.589,
+   "第4回合场上 ≥2 只 Crustle": 0.4464,
+   "起手重抽": 0.3984
+  },
+  "后攻": {
+   "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.4691,
+   "第1回合场上有 Crustle": 0.4627,
+   "第1回合 Crustle 在战斗场": 0.4627,
+   "第1回合用 Ascension 进化": 0.4627,
+   "第2回合场上有 Crustle": 0.9265,
+   "第2回合 Crustle 在战斗场": 0.7975,
+   "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.2089,
+   "第3回合场上有 Crustle": 0.9778,
+   "第3回合 Crustle 在战斗场": 0.8738,
+   "第3回合能用 Superb Scissors": 0.5171,
+   "第3回合场上 ≥2 只 Crustle": 0.4913,
+   "第4回合能用 Superb Scissors": 0.6595,
+   "第4回合场上 ≥2 只 Crustle": 0.5863,
+   "起手重抽": 0.4021
+  }
+ },
+ "tuning": [
+  {
+   "question": "Growing Grass Energy 4 → 3（换 1 张基本 Grass Energy）",
+   "source": "data/matchups/crustle-dri.md:435",
+   "change": {
+    "Growing Grass Energy": -1,
+    "Grass Energy": 1
+   },
+   "results": {
+    "先攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.4707,
+     "第1回合场上有 Crustle": 0.0,
+     "第1回合 Crustle 在战斗场": 0.0,
+     "第1回合用 Ascension 进化": 0.0,
+     "第2回合场上有 Crustle": 0.7675,
+     "第2回合 Crustle 在战斗场": 0.6872,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.0508,
+     "第3回合场上有 Crustle": 0.9616,
+     "第3回合 Crustle 在战斗场": 0.8438,
+     "第3回合能用 Superb Scissors": 0.3312,
+     "第3回合场上 ≥2 只 Crustle": 0.289,
+     "第4回合能用 Superb Scissors": 0.5905,
+     "第4回合场上 ≥2 只 Crustle": 0.445,
+     "起手重抽": 0.3984
+    },
+    "后攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.4691,
+     "第1回合场上有 Crustle": 0.4631,
+     "第1回合 Crustle 在战斗场": 0.4631,
+     "第1回合用 Ascension 进化": 0.4631,
+     "第2回合场上有 Crustle": 0.9265,
+     "第2回合 Crustle 在战斗场": 0.7979,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.1338,
+     "第3回合场上有 Crustle": 0.9784,
+     "第3回合 Crustle 在战斗场": 0.874,
+     "第3回合能用 Superb Scissors": 0.5157,
+     "第3回合场上 ≥2 只 Crustle": 0.4872,
+     "第4回合能用 Superb Scissors": 0.6576,
+     "第4回合场上 ≥2 只 Crustle": 0.5836,
+     "起手重抽": 0.4021
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.0,
+     "第1回合场上有 Crustle": 0.0,
+     "第1回合 Crustle 在战斗场": 0.0,
+     "第1回合用 Ascension 进化": 0.0,
+     "第2回合场上有 Crustle": 0.0,
+     "第2回合 Crustle 在战斗场": 0.0,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": -3.6,
+     "第3回合场上有 Crustle": 0.0,
+     "第3回合 Crustle 在战斗场": 0.0,
+     "第3回合能用 Superb Scissors": -0.0,
+     "第3回合场上 ≥2 只 Crustle": -0.3,
+     "第4回合能用 Superb Scissors": 0.2,
+     "第4回合场上 ≥2 只 Crustle": -0.1,
+     "起手重抽": 0.0
+    },
+    "后攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.0,
+     "第1回合场上有 Crustle": 0.0,
+     "第1回合 Crustle 在战斗场": 0.0,
+     "第1回合用 Ascension 进化": 0.0,
+     "第2回合场上有 Crustle": 0.0,
+     "第2回合 Crustle 在战斗场": 0.0,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": -7.5,
+     "第3回合场上有 Crustle": 0.1,
+     "第3回合 Crustle 在战斗场": 0.0,
+     "第3回合能用 Superb Scissors": -0.1,
+     "第3回合场上 ≥2 只 Crustle": -0.4,
+     "第4回合能用 Superb Scissors": -0.2,
+     "第4回合场上 ≥2 只 Crustle": -0.3,
+     "起手重抽": 0.0
+    }
+   }
+  },
+  {
+   "question": "去掉 Bianca's Devotion，换第 3 张 Buddy-Buddy Poffin（换 Festival Grounds 在单人模拟里没有差别，两者都是空白卡）",
+   "source": "data/brief/TEF-30C.md（Bianca's Devotion -5.4）",
+   "change": {
+    "Bianca's Devotion": -1,
+    "Buddy-Buddy Poffin": 1
+   },
+   "results": {
+    "先攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.4707,
+     "第1回合场上有 Crustle": 0.0,
+     "第1回合 Crustle 在战斗场": 0.0,
+     "第1回合用 Ascension 进化": 0.0,
+     "第2回合场上有 Crustle": 0.8023,
+     "第2回合 Crustle 在战斗场": 0.7106,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.0927,
+     "第3回合场上有 Crustle": 0.9711,
+     "第3回合 Crustle 在战斗场": 0.8554,
+     "第3回合能用 Superb Scissors": 0.3503,
+     "第3回合场上 ≥2 只 Crustle": 0.319,
+     "第4回合能用 Superb Scissors": 0.5968,
+     "第4回合场上 ≥2 只 Crustle": 0.4622,
+     "起手重抽": 0.3984
+    },
+    "后攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.4691,
+     "第1回合场上有 Crustle": 0.4618,
+     "第1回合 Crustle 在战斗场": 0.4618,
+     "第1回合用 Ascension 进化": 0.4618,
+     "第2回合场上有 Crustle": 0.9415,
+     "第2回合 Crustle 在战斗场": 0.8124,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.215,
+     "第3回合场上有 Crustle": 0.9843,
+     "第3回合 Crustle 在战斗场": 0.8845,
+     "第3回合能用 Superb Scissors": 0.5248,
+     "第3回合场上 ≥2 只 Crustle": 0.5151,
+     "第4回合能用 Superb Scissors": 0.659,
+     "第4回合场上 ≥2 只 Crustle": 0.6033,
+     "起手重抽": 0.4021
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.0,
+     "第1回合场上有 Crustle": 0.0,
+     "第1回合 Crustle 在战斗场": 0.0,
+     "第1回合用 Ascension 进化": 0.0,
+     "第2回合场上有 Crustle": 3.5,
+     "第2回合 Crustle 在战斗场": 2.3,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.6,
+     "第3回合场上有 Crustle": 0.9,
+     "第3回合 Crustle 在战斗场": 1.2,
+     "第3回合能用 Superb Scissors": 1.9,
+     "第3回合场上 ≥2 只 Crustle": 2.7,
+     "第4回合能用 Superb Scissors": 0.8,
+     "第4回合场上 ≥2 只 Crustle": 1.6,
+     "起手重抽": 0.0
+    },
+    "后攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.0,
+     "第1回合场上有 Crustle": -0.1,
+     "第1回合 Crustle 在战斗场": -0.1,
+     "第1回合用 Ascension 进化": -0.1,
+     "第2回合场上有 Crustle": 1.5,
+     "第2回合 Crustle 在战斗场": 1.5,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.6,
+     "第3回合场上有 Crustle": 0.6,
+     "第3回合 Crustle 在战斗场": 1.1,
+     "第3回合能用 Superb Scissors": 0.8,
+     "第3回合场上 ≥2 只 Crustle": 2.4,
+     "第4回合能用 Superb Scissors": -0.0,
+     "第4回合场上 ≥2 只 Crustle": 1.7,
+     "起手重抽": 0.0
+    }
+   }
+  },
+  {
+   "question": "规则问题：后攻第 1 回合不允许用 Ascension 进化",
+   "source": "data/matchups/crustle-dri.md:22",
+   "change": {},
+   "opts": {
+    "t1_ascension": false
+   },
+   "results": {
+    "先攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.4707,
+     "第1回合场上有 Crustle": 0.0,
+     "第1回合 Crustle 在战斗场": 0.0,
+     "第1回合用 Ascension 进化": 0.0,
+     "第2回合场上有 Crustle": 0.7675,
+     "第2回合 Crustle 在战斗场": 0.6871,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.0863,
+     "第3回合场上有 Crustle": 0.9616,
+     "第3回合 Crustle 在战斗场": 0.8437,
+     "第3回合能用 Superb Scissors": 0.3315,
+     "第3回合场上 ≥2 只 Crustle": 0.2919,
+     "第4回合能用 Superb Scissors": 0.589,
+     "第4回合场上 ≥2 只 Crustle": 0.4464,
+     "起手重抽": 0.3984
+    },
+    "后攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.4691,
+     "第1回合场上有 Crustle": 0.0,
+     "第1回合 Crustle 在战斗场": 0.0,
+     "第1回合用 Ascension 进化": 0.0,
+     "第2回合场上有 Crustle": 0.9265,
+     "第2回合 Crustle 在战斗场": 0.7975,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.2151,
+     "第3回合场上有 Crustle": 0.9778,
+     "第3回合 Crustle 在战斗场": 0.8738,
+     "第3回合能用 Superb Scissors": 0.538,
+     "第3回合场上 ≥2 只 Crustle": 0.3831,
+     "第4回合能用 Superb Scissors": 0.6848,
+     "第4回合场上 ≥2 只 Crustle": 0.4948,
+     "起手重抽": 0.4021
+    }
+   },
+   "delta_pp": {
+    "先攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.0,
+     "第1回合场上有 Crustle": 0.0,
+     "第1回合 Crustle 在战斗场": 0.0,
+     "第1回合用 Ascension 进化": 0.0,
+     "第2回合场上有 Crustle": 0.0,
+     "第2回合 Crustle 在战斗场": 0.0,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.0,
+     "第3回合场上有 Crustle": 0.0,
+     "第3回合 Crustle 在战斗场": 0.0,
+     "第3回合能用 Superb Scissors": 0.0,
+     "第3回合场上 ≥2 只 Crustle": 0.0,
+     "第4回合能用 Superb Scissors": 0.0,
+     "第4回合场上 ≥2 只 Crustle": 0.0,
+     "起手重抽": 0.0
+    },
+    "后攻": {
+     "起手战斗场是 Mega Kangaskhan ex（没摸到 Dwebble）": 0.0,
+     "第1回合场上有 Crustle": -46.3,
+     "第1回合 Crustle 在战斗场": -46.3,
+     "第1回合用 Ascension 进化": -46.3,
+     "第2回合场上有 Crustle": 0.0,
+     "第2回合 Crustle 在战斗场": 0.0,
+     "第2回合结束时有 Crustle 贴着 ≥2 张 Growing Grass": 0.6,
+     "第3回合场上有 Crustle": 0.0,
+     "第3回合 Crustle 在战斗场": 0.0,
+     "第3回合能用 Superb Scissors": 2.1,
+     "第3回合场上 ≥2 只 Crustle": -10.8,
+     "第4回合能用 Superb Scissors": 2.5,
+     "第4回合场上 ≥2 只 Crustle": -9.2,
+     "起手重抽": 0.0
+    }
+   }
+  }
+ ]
+}

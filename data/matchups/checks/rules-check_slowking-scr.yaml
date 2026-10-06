@@ -1,0 +1,508 @@
+playbook: data/matchups/slowking-scr.md
+checked_on: '2026-10-05'
+card_source: github.com/PokemonTCG/pokemon-tcg-data cards/en (master)
+verdict_legend:
+  verified: card text / rules confirm it; mark changed to （核对卡牌原文）
+  corrected: factual part was wrong; fixed and marked （核对卡牌原文，已改正）
+  still-inferred: I/P/L judgment; （推断） kept
+  uncertain-rule: needs an official ruling; （推断） kept
+passages:
+- file: data/matchups/slowking-scr.md
+  line: 26
+  class: R
+  verdict: verified
+  cards_checked:
+  - Slowking SCR 58
+  - Kyurem SFA 47
+  - Metagross CRI 61
+  note: 'copied attack: only Seek Inspiration cost (Psychic + Colorless) is paid ("use it as this attack")'
+- file: data/matchups/slowking-scr.md
+  line: 26
+  class: R
+  verdict: verified
+  cards_checked:
+  - Slowking SCR 58
+  note: copied damage uses the attacker type (Psychic) for Weakness
+- file: data/matchups/slowking-scr.md
+  line: 46
+  class: R
+  verdict: corrected
+  cards_checked:
+  - Metagross CRI 61
+  - Slowpoke SCR 57 (Dangle Tail)
+  - Night Stretcher MEG 173
+  - Crustle DRI 12
+  - Growing Grass Energy POR 86
+  - Hero's Cape TEF 152
+  note: inferred clause (recover Metagross with Dangle Tail / Night Stretcher) verified; factual error elsewhere in the bullet fixed
+  old: 任何 Crustle（最高 290）
+  new: 2 张 Growing Grass 加 Hero's Cape 的 Crustle（290；3 张 Growing Grass 加 Cape 是 310，差 10）
+- file: data/matchups/slowking-scr.md
+  line: 53
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Budew ASC 16
+  - Academy at Night SFA 54
+  note: facts inside (first-turn rules, Itchy Pollen, Stadium not an Item) correct
+- file: data/matchups/slowking-scr.md
+  line: 66
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 70
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Lillie's Clefairy ex JTG 56
+  - Dragapult ex TWM 130
+  - Telepathic Psychic Energy POR 88
+  note: 190 HP vs Phantom Dive 200 and Fairy Zone text correct
+- file: data/matchups/slowking-scr.md
+  line: 75
+  class: R
+  verdict: verified
+  cards_checked:
+  - Pawmot PFL 34
+  - Lillie's Clefairy ex JTG 56
+  - Dragapult ex TWM 130
+  note: 'paralysis blocks attack and retreat (rules); 130x2 needs Fairy Zone, now stated; "no Switch" checked in decklists: 3 of 279 Dragapult lists carry Switch/Escape Rope/Prime Catcher'
+- file: data/matchups/slowking-scr.md
+  line: 78
+  class: A
+  verdict: verified
+  cards_checked:
+  - Lillie's Clefairy ex JTG 56
+  - Dragapult ex TWM 130
+  note: (20 + 7x20) x2 = 320
+- file: data/matchups/slowking-scr.md
+  line: 84
+  class: R
+  verdict: verified
+  cards_checked:
+  - Risky Ruins MEG 127
+  - Academy at Night SFA 54
+  - Slowpoke SCR 57
+- file: data/matchups/slowking-scr.md
+  line: 92
+  class: A
+  verdict: verified
+  cards_checked:
+  - Pawmot PFL 34
+  - Lillie's Clefairy ex JTG 56
+  note: 260 then any follow-up >= 60
+- file: data/matchups/slowking-scr.md
+  line: 92
+  class: R
+  verdict: verified
+  cards_checked:
+  - Mew ex 30C 66
+  - Slowking SCR 58
+  note: Memory Helix uses Benched attacks but Mew ex needs the Energy itself; clause added
+- file: data/matchups/slowking-scr.md
+  line: 94
+  class: R
+  verdict: verified
+  cards_checked:
+  - Munkidori ASC 99 / TWM 95
+  - Metagross CRI 61
+  - Dragapult ex TWM 130
+  note: 30 >= 20 correct; precondition added (Adrena-Brain moves counters from your own Pokemon); data part still not measured
+- file: data/matchups/slowking-scr.md
+  line: 116
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - N's Zoroark ex ASC 137
+- file: data/matchups/slowking-scr.md
+  line: 123
+  class: I
+  verdict: corrected
+  cards_checked:
+  - N's Zekrom ASC 155
+  - N's Reshiram ASC 154
+  - N's Zoroark ex ASC 137
+  - N's Purrloin JTG 96
+  - N's Darmanitan ASC 33
+  - Annihilape PBL 41
+  note: strategy heading keeps （推断）; HP/damage numbers verified; "only Zorua Scratch left" was wrong
+  old: 对手只剩 Zorua 的 Scratch 可复制（对 Slowking 40）
+  new: 还有 Purrloin 的 Thieving Swipe（60），Castle 版 N's Darmanitan 的 Back Draft 按你弃牌区基本能量每张 30（再翻倍）也能击倒 Slowking
+- file: data/matchups/slowking-scr.md
+  line: 130
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - N's Purrloin JTG 96
+- file: data/matchups/slowking-scr.md
+  line: 135
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Meowth ex POR 62
+  - Zeraora DRI 78
+- file: data/matchups/slowking-scr.md
+  line: 136
+  class: R
+  verdict: verified
+  cards_checked:
+  - Cofagrigus SSP 83
+  - Mega Kangaskhan ex MEG 104
+  - Latias ex SSP 76
+  - Meowth ex POR 62
+  - Fezandipiti ex ASC 142
+  note: all four have Abilities; causal clause split off and kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 137
+  class: R
+  verdict: verified
+  cards_checked:
+  - Unown 30C 72
+- file: data/matchups/slowking-scr.md
+  line: 152
+  class: A
+  verdict: verified
+  cards_checked:
+  - Duskull PRE 35
+  - Dusclops PRE 36
+  - Dreepy ASC 158
+  - Drakloak ASC 159
+  - Munkidori TWM 95
+  - Budew PRE 4
+  - Patrat CRI 70
+  - Moltres PFL 14
+  note: all <=110 except Moltres 120 (added)
+- file: data/matchups/slowking-scr.md
+  line: 155
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Rare Candy (rules)
+- file: data/matchups/slowking-scr.md
+  line: 167
+  class: R
+  verdict: verified
+  cards_checked:
+  - Duskull PRE 35
+  note: Come and Get You verified; "keep a Trifrost for later" kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 171
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Wondrous Patch PFL 94
+- file: data/matchups/slowking-scr.md
+  line: 177
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+  note: has judgment slk-dpd-01, untouched
+- file: data/matchups/slowking-scr.md
+  line: 189
+  class: A
+  verdict: corrected
+  cards_checked:
+  - Dusclops PRE 36
+  - Slowpoke SCR 57
+  - Slowking SCR 58
+  old: 它自爆收掉的是你的 Slowpoke 或残血 Slowking
+  new: Dusclops 只放 5 个指示物，只收得掉吃过 30 以上伤害的 Slowpoke（80）或残血 Slowking
+  note: strategy clause kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 199
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Unfair Stamp TWM 165
+  - Chien-Pao SSP 56
+- file: data/matchups/slowking-scr.md
+  line: 203
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 208
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 210
+  class: R
+  verdict: verified
+  cards_checked:
+  - Slowpoke SCR 57
+  - Night Stretcher MEG 173
+- file: data/matchups/slowking-scr.md
+  line: 215
+  class: R
+  verdict: verified
+  cards_checked:
+  - Area Zero Underdepths SCR 131
+- file: data/matchups/slowking-scr.md
+  line: 228
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Cofagrigus SSP 83
+  note: listed Pokemon do have Abilities
+- file: data/matchups/slowking-scr.md
+  line: 229
+  class: R
+  verdict: verified
+  cards_checked:
+  - Smoochum SSP 75
+  - Latias ex SSP 76
+  note: Delightful Kiss text verified; causal explanation kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 232
+  class: R
+  verdict: verified
+  cards_checked:
+  - Prime Catcher TEF 157
+  - Teal Mask Ogerpon ex TWM 25
+  - Mega Kangaskhan ex MEG 104
+  - Metagross CRI 61
+  note: 'added: Hero''s Cape Kangaskhan 400 excluded'
+- file: data/matchups/slowking-scr.md
+  line: 238
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Area Zero Underdepths SCR 131
+- file: data/matchups/slowking-scr.md
+  line: 246
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Shaymin DRI 10
+  - Battle Cage PFL 85
+  - Genesect SFA 40
+  - Enhanced Hammer TWM 148
+  note: causal claim kept （推断）; listed card effects verified, sentence added
+- file: data/matchups/slowking-scr.md
+  line: 250
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Abra MEG 54
+  - Dunsparce TEF 128 / JTG 120
+- file: data/matchups/slowking-scr.md
+  line: 257
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 263
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Eri TEF 146
+- file: data/matchups/slowking-scr.md
+  line: 265
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Special Red Card CRI 82
+  note: card text clause marked verified; effect on Powerful Hand kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 268
+  class: R
+  verdict: verified
+  cards_checked:
+  - Lana's Aid TWM 155
+  note: '"fits the attrition game" kept （推断）'
+- file: data/matchups/slowking-scr.md
+  line: 270
+  class: L
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 285
+  class: A
+  verdict: verified
+  cards_checked:
+  - Mega Excadrill ex PBL 65
+  - Mega Skarmory ex POR 55
+- file: data/matchups/slowking-scr.md
+  line: 289
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 300
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Mega Excadrill ex PBL 65
+- file: data/matchups/slowking-scr.md
+  line: 304
+  class: A
+  verdict: verified
+  cards_checked:
+  - Jumbo Ice Cream PFL 91
+  - Mega Excadrill ex PBL 65
+  note: 340-110+80=310; added "Active only"; strategy kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 327
+  class: I
+  verdict: corrected
+  cards_checked:
+  - Rare Candy (rules)
+  - Dragapult ex TWM 130
+  old: Dragapult ex 仍要第 3 回合
+  new: Rare Candy 同样能让 Dreepy 直接变成 Dragapult ex，所以 Dragapult ex 也可能第 2 回合就上场
+- file: data/matchups/slowking-scr.md
+  line: 338
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Blaziken ex JTG 24
+- file: data/matchups/slowking-scr.md
+  line: 343
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 362
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 368
+  class: R
+  verdict: verified
+  cards_checked:
+  - Rabsca TEF 24
+  - Prime Catcher TEF 157
+- file: data/matchups/slowking-scr.md
+  line: 382
+  class: A
+  verdict: verified
+  cards_checked:
+  - Unown 30C 72
+  - Applin TWM 17 / DRI 16
+- file: data/matchups/slowking-scr.md
+  line: 383
+  class: L
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 403
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 404
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dhelmise PBL 39
+- file: data/matchups/slowking-scr.md
+  line: 410
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Shaymin DRI 10
+  - Annihilape PBL 41
+  - Munkidori TWM 95
+  - Patrat CRI 70
+  - Dhelmise PBL 39
+  note: all numbers/effects verified (100 vs 80 HP; 50+30=80; Flower Curtain only stops damage); strategy kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 414
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Shuppet PBL 33
+  - Poltchageist PBL 5
+  - Sinistcha PBL 6
+  - Spiritomb PBL 35
+  note: HP and 6/13 thresholds verified
+- file: data/matchups/slowking-scr.md
+  line: 417
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 426
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 444
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 446
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Hydrapple ex SCR 14
+  - Brave Bangle PBL 104
+- file: data/matchups/slowking-scr.md
+  line: 451
+  class: R
+  verdict: verified
+  cards_checked:
+  - Hydrapple ex SCR 14
+  note: wording tightened (heal 30 on the Pokemon the Energy goes to); strategy kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 455
+  class: R
+  verdict: verified
+  cards_checked:
+  - Teal Mask Ogerpon ex TWM 25
+  note: strategy kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 461
+  class: L
+  verdict: still-inferred
+  cards_checked:
+  - Meganium MEG 10
+- file: data/matchups/slowking-scr.md
+  line: 467
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 479
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dwebble DRI 11
+- file: data/matchups/slowking-scr.md
+  line: 489
+  class: A
+  verdict: verified
+  cards_checked:
+  - Bianca's Devotion TEF 142
+  - Crustle DRI 12
+  - Growing Grass Energy POR 86
+- file: data/matchups/slowking-scr.md
+  line: 492
+  class: R
+  verdict: corrected
+  cards_checked:
+  - Eri TEF 146
+  - Xerosic's Machinations SFA 64
+  old: Eri、Xerosic 打手牌：Kyurem 放在牌库里
+  new: Eri 只弃物品，Xerosic 由你自己选弃哪几张，Kyurem 不会被弃，会被弃的是找它的物品
+  note: advice kept （推断）
+- file: data/matchups/slowking-scr.md
+  line: 514
+  class: I
+  verdict: still-inferred
+  cards_checked: []
+- file: data/matchups/slowking-scr.md
+  line: 522
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dusknoir PRE 37
+- file: data/matchups/slowking-scr.md
+  line: 526
+  class: L
+  verdict: still-inferred
+  cards_checked: []

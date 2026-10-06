@@ -1,0 +1,31 @@
+kind: video
+date: 2026-10-05
+ref: video-reviews/indianapolis-2026.md（项目共享文件夹）
+title: Indianapolis 2026 区域赛第 2 天瑞士轮第 12、13 轮
+window: TEF-POR
+observations:
+  - judgment: adu-dpx-02
+    game: 第 12 轮第 1 局 Jones（Alakazam Dudunsparce）胜 Hamilton（Dragapult ex）
+    result: held
+    note: Jones 第 2 回合用 Rare Candy 进化 Alakazam，同时给 Genesect 挂道具、打出 Nighttime Mine，从此领先（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=5820s）；Hamilton 没有用 Budew 锁物品
+  - judgment: adu-dpx-02
+    game: 第 12 轮第 2 局 Jones 胜 Hamilton
+    result: held
+    note: 解说复盘说两局的前两回合几乎一样（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=8280s）；Hamilton 同样没有锁物品
+  - judgment: adu-dpx-01
+    game: 第 12 轮 Jones 2-0 Hamilton
+    result: n/a
+    note: Jones 不带 Battle Cage，带 4 张 Nighttime Mine，赛后说觉得 Battle Cage 对 Dragapult 没多大用；检验不了这一条
+  - judgment: dpx-adu-01
+    game: 第 12 轮第 1 局 Hamilton（Dragapult ex）负 Jones
+    result: n/a
+    note: Hamilton 先攻也输了，检验不了“后攻吃亏”；第 2 局的先后攻没听清
+claims:
+  - id: c-20261005-indy-01
+    type: 纠错
+    text: dragapult-ex.md 的 vs Ogerpon Meganium Hydrapple 有两处视角写反：Syrup Storm 数的是对手（Hydrapple 一方）自己全场的草能量，写成了“我方全场”；Briar 是对手在我们剩 2 张时打的，写成了“对手剩 2 张时”（“常见失误”里也是）。alakazam-dusknoir.md 的 Syrup Storm 也写成了“我方全场”
+    deck: dragapult-ex
+    vs: ogerpon-meganium-hydrapple
+    depends_on: [Briar, Hydrapple ex]
+    check: 卡牌原文里 Syrup Storm 数的是使用者自己全场（all of your Pokémon）的草能量，Briar 只能在使用者的对手剩正好 2 张奖赏卡时打；第 13 轮第 2 局 Zheng 剩 2 张时 Hope 打出 Briar（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=12450s），已改
+    status: 已核对

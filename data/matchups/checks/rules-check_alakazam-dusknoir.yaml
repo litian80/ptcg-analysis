@@ -1,0 +1,299 @@
+playbook: data/matchups/alakazam-dusknoir.md
+checked: '2026-10-05'
+card_source: PokemonTCG/pokemon-tcg-data cards/en
+passages:
+- file: data/matchups/alakazam-dusknoir.md
+  line: 5
+  class: '-'
+  verdict: not-a-claim
+  note: Legend explaining the （推断） convention; left unchanged.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 46
+  class: R
+  verdict: verified
+  cards_checked:
+  - Psyduck ASC 39 (Damp)
+  - Dusknoir PRE 37 / SFA 20 (Cursed Blast)
+  note: Damp removes Abilities that require the user to Knock Out itself; Cursed Blast KOs its user.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 66
+  class: R
+  verdict: verified
+  cards_checked:
+  - Alakazam MEG 56 (Psychic Draw)
+  - Rare Candy MEG 125
+  note: Rare Candy puts the Stage 2 card from hand onto the Basic to evolve it, so "play from hand to evolve" triggers (same as Charizard ex Infernal Reign + Rare Candy).
+- file: data/matchups/alakazam-dusknoir.md
+  line: 93
+  class: I
+  verdict: still-inferred
+  note: Section header; facts under it (going-first restrictions) are standard rules and correct.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 113
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 130
+  class: P
+  verdict: still-inferred
+  cards_checked:
+  - Unfair Stamp TWM 165
+  - Fezandipiti ex ASC 142
+  - Dawn PFL 87
+  note: 'Card facts (Stamp: we draw 2; Flip the Script 3) correct; hand-size estimate left as inference.'
+- file: data/matchups/alakazam-dusknoir.md
+  line: 132
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Special Red Card CRI 82
+- file: data/matchups/alakazam-dusknoir.md
+  line: 137
+  class: L
+  verdict: still-inferred
+  cards_checked:
+  - Budew ASC 16
+- file: data/matchups/alakazam-dusknoir.md
+  line: 159
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 166
+  class: R
+  verdict: verified
+  cards_checked:
+  - N's Zorua JTG 97
+  - N's Zoroark ex JTG 98 (Night Joker)
+  note: Scratch base damage is 20; the 40 was the doubled value vs our Darkness-weak Pokemon. Clarified, not an error. Night Joker copies only Benched N's Pokemon attacks.
+  old: Scratch（40）
+  new: Scratch（20，打我方弱恶的宝可梦是 40）
+- file: data/matchups/alakazam-dusknoir.md
+  line: 172
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Judge POR 76
+- file: data/matchups/alakazam-dusknoir.md
+  line: 179
+  class: L
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 195
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Dusclops PRE 36
+  - Dusknoir PRE 37
+  - Night Stretcher ASC 196
+  note: 'Fixed a factual slip inside an I passage: "最多自爆 3 次" ignores Night Stretcher (in 92/92 Dragapult Dusknoir lists).'
+  old: 对方最多自爆 3 次（2 Dusclops + 1 Dusknoir）
+  new: 对方卡表是 2 Dusclops + 1 Dusknoir，不算 Night Stretcher 回收时最多自爆 3 次
+- file: data/matchups/alakazam-dusknoir.md
+  line: 199
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 203
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 214
+  class: I
+  verdict: still-inferred
+  note: Carries 信心 60% akd-dpx-01; untouched.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 215
+  class: R
+  verdict: corrected
+  cards_checked:
+  - Dusknoir PRE 37
+  - Judge POR 76
+  - Special Red Card CRI 82
+  note: Ability needs no hand, but only protects the plan if Dusknoir is already in play; a Dusknoir card still in hand is shuffled away by Judge / Special Red Card.
+  old: Cursed Blast 是特性，不看手牌，对方中间用 Judge 或 Special Red Card 打乱手牌也挡不住（推断）
+  new: …只要 Dusknoir 已经在场上…也挡不住；Dusknoir 还在手上时会被一起洗走（核对卡牌原文，已改正）
+- file: data/matchups/alakazam-dusknoir.md
+  line: 231
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Telepathic Psychic Energy POR 88
+  - Psychic Energy
+  note: The 5-energy count (4 Telepathic + 1 Psychic) is verified against 22 lists; the mark covers only the strategic sentence.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 239
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 264
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 275
+  class: R
+  verdict: uncertain-rule
+  cards_checked:
+  - Iron Crown ex TEF 81 (Twin Shotels)
+  - Shaymin DRI 10 (Flower Curtain)
+  note: Whether "isn't affected by any effects on those Pokemon" bypasses another Pokemon's damage-prevention Ability needs an official ruling. Abra MEG 54 is 50 HP (TWM 80 is 40).
+- file: data/matchups/alakazam-dusknoir.md
+  line: 304
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 307
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 321
+  class: R
+  verdict: verified
+  cards_checked:
+  - Lucky Helmet TWM 158
+  - Alakazam MEG 56
+  note: Helmet triggers when "damaged by an attack"; placing counters is not damage.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 336
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 345
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 357
+  class: P
+  verdict: still-inferred
+  cards_checked:
+  - Special Red Card CRI 82
+- file: data/matchups/alakazam-dusknoir.md
+  line: 358
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Eri TEF 146
+- file: data/matchups/alakazam-dusknoir.md
+  line: 386
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 396
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Mega Excadrill ex PBL 65 (Undermine)
+- file: data/matchups/alakazam-dusknoir.md
+  line: 421
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 427
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Blaziken ex JTG 24
+- file: data/matchups/alakazam-dusknoir.md
+  line: 437
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 463
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 471
+  class: A
+  verdict: verified
+  cards_checked:
+  - Dipplin TWM 18 (Do the Wave 20x per Benched Pokemon, Festival Lead)
+  - Alakazam MEG 56 (140 HP, weak Darkness)
+  note: 5/4/3 bench = 200/160/120 over two attacks; 120 < 140.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 476
+  class: R
+  verdict: verified
+  cards_checked:
+  - Psyduck ASC 39
+  - Dusknoir PRE 37
+- file: data/matchups/alakazam-dusknoir.md
+  line: 504
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 522
+  class: L
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 538
+  class: R
+  verdict: verified
+  cards_checked:
+  - Forest of Vitality MEG 117
+  note: Rule clause marked verified; the "stays on Bench briefly" consequence keeps （推断）.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 541
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 548
+  class: A
+  verdict: verified
+  cards_checked:
+  - Hydrapple ex SCR 14 (330 HP, Ripening Charge)
+  note: 330/20 -> 17 cards; 130 + 200 = 330. Heal clause verified; "prioritise Ogerpon" keeps （推断）.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 555
+  class: R
+  verdict: verified
+  cards_checked:
+  - Dusknoir PRE 37
+  note: Cursed Blast has no hand requirement; 130 + 10 cards (200) = 330 = Hydrapple HP.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 575
+  class: R
+  verdict: verified
+  cards_checked:
+  - Spiky Energy JTG 159
+  note: Triggers only when "damaged by an attack".
+- file: data/matchups/alakazam-dusknoir.md
+  line: 579
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Mega Kangaskhan ex MEG 104
+  note: '"Two Megas = 6 prizes" is plain card text in the preceding sentence; the mark covers the judgment only.'
+- file: data/matchups/alakazam-dusknoir.md
+  line: 582
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 591
+  class: I
+  verdict: still-inferred
+  cards_checked:
+  - Crustle DRI 12 (Superb Scissors 120)
+  note: 120 < 140 is correct.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 596
+  class: R
+  verdict: verified
+  cards_checked:
+  - Spiky Energy JTG 159
+  - Handheld Fan TWM 150
+- file: data/matchups/alakazam-dusknoir.md
+  line: 623
+  class: I
+  verdict: still-inferred
+  note: Section header.
+- file: data/matchups/alakazam-dusknoir.md
+  line: 630
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 631
+  class: I
+  verdict: still-inferred
+- file: data/matchups/alakazam-dusknoir.md
+  line: 638
+  class: I
+  verdict: still-inferred

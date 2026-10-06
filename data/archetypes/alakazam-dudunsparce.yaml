@@ -96,8 +96,8 @@ matchups:
     win_rate: 0.305
     plan: >-
       Dragapult ex 320 HP，手牌 16 张就能一击（世界赛决赛第 1 局见过）。Battle Cage 是生命线，对手会用 Risky Ruins 换掉它，
-      所以要留第二张场地。用 Eri 看对手手牌并弃掉 Special Red Card、Night Stretcher；Genesect 带道具封住 Unfair Stamp，保护手牌。
-      第 2 回合有没有 Rare Candy 基本决定这局。
+      所以要留第二张场地。用 Eri 看对手手牌并弃掉 Special Red Card、Night Stretcher（信心 75%，adu-dpx-03）；Genesect 带道具封住 Unfair Stamp，保护手牌。
+      第 2 回合有没有 Rare Candy 基本决定这局（信心 55%，adu-dpx-02）。
   - vs: slowking-scr
     win_rate: 0.737
     plan: Slowking 120 HP，6 张手牌就够。
@@ -117,12 +117,100 @@ evidence:
       - Eri 弃掉对手的 Special Red Card 和 Night Stretcher（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1380s）
       - Genesect 带道具封住 Unfair Stamp
     caveat: 26:50 那次 Boss's Orders 是复盘推断的；这是一局，不代表胜率。
+  - source: video-reviews/brisbane-2026-brentymon-dragapult.md（项目共享文件夹）
+    game: Brisbane 区域赛（2026-09-26）第 10 轮，Marcus Ibbotson（Alakazam）1-2 负 BrentyMon（Dragapult ex）
+    window: TEF-30C
+    confirms:
+      - 16 张手牌 Powerful Hand 击倒 Dragapult ex，第 3 局从 3 张手牌连抽到正好 16 张（https://www.youtube.com/watch?v=KfJk7KymeYI&t=4230s）
+      - 对手 Judge 能把手牌打回 4 张，伤害随之掉下来（https://www.youtube.com/watch?v=KfJk7KymeYI&t=2980s）
+    adds:
+      - 另一个版本：带 Toucannon（PBL 68）、4 张 Boss's Orders、4 张 Battle Cage，没有 Genesect，所以对手的 Unfair Stamp 能用（公开卡表里没有这个版本）
+      - 第 1 局对手后攻第 1 回合用 Budew 锁物品，Alakazam 第 2 回合上了场却没有能量，白过一回合（https://www.youtube.com/watch?v=KfJk7KymeYI&t=2680s）
+    caveat: 区域赛直播是俯拍桌面，没有侧边数据面板；卡组构成来自选手的口述复盘。
+  - source: video-reviews/worlds2026-finals.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 决赛第 2 局，Cassiraga（Alakazam）牌库耗尽，输给 Hedrick（Dragapult ex），Hedrick 2-0 夺冠
+    window: TEF-PBL
+    confirms:
+      - Genesect 要挂上道具才封得住 Unfair Stamp：Cassiraga 一直没找到道具，几回合不敢进攻
+    adds:
+      - 牌库耗尽：Run Away Draw 和大手牌把牌库抽薄，牌库只剩 4 张时把 Lucky Helmet 挂在战斗场，对手用小招式反复打它，每次抽 2，最后牌库耗尽（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=3090s）。手牌大时要数自己的牌库
+    caveat: 一局；对手开局奖赏卡很差（两只 Budew、Risky Ruins、唯一的 Dunsparce 都在奖赏卡里），整局一张奖赏卡没拿。
+  - source: video-reviews/worlds2026-finals.md（项目共享文件夹）
+    game: 2026 世界赛青少年组决赛，Ng（Alakazam，带 Rabsca 和 Forest of Vitality，ACE SPEC 是 Enriching Energy）2-1 Huh（Basic Box）
+    window: TEF-PBL
+    confirms:
+      - 对手的 Unfair Stamp 把手牌打到 2 张，Powerful Hand 就打不出来（第 1 局）
+    adds:
+      - Rabsca 挡住对手打后备区的招式（Spherical Shield），Forest of Vitality 让它放下当回合就进化
+      - 预计被 Stamp 前先把 Fezandipiti ex 和 Dunsparce 放到场上，被打到 2 张后靠它们抽回 11 张以上（第 3 局）
+      - 击倒对手唯一的太晶宝可梦，对手的 Area Zero Underdepths 就失效，后备区要弃到 5 只（第 3 局 Ng 击倒 Huh 唯一的 Teal Mask）
+    caveat: 青少年组；我们的数据只有大师组卡表，双方卡组来自解说和画面。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 四强，Cassiraga（本卡组，2 张 Genesect，4 张 Battle Cage）2-1 Chao（Dragapult Dusknoir）
+    window: TEF-PBL
+    confirms:
+      - Genesect 挂上道具才开始进攻，封住 Unfair Stamp（第 2 局，被 Budew 锁物品时靠 Kadabra 抽到 Genesect 和 Lucky Helmet）
+      - 用 Eri 弃掉对手的 Special Red Card（第 1 局）
+      - 被 Judge 打回 4 张后，一回合连抽到正好 16 张一击 Dragapult ex（https://www.youtube.com/watch?v=mq3UY7pQe4c&t=4500s）
+    adds:
+      - 同时放两只 Genesect：被 Cursed Blast 收掉一只还有一只封着，对手整个系列没打出 Unfair Stamp（第 3 局）
+      - 对手只带 1 张场地时，先攻第 1 回合就打 Battle Cage（第 2 局）
+      - Boss's Orders 连续两回合击倒贴着能量的 Drakloak（第 2 局）
+      - Battle Cage 挡不住战斗场：对手用 Boss's Orders 拉出 Genesect，Cursed Blast 打战斗场收尾（第 1 局，https://www.youtube.com/watch?v=mq3UY7pQe4c&t=1440s）
+    caveat: 一场三局；第 1 局 Lana's Aid 和 Sacred Ash 都在奖赏卡里。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛决赛，Jones（本卡组，Dedenne，2 张 Enhanced Hammer，2 张 Handheld Fan，4 张 Nighttime Mine）2-0 Reddy（Crustle，4 张 Crushing Hammer）
+    window: TEF-POR
+    confirms:
+      - 对 Crustle：Enhanced Hammer 弃掉 Mist，Powerful Hand 才打得进去
+    adds:
+      - 对 Crustle：Sacred Ash 把被击倒的 Dedenne 洗回牌库，Electromagnetic Sonar 每回合捡回 Enhanced Hammer，对手每回合掉一个能量（第 1 局）
+      - 对 Crustle：挂 Hero's Cape 的 Kangaskhan（400）要 20 张手牌，两局都凑到了，各拿 3 张结束
+      - 对 Crustle：一回合打出两张 Enhanced Hammer，弃掉 Kangaskhan 身上的两张 Mist（第 2 局）
+    caveat: 一场两局；时间按解说，旧版面板读不准局数（https://www.youtube.com/watch?v=nlj_HY9SoJo）。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛四强，Jones（本卡组，同上，另带 Psyduck、Genesect）2-0 Newdorf（Dragapult Dusknoir，没有 Judge 和 Special Red Card）
+    window: TEF-POR
+    confirms:
+      - Genesect 先挂道具再击倒，封住 Unfair Stamp（第 2 局）
+      - Psyduck 关掉 Cursed Blast（第 2 局）
+    adds:
+      - Nighttime Mine 被留到关键回合的 Watchtower 顶掉，一发 Phantom Dive 被收 2 张；Lana's Aid 捡回被 Cursed Blast 收掉的 Abra（第 1 局）
+      - 手牌养到 30 张左右，用 Nighttime Mine 和 Boss's Orders 拿最后 2 张（第 1 局）
+    caveat: 一场两局（https://www.youtube.com/watch?v=bnVzhTKp3jg）。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 10 轮，Cassiraga（本卡组，最终亚军：2 只 Genesect、Shaymin、Lucky Helmet、4 张 Battle Cage）2-1 Karjala（Slowking）
+    window: TEF-PBL
+    confirms:
+      - 对 Slowking：Shaymin 挡住 Trifrost 的后备区伤害（第 3 局）
+    adds:
+      - 对 Slowking：Battle Cage 盖掉对手的 Academy at Night，对手控不了牌库顶（https://www.youtube.com/watch?v=qwBID2ApsOY&t=11550s）
+    caveat: 只播了第 3 局。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 8 轮，Cassiraga（本卡组）2-0 Arai（Basic Box，只有 Unfair Stamp，没有 Special Red Card）
+    window: TEF-PBL
+    confirms:
+      - 对 Basic Box：Genesect 挂上道具，对手的 Unfair Stamp 打不出来，手牌一直在 11 到 16 张（https://www.youtube.com/watch?v=iEM8bQbnA90&t=38820s）
+    adds:
+      - 对 Basic Box：对手用 Pecharunt 的 Poison Chain 毒战斗场的 Genesect，把它换下来，再放第二只 Genesect（https://www.youtube.com/watch?v=iEM8bQbnA90&t=39420s）
+      - 对 Basic Box：把 Dunsparce 都进化成 Dudunsparce（140），Wellspring 的 Torrential Pump 后备区 120 就打不倒了（第 2 局）
+    caveat: 一场两局；对手整局没摸到 Energy Switch。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛第 2 天第 12 轮，Jones（本卡组，这一站的冠军：4 张 Nighttime Mine，没有 Battle Cage；Genesect、Lucky Helmet、2 张 Enhanced Hammer）2-0 Hamilton（Dragapult ex，没有 Special Red Card）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult：第 2 回合 Rare Candy 进化 Alakazam，同时给 Genesect 挂道具、打 Nighttime Mine，从此领先（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=5820s）
+      - 对 Dragapult：Genesect 挂上道具后，对手的 Unfair Stamp 打不出来（两局）
+    adds:
+      - 对 Dragapult：不带 Battle Cage、全押 4 张 Nighttime Mine，对手 2 张 Risky Ruins 换不过来；Jones 赛后说觉得 Battle Cage 对 Dragapult 没多大用
+      - 对 Dragapult：Lana's Aid 从弃牌区拿回宝可梦和基本能量，把手牌攒到 19 张（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=6300s）
+    caveat: 一场两局；对手两局都没用 Budew 锁物品。
 
 mistakes:
   - 只带一张 Battle Cage 或过早打出，被 Risky Ruins 换掉后没有第二张。
   - 攻击前没先把能打的抽牌打完，手牌不够大。
   - 手牌多时乱用 Ultra Ball 等会减少手牌的卡。
-  - 对 Dragapult 没先放 Battle Cage，Abra 被 Phantom Dive 收掉。
+  - 对 Dragapult 没先放 Battle Cage，Abra 被 Phantom Dive 收掉。（信心 85%，adu-dpx-01）
 
 inferred:
   - 用 Rare Candy 从手上放 Alakazam 也触发 Psychic Draw，按卡牌文字推断（"when you play this Pokémon from your hand to evolve"）。

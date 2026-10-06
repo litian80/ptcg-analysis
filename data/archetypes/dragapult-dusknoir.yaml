@@ -103,6 +103,90 @@ matchups:
     win_rate: 0.695
     plan: 对方单奖、HP 低，Phantom Dive 每回合拿 2 张；对方 Psyduck 在场时 Cursed Blast 无效，先击倒 Psyduck。
 
+evidence:
+  - source: video-reviews/worlds2026-finals.md（项目共享文件夹）
+    game: 2026 世界赛少年组决赛，Araki（本卡组，ACE SPEC Unfair Stamp）2-1 Giffen（Dragapult ex，两只 Munkidori，ACE SPEC Hero's Cape）
+    window: TEF-PBL
+    confirms:
+      - 用 Team Rocket's Watchtower 关掉对手的 Dudunsparce 和 Meowth ex
+      - Rare Candy 直接进 Dusknoir，Cursed Blast 收掉对手唯一的 Drakloak（https://www.youtube.com/watch?v=wZe0cfNyUY8&t=4410s）
+    adds:
+      - 对手 Dragapult ex 挂 Hero's Cape 是 420 HP，Phantom Dive 200 + Dusknoir 130 = 330 打不倒，第 1 局因此投降
+      - 对手场上宝可梦少时，一回合全部击倒就赢（第 3 局 Phantom Dive 加 Munkidori 收掉最后的 Dreepy 和 Dunsparce）
+      - 先攻第 1 回合把物品用完，防下回合被 Budew 锁物品
+    caveat: 少年组；我们的数据没有少年组卡表，双方卡组来自解说。
+  - source: video-reviews/naic-2026.md（项目共享文件夹）
+    game: NAIC 2026（2026-06）决赛，Kosek（本卡组，4 张 Crushing Hammer，Unfair Stamp，Watchtower）1-2 Kowalski（Clefairy 版 Basic Box，没有抽牌支援者）
+    window: TEF-CRI
+    confirms:
+      - Phantom Dive 击倒没挂 Lillie's Pearl 的 Lillie's Clefairy ex 拿 2 张
+    adds:
+      - 对不带抽牌支援者的对手，Unfair Stamp 和 Watchtower（关掉 Kangaskhan、Meowth ex 的特性）一起用，第 1 局靠这个赢
+      - 对手的 Fezandipiti ex 用 Cruel Arrow 依次收 Dusclops、Duskull、Dreepy、Drakloak，第 2、3 局输在这里；第 3 局一张奖赏卡没拿到
+      - 6 张奖赏卡时打 Lillie's Determination 强制抽 8，第 2 局牌库只剩 2 张，只能硬攻
+    caveat: NAIC 在世界赛之前，卡池比现在少，用到的关键卡现在都还合法；NAIC 的旧版面板读不准局数，拿奖时间按解说。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 四强，Chao（本卡组，没有 Crushing Hammer，场地只有 1 张 Jamming Tower）1-2 Cassiraga（Alakazam Dudunsparce，2 张 Genesect，4 张 Battle Cage）
+    window: TEF-PBL
+    confirms:
+      - Battle Cage 挡不住放到战斗场的指示物：第 1 局一张场地没打，Boss's Orders 拉出 Genesect，Cursed Blast 打战斗场、Phantom Dive 收尾（https://www.youtube.com/watch?v=mq3UY7pQe4c&t=1440s）
+    adds:
+      - 对手同时放两只 Genesect，收掉一只还有一只封着，整个系列一次 Unfair Stamp 都没打出来
+      - 对手用 Eri 弃掉手里等条件的 Special Red Card（第 1 局）
+      - Judge 把对手手牌打回 4 张，对手下一回合又凑到 16 张一击 Dragapult ex（https://www.youtube.com/watch?v=mq3UY7pQe4c&t=4500s）
+    caveat: 一场三局；带 2 张 Genesect 的对手只占四场比赛 62 份卡表里的 7 份。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 八强，Chao（本卡组）2-1 Łaszkiewicz（Alakazam Dusknoir，4 张 Gwynn，5 个能量）
+    window: TEF-PBL
+    confirms:
+      - Cursed Blast 加 Phantom Dive 收光对手的 Abra 和 Alakazam（第 1 局）
+      - Special Red Card 留到对手剩 3 张以下，第 3 局和一次拿 4 张的 Phantom Dive 一起打到 1 对 1
+    adds:
+      - 对手为解锁物品击倒 Budew，下回合就用 Unfair Stamp 把对手打回 2 张手牌（第 1 局）
+      - 对手改为不击倒、分两回合打 Dragapult ex（Powerful Hand 240，再用 Cursed Blast），这样就没有 Stamp 可打（第 2 局）
+      - 对手落后时用 Dusknoir 和 Dusclops 的 Cursed Blast 让双方同时拿完，突然死亡里赢下第 2 局；领先时要先算对手还能自爆几次（推断）
+      - 起手卡手时顶抽到 Lillie's Determination，Unfair Stamp 在奖赏卡里，照样赢下第 3 局
+    caveat: 一场三局；时间按解说，比赛从第 2 天直播 6:46 开始（https://www.youtube.com/watch?v=qwBID2ApsOY&t=24360s）。
+  - source: video-reviews/naic-2026.md（项目共享文件夹）
+    game: NAIC 2026（2026-06）四强，Kosek（本卡组，4 张 Crushing Hammer，Unfair Stamp，Special Red Card，Watchtower，Jamming Tower）2-1 Cawthon（Slowking）
+    window: TEF-CRI
+    confirms:
+      - 对 Slowking：Unfair Stamp 加 Boss's Orders 把撤退 3 的 Slowking 拉到战斗场困住，再换掉 Academy at Night（第 1 局）
+      - 对 Slowking：对手提前放下的 Lillie's Clefairy ex 用 Boss's Orders 拉出来击倒（第 3 局）
+    adds:
+      - 对 Slowking：对手只差 1 张、自己一张没拿时，连续两回合打战斗场的 Mega Kangaskhan ex，最后 Munkidori 挪 30 加 Phantom Dive 击倒它，指示物再收后备区两只残血宝可梦，一回合拿 6 张翻盘（第 1 局）
+      - 对 Slowking：第 2 局打得太急，对手用 Secret Box 和 Academy at Night 叠出 Trifrost，一次收 3 只
+    caveat: 第三方转播，字幕是机器翻译，局面按画面上的奖赏卡读出（https://www.youtube.com/watch?v=YMk7L7SwuCI）。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛四强，Newdorf（本卡组，3 张 Crushing Hammer，Unfair Stamp，2 张 Watchtower，没有 Judge 和 Special Red Card）0-2 Jones（Alakazam Dudunsparce，Psyduck，Genesect，4 张 Nighttime Mine）
+    window: TEF-POR
+    confirms:
+      - 对手 Psyduck 在场时 Cursed Blast 用不了（第 2 局）
+      - 对 Alakazam Dudunsparce：Watchtower 留到关键回合顶掉 Nighttime Mine，Phantom Dive 一次击倒 Alakazam 和后备区的 Abra（第 1 局）
+    adds:
+      - 对手每次先给 Genesect 挂道具再击倒，Unfair Stamp 一次都打不出来；没有 Judge 和 Special Red Card 就压不住对手手牌（第 2 局）
+      - Cursed Blast 连收三只 Abra，每次送 1 张，对手用 Lana's Aid 把 Abra 捡回来（第 1 局）
+    caveat: 一场两局；第 1 局三只 Dragapult ex 有两只在奖赏卡里（https://www.youtube.com/watch?v=bnVzhTKp3jg）。
+  - source: video-reviews/melbourne-2026.md（项目共享文件夹）
+    game: Melbourne 2026 区域赛四强，Takemasa（本卡组，2 张 Budew、2 张 Rare Candy、Judge、Unfair Stamp、2 张 Watchtower，只有 2 个 Darkness，没有 Hammer）1-2 Murphy（Dragapult ex）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult ex：第 1 回合 Judge 加 Itchy Pollen，之后 Unfair Stamp、再换回 Budew 锁物品，对手手里全是物品（https://www.youtube.com/watch?v=rHifbhgkGpw&t=25260s）
+      - 对 Dragapult ex：Boss's Orders 拉出对手后备区的 Fezandipiti ex，Munkidori 加 Dusclops 的 Cursed Blast 一回合拿 3 张（https://www.youtube.com/watch?v=rHifbhgkGpw&t=26250s）
+    adds:
+      - 对 Dragapult ex：Budew 之争输了（第 1 局对手先收掉 Budew），场上只剩 Munkidori 和 Duskull，投降
+      - 对 Dragapult ex：Meowth ex 被对手的 Watchtower 封住，整局用不了（第 3 局）
+    caveat: 一场三局；奖赏卡数取自解说。
+  - source: video-reviews/los-angeles-2026.md（项目共享文件夹）
+    game: Los Angeles 2026 区域赛四强，Rutledge（本卡组，3 张 Rare Candy、Neo Upper Energy、1 张 Crispin，没有 Hammer）0-2 Hedrick（Dragapult ex）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult ex：对手的 Budew 锁住 Rare Candy，对手先攻也照锁（第 2 局）
+    adds:
+      - 对 Dragapult ex：只有一个攻击能量时被 Crushing Hammer 拆掉就停摆，对手四次正面里三次拆掉唯一的 Fire
+      - 对 Dragapult ex：对手 Phantom Dive 故意不击倒，Fezandipiti ex 抽不了牌，Unfair Stamp 也打不出来（https://www.youtube.com/watch?v=HVAsRXDFn04&t=1110s）
+    caveat: 一场两局；第 1 局两只 Duskull 都在奖赏卡里。
+
 mistakes:
   - 在无关紧要的回合用 Cursed Blast，白送 1 张奖赏卡。
   - 以为 Cursed Blast 之后能用 Fezandipiti ex 抽牌（只有对手回合被击倒才行）。

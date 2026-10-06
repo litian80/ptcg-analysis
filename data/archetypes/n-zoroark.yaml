@@ -30,7 +30,7 @@ attackers:
     prizes: 2
     attack: Night Joker
     cost: Darkness ×2
-    damage: 复制后备区 N 的宝可梦的招式；复制 Zekrom 为 250，复制 Reshiram 的 Virtuous Flame 为 170
+    damage: 复制后备区 N 的宝可梦的招式；复制 Zekrom 为 250，复制 Reshiram 的 Virtuous Flame 为 170，复制 Reshiram 的 Powerful Rage 为 Zoroark 自己身上每个伤害指示物 20
     notes: 280 HP，弱草。Night Joker 只要 2 个 Darkness，不用付被复制招式的费用。
   - card: N's Zekrom
     printing: ASC 155
@@ -51,7 +51,7 @@ attackers:
 
 support:
   - card: N's Reshiram
-    role: 第二个复制来源，Virtuous Flame 170（80% 卡表）
+    role: 第二个复制来源，Virtuous Flame 170；Powerful Rage 让吃过伤害的 Zoroark 反打，身上 20 个指示物就是 400（80% 卡表）
     prizes: 1
   - card: Munkidori
     role: 挪走自己身上中毒累积的指示物，放到对手身上
@@ -97,7 +97,7 @@ matchups:
     plan: Mega Excadrill ex 340 HP，需要中毒 + Mochi + Black Belt's Training 才够 330，还差 10；先用 Munkidori 或毒伤补。
   - vs: dragapult-ex
     win_rate: 0.508
-    plan: Dragapult ex 320 HP，用 Pecharunt 中毒 + Mochi + Black Belt's Training 一击 330 击倒。后备区的 Zekrom 会被 Phantom Dive 狙。
+    plan: Dragapult ex 320 HP，用 Pecharunt 中毒 + Mochi + Black Belt's Training 一击 330 击倒。后备区的 Zekrom 会被 Phantom Dive 狙。吃过 Phantom Dive 200 没倒的 Zoroark 复制 N's Reshiram 的 Powerful Rage 就是 400，不用任何加成。
   - vs: dhelmise-pbl
     win_rate: 0.775
     plan: 对方超能宝可梦弱恶，Zoroark 打 Dhelmise 双倍伤害，是最好的对局。
@@ -111,3 +111,34 @@ inferred:
   - "Night Joker 只付 Darkness ×2：按卡牌文字\"choose 1 of your Benched N's Pokémon's attacks and use it\"推断，不需支付被复制招式的费用。"
   - Rampaging Thunder 的"下回合不能攻击"作用在 Zoroark 身上，这是按复制招式的一般规则推断的。
   - Mysterious Rock Inn 只挡宝可梦 ex 的伤害，N's Zekrom 不是 ex，Shred 的 70 一定打得到 Crustle。
+  - Night Joker 复制 Powerful Rage 时按 Zoroark 自己身上的伤害指示物计算，这是按复制招式的一般规则推断的。
+
+evidence:
+  - source: video-reviews/frankfurt-2026-day1.md（项目共享文件夹）
+    game: Frankfurt 区域赛（2026-09-26）第 1 天第 9 轮，Scott（N's Zoroark，第 12 名，不带 N's Reshiram）2-0 Borda（Lopunny Dusknoir + Bronzong）
+    window: TEF-30C
+    confirms:
+      - Boss's Orders 拉出 Fezandipiti ex（210），Night Joker 复制 N's Zekrom 的 Rampaging Thunder 250 击倒（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=30775s）
+    adds:
+      - 对手的 Bronzong（TEF 69）Evolution Jammer 让下回合不能从手上进化，第 2 局 Scott 握着 Zoroark 进化不了（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=31800s）。Bronzor（TEF 68）80 HP、弱恶：Pecharunt ex 换上中毒的 N's Zorua，带 Binding Mochi 的 Scratch 是 (20 + 40) ×2 = 120，能在它进化前击倒（推断，按卡牌文字）
+      - 对 Dusknoir 卡组找不到 Boss's Orders 时，不往后备区多放单奖宝可梦，少给 Cursed Blast 目标，再用 Special Red Card 反打（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=31320s）
+    caveat: 一场比赛；第 2 局 Borda 只差 1 张时被判罚 2 张奖赏卡（击倒后多看了一张牌），胜负受判罚影响。
+  - source: video-reviews/baltimore-2026-day1.md（项目共享文件夹）
+    game: Baltimore 区域赛（2026-09-19）第 1 天第 4 轮 B 桌，Osterkatz（N's Zoroark，4 张 Watchtower、带 N's Purrloin）2-0 Smith（Slowking），只播了第 2 局
+    window: TEF-PBL
+    confirms:
+      - Watchtower 盖掉对手的 Academy at Night 并关掉 Mega Kangaskhan ex 的 Run Errand（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5130s）
+    adds:
+      - Night Joker 复制 N's Purrloin 的 Thieving Swipe（看对手手牌，挑 1 张放到牌库底），加 Watchtower 和 Judge 锁住对手的手牌，Slowking 之后再没打出攻击（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5130s）
+      - 不打战斗场带 Lucky Helmet 的 Kangaskhan，Boss's Orders 拉后备区的 Fezandipiti ex 拿 2 张（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=4980s）
+      - 构筑分两种（四场比赛 112 份卡表）：3 到 4 张 Watchtower 的 51 份里 33 份带 N's Purrloin，只有 2 份带 N's Castle、没有 N's Darmanitan；带 N's Castle 的 57 份里 Watchtower 多是 0 到 1 张，31 份带 N's Darmanitan，只有 2 份带 Purrloin。解说也把它们叫作两个版本
+      - 战斗场的满血 Zoroark ex 会被 Slowking 复制的 Metallic Hammer 一击：复制来的 Hammer 是 300（官方裁定，Slowking 没有钢能量也能 +150），Zoroark ex 只有 280（https://www.youtube.com/watch?v=Gq_tjemCPs8&t=5120s）
+    caveat: 一局；第 1 局没有播出。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 6 轮，Lepine（本卡组，N's Castle 版，1 张 Special Red Card，没有 Watchtower 和 Judge）1-2 Łaszkiewicz（Alakazam Dusknoir）
+    window: TEF-PBL
+    adds:
+      - 对手（Alakazam Dusknoir）拿到 2 张后停手，只打伤不击倒，Special Red Card 一直打不出来，最后一回合一次拿 4 张（https://www.youtube.com/watch?v=iEM8bQbnA90&t=28920s、https://www.youtube.com/watch?v=iEM8bQbnA90&t=30090s）。只靠 Special Red Card 一张手牌干扰压不住这种打法，Judge 这类不看奖赏卡的干扰更稳（推断）
+      - 没带 Watchtower 时，对手的 Patrat 让 Munkidori 挪不了指示物（第 3 局）
+      - Pecharunt ex 加 Binding Mochi 第 1 回合就收掉对手前场的 Budew（第 2 局）
+    caveat: 一场三局；第 2 局细节没看清。

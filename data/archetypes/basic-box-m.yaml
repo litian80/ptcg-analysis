@@ -124,6 +124,46 @@ matchups:
     win_rate: 0.713
     plan: 数据上占优；Garchomp 是斗属性，不吃 Fairy Zone，优势原因没有从卡表推出。
 
+evidence:
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 八强，Spry（本卡组，Prime Catcher、Enamorus、Jamming Tower，没有 Hero's Cape 和 Unfair Stamp）0-2 Tonisson（Dragapult ex）
+    window: TEF-PBL
+    confirms:
+      - Wellspring Ogerpon 的 Torrential Pump 一次收掉两只 Drakloak，前面用 Prime Catcher 和两张 Energy Switch（第 2 局）
+      - 用 Kangaskhan 硬打 Dragapult ex 要连续三次正面，第 1 局第一次就是反面，随后投降
+    adds:
+      - 对手 Moltres 打 Kangaskhan 110 后，它就在 Phantom Dive 的一击范围；这时击倒 Moltres 拿 1 张，对手同一回合 Rosa's Encouragement + Unfair Stamp + Phantom Dive 拿 3 张（https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s）
+      - 对手 Moltres 打弱火的 Iron Leaves ex、Teal Mask Ogerpon ex 是 220，一击；第 2 局起手的 Iron Leaves ex 就被 Moltres 盯上
+    caveat: 一场两局；Lillie's Clefairy ex 整个系列没有攻击，Clefairy 路线没有得到检验。
+  - source: video-reviews/turin-2026.md（项目共享文件夹）
+    game: Turin 2026 特别赛四强，Clark（本卡组的 Raging Bolt 变体，3 只 Kangaskhan、3 只 Meowth ex、2 只 Raging Bolt ex、2 张 Glass Trumpet、Unfair Stamp）0-2 Kamerman（Slowking）
+    window: TEF-CRI
+    confirms:
+      - 对 Slowking：战斗场的 ex 都吃 Metallic Hammer 300，满血 Kangaskhan 也一击送 3 张（https://www.youtube.com/watch?v=-2gCfGeqBm8&t=986s）
+      - 对 Slowking：带 Raging Bolt ex 和 Glass Trumpet 的构筑打得不好（四场比赛的数据如此；这一场 Raging Bolt ex 差 1 个能量没打出击倒）
+    adds:
+      - 对 Slowking：第 1 回合没贴上能量，战斗场的 Kangaskhan 撤不下来，对手第 2 回合就一击拿 3 张（第 2 局）；Slowking 第 2 回合打 300 不需要支援者
+      - 对 Slowking：Unfair Stamp 把对手打到 2 张手牌，对手照样接上攻击（第 2 局）
+    caveat: 一场两局；第 1 局唯一的 Wellspring Ogerpon 和唯一的 Water Energy 都在奖赏卡里。
+  - source: video-reviews/utrecht-2026.md（项目共享文件夹）
+    game: Utrecht 2026 区域赛八强，Battistella（本卡组）0-2 Vanoverschelde（Team Rocket's Honchkrow，全是单奖）
+    window: TEF-POR
+    confirms:
+      - Mega Kangaskhan ex 送 3 张：对手剩 3 张时，场上的 Kangaskhan 就是致命目标（第 1 局，https://www.youtube.com/watch?v=8P1sYYaNX8A&t=810s）
+    adds:
+      - 对单奖卡组：Honchkrow 一击 Kangaskhan 拿 3 张，解说说"对 Honchkrow 时，Kangaskhan 不是盾"（https://www.youtube.com/watch?v=8P1sYYaNX8A&t=1380s）
+    caveat: 一场两局；Honchkrow 不在手册的对手里；第 1 局 Unfair Stamp 在奖赏卡里。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 8 轮，Arai（本卡组，2 只 Kangaskhan、Pecharunt SVP 149、Unfair Stamp，没有 Special Red Card）0-2 Cassiraga（Alakazam Dudunsparce，2 只 Genesect）
+    window: TEF-PBL
+    confirms:
+      - 对 Alakazam Dudunsparce：Genesect 挂上道具后打不出 ACE SPEC，唯一的手牌干扰 Unfair Stamp 用不了（https://www.youtube.com/watch?v=iEM8bQbnA90&t=38820s）
+      - 对 Alakazam Dudunsparce：Kangaskhan 卡在战斗场撤不下来（第 1 局）
+    adds:
+      - 对 Alakazam Dudunsparce：Pecharunt 的 Poison Chain 毒战斗场的 Genesect，对手换下它又放第二只（https://www.youtube.com/watch?v=iEM8bQbnA90&t=39420s）
+      - 对 Alakazam Dudunsparce：Wellspring 的 Torrential Pump 先拿 2 张，对手把 Dunsparce 都进化后，后备区 120 就打不倒了（第 2 局）
+    caveat: 一场两局；整局没摸到 Energy Switch；不带 Special Red Card 是数据里打这个对局较差的构筑。
+
 mistakes:
   - 第一回合就把 Mega Kangaskhan ex 摆进战斗场，被对手先击倒送 3 张。
   - 对 Dragapult 时 Lillie's Clefairy ex 放出来后没保护，被 Boss 击倒后失去弱点。

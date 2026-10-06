@@ -105,6 +105,17 @@ matchups:
     win_rate: 0.263
     plan: Mega Excadrill ex 340 HP（Hero's Cape 后 440），Dipplin 两下都打不倒，单纯是伤害不够。
 
+evidence:
+  - source: video-reviews/melbourne-2026.md（项目共享文件夹）
+    game: Melbourne 2026 区域赛第 1 天第 6 轮，Palmer（本卡组，Shaymin、1 只 Rellor 和 Rabsca、2 张 Black Belt's Training、Tool Scrapper、Lana's Aid）1-2 Kwak（Slowking）
+    window: TEF-POR
+    adds:
+      - 对 Slowking：Shaymin 挡不住指示物，对手复制 Cofagrigus（WHT 40）或 Spectrier（ASC 98）在后备区收掉它，接着 Trifrost 清场（https://www.youtube.com/watch?v=xiA34-ViCgc&t=9780s、https://www.youtube.com/watch?v=xiA34-ViCgc&t=11370s）；Rabsca 一直没进化出来
+      - 对 Slowking：Black Belt's Training 加 Brave Bangle，两次 Do the Wave 一回合击倒战斗场的 Mega Kangaskhan ex（https://www.youtube.com/watch?v=xiA34-ViCgc&t=11070s）
+      - 对 Slowking：Tool Scrapper 拆掉对手 Genesect 的道具，Lana's Aid 捡回 Shaymin（第 2 局）
+      - 对 Slowking：对手的 Academy at Night 盖掉 Festival Grounds 时只能打一次（第 1 局）
+    caveat: 一场三局；Black Belt's Training 在现在的卡表里很少见（51 份里 2 份）。
+
 mistakes:
   - 后备区没铺满就攻击，Do the Wave 伤害不够。
   - Festival Grounds 被对手换掉后没有备用场地，只能打一次。

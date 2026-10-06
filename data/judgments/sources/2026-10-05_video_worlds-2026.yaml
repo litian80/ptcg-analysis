@@ -1,0 +1,22 @@
+kind: video
+date: 2026-10-05
+ref: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+title: 2026 世界赛瑞士轮（第 1、2 天直播里有推荐卡组的场次）
+window: TEF-PBL
+observations:
+  - judgment: dpx-mir-01
+    game: 第 1 天第 3 轮第 1 局 Tonisson（Dragapult ex）胜 Madsen（Dragapult ex）
+    result: held
+    note: Madsen 先用 Budew 锁物品，Tonisson 用 Itchy Pollen 击倒对方的 Budew，先解开自己的锁再锁住对方，之后一路领先（https://www.youtube.com/watch?v=iEM8bQbnA90&t=14820s）
+  - judgment: dpx-mir-01
+    game: 第 1 天第 3 轮第 2 局 Tonisson 胜 Madsen
+    result: n/a
+    note: Madsen 没有先锁物品，没有互锁
+claims:
+  - id: c-20261005-worlds-02
+    type: 纠错
+    text: crustle-dri.md 有两处把 Special Red Card 的条件写成“你拿了 3 张以后”，应为“对手剩 3 张以下时”
+    deck: crustle-dri
+    depends_on: [Special Red Card]
+    check: 和 dragapult-ex.md、alakazam-dusknoir.md 的写法一致；第 1 天第 6 轮的解说讲的也是对手剩 3 张以下才能打，已改
+    status: 已核对

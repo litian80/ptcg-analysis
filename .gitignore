@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .cache/
 .venv/
+sim/twinleaf/.twinleaf/
+data/sim/games/

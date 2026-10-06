@@ -1,0 +1,39 @@
+kind: video
+date: 2026-10-05
+ref: video-reviews/prague-2026.md（项目共享文件夹）
+title: Prague 2026 区域赛决赛圈（Tresp 的 Crustle：八强、四强、决赛；另一场四强 Łaszkiewicz 对 Garchomp）
+window: TEF-POR
+observations:
+  - judgment: cru-dpx-01
+    game: 八强第 1 局 Tresp（Crustle）胜 Reklev（Dragapult ex，没有 Hammer 和 Dudunsparce ex）
+    result: held
+    note: Cape 加 Mist，Reklev 整局只拿到 1 张（https://www.youtube.com/watch?v=5ewTXCpaGpA&t=13020s）
+  - judgment: cru-dpx-01
+    game: 八强第 2 局 Tresp 胜 Reklev
+    result: held
+    note: 起手 Kangaskhan 送了 4 张，但挂 Cape、贴 4 张 Growing Grass 的 Crustle 有 330，对手打不穿（https://www.youtube.com/watch?v=5ewTXCpaGpA&t=15390s）
+  - judgment: cru-dpx-01
+    game: 决赛第 1 局 Łaszkiewicz（Dragapult Dudunsparce，带 Dudunsparce ex）胜 Tresp
+    result: n/a
+    note: Tresp 没把 Cape 挂上场；对手有 Dudunsparce ex，不在判断范围内
+  - judgment: cru-dpx-01
+    game: 决赛第 2 局 Łaszkiewicz 胜 Tresp
+    result: n/a
+    note: Tresp 抽到了 Cape（https://www.youtube.com/watch?v=vXSSxUzwDOE&t=1530s），但看不清挂在哪只上；对手的主攻是 Dudunsparce ex 的 Drill，不是小伤害
+claims:
+  - id: c-20261005-prague-01
+    type: 新打法
+    text: 对手的 Dudunsparce ex 挂着 Hero's Cape（370）时，战斗场的 Crustle 改贴第二张 Spiky Energy，每次 Drill 反吃 40
+    deck: crustle-dri
+    vs: dragapult-ex
+    depends_on: [Spiky Energy, Dudunsparce ex]
+    check: 贴两张 Spiky 对 Dudunsparce ex 的对局，Dudunsparce ex 有没有因此先倒（决赛第 2 局最后一次 Drill 双方同时倒下，https://www.youtube.com/watch?v=vXSSxUzwDOE&t=2370s）
+    status: 待验证
+  - id: c-20261005-prague-02
+    type: 新打法
+    text: 先攻起手 Kangaskhan、对手有 Budew 时，第 1 回合就用 Switch 换上 Dwebble，免得第 2 回合被锁物品困在前场
+    deck: crustle-dri
+    vs: dragapult-ex
+    depends_on: [Switch, Budew, Mega Kangaskhan ex]
+    check: 起手 Kangaskhan 对 Budew 的对局，第 1 回合换下和留在前场各自的结果（决赛第 2 局留在前场，被击倒送 3 张）
+    status: 待验证

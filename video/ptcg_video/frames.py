@@ -13,7 +13,8 @@ Which regions to watch matters. Official Play! Pokémon streams draw each
 player's board as a digital overlay down the sides of the screen, with a live
 hand-cam in the middle that moves constantly. Watching only the side panels
 (``--hash-regions sides``) keeps the frames where the board actually changed:
-a prize taken, HP dropping, a new Pokémon benched.
+a prize taken, HP dropping, a new Pokémon benched. Regional streams have a
+scorebar and a card callout instead (``--hash-regions regional``).
 """
 
 from __future__ import annotations
@@ -60,6 +61,10 @@ REGION_PRESETS: dict[str, HashLayout] = {
     # of a panel, a slow overlay animation that survives the steadiness check
     # about 1%, and 30 levels / 2% kept every change with the fewest frames.
     "sides": HashLayout(((0.0, 0.0, 0.21, 1.0), (0.79, 0.0, 0.21, 1.0)), (32, 96), threshold=0.02, dead_band=30),
+    # Regional streams (e.g. Brisbane 2026): no side panels; a scorebar across
+    # the top (games won and six prize markers per player) and a card callout
+    # that pops up on the left. The table itself is too small to read at 720p.
+    "regional": HashLayout(((0.39, 0.02, 0.40, 0.12), (0.02, 0.35, 0.17, 0.43)), (64, 36), threshold=0.02, dead_band=30),
 }
 
 
@@ -89,10 +94,19 @@ class Frame:
     # Largest changed fraction of any region against the previous keyframe, to
     # help tune --change-threshold.
     change: float = 0.0
+    # (left, right) prizes left, read from the overlay's prize markers; None if
+    # not read or not readable in this frame.
+    prizes: tuple[int, int] | None = None
+    replay: bool = False  # the broadcast's REPLAY banner is on screen
 
     def to_dict(self) -> dict:
-        return {"t": round(self.t, 2), "path": str(self.path), "keyframe": self.keyframe,
-                "change": round(self.change, 4)}
+        d = {"t": round(self.t, 2), "path": str(self.path), "keyframe": self.keyframe,
+             "change": round(self.change, 4)}
+        if self.prizes is not None:
+            d["prizes"] = list(self.prizes)
+        if self.replay:
+            d["replay"] = True
+        return d
 
 
 def _changed(a: np.ndarray, b: np.ndarray, dead_band: int = DEAD_BAND) -> np.ndarray:

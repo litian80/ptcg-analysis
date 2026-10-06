@@ -1,0 +1,105 @@
+deck: basic-box-m
+general:
+  - text: "Latias ex 在场时 Skyliner 让所有基础宝可梦撤退费为 0，开局放战斗场，Kangaskhan（撤退 3）也能随时换上换下"
+  - text: "对进化卡组多选后攻：后攻第 1 回合 Crispin + Teal Dance + Energy Switch 能让 Latias ex 凑出 Eon Blade，领先一回合"
+    inferred: true
+  - text: "Psychic Energy 只有 3 张，Latias 每次要 2 个：用 Energy Switch 挪、Night Stretcher 捡、Glass Trumpet 贴后再挪，循环使用"
+    inferred: true
+  - text: "对手打出场地替换 Area Zero 时后备区要弃到 5 只，所以第 6-8 格只放丢了也无所谓的宝可梦"
+    inferred: true
+  - text: "几乎全是 2 奖 ex、Kangaskhan 给 3 张；对手全是单奖时 Kangaskhan 是最划算目标，用完 Run Errand 就撤下"
+    inferred: true
+matchups:
+  dragapult-ex:
+    - text: "对手 Dragapult ex 上场那回合才放 Lillie's Clefairy ex，Latias ex 打 400 一击；早放会被 Boss + 200 拿 2 张"
+    - text: "带 Hero's Cape 时例外：第 1 回合就放 Clefairy 挂 Cape（290），Phantom Dive 200 打不倒，当主攻手"
+      judgment: bbm-dpx-02
+    - text: "对手还没 Dragapult ex 时，用 Fezandipiti ex 的 Cruel Arrow（100）每回合收后备区 Dreepy / Drakloak，断进化线"
+    - text: "倾向后攻：后攻第 1 回合就能用支援者和攻击，且不会被 Budew 锁物品"
+      judgment: bbm-dpx-01
+    - text: "对手 Crushing Hammer ×4 会拆唯一的 Psychic：能量别全堆一只，Clefairy 被 Boss 要备好第二张"
+  n-zoroark:
+    - text: "Zoroark ex 弱草：Iron Leaves ex 从手上放下用 Rapid Vernier 换上挪能，Prism Edge 180×2 一击；别提前用 Ultra Ball 放"
+    - text: "Latias ex、Iron Crown ex 弱恶，不要站战斗场当攻击手，连 Reshiram 170 都翻倍 340"
+    - text: "Ogerpon 与 Iron Leaves 轮换击倒两只 Zoroark ex，再 Boss Pecharunt ex / Fezandipiti ex 拿最后 2 张"
+    - text: "Kangaskhan 是挡箭牌，单发 250 打不倒；但打 Zoroark ex 要一击打死，否则 Powerful Rage 15 个指示物就 300 一击它"
+      inferred: true
+    - text: "对手 Team Rocket's Watchtower 在场时 Meowth ex 留手，先用 Area Zero 或 Snow Sink 清掉场地"
+      inferred: true
+  dragapult-dusknoir:
+    - text: "Dusknoir 130 + Phantom Dive 60 正好收后备区 190 的 Clefairy：只在攻击那回合放下，后备区不留 190 以下的 ex"
+      inferred: true
+    - text: "Dragapult ex 上场回合放 Clefairy，Latias 400 拿 2 张；之后 Boss 对手 Meowth ex / Fezandipiti ex"
+    - text: "Fezandipiti ex 的 Cruel Arrow 收 Duskull / Dusclops / Dreepy / Drakloak，优先打已进化的（Duskull 能被拉回）"
+    - text: "领先时用 Boss 打 2 奖目标一口气结束，别一张张拿，否则对手长期落后反复用 Rosa's Encouragement"
+      inferred: true
+    - text: "不要用 Boss 拉 Dusknoir：它对手回合会自爆，那 1 张本来就会给"
+      inferred: true
+  alakazam-dudunsparce:
+    - text: "开局 Iron Crown ex 的 Twin Shotels 一次击倒两只后备区 Abra（50），先断进化线，别打在打不死的 Alakazam 上"
+    - text: "手牌干扰靠 Special Red Card：对手 Genesect 挂上道具后 Unfair Stamp 打不出，Special Red Card 不是 ACE SPEC 照样能打"
+      judgment: bbm-adu-01
+    - text: "Unfair Stamp 要和击倒在同一回合：先确认 Latias 撤退和攻击手就位再打，Stamp 后 Boss 拉 Kadabra 断抽牌"
+    - text: "Boss 对手 Fezandipiti ex 拿 2 张，否则我们每击倒一只它就 Flip the Script 抽 3"
+      inferred: true
+    - text: "对手手牌 10 张以上时别让 2 奖 ex 站战斗场，用 Enamorus / Chien-Pao 单奖换单奖"
+      inferred: true
+  slowking-scr:
+    - text: "对手第 2 回合前战斗场换成 1 奖宝可梦，或场上已有 Latias ex，Kangaskhan 才能零撤退躲开 Metallic Hammer 300"
+      judgment: bbm-slk-01
+    - text: "对手 Mega Kangaskhan ex 在战斗场 Run Errand 时就打：Raging Bolt ex 弃 5 能量 350 一击拿 3 张"
+    - text: "对手回合战斗场放 1 奖 Chien-Pao / Enamorus：Destined Fight 会击倒我方战斗场，Kangaskhan 在前就丢 3 张"
+      inferred: true
+    - text: "Slowking（120）用 Chien-Pao 的 Icicle Loop 120 或 Wellspring 后备区 120 收，别用 2 奖 ex 去打它"
+    - text: "后备区只放太晶 Ogerpon 和少量 ex：Trifrost 一次打 3 只 110，Zeraora 210 收后备区 210 以下的 ex"
+  dragapult-blaziken:
+    - text: "Dragapult ex 照常：Clefairy 在场 Latias 400 一击；但 Blaziken ex 是火属性不吃 Fairy Zone，别把 400 打在它身上"
+    - text: "Torchic（70）/ Combusken（100）在后备区时用 Wellspring 后备区 120 一击，别让它安稳待到 Rare Candy"
+    - text: "Blaziken ex 上场后用 Chien-Pao 240 + 80 补刀，或 Raging Bolt ex 弃 5 一击；Boss 后备区的 Blaziken 不划算"
+    - text: "Chi-Yu 会拆 Area Zero，后备区第 6-8 格别放关键宝可梦"
+  mega-excadrill-ex:
+    - text: "Mega Excadrill ex 用 Raging Bolt ex 弃 5 个基本能量 350 一击拿 3 张；之前用 Glass Trumpet、Teal Dance、Crispin 铺能量"
+    - text: "Kangaskhan 先别站战斗场：Maximum Drilling 330 一击它送 3 张"
+    - text: "Wellspring 后备区 120 狙 Drilbur（Excadrill 进化前）或 Metang（之后），断 Metal Maker 能量"
+      inferred: true
+    - text: "Sonic Ripper 220 打后备区：后备区多放太晶 Ogerpon，不放 Latias / Fezandipiti；Clefairy 弱钢别放"
+      inferred: true
+    - text: "Jumbo Ice Cream 回 80 会打断两回合计划，尽量 Raging Bolt 一击；对手 Cape 时 Latias 200 + 弃 4（280）"
+      inferred: true
+  crustle-dri:
+    - text: "ex 招式打不进 Crustle：主线 Boss / Prime Catcher 拉对手 Mega Kangaskhan ex，Raging Bolt ex 弃 5 一击拿 3 张，重复一次赢"
+    - text: "对手 Kangaskhan 在战斗场 Run Errand 抽牌时直接打它，不用花 Boss"
+    - text: "必须打 Crustle 时只用非 ex：Enamorus 有同属性条件（我方 Ogerpon 或 Kangaskhan 在场）时 200，打不倒挂 Cape 的 270"
+    - text: "Eri / Xerosic 会弃我们物品，Energy Switch 和 Ultra Ball 当回合用掉；别跟 Crustle 慢慢磨"
+      inferred: true
+  festival-lead:
+    - text: "对手打出 Festival Grounds 后，从手上放 Chien-Pao 用 Snow Sink 弃掉，Dipplin 只能打一次；别提前用 Ultra Ball 放"
+      inferred: true
+    - text: "对手后备区 5 只时 Brave Bangle + Kieran 是 320，满血 Kangaskhan 也倒；对手手牌剩 1-2 张防 Gladion 别让它站前"
+    - text: "击倒顺序 Thwackey > Dipplin > Rabsca；Rabsca 在场时后备区狙击无效，先 Boss 拉它"
+      inferred: true
+    - text: "用 Enamorus / Chien-Pao 单奖换单奖，别用 2 奖 ex 去换 80 HP 的 Dipplin"
+  dhelmise-pbl:
+    - text: "每回合一击战斗场 Dhelmise（140）：Fezandipiti ex Cruel Arrow 弱恶 200、Latias 200、Iron Leaves 180 都行"
+    - text: "有机会就 Boss 对手的 2 奖：Lillie's Clefairy ex（Latias 200 一击 190）、Latias ex、Bloodmoon Ursaluna ex"
+    - text: "Meowth ex 170 正好被 Vengeful Anchor 一击，找完支援者别留在后备区"
+    - text: "对手有 Clefairy 时 Raging Bolt ex 弱超能（340），别站战斗场；Kangaskhan 吃两发才倒，适合当主攻"
+      inferred: true
+  ogerpon-meganium-hydrapple:
+    - text: "Meganium 先倒：Boss 拉它（160），Latias 200 / Kangaskhan 200 / Iron Leaves 180 一击，对手伤害骤降"
+    - text: "Hydrapple ex 用 Raging Bolt ex 弃 5 一击，别分两回合打（每回合回 30）；Ogerpon ex 弃 3 一击"
+      inferred: true
+    - text: "吃对手单奖诱饵前先放好 Fezandipiti ex 或 Kangaskhan，防 Unfair Stamp 把手牌打到 2 张抽不回"
+      inferred: true
+    - text: "对手 Forest of Vitality 在场时从手上放 Chien-Pao 用 Snow Sink 弃掉，当回合不能放下即进化"
+      inferred: true
+    - text: "Raging Bolt 身上只放 Lightning + Fighting，其他能量放后备区，战斗场能量少，Myriad Leaf Shower 吃不到加成"
+      inferred: true
+  alakazam-dusknoir:
+    - text: "后备区只放 Ogerpon 和要用的攻击手，3 只以上 ex 会被 Dusknoir 130 + Powerful Hand 一回合收两只"
+    - text: "Fezandipiti ex Cruel Arrow 打战斗场 Alakazam / Dusknoir / Dusclops 都弱恶 200 一击；Enamorus 200 只给 1 张"
+    - text: "Wellspring 后备区 120 先收 Kadabra / Dusclops，击倒 Dusclops 它就不会再放 5 个指示物"
+      inferred: true
+    - text: "我方被 Cursed Blast 或 Powerful Hand 击倒后的回合打 Unfair Stamp；Dusknoir 自爆不算，不能用"
+      inferred: true
+    - text: "不要 Boss 马上要自爆的 Dusknoir / Dusclops；对手手牌多时别让 2 奖 ex 站战斗场"

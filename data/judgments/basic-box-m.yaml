@@ -1,0 +1,35 @@
+deck: basic-box-m
+judgments:
+  - id: bbm-dpx-01
+    vs: dragapult-ex
+    text: 对 Dragapult 倾向后攻
+    confidence: 0.55
+    basis: 推断（后攻第 1 回合能用支援者和攻击）；录像：Frankfurt 第 1 天第 7 轮第 2 局后攻方赢
+    window: TEF-30C
+    depends_on: [Budew]
+    where: data/matchups/basic-box-m.md
+  - id: bbm-dpx-02
+    vs: dragapult-ex
+    text: 带 Hero's Cape 时，第 1 回合就放下 Lillie's Clefairy ex 挂 Cape 当主攻手
+    confidence: 0.65
+    basis: 录像：Baltimore 2026 四强第 2 局赢；八强带 Prime Catcher 的一方 Clefairy 两局都被一击。数据方向相反
+    window: TEF-30C
+    depends_on: [Hero's Cape, Lillie's Clefairy ex, Dragapult ex]
+    where: data/matchups/basic-box-m.md
+  - id: bbm-slk-01
+    vs: slowking-scr
+    text: 对 Slowking，对手第 2 回合之前把战斗场换成 1 奖宝可梦，或者场上已有 Latias ex，让 Mega Kangaskhan ex 能零撤退换下
+    confidence: 0.7
+    basis: 卡牌文字（Slowking 第 2 回合不用支援者就能复制 Metallic Hammer 打 300）；录像：Turin 2026 四强 Clark 0-2 Kamerman（TEF-CRI），两局各被 Hammer 一击战斗场的 Kangaskhan 拿 3 张
+    window: TEF-30C
+    depends_on: [Mega Kangaskhan ex, Latias ex]
+    where: data/matchups/basic-box-m.md
+  - id: bbm-adu-01
+    vs: alakazam-dudunsparce
+    text: 对 Alakazam Dudunsparce，手牌干扰靠 Special Red Card：它不是 ACE SPEC，对手的 Genesect 挂上道具后照样能打，Unfair Stamp 就打不出来
+    confidence: 0.65
+    weight: 3
+    basis: 卡牌文字（Genesect 的 ACE Nullifier 只挡 ACE SPEC）；数据：本对局带 Special Red Card 的卡表 58.3%（48 局），不带的 47.0%（39 局）；录像：2026 世界赛第 1 天第 8 轮 Arai 0-2 Cassiraga（TEF-PBL），Arai 只带 Unfair Stamp，被 Genesect 封住
+    window: TEF-30C
+    depends_on: [Special Red Card, Genesect, Unfair Stamp]
+    where: data/matchups/basic-box-m.md

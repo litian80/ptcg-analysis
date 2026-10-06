@@ -2,13 +2,17 @@
 
 **数据来源**：2026 世界赛（2026-08-28，TEF-PBL 环境）、Baltimore 区域赛（2026-09-19）、Frankfurt 与 Brisbane 区域赛（2026-09-26，TEF-30C 环境）四场比赛的全部对局合并统计。胜率把平局按 1/3 胜计算，全场平均约 47.6%。Crustle 总战绩 960 胜 845 负 338 平，胜率 50.1%，平局率 15.8%，Frankfurt 与 Brisbane 的份额约 3.2%。"带/不带某卡"的对比只来自公开了卡表的玩家（多为前排），绝对胜率偏高，只有两者的差值有参考意义；本文只在两边样本都不少于 15 局时引用，并写明局数。没有先后攻数据，也没有逐局记录，下面的具体打法是按卡牌文字和伤害计算推出来的。
 
+**录像**：Indianapolis 区域赛（2026-05-30，TEF-POR 环境，比现在少 CRI、PBL、30C 三个系列，下面用到的卡现在都还合法）的八强 Reddy（Crustle）2-0 Sakadjian（Dragapult ex）和决赛 Reddy 0-2 Jones（Alakazam Dudunsparce），写在对应章节里，标"录像"。Reddy 的卡表和下面的核心基本一致，差别是：4 张 Crushing Hammer（四场比赛的 Crustle 卡表都不带）、场地只有 1 张 Team Rocket's Factory、基本能量是 1 张 Fighting 而不是 Grass，另带 Cornerstone Mask Ogerpon ex 和 Psyduck，没有 Handheld Fan。
+
+后来又看了 Prague 区域赛（2026-04-25，TEF-POR）Tresp（Crustle）的三场：八强 2-0 Reklev（Dragapult ex）、四强 2-1 Pires（Mega Starmie Dusknoir）、决赛 0-2 Łaszkiewicz（Dragapult Dudunsparce，带 Dudunsparce ex 和 Hero's Cape）；以及 2026 世界赛（TEF-PBL）瑞士轮第 12 轮 Matsui（Crustle，最终第 6）2-0 Johnson（Alakazam Dusknoir）。Tresp 只带 2 张 Kangaskhan，没有 Eri 和 Handheld Fan，场地只有 Team Rocket's Factory 和 Forest of Vitality 各 1 张；Matsui 的卡表和下面的核心基本一致，另带 3 张 Eri、Enhanced Hammer 和 Special Red Card。
+
 **卡组核心**（49 份卡表的中位数）：Dwebble ×3、Crustle（DRI 12）×3、Mega Kangaskhan ex ×4；Lillie's Determination ×4、Team Rocket's Petrel ×4、Boss's Orders ×4、Hilda ×3、Eri ×2、Xerosic's Machinations ×1、Pokémon Center Lady ×1、Bianca's Devotion ×1（59%）；Jumbo Ice Cream ×4、Pokégear 3.0 ×3、Buddy-Buddy Poffin ×2、Ultra Ball、Switch、Hero's Cape、Handheld Fan（73%）、Special Red Card（31%）；场地 Lumiose City、Team Rocket's Factory、Prism Tower（55%）、Festival Grounds（55%）；能量 Growing Grass Energy ×4、Mist Energy ×4、Spiky Energy ×4、Grass Energy ×1。
 
 **这套牌靠什么赢**：
 - Crustle 的特性 Mysterious Rock Inn 让对手宝可梦 ex 的招式伤害全部无效。它挡的只是"ex 的招式伤害"：不挡非 ex 的招式，不挡特性放的伤害指示物（Dusknoir、Munkidori），也不挡招式"放置"的伤害指示物（放指示物不是伤害）。
-- Mist Energy 让贴着它的宝可梦不受对手招式的效果影响。用招式放伤害指示物、强制换下场、特殊状态都算效果，所以 Mist 能挡住 Phantom Dive 打到后备区的指示物和 Powerful Hand 的指示物（推断：按"Damage is not an effect"的反面理解，放指示物属于效果）。
-- Superb Scissors（草 + 无色 ×2）打 120，"不受对手战斗场宝可梦身上效果的影响"。弱点和抗性是规则，不是效果，照常计算（推断）。所以打弱草的对手是 240，打抗草的钢属性是 90。
-- Crustle 的 HP：基础 150，每张 Growing Grass Energy +20，Hero's Cape +100。贴 2 张 Growing Grass 是 190，3 张是 210，2 张加 Hero's Cape 是 290。
+- Mist Energy 让贴着它的宝可梦不受对手招式的效果影响。用招式放伤害指示物、强制换下场、特殊状态都算效果，所以 Mist 能挡住 Phantom Dive 打到后备区的指示物和 Powerful Hand 的指示物（核对卡牌原文：Mist 写明"Damage is not an effect"，招式放指示物属于招式的效果）。
+- Superb Scissors（草 + 无色 ×2）打 120，"不受对手战斗场宝可梦身上效果的影响"。弱点和抗性是规则，不是效果，照常计算（核对卡牌原文：Iron Crown ex 的 Twin Shotels 把"不受弱点抗性影响"和"不受效果影响"分开写，说明两者不是一回事）。所以打弱草的对手是 240，打抗草的钢属性是 90。
+- Crustle 的 HP：基础 150，每张 Growing Grass Energy +20，Hero's Cape +100。贴 2 张 Growing Grass 是 190，3 张是 210，2 张加 Hero's Cape 是 290，3 张加 Hero's Cape 是 310。
 - Spiky Energy 和 Handheld Fan 只在 Crustle"受到招式伤害"时触发。被 ex 打时伤害被挡掉，它们不会触发；它们只在对手用非 ex 攻击时起作用。
 - Mega Kangaskhan ex 在战斗场时 Run Errand 每回合抽 2，Rapid-Fire Combo（无色 ×3）打 200 起，每抛出一次正面 +50。它 300 HP，被击倒给对手 3 张奖赏卡，是这套牌最大的奖赏卡漏洞。
 - Crustle 整副牌只有 3 张，核心卡表里没有回收手段。对手如果能一击击倒 Crustle，打掉 3 只之后你就没有墙了。所以对非 ex 攻击手卡组时，每只 Crustle 的 HP 都要尽量堆高。
@@ -23,7 +27,7 @@
 
 | 对手 | 胜率（局数） | 一句话要点 |
 |---|---|---|
-| Dragapult ex | 68.6%（440） | 主攻全是 ex，打不动 Crustle；先 Boss 掉 Munkidori 和 Drakloak，后备区的 Crustle 和 Dwebble 贴 Mist |
+| Dragapult ex | 68.6%（440） | 主攻全是 ex，打不动 Crustle；先 Boss 掉 Munkidori 和 Drakloak，后备区的 Crustle 和 Dwebble 贴 Mist；对手带 Dudunsparce ex 时它能打穿 Crustle，Hero's Cape 改给 Kangaskhan |
 | N's Zoroark | 63.2%（173） | Zoroark ex 弱草，Superb Scissors 打它是 240；要防 Ruffian 拆 Mist 和 Hero's Cape，也要防 Yveltal 打 110 |
 | Dragapult Dusknoir | 47.6%（164） | Dusknoir 的 Cursed Blast 13 个指示物挡不住；Crustle 堆到 190，每回合回血，让对手每次自爆都白送 1 张 |
 | Basic Box（Mega Kangaskhan） | 52.8%（147） | 只有 Enamorus（200）和 Chien-Pao（120）能打 Crustle；Hero's Cape 留给 Crustle，其余 ex 每只打两下 |
@@ -34,7 +38,7 @@
 | Festival Lead | 20.0%（85） | Dipplin 一回合打两次 100，Gladion 后 180 ×2；必须用自己的场地换掉 Festival Grounds |
 | Dhelmise | 45.8%（64） | Dhelmise 打 170，Crustle 贴 2 张 Growing Grass（190）就能撑住；Crustle 120 加 Spiky 20 正好打倒 140 HP 的 Dhelmise |
 | Ogerpon Meganium Hydrapple | 48.8%（56） | 只有 Tapu Bulu（220）和 Meganium（140）能打你；先打倒 Tapu Bulu，Hydrapple ex 每回合回 30，要打很多下 |
-| Alakazam Dusknoir | 69.2%（26） | Mist 挡 Powerful Hand，Dusknoir 自爆送你奖赏卡；样本小 |
+| Alakazam Dusknoir | 69.2%（26） | Mist 挡 Powerful Hand，Dusknoir 自爆送你奖赏卡；Mist 和 Hero's Cape 先给 Kangaskhan（400），三次 Cursed Blast 也打不倒；样本小 |
 
 ---
 
@@ -43,12 +47,12 @@
 **对局性质**
 - 对手的进攻主力 Dragapult ex（320 HP）、Fezandipiti ex、Meowth ex 都是 ex，打战斗场 Crustle 的伤害全部被 Mysterious Rock Inn 挡掉。Phantom Dive 的 200 和 Jet Headbutt 的 70 都没用。
 - 对手还能伤到 Crustle 的手段：Munkidori（99% 卡表 ×2）的 Adrena-Brain 每回合挪 3 个指示物（特性，挡不住）；Moltres（PFL 14，46%）的 Fighting Wings 打非 ex 只有 20，但它是火属性，Crustle 弱火，实际 40；Drakloak 的 Dragon Headbutt 70；Dreepy 的 Bite 40；Munkidori 自己的 Mind Bend 60（混乱会被 Mist 挡住）；Dudunsparce 的 Land Crush 90（59% 卡表）。
-- Phantom Dive 的 6 个指示物放在后备区，这是"放置"，Rock Inn 挡不住；贴了 Mist 的宝可梦不吃（推断）。
+- Phantom Dive 的 6 个指示物放在后备区，这是"放置"，Rock Inn 挡不住；贴了 Mist 的宝可梦不吃（核对卡牌原文）。
 - 节奏上对手更快，但它的伤害对 Crustle 很低；Jumbo Ice Cream（回 80）和 Pokémon Center Lady（回 60）回得比 Munkidori 的 30 快。你是控制方，慢慢拿奖赏卡。
 - 奖赏卡账：对手 2 奖的只有 Dragapult ex、Fezandipiti ex 和 Meowth ex，其余都是 1 奖小怪。你一回合 120，Dragapult ex 要 3 下，所以先 Boss 收 1 奖的引擎更划算。
 
 **开局与先后攻**
-- 战斗场放 Dwebble 最好：后攻第 1 回合 Ascension 直接进化。没有 Dwebble 就放 Mega Kangaskhan ex 抽牌，对手第 2 回合前打不出大伤害（Dreepy 只有 Bite 40）。
+- 战斗场放 Dwebble 最好：后攻第 1 回合 Ascension 直接进化。没有 Dwebble 就放 Mega Kangaskhan ex 抽牌，对手第 2 回合前打不出大伤害（Dreepy 只有 Bite 40）。但先攻时要防 Budew：对手后攻第 1 回合就能用 Itchy Pollen 锁物品，你第 2 回合打不了 Switch，Kangaskhan 只能贴能量撤退，可能被困在前场（推断）。录像：Prague 2026 决赛第 2 局，Tresp 起手 Kangaskhan 被 Budew 锁住，对手先用 Risky Ruins 加 Phantom Dive 收掉一只没进化的 Dwebble，下一回合击倒 Kangaskhan 拿 3 张（[26:00](https://www.youtube.com/watch?v=vXSSxUzwDOE&t=1560s)）。
 - 后备区放 2 只 Dwebble 就够，别铺满。对手 90% 的卡表带 Risky Ruins：在它生效时你放到后备区的非恶属性基础宝可梦会被放 2 个指示物，Dwebble 变成 50 HP，一次 Phantom Dive 的 60 就能打倒。所以 Dwebble 要在对手打出 Risky Ruins 之前铺，或先用自己的场地把 Risky Ruins 换掉。
 - 倾向后攻（推断）：对手先攻时 Budew 第 1 回合不能攻击，你后攻第 1 回合还能打支援者并用 Ascension。
 
@@ -63,22 +67,25 @@
 **对手的套路，怎么防**
 - **Munkidori 磨血**：每回合 3 个指示物。先 Boss 它；没拿到 Boss 时用 Jumbo Ice Cream 回 80（要 3 个能量），所以 Crustle 身上始终保持 3 个以上能量。
 - **Crushing Hammer ×4**：抛硬币拆能量，让 Crustle 凑不够 3 个能量，也用不了 Jumbo Ice Cream。所以 Crustle 身上多贴一个能量当余量，后备区的 Crustle 提前贴好。
+- **对手没有 Dudunsparce ex 时，Hero's Cape 挂 Crustle**（信心 80%，cru-dpx-01）：2 张 Growing Grass 加 Cape 是 290。对手打得动 Crustle 的只有 Munkidori 的 30、Moltres 40、Mind Bend 60、Drakloak 70 这类小伤害，而 Jumbo Ice Cream 每回合回 80。录像：Indianapolis 2026 八强第 1 局，Reddy 把 Cape 挂在 Crustle 上，解说算过对手大约要 5 个回合才打得穿；Sakadjian 的 Crushing Hammer 又连着 4 次反面，Reddy 拿下。第 2 局他放弃战斗场那只 Crustle，把能量堆到后备区挂 Cape 的 Crustle 上，Jumbo Ice Cream 回血后用 Superb Scissors 收掉 Dragapult ex。Prague 2026 八强 Tresp 2-0 Reklev（对手没有 Hammer，也没有 Dudunsparce ex）也是这样赢的：第 1 局 Cape 加 Mist，Reklev 整局只拿到 1 张（[3:37:00](https://www.youtube.com/watch?v=5ewTXCpaGpA&t=13020s)）；第 2 局 Tresp 起手 Kangaskhan 送了 4 张，但挂 Cape、贴 4 张 Growing Grass 的 Crustle 有 330（[4:16:30](https://www.youtube.com/watch?v=5ewTXCpaGpA&t=15390s)），对手打不穿，Tresp 收掉两只 Munkidori 赢下。对手带 Dudunsparce ex 时 Cape 改给 Kangaskhan，见下面 Dudunsparce ex 那两条。
+- **Unfair Stamp**（对手几乎每份卡表 1 张）：你击倒对手的宝可梦后，对手可以让你手牌只剩 2 张，留着备用的 Mist、Jumbo Ice Cream 都被洗回牌库。Eri 看到它就弃掉。录像：同一场第 2 局，Reddy 用 Petrel 找来 Eri，弃掉 Sakadjian 手里的 Unfair Stamp 和 Night Stretcher。
 - **Phantom Dive 打后备区**：6 个指示物收 Dwebble 或累积在 Kangaskhan ex 上。后备区的 Dwebble 尽快进化，Crustle 贴 Mist。Kangaskhan ex 300 HP，不要长期留在后备区挨打。
-- **Budew 锁物品**：被锁那回合用不了 Jumbo Ice Cream、Poffin、Pokégear。提前一回合把要用的物品打出去。
+- **Budew 锁物品**：被锁那回合用不了 Jumbo Ice Cream、Poffin、Pokégear。提前一回合把要用的物品打出去。战斗场的宝可梦贴 Spiky Energy 时，Budew 每次 Itchy Pollen（10 伤害）都要吃 20，30 HP 的 Budew 打两次就倒。录像：Indianapolis 2026 八强第 1 局 Reddy 在战斗场的 Kangaskhan 上贴了 Spiky（[视频](https://www.youtube.com/watch?v=rFR1ZVFc5ic)）。
 - **Moltres / Drakloak 正面攻击**：它们攻击 Crustle 时会触发 Spiky Energy（打回 20）和 Handheld Fan（把它身上一个能量挪到对手后备区），下回合可能打不了第二次。
-- **Dudunsparce ex**（18% 的对手卡表）：Destructive Drill 150 "不受对手战斗场宝可梦身上任何效果影响"。它很可能无视 Mysterious Rock Inn（推断，需裁定）。它 270 HP，出来就优先处理：120 两下加 Spiky 也不够，要 3 下，或者用 Kangaskhan 补刀。对手带它的卡表对你胜率 56.9%（24 局），不带的 40.4%（109 局），和这个推断方向一致。
+- **Dudunsparce ex**（18% 的对手卡表）：Destructive Drill 150 "不受对手战斗场宝可梦身上任何效果影响"。它能打穿 Mysterious Rock Inn：Prague 2026 决赛两局都打穿了，有裁判在场、没有人提出异议，解说也明说（[12:00](https://www.youtube.com/watch?v=vXSSxUzwDOE&t=720s)；没找到官方 Q&A）。它 270 HP，出来就优先处理：120 两下加 Spiky 也不够，要 3 下，或者用 Kangaskhan 补刀。对手还可能把 Hero's Cape 挂在 Dunsparce 上（进化成 Dudunsparce ex 就是 370，[2:00](https://www.youtube.com/watch?v=vXSSxUzwDOE&t=120s)），受伤后再用 Run Away Draw 连 Cape 一起洗回牌库。战斗场贴两张 Spiky Energy 时，Drill 每次反吃 40：同一场第 2 局最后一次 Drill 击倒 Crustle，反伤也击倒了 Dudunsparce ex（[39:30](https://www.youtube.com/watch?v=vXSSxUzwDOE&t=2370s)）。对手带它的卡表对你胜率 56.9%（24 局），不带的 40.4%（109 局）。
+- **对手带 Dudunsparce ex 时，Hero's Cape 改挂 Kangaskhan**（信心 55%，cru-dpx-02）：Crustle 挡不住 Drill，一回合又只打 120，拼不过 370 的 Dudunsparce ex；Cape 挂在 Mega Kangaskhan ex 上是 400，让它当主攻，200 起的 Rapid-Fire Combo 两下收掉 Dudunsparce ex。Kangaskhan 在前场时 Phantom Dive 也打得动它，400 要两下，中间用 Jumbo Ice Cream 回 80 就要三下（核对卡牌原文）。录像：Prague 2026 四强 Tresp 对 Mega Starmie ex（Nebula Beam 210 不受效果影响，同样穿过 Rock Inn），Cape 挂 Kangaskhan 的第 1、3 局都赢（[4:45:00](https://www.youtube.com/watch?v=5ewTXCpaGpA&t=17100s)、[5:23:30](https://www.youtube.com/watch?v=5ewTXCpaGpA&t=19410s)），Cape 在奖赏卡里的第 2 局输；决赛对 Dudunsparce ex 他没这样打，0-2。
 - **Team Rocket's Watchtower**（23%）：无色宝可梦没有特性，你的 Kangaskhan ex 抽不了牌。用自己的场地换掉。
 
 **关键卡与构筑**
 - 本对局你方卡表的数据（156 局）：带 Pokémon Center Lady 76.2%（133 局），不带 88.4%（23 局）；带 Team Rocket's Factory 76.0%（129 局），不带 87.7%（27 局）；带 Enhanced Hammer 73.8%（28 局），不带 78.9%（128 局）。Enhanced Hammer 在这里是死卡：对手的能量全是基本能量（Fire、Psychic、Darkness）。Center Lady 和 Factory 的差值可能只是卡表风格的相关，不一定是因果（推断）。
 - 带 Handheld Fan 79.1%（113 局），不带 75.2%（43 局）；带 Prism Tower 79.3%（90 局），不带 76.3%（66 局）。差值小。
 - 对手方数据（133 局）：带 Special Red Card 的 Dragapult 对你 36.7%（60 局），不带 48.9%（73 局）；带 Moltres 38.0%（50 局），不带 46.6%（83 局）；带 Watchtower 35.6%（30 局），不带 45.6%（103 局）。这些 tech 都没能帮对手。
-- 构筑建议：专门针对 Dragapult 时可以去掉 Enhanced Hammer。保留至少 2 张场地，用来换掉 Risky Ruins 和 Watchtower（推断）。
+- 构筑建议：专门针对 Dragapult 时可以去掉 Enhanced Hammer。保留至少 2 张场地，用来换掉 Risky Ruins 和 Watchtower（推断）。录像旁证：Indianapolis 2026 八强第 1 局，Reddy 只带 1 张 Team Rocket's Factory 又在奖赏卡里，Sakadjian 的 Watchtower 一直关着他 Kangaskhan 的 Run Errand。
 
 **常见失误**
 - 先打 Dragapult ex 而不是先 Boss 掉 Munkidori，被每回合 30 慢慢磨掉。
 - 后备区的 Crustle 没贴 Mist，被 Phantom Dive 的指示物打残，换上场后经不起 Munkidori。
-- 对手打出 Risky Ruins 后还在铺 Dwebble，送对手奖赏卡。
+- 对手打出 Risky Ruins 后还在铺 Dwebble，送对手奖赏卡。录像：Prague 2026 决赛第 2 局，对手这样收掉一只 Dwebble，拿到的那张奖赏卡正好是 Dudunsparce ex（见上面开局那条）。
 - Crustle 身上只有刚好 3 个能量，被 Crushing Hammer 拆一个就打不了，也吃不了 Jumbo Ice Cream。
 
 ---
@@ -105,12 +112,12 @@
 
 **对手的套路，怎么防**
 - **Ruffian**（39% 的对手卡表）：弃掉一只宝可梦身上的道具和一张特殊能量，正好拆 Mist 和 Hero's Cape。对手带 Ruffian 对你 63.9%（24 局），不带 32.5%（38 局）。Crustle 身上多贴一个能量当余量，Hero's Cape 晚点贴。
-- **Yveltal 和 Zekrom 正面打**：它们是非 ex，打 Crustle 会触发 Spiky（20）和 Handheld Fan。它们都要 3 个能量，Fan 挪走 1 个，下回合往往凑不齐（推断）。
+- **Yveltal 和 Zekrom 正面打**：它们是非 ex，打 Crustle 会触发 Spiky（20）和 Handheld Fan。它们都要 3 个能量，Fan 挪走 1 个后，对手下回合要用掉手贴才能补回 3 个再打（核对卡牌原文，已改正）。
 - **N's Purrloin 和 Budew 打乱手牌、锁物品**：留好下一回合的支援者，Jumbo Ice Cream 提前用。
 - **Boss 拉后备区的 Dwebble 或 Kangaskhan ex**：后备区只留必须的。
 
 **关键卡与构筑**
-- 你方数据（58 局）：带 Bianca's Devotion 62.6%（33 局），不带 82.7%（25 局）；带 Special Red Card 84.3%（17 局），不带 65.9%（41 局）；带 Handheld Fan 74.0%（41 局），不带 64.7%（17 局）。Special Red Card 在你拿了 3 张以后让对手洗回手牌只抽 3，打断 Zoroark 的 Trade 连抽，这里值得带。
+- 你方数据（58 局）：带 Bianca's Devotion 62.6%（33 局），不带 82.7%（25 局）；带 Special Red Card 84.3%（17 局），不带 65.9%（41 局）；带 Handheld Fan 74.0%（41 局），不带 64.7%（17 局）。Special Red Card 在对手剩 3 张以下时才能打，对手手牌放到牌库底只抽 3，打断 Zoroark 的 Trade 连抽，这里值得带。
 - 对手数据（62 局）：带 Janine's Secret Art 对你 27.1%（16 局），不带 50.7%（46 局）；带 N's Purrloin 53.3%（20 局），不带 40.5%（42 局）。
 - 构筑建议：带 1 张 Special Red Card；Bianca's Devotion 在这里用处不大，对手单次伤害多是 70～110，Crustle 很少被打到 30 以下。
 
@@ -144,7 +151,7 @@
 - **Dusknoir + Munkidori + Dusclops 一回合凑 210**：Crustle 堆到 190，再留一张回血卡。如果 Crustle 已经掉血，宁可先回血也不急着攻击（推断）。
 - **Jamming Tower 关掉 Hero's Cape 和 Fan**：用自己的场地换掉它。对手带 Jamming Tower 对你 68.9%（30 局），不带 52.9%（17 局）。
 - **Cursed Blast 打后备区**：13 个指示物能直接打倒后备区的 Dwebble 或已经掉血的 Crustle。后备区别放受伤的宝可梦；Kangaskhan ex 300 HP，13 个指示物加 Phantom Dive 的 60 是 190，打不倒，但要记着累计。
-- **Psyduck**（ASC 39，Damp：场上宝可梦失去需要自己昏厥的特性）可以直接关掉 Dusclops 和 Dusknoir 的 Cursed Blast。少数 Crustle 卡表带它（推断它在这个对局有用；它 70 HP，会被 Phantom Dive 加 Munkidori 收掉）。
+- **Psyduck**（ASC 39，Damp：场上宝可梦失去需要自己昏厥的特性）可以直接关掉 Dusclops 和 Dusknoir 的 Cursed Blast。少数 Crustle 卡表带它（推断它在这个对局有用；关掉 Cursed Blast 和"它 70 HP，Phantom Dive 的 60 加 Munkidori 的 30 能收掉"都核对卡牌原文）。
 
 **关键卡与构筑**
 - 你方数据（42 局）：带 Prism Tower 68.0%（25 局），不带 60.8%（17 局）；带 Festival Grounds 和不带各 21 局，都是 65.1%。
@@ -181,7 +188,7 @@
 
 **对手的套路，怎么防**
 - **Enamorus 一击 Crustle**：Crustle 贴 Hero's Cape + 2 张 Growing Grass 就是 290，200 打不倒。Hero's Cape 只有一张，留给对手准备好 Enamorus 的那只 Crustle。Enamorus 打你之后吃 Spiky 20，你下回合 120 照样打倒它。
-- **Chien-Pao 两下打倒 Crustle**：Icicle Loop 每次把一个能量收回手上。Handheld Fan 在它第一下后再挪走一个能量，它很难连打（推断）。中间用 Jumbo Ice Cream 回 80，它就打不倒。
+- **Chien-Pao 两下打倒 Crustle**：Icicle Loop 每次把一个能量收回手上。Handheld Fan 在它第一下后再挪走一个能量，3 个只剩 1 个，手贴一个也不够，它很难连打（核对卡牌原文）。中间用 Jumbo Ice Cream 回 80，它就打不倒。
 - **Energy Switch / Iron Leaves ex 挪能量**：对手可以把能量集中到 Enamorus 一回合上场攻击。看到它在后备区充能，就先 Boss 它出来打掉（120 HP，一下）。
 - **Boss 拉你后备区的 Kangaskhan ex**：300 HP 被 Latias 200 + 下回合再打，3 张。后备区只在要攻击前才放 Kangaskhan ex。
 
@@ -202,15 +209,15 @@
 **对局性质**
 - 对手的攻击手 Slowking（SCR 58，120 HP）不是 ex。它的 Seek Inspiration（超无）弃掉牌库顶一张，如果是无规则宝可梦就用它的一个招式。可复制的目标（这四场的卡表）：
   - Kyurem（SFA 47）Trifrost：对你 3 只宝可梦各 110；
-  - Metagross（CRI 61）Metallic Hammer：150（Slowking 没有钢能量，不能加 150）；
+  - Metagross（CRI 61）Metallic Hammer：300（官方裁定：Slowking 没有钢能量也能加 150，不用弃能量），一击任何 Crustle；
   - Annihilape（PBL 41）Ghostly Blow：100，并在你后备区一只身上放 5 个指示物；
   - Annihilape（SSP 100，约三分之一的卡表）Destined Fight：双方战斗场宝可梦都昏厥；Tantrum 130；
   - Zeraora（DRI 78）Thunder Raid：打你后备区一只 ex 210；
   - Pawmot（PFL 34）Voltaic Fist 130，可让你麻痹；Drapion（POR 52）Hazardous Tail 100 + 麻痹 + 中毒；Cofagrigus（SSP 83）Law of the Underworld：每只有特性的宝可梦放 6 个指示物。
-- 这些都是非 ex 的招式，Rock Inn 不管。Mist 能挡住其中的效果部分：Destined Fight 的昏厥、Law of the Underworld 的指示物、麻痹和中毒、Ghostly Blow 放在贴了 Mist 的后备区宝可梦身上的指示物（推断）。
+- 这些都是非 ex 的招式，Rock Inn 不管。Mist 能挡住其中的效果部分：Destined Fight 的昏厥、Law of the Underworld 的指示物、麻痹和中毒、Ghostly Blow 放在贴了 Mist 的后备区宝可梦身上的指示物（核对卡牌原文）。
 - 对手的 Mega Kangaskhan ex（×3）、Latias ex 打不动 Crustle。
 - 你的伤害：Superb Scissors 120 正好打倒 Slowking（120）、Slowpoke（70～80）。对手每只 Slowking 你一下拿 1 张。
-- 为什么输这么多（推断）：Trifrost 一下打 3 只，后备区的 Dwebble（70）全倒，一回合送多张；Zeraora 210 加 Trifrost 110 打倒后备区的 Kangaskhan ex 送 3 张；Metallic Hammer 150 正好打倒只贴 0 张 Growing Grass 的 Crustle；对手有 Academy at Night 和 Ciphermaniac's Codebreaking，能按需要安排牌库顶。
+- 为什么输这么多（推断）：Trifrost 一下打 3 只，后备区的 Dwebble（70）全倒，一回合送多张；Zeraora 210 加 Trifrost 110 打倒后备区的 Kangaskhan ex 送 3 张；Metallic Hammer 300 一击 2 张 Growing Grass 加 Hero's Cape（290）以下的 Crustle，只有贴 3 张 Growing Grass 再加 Cape（310）才撑得住（核对卡牌原文，已改正）；对手有 Academy at Night 和 Ciphermaniac's Codebreaking，能按需要安排牌库顶。
 
 **开局与先后攻**
 - 不要把 Kangaskhan ex 放在后备区。开局如果只能放它，第 1～2 回合用它抽牌，之后尽快换成 Crustle，再让它待在战斗场之外的时间越短越好。
@@ -225,7 +232,7 @@
 
 **对手的套路，怎么防**
 - **Trifrost 清后备区**：后备区少放基础宝可梦，Dwebble 尽快进化。Trifrost 会弃掉 Slowking 身上全部能量（只有 Boomerang Energy 回来），对手下一只 Slowking 要另外备能量。
-- **Metallic Hammer 150**：Crustle 至少贴 1 张 Growing Grass（170），最好 2 张（190）。
+- **Metallic Hammer 300**：2 张 Growing Grass 加 Hero's Cape 是 290，挡不住；贴 3 张 Growing Grass 再加 Cape 是 310，能挡住一下，但再贴 Mist 防 Destined Fight 就要第 4 个能量（核对卡牌原文，已改正）。能做的是不让对手把 Metagross 放到牌库顶：换掉 Academy at Night，Eri 弃掉 Poké Pad。对手卡表只有 2 张 Metagross，用掉的会被 Slowpoke 的 Dangle Tail 捡回（核对卡牌原文），要算它还剩几次（推断）。
 - **Zeraora 打后备区 ex**：后备区不放 Kangaskhan ex。
 - **Destined Fight / Law of the Underworld / Drapion**：战斗场的 Crustle 一定贴 Mist。
 - **Academy at Night 安排牌库顶**：场地换掉它；对手只剩 Ciphermaniac's Codebreaking 时，弃牌顶命中率会掉很多（推断）。Festival Grounds 还会让带能量的宝可梦不受特殊状态影响，正好挡 Pawmot 和 Drapion 的麻痹和中毒。
@@ -246,14 +253,14 @@
 ## vs Alakazam Dudunsparce（胜率 65.6%，121 局）
 
 **对局性质**
-- 对手的主攻 Alakazam（MEG 56，140 HP）的 Powerful Hand（1 个超能）按手牌数在你战斗场宝可梦身上放指示物，每张 2 个。它不是 ex，而且是"放指示物"不是伤害，所以 Rock Inn 管不了。但它是招式的效果，贴了 Mist 的宝可梦不吃（推断）。这就是你这个对局占优的原因。
+- 对手的主攻 Alakazam（MEG 56，140 HP）的 Powerful Hand（1 个超能）按手牌数在你战斗场宝可梦身上放指示物，每张 2 个。它不是 ex，而且是"放指示物"不是伤害，所以 Rock Inn 管不了。但它是招式的效果，贴了 Mist 的宝可梦不吃（核对卡牌原文）。这就是你这个对局占优的原因。
 - 贴了 Mist 后，对手还能打 Crustle 的只剩：Dudunsparce 的 Land Crush 90（无无无）、Genesect（SFA 40）Magnetic Blast 100（钢无无）、Kadabra 的 Super Psy Bolt 30、Dedenne 的 Gnaw 30。Fezandipiti ex 和 Lillie's Clefairy ex 是 ex，打不动。
-- 对手要打穿你，必须先用 Enhanced Hammer（46% 卡表 ×2）弃掉 Mist，再用 Powerful Hand。手牌 10 张就是 200，能一击 190 HP 的 Crustle。
+- 对手要打穿你，必须先用 Enhanced Hammer（46% 卡表 ×2）弃掉 Mist，再用 Powerful Hand。手牌 10 张就是 200，能一击 190 HP 的 Crustle。Enhanced Hammer 弃的是特殊能量：你的 Growing Grass、Mist、Spiky 都是，只有基本 Grass Energy 弃不掉。
 - 你的伤害：Abra 50、Kadabra 80、Dunsparce 60 一下打倒；Alakazam 140 和 Dudunsparce 140 要两下。Kangaskhan ex 200 一下打倒 Alakazam。
 - 奖赏卡账：对手除 Fezandipiti ex（和 36% 卡表的 Clefairy ex）外全是单奖，你要击倒 6 次。
 
 **开局与先后攻**
-- 战斗场放 Dwebble 或 Kangaskhan ex 都可以。对手第 2 回合就能用 Rare Candy 上 Alakazam；Kangaskhan ex 在没有 Mist 时会被 Powerful Hand 打，手牌 15 张就是 300，一次送 3 张。所以对手 Alakazam 上场前，你的战斗场要么是 Crustle，要么是贴了 Mist 的 Kangaskhan ex（推断）。
+- 战斗场放 Dwebble 或 Kangaskhan ex 都可以。对手第 2 回合就能用 Rare Candy 上 Alakazam；Kangaskhan ex 在没有 Mist 时会被 Powerful Hand 打，手牌 15 张就是 300，一次送 3 张；挂 Hero's Cape（400）也只是要 20 张。录像：Indianapolis 2026 决赛两局都是 Powerful Hand 一击 Kangaskhan 拿 3 张结束的，Jones 两局都凑到了 20 张。所以对手 Alakazam 上场前，你的战斗场要么是 Crustle，要么是贴了 Mist 的 Kangaskhan ex（推断）。
 - 第一个手贴的能量优先给战斗场贴 Mist。
 
 **奖赏卡路线**
@@ -261,10 +268,12 @@
 - 第 3 回合：Boss 拉后备区的 Abra（50）或 Kadabra（80），120 击倒，拿 1 张，断掉下一只 Alakazam。
 - 第 4～5 回合：战斗场的 Alakazam 140 HP，Crustle 两下拿 1 张；或者换上贴了 Mist 的 Kangaskhan ex，200 一下打倒（Kangaskhan 要 3 个无色，Mist 也算）。
 - 第 6～8 回合：继续一回合一张，优先打能进化的 Abra / Kadabra。Genesect（SFA 40，110 HP）是钢属性抗草，Crustle 只打 90，要两下或用 Kangaskhan ex。对手的 Fezandipiti ex（210）在后备区时，Boss 出来两下拿 2 张能省一回合。
-- 拿到 3 张后可以打 Special Red Card：对手手牌洗到牌库底只抽 3，Powerful Hand 立刻变小。
+- 对手剩 3 张以下时可以打 Special Red Card：对手手牌放到牌库底只抽 3，Powerful Hand 立刻变小。
 
 **对手的套路，怎么防**
-- **Enhanced Hammer 弃 Mist**：每只要攻击的宝可梦身上留第二张 Mist 作为备份，或者手里留一张 Mist 下回合补。对手带 Enhanced Hammer 对你 60.0%（20 局），不带 18.8%（16 局），这张卡决定这个对局。
+- **Enhanced Hammer 弃 Mist**：每只要攻击的宝可梦身上留第二张 Mist 作为备份，或者手里留一张 Mist 下回合补。对手带 Enhanced Hammer 对你 60.0%（20 局），不带 18.8%（16 局），这张卡决定这个对局。两张 Mist 也挡不住一回合两张 Hammer：录像（Indianapolis 2026 决赛第 2 局）Reddy 的 Kangaskhan 挂着 Hero's Cape、贴了两张 Mist，Jones 一回合打出两张 Enhanced Hammer 全部弃掉，Powerful Hand 拿 3 张。对手手牌接近 20 张时，Kangaskhan 别站战斗场（推断）。
+- **Dedenne 把 Enhanced Hammer 捡回来**：Dedenne（SSP 87，70 HP）的招式 Electromagnetic Sonar（1 个无色）从弃牌区拿回 1 张训练家卡。对手打出 Enhanced Hammer，再用 Dedenne 攻击把它拿回来，下回合再打，两张 Hammer 就变成每回合都有；你用 Eri 弃掉的 Hammer 也会被捡回。Dedenne 攻击的那回合对手打不了 Powerful Hand，这是在拖住你、等手牌养大（推断）。所以 Dedenne 是第一个要击倒的目标：它在战斗场时直接打，在后备区就用 Boss's Orders 拉出来，120 一下打倒，下一回合再用 Eri 弃手里的 Hammer（Boss's Orders 和 Eri 都是支援者，一回合只能用一张，核对卡牌原文，已改正）（推断）（信心 60%，cru-adu-01）。对手 62 份卡表里 25 份带 Dedenne，带的对你 56.2%（16 局），不带的 30.0%（20 局）；28 份带 Enhanced Hammer，两样都带的 20 份。全部卡表都带 Sacred Ash，能把被击倒的 Dedenne 洗回牌库，要准备再打一次。录像：Indianapolis 2026 决赛第 1 局，Jones 用 Sacred Ash 把 Dedenne 洗回牌库，之后用它反复捡回 Enhanced Hammer，Reddy 每回合掉一个能量（[视频](https://www.youtube.com/watch?v=nlj_HY9SoJo)）。
+- **Handheld Fan**（对手 62 份卡表里 37 份）：挂在战斗场的宝可梦上，你攻击它时，攻击手身上 1 个能量被挪到你的后备区，下回合可能凑不够 3 个能量（录像：同一局 Reddy 打挂着 Fan 的 Dedenne 时掉过能量）。不过带 Handheld Fan 的 Alakazam 对你只有 25.5%（17 局），不带的 56.1%（19 局），它不是对手赢你的原因。
 - **手牌养大**：Kadabra、Alakazam 进化时抽 2、抽 3，Dudunsparce 抽 3，Enriching Energy 抽 4。Xerosic's Machinations 和 Special Red Card 是你最直接的反制。
 - **Battle Cage**：只挡后备区受到的指示物，对你没影响。
 
@@ -276,16 +285,17 @@
 **常见失误**
 - 战斗场的宝可梦没贴 Mist 就让对手进入 Alakazam 回合。
 - Mist 被 Enhanced Hammer 弃掉后，手里没有备用的 Mist。
-- 让没贴 Mist 的 Kangaskhan ex 站在战斗场。
+- 让没贴 Mist 的 Kangaskhan ex 站在战斗场（录像：Indianapolis 2026 决赛第 1 局，挂着 Hero's Cape 也被 20 张手牌一击，送 3 张）。
+- 让 Dedenne 一直留在对手场上，被它每回合捡回 Enhanced Hammer（录像，同一局）。
 
 ---
 
 ## vs Mega Excadrill（胜率 19.1%，108 局）
 
 **对局性质**
-- 对手的 ex（Mega Excadrill ex 340 HP、Genesect ex 220、Mega Skarmory ex 260）打不动 Crustle，但它们都是钢属性，抗草。Superb Scissors 打它们只有 90（推断：抗性照常计算）。Metagross（180 HP）、Metang（100）、Beldum（70）也抗草。
-- Mega Excadrill ex 的 Undermine（钢钢）90 伤害被挡掉，但"弃掉你牌库顶 2 张"是对你牌库的效果，Mist 管不了（推断）。对手可以让它站在战斗场，每回合磨你 2 张。
-- 能打 Crustle 的非 ex：Metagross（CRI 61）Metallic Hammer（钢钢钢无）150，弃 3 个钢能量再 +150，共 300，任何 Crustle 都一击（Hero's Cape + 2 Growing Grass 290 也不够）。Metang（TEF 114）Beam 60，Drilbur（PBL 46）Dig Claws 50。Metang 的 Metal Maker 每回合从牌库顶贴钢能量，对手 16 个钢能量，Metagross 很快能充满。
+- 对手的 ex（Mega Excadrill ex 340 HP、Genesect ex 220、Mega Skarmory ex 260）打不动 Crustle，但它们都是钢属性。Mega Excadrill ex 和 Genesect ex 抗草，Superb Scissors 打它们只有 90；Mega Skarmory ex（POR 55）的抗性是斗，不抗草，打它是 120（核对卡牌原文，已改正）。Metagross（180 HP）、Metang（100）、Beldum（70）也抗草。
+- Mega Excadrill ex 的 Undermine（钢钢）90 伤害被挡掉，但"弃掉你牌库顶 2 张"是对你牌库的效果，不是对贴着 Mist 的宝可梦，Mist 管不了（核对卡牌原文）。对手可以让它站在战斗场，每回合磨你 2 张。
+- 能打 Crustle 的非 ex：Metagross（CRI 61）Metallic Hammer（钢钢钢无）150，弃 3 个钢能量再 +150，共 300，几乎任何 Crustle 都一击（Hero's Cape + 2 Growing Grass 290 也不够，只有 3 张 Growing Grass 加 Cape 的 310 撑得住）。Metang（TEF 114）Beam 60，Drilbur（PBL 46）Dig Claws 50。Metang 的 Metal Maker 每回合从牌库顶贴钢能量，对手 16 个钢能量，Metagross 很快能充满。
 - 你的 Kangaskhan ex 是无色，没有抗性问题，200 打 Excadrill 两下（400 ≥ 340）。但 Maximum Drilling 5 个能量打 330，一击 300 HP 的 Kangaskhan ex 拿 3 张。
 - 奖赏卡账：对手只要击倒两只 Kangaskhan ex 就拿满 6 张；你击倒一只 Mega Excadrill ex 拿 3 张，但它 340 HP 你要打 4 下。
 
@@ -341,7 +351,7 @@
 - 第 9 回合：再打一只 1 奖收尾。
 
 **对手的套路，怎么防**
-- **Chi-Yu 拆场地加伤害**：自己少打场地；Chi-Yu 在后备区贴上能量就先 Boss 它。Chi-Yu 打你之后，Handheld Fan 把它身上的一个能量挪走（它要火 + 无色两个能量），下回合就打不出第二次（推断）。
+- **Chi-Yu 拆场地加伤害**：自己少打场地；Chi-Yu 在后备区贴上能量就先 Boss 它。Chi-Yu 打你之后，Handheld Fan 把它身上的一个能量挪走（它要火 + 无色两个能量），对手下回合要再手贴一个，或用 Blaziken ex 的 Seething Spirit 从弃牌区补，才能打第二次（核对卡牌原文，已改正）。
 - **Combusken 抛硬币**：两个正面就是 160。Crustle 保持 190 或回到满血。
 - **Munkidori 和 Crushing Hammer 类的消耗**：和 Dragapult ex 对局一样，多贴一个能量当余量。
 
@@ -372,7 +382,7 @@
 
 **奖赏卡路线**
 - 第 1～2 回合：手里有场地就马上打出，覆盖对手的 Festival Grounds；你的 Lumiose City、Team Rocket's Factory、Prism Tower 都可以。**不要打出自己的 Festival Grounds**：它正好开启对手的特性，而且对手场上已有同名场地时你也打不出。Eri 优先弃对手的 Tool Scrapper（69% 卡表），保住你的 Handheld Fan。
-- 第 2 回合：战斗场的 Crustle 贴 Handheld Fan。Dipplin 第一次 Do the Wave 打中后，Fan 把它身上的一个能量挪到对手后备区；Dipplin 只有 1 个能量时第二次就打不出来（推断）。
+- 第 2 回合：战斗场的 Crustle 贴 Handheld Fan。Dipplin 第一次 Do the Wave 打中后，Fan 把它身上的一个能量挪到对手后备区；Dipplin 只有 1 个能量时第二次就打不出来（核对卡牌原文）。
 - 第 3 回合起：每回合 120 打倒战斗场的 Festival Lead 宝可梦，拿 1 张。Thwackey 的 Boom Boom Groove 只在战斗场是 Festival Lead 宝可梦时生效，所以打倒战斗场的 Dipplin 也会让对手下回合少找牌。
 - 第 4～8 回合：继续每回合 1 张。有余力时 Boss 拉 Thwackey（100）打掉，削对手的检索。对手剩 3 张以下时用 Special Red Card。
 - 现实情况：对手的伤害远高于你的回复，这个对局主要是在拖时间等对手断 Festival Grounds。
@@ -399,10 +409,10 @@
 
 **对局性质**
 - 对手主攻 Dhelmise（PBL 39，140 HP）的 Vengeful Anchor（超）在弃牌区有 4 只以上 Hide 'n' Sneak 宝可梦时打 170，不是 ex。Banette（PBL 34）Puppet Pull 80。
-- Sinistcha（PBL 6）的 Matcha Spin 给你每只宝可梦放 4 个指示物，Spiritomb（PBL 35）把指示物翻 4 倍，都是招式效果，贴了 Mist 的宝可梦不吃（推断）。
+- Sinistcha（PBL 6）的 Matcha Spin 给你每只宝可梦放 4 个指示物，Spiritomb（PBL 35）把指示物翻 4 倍，都是招式效果，贴了 Mist 的宝可梦不吃（核对卡牌原文）。
 - Bloodmoon Ursaluna ex、Lillie's Clefairy ex、Latias ex 打不动 Crustle。
 - 关键数字：Crustle 贴 1 张 Growing Grass 是 170，正好被 170 打倒；贴 2 张是 190，打不倒。
-- 你的伤害：Dhelmise 140。它攻击 Crustle 时 Spiky Energy 放 2 个指示物，剩 120，下回合 Superb Scissors 120 正好打倒。Hide 'n' Sneak 只挡你宝可梦招式和特性的效果，伤害照常；Spiky Energy 是能量卡的效果，不受它影响（推断）。Banette 80、Shuppet 50、Poltchageist 30、Sinistcha 60 一下打倒。Kangaskhan ex 200 一下打倒 Dhelmise。
+- 你的伤害：Dhelmise 140。它攻击 Crustle 时 Spiky Energy 放 2 个指示物，剩 120，下回合 Superb Scissors 120 正好打倒。Hide 'n' Sneak 只挡你宝可梦招式和特性的效果，伤害照常；Spiky Energy 是能量卡的效果，不受它影响；Dhelmise 本身也没有 Hide 'n' Sneak（核对卡牌原文）。Banette 80、Shuppet 50、Poltchageist 30、Sinistcha 60 一下打倒。Kangaskhan ex 200 一下打倒 Dhelmise。
 - 奖赏卡账：对手主要是单奖；Legacy Energy（61%）让被打倒时你少拿 1 张，一局一次。
 
 **开局与先后攻**
@@ -449,7 +459,7 @@
 - Hydrapple ex 留到最后，或者干脆不打，它在战斗场时伤不到你。
 
 **对手的套路，怎么防**
-- **Tapu Bulu 一击**：Hero's Cape；Handheld Fan 在它攻击后挪走一个能量，它要 4 个能量，下回合打不出来（推断）。
+- **Tapu Bulu 一击**：Hero's Cape；Handheld Fan 在它攻击后挪走一个能量，它要 4 个能量，对手下回合要再补一个才能打（Meganium 在场时一张基本草能量算 2 个草，补起来更容易）（核对卡牌原文，已改正）。
 - **Briar**：只在你剩 2 张奖赏卡时可用，太晶宝可梦击倒时多拿 1 张。打你的 Kangaskhan ex 时会拿 4 张，后期不要让 Kangaskhan 上场。
 
 **关键卡与构筑**
@@ -465,19 +475,21 @@
 ## vs Alakazam Dusknoir（胜率 69.2%，26 局）
 
 **对局性质**
-- Alakazam（MEG 56）的 Powerful Hand 被 Mist 挡住（推断）。Dusknoir 13 个、Dusclops 5 个指示物是特性，挡不住，但每次自爆送你 1 张。
+- Alakazam（MEG 56）的 Powerful Hand 被 Mist 挡住（核对卡牌原文）。Dusknoir 13 个、Dusclops 5 个指示物是特性，挡不住，但每次自爆送你 1 张。
 - Strange Timepiece（×3）能把进化过的超能宝可梦退化回手里，再进化就再抽一次牌，手牌会很大。Budew 锁物品。
 - 你的伤害：Abra 50、Kadabra 80、Duskull 60、Dusclops 90 一下；Alakazam 140、Dusknoir 160 两下。
 
 **开局与先后攻**
 - 战斗场第一时间贴 Mist；Crustle 堆到 190。
+- 手里有 Kangaskhan 时，第一张 Mist 和 Hero's Cape 先给 Kangaskhan（信心 60%，cru-akd-01）：贴了 Mist，Powerful Hand 打不进；再挂 Cape 是 400，三次 Cursed Blast（390）也打不倒。它 200 起的 Rapid-Fire Combo 一下收掉 Alakazam（140）或 Dusknoir（160），Crustle 要两下。被 Budew 锁物品时这两步照样能做：Hero's Cape 是道具，用 Team Rocket's Petrel 拿；Lumiose City 是场地，能找 Kangaskhan（用了会结束回合）。录像：2026 世界赛第 12 轮第 1 局 Matsui 2-0 Johnson，Kangaskhan 贴 Mist、挂 Cape 后还剩 270/400，换下来的 Crustle 只剩 10/170（[4:55:20](https://www.youtube.com/watch?v=qwBID2ApsOY&t=17720s)），Johnson 的两次 Cursed Blast 打不动它。
 
 **奖赏卡路线**
 - 第 3～4 回合：Boss 拉 Duskull 或 Dusclops 打掉，断 Dusknoir；对手每次自爆你也拿 1 张。
 - 第 5 回合起：打战斗场的 Alakazam（两下）或用贴了 Mist 的 Kangaskhan ex 一下。对手剩 3 张以下时用 Special Red Card 削手牌。
+- 对手整副能量很少（世界赛的两份卡表都只有 5 个：4 张 Telepathic Psychic Energy、1 张 Psychic Energy）：先击倒带能量的宝可梦，再用 Boss's Orders 拉出没有能量的 Duskull 困在战斗场。录像：同一场第 2 局，Johnson 两只 Kadabra 和一张 Rare Candy 在奖赏卡里，场上的能量被清空后（[5:03:05](https://www.youtube.com/watch?v=qwBID2ApsOY&t=18185s)），Matsui 拉出没能量的 Duskull，Johnson 认输。
 
 **对手的套路，怎么防**
-- Dusknoir 130 加 Dusclops 50 能打倒 170 的 Crustle，所以堆到 190 并随时回血。Psyduck 能关掉 Cursed Blast（推断）。
+- Dusknoir 130 加 Dusclops 50 能打倒 170 的 Crustle，所以堆到 190 并随时回血（录像：同一场第 1 局，170 的 Crustle 被打到只剩 10）。Psyduck 能关掉 Cursed Blast（核对卡牌原文）。
 
 **关键卡与构筑**
 - 你方 15 局、对手 11 局有卡表，没有 tech 数据。

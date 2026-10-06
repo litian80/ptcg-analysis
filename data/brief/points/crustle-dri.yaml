@@ -1,0 +1,89 @@
+deck: crustle-dri
+general:
+  - text: "Mysterious Rock Inn 只挡 ex 的招式伤害：不挡非 ex 招式、特性放的指示物，也不挡招式放置的指示物；先看对手有哪些非 ex 攻击手"
+  - text: "Mist Energy 挡招式效果（Phantom Dive 后备区指示物、Powerful Hand、昏厥、特殊状态），要攻击的 Crustle 早贴"
+    inferred: true
+  - text: "Crustle HP 150，每张 Growing Grass +20，Hero's Cape +100：对非 ex 攻击手卡组每只 Crustle 都要堆高，整副只有 3 只且无回收"
+  - text: "Mega Kangaskhan ex 被击倒给 3 张，是最大漏洞：开局在战斗场抽牌，对手能打大伤害前换成 Crustle"
+  - text: "Superb Scissors 要 3 个能量，最早自己第 3 回合打；后攻第 1 回合能打支援者，战斗场 Dwebble 可用 Ascension 进化"
+    inferred: true
+matchups:
+  dragapult-ex:
+    - text: "对手主攻全是 ex 打不动 Crustle：先 Boss 掉 Munkidori（唯一稳定伤害），再 Boss Drakloak（检索引擎），最后 3 下打 Dragapult ex"
+    - text: "对手没有 Dudunsparce ex 时，Hero's Cape 挂 Crustle（2 张 Growing Grass 时 290），小伤害打不穿，Jumbo Ice Cream 每回合回 80"
+      judgment: cru-dpx-01
+    - text: "对手带 Dudunsparce ex（Destructive Drill 能打穿 Crustle）时，Hero's Cape 改挂 Mega Kangaskhan ex 当主攻"
+      judgment: cru-dpx-02
+    - text: "后备区的 Crustle 第一个能量贴 Mist 防 Phantom Dive 指示物；Dwebble 在对手打出 Risky Ruins 前铺好，只放 2 只"
+    - text: "Crustle 身上多贴一个能量当余量：Crushing Hammer 拆一个仍能打、仍能吃 Jumbo Ice Cream"
+  n-zoroark:
+    - text: "Zoroark ex 弱草：Superb Scissors 打它 240，两下击倒拿 2 张；对手还有没进化的 Zorua 时先 Boss 它"
+    - text: "第 2 回合结束前把 Kangaskhan ex 换下战斗场：复制的 Rampaging Thunder 加 Mochi、Black Belt 最高 330 一击拿 3 张"
+    - text: "对手 Ruffian 会拆 Mist 和 Hero's Cape：Crustle 多贴一个能量当余量，Cape 晚点贴"
+    - text: "能打 Crustle 的只有 Yveltal、N's Zekrom 等非 ex：Boss Yveltal / Munkidori 一击；别把 Boss 用在 130 的 Zekrom 上（120 打不倒）"
+  dragapult-dusknoir:
+    - text: "Crustle 堆到 190（Growing Grass ×2），Dusknoir 130 + Munkidori 30 打不倒，对手还要再自爆 Dusclops"
+    - text: "每次 Crustle 被打残就回血：Pokémon Center Lady 60、Jumbo Ice Cream 80、剩 30 以下用 Bianca's Devotion，让对手每次自爆都白送 1 张"
+    - text: "先 Boss Munkidori，再 Boss 后备区的 Dusclops / Duskull，别让 Duskull 线安全进化"
+      inferred: true
+    - text: "Jamming Tower 会关掉 Hero's Cape 和 Handheld Fan，别把 Cape 当保命手段，用自己的场地换掉它"
+  basic-box-m:
+    - text: "能打 Crustle 的只有 Enamorus（200）和 Chien-Pao（120）：Hero's Cape 留给对手准备好 Enamorus 时的那只 Crustle（290 挡得住）"
+    - text: "对手大多数 ex 每只两下拿 2 张；Enamorus / Chien-Pao 上来一下打倒，后备区在给 Enamorus 充能就先 Boss 它"
+    - text: "对手战斗场的 Mega Kangaskhan ex 打不动你，可以连打三下拿 3 张"
+    - text: "第 2 回合结束前把自己的 Kangaskhan ex 换下；后备区 Dwebble 尽快进化，否则被 Torrential Pump 120 收掉"
+  slowking-scr:
+    - text: "第 1-2 回合用自己的场地换掉 Academy at Night，Eri 弃对手 Poké Pad / Ultra Ball，让它难安排复制目标"
+    - text: "后备区不放 Kangaskhan ex（Zeraora 210 + Trifrost 110 送 3 张），Dwebble 只放 1-2 只尽快进化（防 Trifrost）"
+    - text: "战斗场的 Crustle 一定贴 Mist，挡 Destined Fight、Law of the Underworld、Drapion 的效果"
+    - text: "Superb Scissors 120 正好打倒 Slowking；对手 Kangaskhan 在战斗场抽牌时连打 3 下拿 3 张，被换下就 Boss 拉回"
+      inferred: true
+    - text: "Metallic Hammer 300 一击 2 张 Growing Grass 加 Hero's Cape 的 Crustle（290）；只有 3 张 Growing Grass 加 Cape（310）撑得住一下，主要还是别让 Metagross 上牌库顶"
+  alakazam-dudunsparce:
+    - text: "对手 Alakazam 上场前战斗场要么是 Crustle，要么是贴 Mist 的 Kangaskhan ex；第一个手贴能量优先给战斗场贴 Mist"
+      inferred: true
+    - text: "Dedenne 是第一个要击倒的目标，在后备区就 Boss 拉出来，不让它反复捡回 Enhanced Hammer"
+      judgment: cru-adu-01
+    - text: "Enhanced Hammer 决定这个对局：每只要攻击的宝可梦留第二张 Mist，或手里留一张下回合补；对手手牌近 20 张时 Kangaskhan 别站前"
+    - text: "Xerosic's Machinations 让对手手牌减到 3 张，Eri 弃 Rare Candy / Enhanced Hammer；对手剩 3 张以下打 Special Red Card"
+    - text: "Boss 拉后备区 Abra / Kadabra 一下打倒，断下一只 Alakazam；战斗场 Alakazam 用贴 Mist 的 Kangaskhan 200 一下"
+  mega-excadrill-ex:
+    - text: "钢属性抗草，Superb Scissors 只打 90，回合数按 90 算"
+      inferred: true
+    - text: "唯一窗口在开局：Boss 拉后备区 Drilbur（弱草 240），连续打掉 2-3 只对手就上不了 Mega Excadrill ex"
+      inferred: true
+    - text: "Kangaskhan ex 攻击时必须挂 Hero's Cape（400），否则 Maximum Drilling 330 一击送 3 张"
+    - text: "Metagross 300 一击任何 Crustle：Metang 进化前或刚进化就 Boss 出来处理"
+    - text: "Undermine 每回合磨 2 张牌库，少用大量抽牌，注意自己牌库剩多少"
+      inferred: true
+  dragapult-blaziken:
+    - text: "Chi-Yu 是唯一能一击 Crustle 的牌：后备区贴了能量就先 Boss 它出来 120 打倒"
+    - text: "自己别主动打场地：场上有场地时 Chi-Yu 打 Crustle 240，没场地只有 120"
+      inferred: true
+    - text: "Chi-Yu 之后依次 Boss Munkidori、Drakloak / Combusken，再 3 下打 2 奖 ex，优先后备区给能量的 Blaziken ex"
+      inferred: true
+    - text: "Combusken 两个正面就是 160：Crustle 保持 190 或回满血"
+  festival-lead:
+    - text: "手里有场地就马上打出覆盖 Festival Grounds，绝不打自己的 Festival Grounds"
+    - text: "Kangaskhan ex 只在开局抽牌，之后别留场上：Brave Bangle + Kieran 两次 Do the Wave 一回合 320 拿 3 张"
+    - text: "战斗场 Crustle 挂 Handheld Fan，Dipplin 只有 1 个能量时第二下打不出；先用 Eri 弃对手的 Tool Scrapper"
+      inferred: true
+    - text: "每回合 120 打倒战斗场的 Festival Lead 宝可梦，Thwackey 也会少找牌；有余力 Boss Thwackey"
+    - text: "Crustle 贴 3 张 Growing Grass 是 210 撑得住不加 Gladion 的两下；用 Eri 看手牌判断 Gladion 在不在"
+  dhelmise-pbl:
+    - text: "Crustle 贴 2 张 Growing Grass（190），Vengeful Anchor 170 打不倒；1 张（170）正好被打倒"
+    - text: "战斗场 Crustle 同时要 2 张 Growing Grass 和 Mist：Matcha Spin 40 + 170 = 210 能打倒 190，Mist 挡住 Matcha Spin"
+    - text: "Dhelmise 打过你后吃 Spiky 20 剩 120，下回合 Superb Scissors 正好打倒，别多打一下"
+    - text: "被打残就用 Jumbo Ice Cream / Pokémon Center Lady 回到 190 以上，对手的 170 永远打不倒"
+  ogerpon-meganium-hydrapple:
+    - text: "Tapu Bulu（220）是唯一威胁：后备区贴能量就 Boss 出来，Wood Hammer 自伤后配合 Spiky 一下打倒"
+    - text: "Hero's Cape 留给对手 Tapu Bulu 准备好时的那只 Crustle（290 挡住 220），别早用"
+    - text: "Tapu Bulu 之后 Boss Meganium（160，两下），对手能量效率减半"
+    - text: "别和 Hydrapple ex 硬拼（每回合回 30，要 4 下），留到最后或不打；后期别让 Kangaskhan 上场防 Briar 拿 4 张"
+  alakazam-dusknoir:
+    - text: "手里有 Kangaskhan 时第一张 Mist 和 Hero's Cape 先给它：400 HP，Powerful Hand 打不进，三次 Cursed Blast 也打不倒"
+      judgment: cru-akd-01
+    - text: "战斗场第一时间贴 Mist；Crustle 堆到 190 并随时回血，Dusknoir 130 + Dusclops 50 打得倒 170"
+    - text: "第 3-4 回合 Boss 拉 Duskull / Dusclops 打掉断 Dusknoir；对手每次自爆你也拿 1 张"
+    - text: "对手只有 5 个能量：先击倒带能量的宝可梦，再 Boss 拉没能量的 Duskull 困在战斗场"
+    - text: "Xerosic、Special Red Card 削手牌别用太晚"

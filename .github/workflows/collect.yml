@@ -49,6 +49,7 @@ jobs:
         run: |
           python -m ptcg.selection
           python -m ptcg.matchups
+          python -m ptcg.brief
 
       - name: Commit
         run: |
@@ -68,5 +69,16 @@ jobs:
             title="Rotation file needs an update"
             if ! gh issue list --state open --search "$title in:title" --json number -q '.[].number' | grep -q .; then
               printf 'Update data/formats/standard_rotations.json:\n\n%s\n' "$out" | gh issue create --title "$title" --body-file -
+            fi
+          fi
+
+      - name: Judgment check
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if ! out=$(python -m ptcg.judgments stale); then
+            title="Playbook judgments need a second look"
+            if ! gh issue list --state open --search "$title in:title" --json number -q '.[].number' | grep -q .; then
+              printf 'The format moved under these judgments (data/judgments/README.md, "跟着格式变"):\n\n%s\n' "$out" | gh issue create --title "$title" --body-file -
             fi
           fi

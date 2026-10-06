@@ -1,0 +1,46 @@
+deck: slowking-scr
+judgments:
+  - id: slk-dpx-01
+    vs: dragapult-ex
+    text: Lillie's Clefairy ex 等到要打 Dragapult ex 的那一回合再放，不提前摆在后备区当 Boss's Orders 的 2 奖靶子
+    confidence: 0.65
+    basis: 推断；录像：NAIC 2026 四强第 3 局（对手是 Dragapult Dusknoir，TEF-CRI），Cawthon 提前放下 Clefairy，被 Boss's Orders 拉出击倒，随后输掉
+    window: TEF-30C
+    depends_on: [Lillie's Clefairy ex, Boss's Orders]
+    where: data/matchups/slowking-scr.md
+  - id: slk-dpx-02
+    vs: dragapult-ex
+    text: 对手用 Budew 锁物品时，战斗场的 Slowpoke 挂 Lucky Helmet，每次 Itchy Pollen 抽 2 张
+    confidence: 0.55
+    weight: 3
+    basis: 卡牌文字；录像：Turin 2026 八强第 2 局（TEF-CRI），Kamerman 这样拿到牌并赢下。数据方向相反：本对局带 Lucky Helmet 的卡表低 4.2 个百分点
+    window: TEF-30C
+    depends_on: [Lucky Helmet, Budew]
+    where: data/matchups/slowking-scr.md
+  - id: slk-dpd-01
+    vs: dragapult-dusknoir
+    text: 只差 1 到 2 张时先数对手下回合最多能拿几张；战斗场的 Mega Kangaskhan ex 加后备区吃过伤害的宝可梦够 6 张，就先把 Kangaskhan 换下战斗场
+    confidence: 0.65
+    weight: 3
+    basis: 推断；录像：Frankfurt 2026 八强 Malaca 和 NAIC 2026 四强第 1 局 Cawthon（TEF-CRI）都是 Kangaskhan 站在战斗场、后备区有吃过伤害的宝可梦时被一回合拿 6 张；换下 Kangaskhan 的打法还没在录像里见过
+    window: TEF-30C
+    depends_on: [Mega Kangaskhan ex, Dusknoir, Munkidori]
+    where: data/matchups/slowking-scr.md
+  - id: slk-fes-01
+    vs: festival-lead
+    text: 对 Festival Lead，对手后备区有 Shaymin、场上没有 Rabsca 时，先花一回合收掉 Shaymin（Prime Catcher 拉出来，或用放指示物的复制招式），下回合再用 Trifrost 清场
+    confidence: 0.6
+    weight: 3
+    basis: 卡牌文字（Flower Curtain 只挡伤害，挡不住指示物）；录像：Melbourne 2026 第 1 天第 6 轮 Kwak 2-1 Palmer（TEF-POR），第 1、3 局都先用指示物收掉 Shaymin，接着 Trifrost 清场赢下
+    window: TEF-30C
+    depends_on: [Shaymin, Kyurem]
+    where: data/matchups/slowking-scr.md
+  - id: slk-mex-01
+    vs: mega-excadrill-ex
+    text: 对 Mega Excadrill ex（对手后备区没有 Shaymin 时），两次攻击拿完 6 张：先用 Trifrost 收 3 只进化前宝可梦（Beldum、Drilbur、Metang），再复制 SSP 100 版 Annihilape 的 Destined Fight，和战斗场的 Mega Excadrill ex 同归于尽
+    confidence: 0.7
+    weight: 3
+    basis: 伤害计算（Beldum、Drilbur 70，Metang 100，Trifrost 110 都是一击）；数据：本对局胜率 64.0%（173 局）；录像：2026 世界赛第 1 天第 4 轮 CAI YI 2-0 Zapata（TEF-PBL），两局都这样拿完 6 张
+    window: TEF-30C
+    depends_on: [Kyurem, Annihilape, Mega Excadrill ex]
+    where: data/matchups/slowking-scr.md

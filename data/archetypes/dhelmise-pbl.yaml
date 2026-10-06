@@ -124,3 +124,16 @@ mistakes:
 inferred:
   - Hide 'n' Sneak 挡住 Phantom Dive 的后备区指示物，按卡牌文字推断。
   - Matcha Spin 的多奖回合按 HP 计算推断。
+
+evidence:
+  - source: video-reviews/frankfurt-2026-day1.md（项目共享文件夹）
+    game: Frankfurt 区域赛（2026-09-26）第 1 天第 6 轮，Launay（Dhelmise）2-0 Gnoli（Slowking）
+    window: TEF-30C
+    confirms:
+      - 后攻第 1 回合用 Explorer's Guidance、Ultra Ball、Prism Tower 凑够 4 只，Vengeful Anchor 170（第 2 局）
+      - Legacy Energy：对手击倒贴着它的 Dhelmise，一张没拿（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=16235s）
+      - Matcha Spin 一回合拿 4 张收尾（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=17190s）
+    adds:
+      - Boss's Orders 拉出对手贴了能量的 Slowpoke（80 HP），Banette 的 Puppet Pull 80 击倒（https://www.youtube.com/watch?v=8TMRgaIe7LQ&t=15590s）
+      - Shaymin 让 Slowking 的 Trifrost 打不到后备区
+    caveat: 一场比赛；Gnoli 的卡表没有 Munkidori，是数据里 Slowking 打这个对局最差的配置。

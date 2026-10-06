@@ -17,8 +17,10 @@ Pokémon TCG 的环境数据、卡组选择分析，以及对局记录/视频分
 | `data/archetypes/` | 主流卡组的打法（展开、攻击手、奖赏卡顺序、关键对局）和每个卡池窗口的份额/胜率/核心卡表，见其中 README |
 | `data/selection/` | 选卡组分析：`selection_<窗口>.json` 是每套卡组对当前环境的期望胜率和全部对位（`python -m ptcg.selection`），`<窗口>.md` 是据此写的推荐 |
 | `data/matchups/` | 逐个对局的打法：`<卡组>.md` 是推荐卡组对每套主流卡组怎么打（奖赏卡路线、对手套路、关键卡）；`tech_<窗口>.json` 是每个对局里带不带某张卡的胜率差（`python -m ptcg.matchups`） |
+| `data/judgments/` | 手册里关键判断的信心、每次复盘和玩家反馈对它们的验证结果（`python -m ptcg.judgments`），见其中 README |
 | `data/gamelogs/` | TCG Live 对局记录：原始日志、`python -m ptcg.gamelog` 生成的逐回合时间线、人工复盘，见其中 README |
 | `video/` | YouTube 对局视频分析（另一条工作线） |
+| `project-files/` | Claude 项目共享文件夹的备份（视频复盘、选卡组报告），见其中 README |
 
 ## 数据来源
 
@@ -34,6 +36,7 @@ Pokémon TCG 的环境数据、卡组选择分析，以及对局记录/视频分
 1. 重新拉取卡牌数据，新系列自动并入，重算各赛季卡池；
 2. 只抓取尚未收录的大赛，并重抓最近 14 天的比赛（Limitless 常在赛后几天补全数据）；
 3. 检查 rotation 文件：出现未登记的 regulation mark，或到了次年 3 月还没有下一赛季条目时，自动开 issue 提醒。
+4. 检查手册里的关键判断：依赖的卡轮换出去了，或卡组带这张卡的比例大变时，开 issue 提醒复查（`python -m ptcg.judgments stale`）。
 
 Rotation 和禁卡每年官方公告一次，需要手工在 `standard_rotations.json` 加一条。
 

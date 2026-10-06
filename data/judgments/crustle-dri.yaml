@@ -1,0 +1,38 @@
+deck: crustle-dri
+judgments:
+  - id: cru-dpx-01
+    vs: dragapult-ex
+    text: 对 Dragapult ex（对手没有 Dudunsparce ex 时），Hero's Cape 挂在 Crustle 上（贴 2 张 Growing Grass 时 290 HP），对手的小伤害打不穿，Jumbo Ice Cream 每回合回 80
+    confidence: 0.7
+    basis: 伤害计算；录像：Indianapolis 2026 八强 Reddy 2-0 Sakadjian（TEF-POR），两局都靠挂 Cape 的 Crustle 撑住。2026-10-05 看完 Prague 决赛后，限定在对手没有 Dudunsparce ex 时
+    window: TEF-30C
+    depends_on: [Hero's Cape, Crustle, Jumbo Ice Cream]
+    where: data/matchups/crustle-dri.md
+  - id: cru-adu-01
+    vs: alakazam-dudunsparce
+    text: 对 Alakazam Dudunsparce，Dedenne 是第一个要击倒的目标，在后备区就用 Boss's Orders 拉出来，不让它反复捡回 Enhanced Hammer
+    confidence: 0.6
+    weight: 3
+    basis: 推断（卡牌文字）；数据：带 Dedenne 的 Alakazam 卡表对 Crustle 56.2%（16 局），不带的 30.0%（20 局）；录像：Indianapolis 2026 决赛第 1 局（TEF-POR），Jones 用 Dedenne 反复捡回 Enhanced Hammer
+    window: TEF-30C
+    depends_on: [Dedenne, Enhanced Hammer, Boss's Orders]
+    where: data/matchups/crustle-dri.md
+  - id: cru-dpx-02
+    vs: dragapult-ex
+    text: 对手的 Dragapult 带 Dudunsparce ex 时，Hero's Cape 改挂 Mega Kangaskhan ex，让它当主攻（Destructive Drill 能打穿 Crustle）
+    confidence: 0.55
+    weight: 2
+    alternative_to: cru-dpx-01
+    basis: 录像（TEF-POR）：Prague 2026 四强 Tresp 对 Mega Starmie Dusknoir（Nebula Beam 同样穿过 Rock Inn），Cape 挂 Kangaskhan 的两局都赢，Cape 在奖赏卡里的一局输；决赛对 Dudunsparce ex 没这样打，0-2。对 Dragapult 的部分是推断
+    window: TEF-30C
+    depends_on: [Hero's Cape, Mega Kangaskhan ex, Dudunsparce ex]
+    where: data/matchups/crustle-dri.md
+  - id: cru-akd-01
+    vs: alakazam-dusknoir
+    text: 对 Alakazam Dusknoir，手里有 Kangaskhan 时，第一张 Mist 和 Hero's Cape 先给 Kangaskhan（400 HP，Powerful Hand 打不进，三次 Cursed Blast 也打不倒）
+    confidence: 0.6
+    weight: 3
+    basis: 伤害计算；录像：2026 世界赛第 12 轮第 1 局 Matsui 2-0 Johnson（TEF-PBL）
+    window: TEF-30C
+    depends_on: [Mega Kangaskhan ex, Mist Energy, Hero's Cape]
+    where: data/matchups/crustle-dri.md

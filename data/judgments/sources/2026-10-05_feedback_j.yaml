@@ -1,0 +1,35 @@
+kind: feedback
+date: 2026-10-05
+ref: feedback/raw/2026-10-05_joe_chat.md（项目共享文件夹）
+reviewer: J
+reviewer_context: 和 T 一起打牌的玩家；读的是中文版复盘和对局手册（Baltimore、Frankfurt 录像得出的部分）
+window: TEF-30C
+observations: []
+claims:
+  - id: c-20261005-j-01
+    type: 复盘盲点
+    text: 复盘里的关键决策不结合当时的场面就看不懂。例子是 Reklev 被 Xerosic's Machinations 弃到 3 张时留下 Unfair Stamp、Boss's Orders、Dragapult ex：只写结果，读者不明白为什么是这三张（J 认为这三张本身是最合理的）
+    deck: dragapult-ex
+    vs: n-zoroark
+    status: 已核对
+    note: 加进 review-checklist.md 第 9 条；dragapult-ex.md 这一段补了"为什么留这三张"（推断）
+  - id: c-20261005-j-02
+    type: 玩家观点
+    text: 手册归纳得对，但高手都知道；读者没耐心读长文，问题在篇幅和读者
+    status: 观点
+    note: 指向"速读版"这种形式，交 T 决定
+  - id: c-20261005-j-03
+    type: 全局观
+    text: 玩家更需要对新环境的预判，而不是对现有环境的解读：同一环境下怎么改卡表针对现有格局，新 format 什么牌好；他认为 Sebastian 和 Drake 的问题已经不在打法上
+    status: 观点
+    note: 方向建议，交 T 决定是否开做
+  - id: c-20261005-j-04
+    type: 全局观
+    text: 理想的工具是推荐卡组后自己模拟对战，人拿结果去打
+    status: 观点
+    note: 方向建议，工作量很大，交 T 决定
+  - id: c-20261005-j-05
+    type: 玩家观点
+    text: Brent（BrentyMon）选卡组不算最好，他的卡组几乎没有特点，没见过出彩的
+    status: 观点
+    note: T 想了解 Brent 等高手怎么选卡组；可以用 Limitless 的选手历史数据核对

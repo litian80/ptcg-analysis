@@ -129,6 +129,194 @@ evidence:
       - 故意把对方 Fezandipiti ex 打到 10 HP 不击倒，拒绝 Flip the Script 并保持落后以便用 Rosa's Encouragement（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=840s）
       - 对方手牌 16 张，Powerful Hand 一击满血 Dragapult ex（https://www.youtube.com/watch?v=KQ-32rHXKM8&t=1051s）
     caveat: 26:50 那次 Boss's Orders 是复盘根据前后画面推断的；这是一局，不代表胜率。
+  - source: video-reviews/brisbane-2026-brentymon-dragapult.md（项目共享文件夹）
+    game: Brisbane 区域赛（2026-09-26）BrentyMon（Dragapult ex，第 3 名）第 10 轮 2-1 胜 Marcus Ibbotson（Alakazam），四强 0-2 负 Edmund Khoo（Dragapult ex 镜像，冠军）
+    window: TEF-30C
+    confirms:
+      - 对 Alakazam：过早打 Risky Ruins 被 Battle Cage 换回，差点被翻盘（https://www.youtube.com/watch?v=KfJk7KymeYI&t=3000s）
+      - 对 Alakazam：找到第二张 Risky Ruins 后一回合拿 2 张收尾（https://www.youtube.com/watch?v=KfJk7KymeYI&t=3170s）
+    adds:
+      - 对 Alakazam 后攻吃亏（选手判断），他第 2 局认输换第 3 局先攻
+      - Risky Ruins 后 Phantom Dive 的指示物按对手进化后的 HP 分配（https://www.youtube.com/watch?v=KfJk7KymeYI&t=4090s）
+      - 镜像：先保住自己能用物品，再想用 Budew 锁对手（https://www.youtube.com/watch?v=KfJk7KymeYI&t=4740s）
+      - 镜像：扣住 Munkidori 和 Darkness 诱对手多放伤害（https://www.youtube.com/watch?v=KfJk7KymeYI&t=5370s）
+      - 镜像：对手只差 1 张时用 Fezandipiti ex 接 Unfair Stamp 翻盘（https://www.youtube.com/watch?v=KfJk7KymeYI&t=5860s）
+    caveat: 区域赛直播是俯拍桌面，没有侧边数据面板；击倒了谁多半根据选手解说推断。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 四强，Hedrick 2-0 Tonisson（Dragapult ex 镜像，双方都带 4 张 Crushing Hammer）
+    window: TEF-PBL
+    confirms:
+      - 镜像：Munkidori 的 Darkness 能量是 Crushing Hammer 的首要目标
+      - Boss's Orders + Phantom Dive 一回合拿 3 张（https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=1770s）
+    adds:
+      - 镜像：Judge 把自己也打乱，第 1 局 Tonisson 打完自己没抽到要的牌
+      - 镜像：被 Mind Bend 混乱时撤到 Budew，不赌硬币
+      - 镜像：Hammer 互拆后，落后方用 Rosa's Encouragement 从弃牌区贴回 2 个能量
+      - 镜像：Phantom Dive 故意不击倒，下回合 Hammer 加 Phantom Dive 一回合拿 3 张（https://www.youtube.com/watch?v=R4d7ll0oz1Q&t=3045s）
+      - 构筑：Hedrick 9 个能量含 3 张 Darkness，解说认为这是 Hammer 互拆的镜像里的差别
+    caveat: 一场两局；拿奖读数和解说对得上，"故意不击倒"的理由是推断的。
+  - source: video-reviews/worlds2026-masters-top-cut.md（项目共享文件夹）
+    game: 2026 世界赛 Masters 八强，Tonisson 2-0 Spry（Basic Box，带 Prime Catcher、Enamorus、Jamming Tower，没有 Hero's Cape 和 Unfair Stamp）
+    window: TEF-PBL
+    confirms:
+      - 对 Basic Box：Wellspring Ogerpon 的 Torrential Pump 一次收掉两只 Drakloak（第 2 局）
+      - 对 Basic Box：对手要连续三次正面才能用 Kangaskhan 一击 Dragapult ex，第 1 局第一次就抛出反面
+    adds:
+      - 对 Basic Box：Moltres 先打 Kangaskhan 110，对手击倒 Moltres 后，同一回合 Rosa's Encouragement + Unfair Stamp + Phantom Dive 击倒 Kangaskhan 拿 3 张（https://www.youtube.com/watch?v=qwBID2ApsOY&t=29681s）
+      - 对 Basic Box：Moltres 打弱火的 Iron Leaves ex 是 220，一击（第 2 局）
+      - 对 Basic Box：Boss's Orders + Special Red Card + Phantom Dive 几回合拿 5 张（https://www.youtube.com/watch?v=qwBID2ApsOY&t=30687s）
+    caveat: 一场两局；第 2 局那 5 张的顺序没有逐回合核对。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛八强，Sakadjian（本卡组，多 2 张 Watchtower，9 个能量）0-2 Reddy（Crustle）
+    window: TEF-POR
+    confirms:
+      - 对 Crustle：ex 打不动 Crustle，只能靠 Crushing Hammer 和 Munkidori；Watchtower 关掉对手 Kangaskhan 的 Run Errand（第 1 局，对手唯一的场地在奖赏卡里）
+    adds:
+      - 对 Crustle：对手把 Hero's Cape 挂在 Crustle 上（290），Jumbo Ice Cream 每回合回 80，打不穿；4 次 Crushing Hammer 都是反面（第 1 局）
+      - 对 Crustle：手里的 Unfair Stamp 被 Eri 弃掉（第 2 局）
+    caveat: 一场两局；时间按解说（https://www.youtube.com/watch?v=rFR1ZVFc5ic）。
+  - source: video-reviews/turin-2026.md（项目共享文件夹）
+    game: Turin 2026 特别赛八强，Vicêncio（本卡组，3 张 Crushing Hammer、Judge、Unfair Stamp、Special Red Card、2 张 Watchtower、Risky Ruins）1-2 Kamerman（Slowking）
+    window: TEF-CRI
+    confirms:
+      - 对 Slowking：Boss's Orders 收掉唯一的 Slowking；Unfair Stamp 加 Watchtower 让对手只能盲翻 Seek Inspiration（第 1 局）
+    adds:
+      - 对 Slowking：对手战斗场的 Slowpoke 挂 Lucky Helmet，Itchy Pollen 每次让对手抽 2 张（第 2 局）
+      - 对 Slowking：后备区少放 Dreepy 挡不住 Trifrost 打战斗场，起手的 Meowth ex 和后备区的 Drakloak、Dreepy 一起吃（第 3 局）
+      - 对 Slowking：唯一的 Slowking 被收掉后，对手的 Lillie's Clefairy ex 自己用 Full Moon Rondo 击倒 Dragapult ex（第 1 局）
+    caveat: 一场三局（https://www.youtube.com/watch?v=WuXEbywON7g&t=10274s）。
+  - source: video-reviews/melbourne-2026.md（项目共享文件夹）
+    game: Melbourne 2026 区域赛决赛，Sasaki 2-0 Murphy（本卡组镜像，双方都带 4 张 Crushing Hammer）
+    window: TEF-POR
+    confirms:
+      - 镜像：Crushing Hammer 先拆 Darkness（第 1 局 Murphy 拆 Fezandipiti ex 的 Darkness）
+      - 镜像：Watchtower 封住对手的 Meowth ex（第 2 局）
+    adds:
+      - 镜像：Fezandipiti ex 的 Cruel Arrow 逐只收后备区的 Dreepy、Drakloak，第 1 局没放下 Dragapult ex 就赢了（https://www.youtube.com/watch?v=QiiKAduK9HE&t=240s）
+      - 镜像：对手有 Dawn 时第 1 回合的 Judge 适得其反，Dawn 不用物品就找齐 Munkidori、Drakloak、Dragapult ex（https://www.youtube.com/watch?v=QiiKAduK9HE&t=990s）
+    caveat: 一场两局，两局都是先攻方赢；奖赏卡数取自解说。
+  - source: video-reviews/melbourne-2026.md（项目共享文件夹）
+    game: Melbourne 2026 区域赛四强，Murphy（本卡组）2-1 Takemasa（Dragapult Dusknoir，2 张 Budew、2 张 Rare Candy、Judge、Unfair Stamp、2 张 Watchtower，没有 Hammer）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult Dusknoir：后备区的 Fezandipiti ex 被 Boss's Orders 拉出来，加 Dusclops 自爆一回合送 3 张（https://www.youtube.com/watch?v=rHifbhgkGpw&t=26250s）
+      - 对 Dragapult Dusknoir：Judge 等对手手牌攒起来再打（第 3 局）；Crushing Hammer 拆对手 Munkidori 的 Darkness（第 3 局）
+    adds:
+      - 对 Dragapult Dusknoir：先攻第 1 回合只放 Dreepy 没放 Budew，被对手 Judge 加 Itchy Pollen 锁住，手里全是物品（https://www.youtube.com/watch?v=rHifbhgkGpw&t=25260s）
+      - 对 Dragapult Dusknoir：我方 Watchtower 封住对手的 Meowth ex（第 3 局，对手赛后说的）
+    caveat: 一场三局；记分牌没有奖赏卡读数，奖赏卡数取自解说。
+  - source: video-reviews/los-angeles-2026.md（项目共享文件夹）
+    game: Los Angeles 2026 区域赛决赛，Hedrick（本卡组）2-0 Pitcher（Dragapult Dudunsparce，2 张 Rare Candy，没有 Hammer）
+    window: TEF-POR
+    confirms:
+      - 镜像：Crushing Hammer 先拆 Munkidori 的 Darkness（第 2 局）
+      - 镜像：Judge 在对手被锁物品时打（https://www.youtube.com/watch?v=m8np08cT-TQ&t=1350s）
+    adds:
+      - 镜像：Risky Ruins 的 20 加 Dragon Headbutt 70 正好击倒 Drakloak（90），第 2 回合就能打（https://www.youtube.com/watch?v=m8np08cT-TQ&t=810s）
+      - 镜像：对手的 Munkidori 能动时，没有击倒目标先用 Jet Headbutt，不用 Phantom Dive 给它送指示物（https://www.youtube.com/watch?v=m8np08cT-TQ&t=1740s）
+    caveat: 一场两局；Hedrick 第 2 局因为出牌太慢被判罚 2 张奖赏卡。
+  - source: video-reviews/los-angeles-2026.md（项目共享文件夹）
+    game: Los Angeles 2026 区域赛四强，Hedrick（本卡组）2-0 Rutledge（Dragapult Dusknoir，3 张 Rare Candy、Neo Upper Energy、1 张 Crispin，没有 Hammer）
+    window: TEF-POR
+    confirms:
+      - 对 Dragapult Dusknoir：先收 Duskull；Budew 挡 Rare Candy，先攻也照锁（第 2 局）
+      - 对 Dragapult Dusknoir：Crushing Hammer 打对手唯一的攻击能量，四次正面里三次拆掉唯一的 Fire
+    adds:
+      - 对 Dragapult Dusknoir：Phantom Dive 故意不击倒，对手的 Fezandipiti ex 抽不了牌、Unfair Stamp 也打不出来（https://www.youtube.com/watch?v=HVAsRXDFn04&t=1110s）
+    caveat: 一场两局；第 1 局对手两只 Duskull 都在奖赏卡里。
+  - source: video-reviews/utrecht-2026.md（项目共享文件夹）
+    game: Utrecht 2026 区域赛决赛，Kunukcu（本卡组）1-2 Posledni（Mega Lopunny Dudunsparce：4 张 Mist Energy、3 张 Battle Cage、4 张 Wally's Compassion、Enriching Energy）
+    window: TEF-POR
+    confirms:
+      - Risky Ruins 留给 Battle Cage：第 2 局在 Ruins 换掉 Cage 的回合一次拿 4 张（https://www.youtube.com/watch?v=lLy0TaVIhvc&t=2700s）
+    adds:
+      - Judge 等对手场上没有 Dunsparce 再打，否则对手进化后用 Run Away Draw 抽回来（第 1 局 https://www.youtube.com/watch?v=lLy0TaVIhvc&t=1080s，第 2 局 https://www.youtube.com/watch?v=lLy0TaVIhvc&t=2370s）
+    caveat: 对手是 Lopunny，手册没有这一节；没有奖赏卡读数，按解说。
+  - source: video-reviews/prague-2026.md（项目共享文件夹）
+    game: Prague 2026 区域赛决赛，Łaszkiewicz（Dragapult Dudunsparce：1 张 Dudunsparce ex、Hero's Cape，没有 Hammer）2-0 Tresp（Crustle）
+    window: TEF-POR
+    confirms:
+      - 对 Crustle：Dudunsparce ex 有用；Kangaskhan 一上前场就收（第 2 局 https://www.youtube.com/watch?v=vXSSxUzwDOE&t=1560s）
+    adds:
+      - Destructive Drill 打穿 Mysterious Rock Inn，有裁判在场、没有异议（https://www.youtube.com/watch?v=vXSSxUzwDOE&t=720s）
+      - 对手贴两张 Spiky Energy 时，Drill 每次反吃 40，最后一次 Drill 双方同时倒下（https://www.youtube.com/watch?v=vXSSxUzwDOE&t=2370s）
+    caveat: 卡表是 Dragapult Dudunsparce，不是手册主线（主线不带 Dudunsparce ex 和 Hero's Cape）。
+  - source: video-reviews/prague-2026.md（项目共享文件夹）
+    game: Prague 2026 区域赛八强，Reklev（Dragapult ex，没有 Hammer 和 Dudunsparce ex）0-2 Tresp（Crustle）
+    window: TEF-POR
+    confirms:
+      - 对 Crustle：只靠 ex 和 Munkidori 打不穿挂 Cape 的 Crustle，第 2 局拿了 4 张也打不穿 330 的 Crustle（https://www.youtube.com/watch?v=5ewTXCpaGpA&t=15390s）
+    caveat: 卡表没有 Crushing Hammer，不是手册主线。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 11 轮，Hedrick（本卡组，后来的世界冠军）2-0 Koyama（Lopunny Dusknoir：4-2-4 的 Duskull 线、2 只 Bronzong，只有 6 个能量）
+    window: TEF-PBL
+    confirms:
+      - Crushing Hammer 对能量少的对手：第 1 局正面拆掉对手的 Telepathic Psychic Energy
+    adds:
+      - 对手的 Bronzong 用 Evolution Jammer 锁进化时，Fezandipiti ex 的 Cruel Arrow 专打后备区的 Duskull、Dusclops（解说说是这局的 MVP，https://www.youtube.com/watch?v=qwBID2ApsOY&t=13740s）
+      - Munkidori 的 Mind Bend 让 Bronzong 混乱，第 2 局它翻到反面打倒了自己，锁解开（https://www.youtube.com/watch?v=qwBID2ApsOY&t=15180s）
+    caveat: Lopunny Dusknoir 不在手册的对手里；一场两局。
+  - source: video-reviews/baltimore-2026-day2-swiss.md（项目共享文件夹）
+    game: Baltimore 2026 区域赛第 2 天第 14 轮，Halliburton 2-0 Melville（本卡组镜像，两人是同样的 60 张，4 张 Crushing Hammer）
+    window: TEF-PBL
+    confirms:
+      - 镜像：Crushing Hammer 先拆 Munkidori 的 Darkness，再 Boss's Orders + Phantom Dive 一次收两只 Drakloak（https://www.youtube.com/watch?v=nLkFmtXdXGE&t=11310s）
+      - 镜像：落后时 Meowth ex 找 Rosa's Encouragement 贴能量，Night Stretcher 拿回 Darkness，接 Unfair Stamp 翻盘（https://www.youtube.com/watch?v=nLkFmtXdXGE&t=11490s）
+    adds:
+      - 镜像：Risky Ruins 的 2 个指示物用 Munkidori 挪到对方 Budew 上，Itchy Pollen 10 击倒，拿 1 张、解开自己的锁、锁住对方（双方各一次，https://www.youtube.com/watch?v=nLkFmtXdXGE&t=10740s）
+    caveat: 一场两局；第 2 局对手卡手投降。
+  - source: video-reviews/baltimore-2026-day2-swiss.md（项目共享文件夹）
+    game: Baltimore 2026 区域赛第 2 天第 13 轮，Potti（本卡组，最终第 3，带 Special Red Card）2-0 Siu（Rocket's Honchkrow：Team Rocket's Articuno、Lucky Helmet）
+    window: TEF-PBL
+    adds:
+      - 对 Rocket's Honchkrow：对手先拿 1 张后马上打 Unfair Stamp（https://www.youtube.com/watch?v=nLkFmtXdXGE&t=6420s）
+      - 对 Rocket's Honchkrow：Team Rocket's Articuno 的 Repelling Veil 只挡招式对基础 Team Rocket's 宝可梦的效果，Phantom Dive 的指示物每回合照样收进化后的 Honchkrow
+      - 对 Rocket's Honchkrow：对手把 Lucky Helmet 挂在战斗场的 Articuno 上，被打时抽 2，抵消 Unfair Stamp
+    caveat: Honchkrow 不在手册的对手里；三张 Crushing Hammer 都是反面也赢了。
+  - source: video-reviews/worlds2026-swiss.md（项目共享文件夹）
+    game: 2026 世界赛第 1 天第 3 轮，Tonisson（本卡组，带 Special Red Card、Judge、Moltres）2-0 Madsen（本卡组镜像，Hammer 版）
+    window: TEF-PBL
+    confirms:
+      - 镜像：Judge 在对手被锁物品时打（两局都是）
+      - 镜像：Meowth ex 开局被迫放下，最后被 Boss's Orders 拉出来，一回合送 3 张（第 1 局）
+    adds:
+      - 镜像：被锁时用 Itchy Pollen 击倒对方的 Budew，先解开自己的锁（https://www.youtube.com/watch?v=iEM8bQbnA90&t=14820s）
+      - 镜像：没有击倒目标时不打 Phantom Dive，改用 Itchy Pollen 拖（https://www.youtube.com/watch?v=iEM8bQbnA90&t=14940s；第 2 局解说也这样讲，https://www.youtube.com/watch?v=iEM8bQbnA90&t=16440s）
+      - 镜像：Mind Bend 60 加两只 Munkidori 的 Adrena-Brain 各 30，收掉对方受了伤的 Dragapult ex（https://www.youtube.com/watch?v=iEM8bQbnA90&t=16860s）
+    caveat: 一场两局；对手两局都选后攻、都输了；比赛数据里没有对手的卡表。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛第 2 天第 12 轮，Hamilton（本卡组，当时 11-0，最终第 5；1 张 Judge，没有 Special Red Card）0-2 Jones（Alakazam Dudunsparce，这一站的冠军：4 张 Nighttime Mine，没有 Battle Cage）
+    window: TEF-POR
+    confirms:
+      - 对 Alakazam Dudunsparce：胜负手是场地；Nighttime Mine 在场时 Phantom Dive 要 3 个能量
+      - 对 Alakazam Dudunsparce：Genesect 挂上道具，Unfair Stamp 打不出来；没带 Special Red Card，只有一张 Judge 能压对手手牌（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=5820s）
+    adds:
+      - 对 Alakazam Dudunsparce：对手 4 张 Nighttime Mine、不带 Battle Cage，2 张 Risky Ruins 换不过来（第 1 局换掉一次，Phantom Dive 拿 2 张，https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=6120s）
+      - 对 Alakazam Dudunsparce：唯一的能量贴在战斗场的 Drakloak 上，被对手第 2 回合 Rare Candy 进化的 Alakazam 收掉（第 1 局）
+    caveat: 一场两局；两局都没用 Budew 锁物品。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛第 2 天第 13 轮，Zheng（本卡组，带 Moltres、Watchtower，1 只 Budew）0-2 Hope（Ogerpon Meganium Hydrapple：Celebi、Briar、Unfair Stamp）
+    window: TEF-POR
+    confirms:
+      - 对 Ogerpon Meganium Hydrapple：Moltres 打弱火的 Teal Mask Ogerpon ex 是 220，一击（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=10440s）
+      - 对 Ogerpon Meganium Hydrapple：我们剩 2 张时对手打 Briar（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=12450s）
+    adds:
+      - 对 Ogerpon Meganium Hydrapple：Meganium 在场时 Hydrapple ex 的 Syrup Storm 打出 390，一击 Dragapult ex；先收 Teal Mask、放过 Meganium 的那一局输了（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=10500s）
+      - 对 Ogerpon Meganium Hydrapple：Celebi 的 Traverse Time 是招式，Budew 锁物品时对手照样找齐进化线（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=11310s）
+      - 对 Ogerpon Meganium Hydrapple：我们击倒一只后，对手马上打 Unfair Stamp（第 1 局）
+    caveat: 一场两局；第 1 局两张 Crushing Hammer 都是反面。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛第 2 天第 11 轮，Aguilar（本卡组，最终第 13）胜 Frink（Kangaskhan Bouffalant：Joltik、Mega Kangaskhan ex、Bloodmoon Ursaluna ex）
+    window: TEF-POR
+    adds:
+      - 对减伤的墙：Bouffalant 的 Curly Wall 只减招式伤害，Phantom Dive 的指示物和 Adrena-Brain 照样放；先收能量来源 Joltik，不碰 3 奖的 Mega Kangaskhan ex，把指示物叠在 Bloodmoon Ursaluna ex 上（https://www.youtube.com/watch?v=6Nl_UgEEXM8&t=2700s）
+    caveat: Kangaskhan Bouffalant 不在手册的对手里；第 2 局后段只粗读了，赛果按比赛数据。
+  - source: video-reviews/indianapolis-2026.md（项目共享文件夹）
+    game: Indianapolis 2026 区域赛第 1 天第 4 轮，Yamaguchi（本卡组，3 张 Crushing Hammer、Moltres）2-1 Tate（Mega Diancie Dusknoir）
+    window: TEF-POR
+    adds:
+      - 对 Mega Diancie Dusknoir：Phantom Dive 先打战斗场能攻击的 Latias；对手的 Garland Ray 加 Powerglass 能连续攻击，Cursed Blast 收 Budew（第 2 局）
+    caveat: 简要记录，只粗读了；手册没有这个对手，比赛数据里没有对手的卡表。
 
 mistakes:
   - 对 Battle Cage 卡组时过早打掉 Risky Ruins，关键回合没有场地可换。
@@ -136,6 +324,7 @@ mistakes:
   - Phantom Dive 的 6 个指示物没有对准下回合能击倒的目标，平均撒开。
   - 主动铺出 Fezandipiti ex / Meowth ex 却没用到特性，白给 2 奖靶子。
   - 对 Crustle、Dhelmise 仍然只用 Dragapult ex 正面打。
+  - 以为手里有 Night Stretcher 就先进化、硬上攻击，结果没有（Brisbane 第 10 轮第 2 局）。
 
 inferred:
   - 第 3 回合起攻的节奏是按进化规则和卡表推的，不是从对局记录统计的。
