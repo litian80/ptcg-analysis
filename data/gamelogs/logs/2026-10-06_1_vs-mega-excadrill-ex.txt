@@ -1,0 +1,277 @@
+Setup
+Lipikapipi chose tails for the opening coin flip.
+Maxevil95 won the coin toss.
+Maxevil95 decided to go second.
+Lipikapipi drew 7 cards for the opening hand.
+- 7 drawn cards.
+Maxevil95 drew 7 cards for the opening hand.
+- 7 drawn cards.
+   • Ultra Ball, Crispin, Torchic, Poké Pad, Drakloak, Lillie's Determination, Buddy-Buddy Poffin
+Lipikapipi played Drilbur to the Active Spot.
+Lipikapipi played Beldum to the Bench.
+Lipikapipi played Genesect ex to the Bench.
+Maxevil95 played Torchic to the Active Spot.
+
+Lipikapipi's Turn
+Lipikapipi drew a card.
+Lipikapipi's Genesect ex used Metallic Signal.
+- Lipikapipi drew 2 cards.
+   • Metang, Metang
+- Lipikapipi shuffled their deck.
+Lipikapipi attached Basic Metal Energy to Drilbur in the Active Spot.
+Lipikapipi played Drilbur to the Bench.
+Lipikapipi ended their turn.
+
+Maxevil95's Turn
+Maxevil95 drew Risky Ruins.
+Maxevil95 played Risky Ruins to the Stadium spot.
+Maxevil95 played Buddy-Buddy Poffin.
+- Maxevil95 drew 2 cards and played them to the Bench.
+   • Dreepy, Dreepy
+- Maxevil95 shuffled their deck.
+Risky Ruins was activated.
+- Maxevil95 put 2 damage counters on Maxevil95's Dreepy.
+- Maxevil95 put 2 damage counters on Maxevil95's Dreepy.
+Maxevil95 played Poké Pad.
+- Maxevil95 drew Budew.
+- Maxevil95 shuffled their deck.
+Maxevil95 played Budew to the Bench.
+Risky Ruins was activated.
+- Maxevil95 put 2 damage counters on Maxevil95's Budew.
+Maxevil95 played Lillie's Determination.
+- Maxevil95 shuffled 3 cards into their deck.
+   • Ultra Ball, Crispin, Drakloak
+- Maxevil95 drew 8 cards.
+   • Lillie's Clefairy ex, Poké Pad, Basic Psychic Energy, Ultra Ball, Meowth ex, Ultra Ball, Dragapult ex, Drakloak
+Maxevil95 played Poké Pad.
+- Maxevil95 drew Dreepy.
+- Maxevil95 shuffled their deck.
+Maxevil95 attached Basic Psychic Energy to Torchic in the Active Spot.
+Maxevil95 played Dreepy to the Bench.
+Risky Ruins was activated.
+- Maxevil95 put 2 damage counters on Maxevil95's Dreepy.
+Maxevil95 retreated Torchic to the Bench.
+- Basic Psychic Energy was discarded from Maxevil95's Torchic.
+Maxevil95's Budew is now in the Active Spot.
+Maxevil95's Budew used Itchy Pollen on Lipikapipi’s Drilbur for 20 damage. Lipikapipi's Drilbur took 10 more damage because of Grass Weakness.
+- Damage breakdown:
+   • Base damage: 10 damage
+   • Weakness to Grass: 10 damage
+   • Total damage: 20 damage
+
+
+Lipikapipi's Turn
+Lipikapipi drew a card.
+Lipikapipi attached Basic Metal Energy to Drilbur in the Active Spot.
+Lipikapipi evolved Beldum to Metang on the Bench.
+Lipikapipi's Genesect ex used Metallic Signal.
+- Lipikapipi drew 2 cards.
+   • Mega Excadrill ex, Metang
+- Lipikapipi shuffled their deck.
+Lipikapipi evolved Drilbur to Mega Excadrill ex in the Active Spot.
+Lipikapipi's Metang used Metal Maker.
+- Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+- Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+- Maxevil95 shuffled their cards.
+Lipikapipi's Mega Excadrill ex used Undermine on Maxevil95’s Budew for 90 damage.
+- Maxevil95 discarded 2 cards.
+   • Ultra Ball, Basic Psychic Energy
+Maxevil95's Budew was Knocked Out!
+Lipikapipi took a Prize card.
+A card was added to Lipikapipi's hand.
+Maxevil95's Torchic is now in the Active Spot.
+
+Maxevil95's Turn
+Maxevil95 drew Munkidori.
+Maxevil95 evolved Dreepy to Drakloak on the Bench.
+Maxevil95 played Meowth ex to the Bench.
+Maxevil95's Meowth ex used Last-Ditch Catch.
+- Maxevil95 drew Lillie's Determination.
+- Maxevil95 shuffled their deck.
+Risky Ruins was activated.
+- Maxevil95 put 2 damage counters on Maxevil95's Meowth ex.
+Maxevil95 played Ultra Ball.
+- Maxevil95 discarded 2 cards.
+   • Lillie's Clefairy ex, Ultra Ball
+- Maxevil95 drew Drakloak.
+- Maxevil95 shuffled their deck.
+Maxevil95 evolved Dreepy to Drakloak on the Bench.
+Maxevil95 played Lillie's Determination.
+- Maxevil95 shuffled 2 cards into their deck.
+   • Dragapult ex, Munkidori
+- Maxevil95 drew 8 cards.
+   • Boss's Orders, Munkidori, Buddy-Buddy Poffin, Torchic, Dragapult ex, Special Red Card, Boss's Orders, Night Stretcher
+Maxevil95's Drakloak used Recon Directive.
+- Maxevil95 drew Boss's Orders.
+Maxevil95's Drakloak used Recon Directive.
+- Maxevil95 drew Combusken.
+Maxevil95 played Torchic to the Bench.
+Risky Ruins was activated.
+- Maxevil95 put 2 damage counters on Maxevil95's Torchic.
+Maxevil95 played Night Stretcher.
+- Maxevil95 moved Maxevil95's Basic Psychic Energy to their hand.
+Maxevil95 attached Basic Psychic Energy to Drakloak on the Bench.
+Maxevil95 ended their turn.
+
+Lipikapipi's Turn
+Lipikapipi drew a card.
+Lipikapipi played Beldum to the Bench.
+Risky Ruins was activated.
+- Lipikapipi put 2 damage counters on Maxevil95's Beldum.
+Lipikapipi played Team Rocket's Transceiver.
+- Lipikapipi drew Team Rocket's Petrel.
+- Lipikapipi shuffled their deck.
+Lipikapipi's Metang used Metal Maker.
+- Lipikapipi attached Basic Metal Energy to Metang on the Bench.
+- Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+- Maxevil95 shuffled their cards.
+Lipikapipi played Boss's Orders.
+- Maxevil95's Drakloak was switched with Maxevil95's Torchic to become the Active Pokémon.
+Maxevil95's Drakloak is now in the Active Spot.
+Lipikapipi's Mega Excadrill ex used Undermine on Maxevil95’s Drakloak for 90 damage.
+- Maxevil95 discarded 2 cards.
+   • Lillie's Determination, Crispin
+Maxevil95's Drakloak was Knocked Out!
+- 2 cards were discarded from Maxevil95's Drakloak.
+   • Basic Psychic Energy, Dreepy
+Lipikapipi took a Prize card.
+A card was added to Lipikapipi's hand.
+Maxevil95's Torchic is now in the Active Spot.
+
+Maxevil95's Turn
+Maxevil95 drew Dragapult ex.
+Maxevil95 evolved Torchic to Combusken on the Bench.
+Maxevil95's Drakloak used Recon Directive.
+- Maxevil95 drew Fezandipiti ex.
+Maxevil95 played Fezandipiti ex to the Bench.
+Maxevil95's Fezandipiti ex used Flip the Script.
+- Maxevil95 drew 3 cards.
+   • Ultra Ball, Crispin, Drakloak
+Maxevil95 evolved Dreepy to Drakloak on the Bench.
+Maxevil95 played Ultra Ball.
+- Maxevil95 discarded 2 cards.
+   • Buddy-Buddy Poffin, Boss's Orders
+- Maxevil95 drew Blaziken ex.
+- Maxevil95 shuffled their deck.
+Maxevil95 played Crispin.
+- Maxevil95 drew Basic Fire Energy.
+- Maxevil95 attached Basic Darkness Energy to Torchic in the Active Spot.
+- Maxevil95 shuffled their deck.
+Maxevil95's Drakloak used Recon Directive.
+- Maxevil95 drew Rare Candy.
+Maxevil95 played Rare Candy.
+- Maxevil95 evolved Torchic to Blaziken ex in the Active Spot.
+Maxevil95 attached Basic Fire Energy to Blaziken ex in the Active Spot.
+Maxevil95's Blaziken ex used Seething Spirit.
+- Maxevil95 attached Basic Psychic Energy to Drakloak on the Bench.
+Maxevil95's Blaziken ex used Smolder-sault on Lipikapipi’s Mega Excadrill ex for 400 damage. Lipikapipi's Mega Excadrill ex took 200 more damage because of Fire Weakness.
+- Damage breakdown:
+   • Base damage: 200 damage
+   • Weakness to Fire: 200 damage
+   • Total damage: 400 damage
+
+Lipikapipi's Mega Excadrill ex was Knocked Out!
+- 6 cards were discarded from Lipikapipi's Mega Excadrill ex.
+   • Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Drilbur
+Maxevil95 took 3 Prize cards.
+Shaymin was added to Maxevil95's hand.
+Basic Fire Energy was added to Maxevil95's hand.
+Basic Fire Energy was added to Maxevil95's hand.
+Lipikapipi's Drilbur is now in the Active Spot.
+
+Lipikapipi's Turn
+Lipikapipi drew a card.
+Lipikapipi evolved Drilbur to Mega Excadrill ex in the Active Spot.
+Lipikapipi evolved Beldum to Metang on the Bench.
+Lipikapipi's Genesect ex used Metallic Signal.
+- Lipikapipi drew Metagross.
+- Lipikapipi shuffled their deck.
+Lipikapipi played Team Rocket's Petrel.
+- Lipikapipi drew Precious Trolley.
+- Lipikapipi shuffled their deck.
+Lipikapipi played Precious Trolley.
+- Lipikapipi drew 2 cards and played them to the Bench.
+   • Beldum, Drilbur
+- Lipikapipi shuffled their deck.
+Risky Ruins was activated.
+- Lipikapipi put 2 damage counters on Maxevil95's Beldum.
+- Lipikapipi put 2 damage counters on Maxevil95's Drilbur.
+Lipikapipi played Energy Recycler.
+- Lipikapipi shuffled 5 cards into their deck.
+   • Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy
+Lipikapipi's Metang used Metal Maker.
+- Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+- Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+- Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+- Maxevil95 shuffled their cards.
+Lipikapipi's Metang used Metal Maker.
+- Maxevil95 shuffled their cards.
+Lipikapipi evolved Metang to Metagross on the Bench.
+Lipikapipi's Mega Excadrill ex used Undermine on Maxevil95’s Blaziken ex for 90 damage.
+- Maxevil95 discarded 2 cards.
+   • Area Zero Underdepths, Dreepy
+
+Maxevil95's Turn
+Maxevil95 drew Unfair Stamp.
+Maxevil95's Drakloak used Recon Directive.
+- Maxevil95 drew Dawn.
+Maxevil95 played Dawn.
+- Maxevil95 drew 2 cards.
+   • Chi-Yu, Drakloak
+- Maxevil95 shuffled their deck.
+Maxevil95's Drakloak used Recon Directive.
+- Maxevil95 drew Munkidori.
+Maxevil95 attached Basic Fire Energy to Drakloak on the Bench.
+Maxevil95 evolved Drakloak to Dragapult ex on the Bench.
+Maxevil95 retreated Blaziken ex to the Bench.
+- 2 cards were discarded from Maxevil95's Blaziken ex.
+   • Basic Darkness Energy, Basic Fire Energy
+Maxevil95's Dragapult ex is now in the Active Spot.
+Maxevil95's Blaziken ex used Seething Spirit.
+- Maxevil95 attached Basic Fire Energy to Blaziken ex on the Bench.
+Maxevil95's Dragapult ex used Phantom Dive on Lipikapipi’s Mega Excadrill ex for 200 damage.
+- Maxevil95 put 6 damage counters on Maxevil95's Beldum.
+Lipikapipi's Beldum was Knocked Out!
+Maxevil95 took a Prize card.
+Blaziken ex was added to Maxevil95's hand.
+
+Lipikapipi's Turn
+Lipikapipi drew a card.
+Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+Lipikapipi's Metang used Metal Maker.
+- Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+- Lipikapipi attached Basic Metal Energy to Mega Excadrill ex in the Active Spot.
+- Maxevil95 shuffled their cards.
+Lipikapipi played Jumbo Ice Cream.
+- Lipikapipi's Mega Excadrill ex healed 80 damage.
+Lipikapipi's Mega Excadrill ex used Maximum Drilling on Maxevil95’s Dragapult ex for 330 damage.
+- Damage breakdown:
+   • Base damage: 200 damage
+   • Damage: 130 damage
+   • Total damage: 330 damage
+
+Maxevil95's Dragapult ex was Knocked Out!
+- 4 cards were discarded from Maxevil95's Dragapult ex.
+   • Basic Psychic Energy, Basic Fire Energy, Drakloak, Dreepy
+Lipikapipi took 2 Prize cards.
+A card was added to Lipikapipi's hand.
+A card was added to Lipikapipi's hand.
+Maxevil95's Blaziken ex is now in the Active Spot.
+
+Maxevil95's Turn
+Maxevil95 drew Buddy-Buddy Poffin.
+Maxevil95 attached Basic Fire Energy to Blaziken ex in the Active Spot.
+Maxevil95's Blaziken ex used Smolder-sault on Lipikapipi’s Mega Excadrill ex for 400 damage. Lipikapipi's Mega Excadrill ex took 200 more damage because of Fire Weakness.
+- Damage breakdown:
+   • Base damage: 200 damage
+   • Weakness to Fire: 200 damage
+   • Total damage: 400 damage
+
+Lipikapipi's Mega Excadrill ex was Knocked Out!
+- 7 cards were discarded from Lipikapipi's Mega Excadrill ex.
+   • Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Basic Metal Energy, Drilbur
+Maxevil95 took 2 Prize cards.
+Night Stretcher was added to Maxevil95's hand.
+Lillie's Determination was added to Maxevil95's hand.
+All Prize cards taken. Maxevil95 wins.
+

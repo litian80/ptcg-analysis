@@ -107,10 +107,22 @@ matchups:
     win_rate: 0.673
     plan: Hide 'n' Sneak 挡住 Phantom Dive 的指示物，但 Blaziken ex 的 200 直接击倒 Dhelmise（140）。
 
+evidence:
+  - source: data/gamelogs/logs/2026-10-06_1_vs-mega-excadrill-ex.txt（TCG Live 对局记录，复盘在项目共享文件夹 2026-10-06_maxevil95.md）
+    game: TCG Live，本卡组后攻 6:4 胜 Mega Excadrill ex（对手带 Genesect ex、Metang/Metagross、Jumbo Ice Cream）
+    window: TEF-30C
+    adds:
+      - 对 Mega Excadrill：Smolder-sault 两次各 400 一击 Mega（每次 3 张，第二次只差 2 张），matchups 里"一击拿 3 张"的说法在实战里成立两次
+      - 对 Mega Excadrill：Smolder-sault 后下回合不能攻击，撤退 Blaziken ex（撤退费 2，弃 2 个能量）后用 Seething Spirit 从弃牌区贴回 1 个火能量，再下一回合手贴 1 个就能再打
+      - 对 Mega Excadrill：后攻第一回合 Budew 换上战斗场，对手第 2 回合 Undermine 只能打 Budew，起手的 Torchic 留到第 3 回合 Rare Candy 进化
+      - Risky Ruins 先于自己铺场打出，自己 6 只基础宝可梦共吃 12 个指示物；对手 Beldum 吃的 2 个让 Phantom Dive 的 6 个指示物刚好收掉它
+    caveat: 一局；对手第 4 回合有 3 个能量却用 Undermine 打 90 而不是 Maximum Drilling 200。
+
 mistakes:
   - Blaziken ex 连续两回合攻击（Smolder-sault 后下回合不能攻击）。
   - 后备区只有一只 Blaziken ex，被 Boss 击倒后能量断档。
   - 对 Crustle 时仍让 ex 正面攻击。
+  - 自己的 Risky Ruins 先打、再铺自己的 Dreepy / Budew / Torchic，每只吃 2 个指示物。
 
 inferred:
   - Blaziken 被当作能量引擎的打法，按卡牌文字和卡表推断。
