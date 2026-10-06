@@ -13,7 +13,7 @@
 这个仓库是公开的，所以下面几样不放在这里：
 
 - 对局手册的副本（共享文件夹的 `deck-selection/matchups/`）：和仓库里的 `data/matchups/` 完全相同，直接看那里。
-- Sebastian 的 TCG Live 对局复盘（`2026-10-05_maxevil95.md`、`2026-10-06_maxevil95.md`，Maxevil95 是他的账号）和反馈机制方案（`feedback/反馈机制方案.md`）：里面有朋友的游戏账号和名字。
+- 玩家 S 的 TCG Live 对局复盘（`2026-10-05_maxevil95.md`、`2026-10-06_maxevil95.md`，Maxevil95 是他的账号）和反馈机制方案（`feedback/反馈机制方案.md`）：里面有朋友的游戏账号和名字。
 - 你上传的截图、项目记忆、项目对话记录：有个人信息。
 
 这些都在项目里的备份压缩包 `backup/ptcg-project-backup-<日期>.zip` 里，压缩包也包含上面这些公开文件，从项目文件里下载。
