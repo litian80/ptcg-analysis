@@ -1,0 +1,23 @@
+{
+  "limitless_id": "580",
+  "date": "2026-10-03",
+  "name": "Regional Recife",
+  "type": "regional",
+  "country": "BR",
+  "players": 1074,
+  "winner": "Victor Carreira Rodrigues",
+  "format_code": "TEF-30C",
+  "format_name": "Temporal Forces - 30th Celebration",
+  "rk9_id": "RE001-a2hqIrDZOyenzQ",
+  "labs_id": "0075",
+  "counts": {
+    "decklists": 195,
+    "standings": 1074,
+    "matches": 4390
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/580",
+    "https://labs.limitlesstcg.com/0075/standings",
+    "https://rk9.gg/pairings/RE001-a2hqIrDZOyenzQ"
+  ]
+}
