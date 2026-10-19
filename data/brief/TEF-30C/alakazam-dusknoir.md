@@ -2,7 +2,7 @@
 
 高上限：对 Day 2 环境期望胜率最高，Frankfurt 冠亚军，但样本只有 Basic Box 的六分之一。适合：练熟了 Stage 2 双进化线的人；夺冠后对手会开始准备它。
 
-份额 1.4%，Day 2 份额 2.0%；胜率 52.0%（871 局），对 Day 2 环境期望 51.0%（平均 47.8%）。完整打法和录像出处见长版手册 alakazam-dusknoir.md（matchups 目录）。要点后的（推断）表示没有卡牌文字或数据直接支撑，（信心 xx%）是这条判断经录像、对局记录和反馈修正后的当前信心。
+份额 1.9%，Day 2 份额 2.2%；胜率 49.9%（1445 局），对 Day 2 环境期望 48.9%（平均 47.9%）。完整打法和录像出处见长版手册 alakazam-dusknoir.md（matchups 目录）。要点后的（推断）表示没有卡牌文字或数据直接支撑，（信心 xx%）是这条判断经录像、对局记录和反馈修正后的当前信心。
 
 ## 通用
 
@@ -14,37 +14,39 @@
 
 ## 对手（按 Day 2 份额）
 
-### Dragapult（Day 2 份额 20.0%，胜率 43.4%，163 局）
+### Dragapult（Day 2 份额 22.4%，胜率 39.6%，275 局）
 
 - Dragapult ex 在战斗场时：Dusknoir Cursed Blast 130 + Powerful Hand 10 张（190）= 320 击倒；Dusknoir 只留给它，别换 Dreepy
 - 第 2 回合优先用 Prime Catcher / Boss 拉后备区的 Drakloak 击倒，它是找 Dragapult ex 的引擎
 - Phantom Dive 6 指示物 + Munkidori 3 个能收 Abra / Duskull / Budew：后备区只放要进化的 Abra 和 Duskull，Abra 尽快进化
 - Risky Ruins 让后备区基础宝可梦掉 2 个指示物，基础宝可梦要在对方打出它之前（通常第 1 回合）摆好
 - Fezandipiti ex 放后备区等对方 Unfair Stamp 后抽 3，但别上战斗场（Cruel Arrow / 200 + Munkidori 一击）（推断）
+- 卡表：带 Flutter Mane 57.9%（19 局）对不带 47.8%（85 局）
 
-### N's Zoroark（Day 2 份额 10.1%，胜率 48.1%，70 局）
+### N's Zoroark（Day 2 份额 8.5%，胜率 48.8%，101 局）
 
 - 第 2 回合 Dusknoir 的 130 收后备区的 N's Zekrom，拆复制来源；资源只够一样时先 Powerful Hand 打 Zorua
 - 对方带 Special Red Card：拿到第 2 张后先停手只打伤，把两只 Zoroark ex 都打进击倒范围，再一回合拿 4 张（信心 60%）
 - 我方全体弱恶、挨一下就倒：每回合优先击倒对方下回合能攻击的那只 Zoroark（Rampaging Thunder 后不能连打）
 - 对方 Judge / Xerosic 打手牌时把 Dusknoir 提前放在场上，Cursed Blast 不需要手牌
 - 别以为 Dusknoir 160 扛得住：中毒 + Binding Mochi 的 Shred 是 220；Fezandipiti ex 别上战斗场
+- 卡表：带 Flutter Mane 54.2%（16 局）对不带 69.6%（34 局）
 
-### Basic Box（Day 2 份额 7.9%，胜率 70.8%，57 局）
+### Basic Box（Day 2 份额 7.9%，胜率 63.7%，113 局）
 
 - 对方几乎全是 2 奖 ex，我方只需 3 次击倒：Powerful Hand 打战斗场 ex（210 要 11 张，170 Meowth ex 要 9 张）
 - 不攻击也能拿 2 张：Dusknoir 130 + Dusclops 50 = 180 直接击倒后备区的 Meowth ex
 - 对方 Mega Kangaskhan ex 在战斗场时 15 张或 Dusknoir + 9 张拿 3 张；凑不够别硬凑，改打 2 奖 ex
 - Fezandipiti ex 别放战斗场被 200 一击；也别打对方 1 奖的 Chien-Pao、Enamorus 浪费回合
 
-### Slowking（Day 2 份额 7.6%，胜率 72.1%，43 局）
+### Slowking（Day 2 份额 7.9%，胜率 72.2%，91 局）
 
 - 第 1 回合就放 Shaymin 到后备区，挡 Trifrost 和 Cruel Arrow 打后备区；Fezandipiti ex 别放后备区（Zeraora 210）
 - Slowking 120 只要 6 张手牌；别用 Dusknoir 打它，白送奖赏卡
 - 对方 Mega Kangaskhan ex 上战斗场 Run Errand 时，15 张或 Dusknoir + 9 张拿 3 张；否则 Boss 拉 Latias ex 拿 2 张
 - Ghostly Blow 的 5 个指示物 Shaymin 挡不住，能收后备区 Abra，Abra 尽快进化
 
-### Dragapult Dusknoir（Day 2 份额 5.6%，胜率 51.4%，61 局）
+### Dragapult Dusknoir（Day 2 份额 4.7%，胜率 54.0%，84 局）
 
 - 对方 Dusknoir 130 + Phantom Dive 60 = 190 收后备区 Alakazam：第二只 Alakazam 在攻击当回合再 Rare Candy 进化
 - 只在 Stamp 之后还接得上时才收对方 Budew（场上已有 Dusclops 或 Dusknoir、Fezandipiti ex 在后备区），否则下回合吃 Unfair Stamp（信心 60%）
@@ -52,7 +54,7 @@
 - 落后、Alakazam 线断时：Prime Catcher 拉对方没能量的 Fez，Teleporter Abra 抵消换位，Shadow Bind 锁住
 - 收尾时算 Cursed Blast 次数：对手剩 3 张最多自爆 2 次；落后时可用自爆拖成同时拿完进入突然死亡
 
-### Festival Lead（Day 2 份额 5.2%，胜率 57.1%，42 局）
+### Festival Lead（Day 2 份额 4.5%，胜率 45.2%，62 局）
 
 - 先清带 Festival Lead 特性的 Dipplin、Goldeen、Seaking 和会进化成 Dipplin 的 Applin，对方一回合只能攻击一次（信心 75%）
 - 每回合用 Cursed Blast 收一只后备区宝可梦再 Powerful Hand 打战斗场：对方后备区 3 只时 Do the Wave 打不倒 Alakazam（推断）
@@ -60,7 +62,14 @@
 - 用 Cursed Blast 前算对方会不会因此降到 3 张，是的话同一回合就能打 Special Red Card
 - 对方 Psyduck 在场时别进化 Dusknoir，先 Boss 拉 Psyduck 用 4 张击倒；对方手牌剩 1 张防 Gladion 两次击倒
 
-### Alakazam Dudunsparce（Day 2 份额 4.0%，胜率 61.9%，42 局）
+### Dragapult Blaziken（Day 2 份额 4.4%，胜率 42.5%，69 局）
+
+- 对方只有 2 只 Torchic：第 2 回合 Powerful Hand 打 Torchic，后备区的用 Boss / Prime Catcher 拉出来
+- 第 3 回合 Dusknoir 单独击倒后备区 Combusken（100）或 Drakloak（90）；Dragapult ex 已在前就 Dusknoir + 10 张
+- 用自爆把对手送进 3 张以内前，先数自己场上有几只 Abra / Budew 能被一次 Phantom Dive 收掉
+- 后攻 Budew 锁物品，对方第 2 回合用不了 Rare Candy，Blaziken ex 上不来（推断）
+
+### Alakazam Dudunsparce（Day 2 份额 4.3%，胜率 56.1%，79 局）
 
 - Battle Cage 在场时 Cursed Blast 只能打战斗场：先击倒 130 以内的战斗场，再 Powerful Hand 打新上来的
 - 战斗场是满血 Alakazam（140）时别直接 Cursed Blast，先 Boss 拉 130 HP 以内的后备区宝可梦上来
@@ -68,21 +77,7 @@
 - 对方 Psyduck 在场时 Cursed Blast 无效，先 Powerful Hand 4 张打掉它；Genesect 带道具时 Boss 是唯一拉人手段
 - Eri 会弃物品、Enhanced Hammer 拆特殊能量：能用的物品早用，留 1 张 Psychic Energy 给关键回合
 
-### Mega Excadrill（Day 2 份额 3.9%，胜率 87.5%，40 局）
-
-- Mega Excadrill ex 在战斗场：Dusknoir 130 + Powerful Hand 11 张 = 350 击倒拿 3 张；两只 Mega 就是 6 张
-- 第 1 回合放 Shaymin 挡 Sonic Ripper 220 打后备区
-- Dusknoir 单独击倒后备区 Metang（100）断能量，打掉一只就够，然后转向 Mega
-- 带 Hero's Cape（440）撑过一回合时，下回合优先补刀同一只，别分散伤害（Jumbo Ice Cream 回 80）
-
-### Dragapult Blaziken（Day 2 份额 3.9%，胜率 46.5%，48 局）
-
-- 对方只有 2 只 Torchic：第 2 回合 Powerful Hand 打 Torchic，后备区的用 Boss / Prime Catcher 拉出来
-- 第 3 回合 Dusknoir 单独击倒后备区 Combusken（100）或 Drakloak（90）；Dragapult ex 已在前就 Dusknoir + 10 张
-- 用自爆把对手送进 3 张以内前，先数自己场上有几只 Abra / Budew 能被一次 Phantom Dive 收掉
-- 后攻 Budew 锁物品，对方第 2 回合用不了 Rare Candy，Blaziken ex 上不来（推断）
-
-### Ogerpon Meganium Hydrapple（Day 2 份额 3.5%，胜率 61.5%，26 局）
+### Ogerpon Meganium Hydrapple（Day 2 份额 3.5%，胜率 60.4%，48 局）
 
 - Meganium 一上场就处理：Dusknoir 130 + Dusclops 50 = 180 不攻击击倒后备区 Meganium，或 Boss + 8 张
 - Fezandipiti ex 起手时第 1 回合用 Dawn / Poffin 铺基础宝可梦，别用 Hilda，否则 Fez 被一击直接输
@@ -90,7 +85,14 @@
 - 我方剩 2 张时记得 Briar：对方 Ogerpon ex 击倒战斗场就拿 2 张
 - Budew 锁不住 Forest of Vitality；Judge / Stamp 打手牌时把 Dusknoir 提前放场上，130 + 10 张够击倒 Hydrapple ex（推断）
 
-### Crustle（Day 2 份额 3.1%，胜率 30.7%，38 局）
+### Mega Excadrill（Day 2 份额 3.4%，胜率 75.1%，63 局）
+
+- Mega Excadrill ex 在战斗场：Dusknoir 130 + Powerful Hand 11 张 = 350 击倒拿 3 张；两只 Mega 就是 6 张
+- 第 1 回合放 Shaymin 挡 Sonic Ripper 220 打后备区
+- Dusknoir 单独击倒后备区 Metang（100）断能量，打掉一只就够，然后转向 Mega
+- 带 Hero's Cape（440）撑过一回合时，下回合优先补刀同一只，别分散伤害（Jumbo Ice Cream 回 80）
+
+### Crustle（Day 2 份额 3.0%，胜率 28.4%，47 局）
 
 - 最现实的路线是两只 Mega Kangaskhan ex：在战斗场 Run Errand 时 Dusknoir 130 + Powerful Hand 9 张击倒拿 3 张（推断）
 - Kangaskhan 贴 Mist 时 Powerful Hand 打不进，再挂 Hero's Cape 是 400，三次 Cursed Blast 也打不倒，别追
@@ -98,11 +100,7 @@
 - Xerosic / Eri 砍手牌：Dusknoir 提前进化好，能用的牌先用掉，Kangaskhan 一上战斗场就 Cursed Blast
 - 对方会先击倒带能量的宝可梦再拉没能量的 Duskull 困住：注意 5 个能量的分布
 
-### Rocket's Honchkrow（胜率 25.0%，20 局）
-
-- 手册里还没有这个对局。
-
-### Dhelmise（Day 2 份额 2.1%，胜率 18.3%，20 局）
+### Dhelmise（Day 2 份额 2.9%，胜率 16.3%，41 局）
 
 - Hide 'n' Sneak 同时挡 Powerful Hand 和 Cursed Blast：只打 Dhelmise 和 2 奖 ex，别对着它们出招
 - Prime Catcher 和 Boss 留给 Dhelmise 和 2 奖 ex；战斗场是 Hide 'n' Sneak 墙时拉后备区 Dhelmise 出来打
@@ -121,4 +119,4 @@
 
 带和不带的胜率差，按对手 Day 2 份额加权；相关不是证明，见简报首页说明。
 
-- **Patrat**（34.0% 的卡表带）：考虑少带或不带，对 Day 2 环境加权胜率差 -7.6 个百分点；差得最多的是对 Basic Box，带 54.5%（11 局）对不带 87.0%（23 局）
+- **Patrat**（26.2% 的卡表带）：考虑少带或不带，对 Day 2 环境加权胜率差 -7.2 个百分点；差得最多的是对 Basic Box，带 54.5%（11 局）对不带 76.1%（39 局）

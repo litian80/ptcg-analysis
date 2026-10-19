@@ -1,0 +1,23 @@
+{
+  "limitless_id": "581",
+  "date": "2026-10-10",
+  "name": "Regional Louisville, KY",
+  "type": "regional",
+  "country": "US",
+  "players": 2927,
+  "winner": "Riley McKay",
+  "format_code": "TEF-30C",
+  "format_name": "Temporal Forces - 30th Celebration",
+  "rk9_id": "LO001-piALjQswPD3x0J",
+  "labs_id": "0076",
+  "counts": {
+    "decklists": 547,
+    "standings": 2927,
+    "matches": 11487
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/581",
+    "https://labs.limitlesstcg.com/0076/standings",
+    "https://rk9.gg/pairings/LO001-piALjQswPD3x0J"
+  ]
+}
