@@ -1,0 +1,23 @@
+{
+  "limitless_id": "582",
+  "date": "2026-10-17",
+  "name": "Regional Nice",
+  "type": "regional",
+  "country": "FR",
+  "players": 2336,
+  "winner": "Luc Gantner",
+  "format_code": "TEF-30C",
+  "format_name": "Temporal Forces - 30th Celebration",
+  "rk9_id": "NC001-2OXFgm7aAOcHKh",
+  "labs_id": "0077",
+  "counts": {
+    "decklists": 429,
+    "standings": 2336,
+    "matches": 9777
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/582",
+    "https://labs.limitlesstcg.com/0077/standings",
+    "https://rk9.gg/pairings/NC001-2OXFgm7aAOcHKh"
+  ]
+}
