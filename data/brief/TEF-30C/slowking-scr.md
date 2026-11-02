@@ -2,7 +2,7 @@
 
 稳妥：两个窗口都约 50%，打 Dragapult 和 Excadrill 有利。适合：熟悉复制招式工具箱的人；怕 Alakazam 系和 Dhelmise。
 
-份额 6.5%，Day 2 份额 7.6%；胜率 49.1%（6666 局），对 Day 2 环境期望 48.5%（平均 47.8%）。完整打法和录像出处见长版手册 slowking-scr.md（matchups 目录）。要点后的（推断）表示没有卡牌文字或数据直接支撑，（信心 xx%）是这条判断经录像、对局记录和反馈修正后的当前信心。
+份额 6.2%，Day 2 份额 7.6%；胜率 49.2%（7555 局），对 Day 2 环境期望 48.4%（平均 47.7%）。完整打法和录像出处见长版手册 slowking-scr.md（matchups 目录）。要点后的（推断）表示没有卡牌文字或数据直接支撑，（信心 xx%）是这条判断经录像、对局记录和反馈修正后的当前信心。
 
 ## 通用
 
@@ -14,26 +14,25 @@
 
 ## 对手（按 Day 2 份额）
 
-### Dragapult（Day 2 份额 23.2%，胜率 53.1%，1343 局）
+### Dragapult（Day 2 份额 23.0%，胜率 52.9%，1528 局）
 
 - 第 2 回合趁对手还是 Dreepy / Drakloak 时 Trifrost 收 3 只，优先 Munkidori（110），别打后备区的 Dragapult ex（Tera 免伤）
 - Lillie's Clefairy ex 等要打 Dragapult ex 那回合再放，Fairy Zone 下 Metallic Hammer 600 一击；提前放会被 Boss 拿 2 张（信心 65%）
 - 没有 Clefairy 时满血 Dragapult ex 吃 Hammer 剩 20：挂 Brave Bangle、先放 Ghostly Blow / Munkidori 指示物，或用 Destined Fight
 - 对手 Risky Ruins 在场时先打 Academy at Night 换掉再铺 Slowpoke，否则 60 指示物一回合收两只（推断）
 - 对手用 Budew 锁物品时战斗场 Slowpoke 挂 Lucky Helmet，每次 Itchy Pollen 抽 2 张（信心 55%）
-- 卡表：带 Mew ex 73.0%（183 局）对不带 62.0%（357 局）
 
-### Basic Box（Day 2 份额 8.4%，胜率 45.5%，501 局）
+### Basic Box（Day 2 份额 8.6%，胜率 45.8%，593 局）
 
 - 战斗场的 ex 用 Metallic Hammer 300 一击，战斗场是满血 Mega Kangaskhan ex 就拿 3 张
 - 后备区非 Tera ex：Trifrost 110 + Thunder Raid 210 两步收；Tera Ogerpon 在后备区打不动，别把 Trifrost 打在它身上
 - 自己的 Mega Kangaskhan ex 别站战斗场：Raging Bolt ex 弃 5 打 350、Kangaskhan 两次正面 300 都一击送 3 张
 - 击倒对手后的回合预期被 Unfair Stamp：Kyurem 和 Academy at Night 别都押在手上；Chien-Pao 会拆 Academy，多备一张
 - 对手铺满 8 格 Area Zero 后再用 Academy at Night 换场地，双方弃到 5 只，对手先弃（推断）
-- 卡表：带 Unown 43.1%（24 局）对不带 61.2%（165 局）
-- 卡表：带 Smoochum 72.2%（36 局）对不带 55.8%（153 局）
+- 卡表：带 Brave Bangle 50.4%（41 局）对不带 61.1%（185 局）
+- 卡表：带 Annihilape 56.3%（164 局）对不带 66.7%（62 局）
 
-### N's Zoroark（Day 2 份额 8.2%，胜率 41.6%，515 局）
+### N's Zoroark（Day 2 份额 8.0%，胜率 42.4%，567 局）
 
 - 强烈建议先攻：抢在 Zorua 进化前 Trifrost 收 Zorua、Tatsugiri、Munkidori（推断）
 - 别只盯 Zoroark ex：后备区的 N's Zekrom / Reshiram（130）用 Trifrost + 补刀清掉，对手就只剩 Scratch 可复制（推断）
@@ -41,92 +40,93 @@
 - Mega Kangaskhan ex 别站战斗场（250 + Mochi + Black Belt 330 一击送 3 张），Watchtower 在场时 Run Errand 也失效
 - 对手 Watchtower 版加 Purrloin、Judge 锁手牌：复制目标别只放手上等 Academy，用 Codebreaking 直接从牌库叠（推断）
 
-### Festival Lead（Day 2 份额 5.1%，胜率 48.7%，251 局）
+### Dragapult Blaziken（Day 2 份额 4.9%，胜率 51.9%，422 局）
+
+- 第 2 回合 Trifrost 优先收 Torchic / Combusken 断 Blaziken ex，再加 Munkidori
+- Blaziken ex 不是 Tera：后备区先吃 Trifrost 110，下回合 Thunder Raid 210 正好 320 收；满血别直接 Thunder Raid
+- 战斗场的 Dragapult ex / Blaziken ex 吃 Hammer 剩 20：Fairy Zone 下 600 一击，否则补 20 或 Destined Fight
+- Chi-Yu 的 Ground Melter 120 击倒 Slowking 并拆 Academy at Night，多备一张
+- 卡表：带 Smoochum 81.6%（29 局）对不带 62.6%（124 局）
+- 卡表：带 Annihilape 69.2%（118 局）对不带 56.2%（35 局）
+
+### Festival Lead（Day 2 份额 4.6%，胜率 49.8%，275 局）
 
 - 每回合用 Academy at Night 盖掉 Festival Grounds，Dipplin 只打一次（100）打不倒 Slowking；对手手牌剩 1 张防 Gladion
 - 对手后备区有 Shaymin、没有 Rabsca 时先花一回合收 Shaymin（Prime Catcher 或放指示物的复制招式），下回合再 Trifrost 清场（信心 60%）
 - Rabsca 在场时指示物也没用，只能 Prime Catcher 拉到战斗场击倒；没有就每回合 Trifrost 打战斗场等它上来（推断）
 - 防护拆掉后 Trifrost 一次 3 张，Thwackey 是引擎优先打
 - Festival Grounds 在场时 Kangaskhan 别站战斗场：Gladion、Kieran 或 Black Belt's Training 加 Brave Bangle 一回合送 3 张
-- 卡表：带 Surfer 70.0%（50 局）对不带 52.5%（61 局）
-- 卡表：带 Pawmot 71.0%（23 局）对不带 57.6%（88 局）
+- 卡表：带 Pawmot 74.4%（26 局）对不带 57.6%（92 局）
+- 卡表：带 Unown 74.2%（22 局）对不带 58.3%（96 局）
 
-### Dragapult Blaziken（Day 2 份额 4.7%，胜率 50.8%，368 局）
-
-- 第 2 回合 Trifrost 优先收 Torchic / Combusken 断 Blaziken ex，再加 Munkidori
-- Blaziken ex 不是 Tera：后备区先吃 Trifrost 110，下回合 Thunder Raid 210 正好 320 收；满血别直接 Thunder Raid
-- 战斗场的 Dragapult ex / Blaziken ex 吃 Hammer 剩 20：Fairy Zone 下 600 一击，否则补 20 或 Destined Fight
-- Chi-Yu 的 Ground Melter 120 击倒 Slowking 并拆 Academy at Night，多备一张
-- 卡表：带 Smoochum 79.7%（23 局）对不带 59.9%（108 局）
-- 卡表：带 Pawmot 51.4%（24 局）对不带 66.0%（107 局）
-
-### Dragapult Dusknoir（Day 2 份额 4.6%，胜率 56.4%，383 局）
+### Dragapult Dusknoir（Day 2 份额 4.4%，胜率 57.1%，436 局）
 
 - 第 2 回合 Trifrost 先打已进化的 Dusclops（下回合能自爆）和 Munkidori，别打 Dragapult ex
 - 后备区不放 Meowth ex、Fezandipiti ex、Lillie's Clefairy ex 过夜：Phantom Dive 60 + Dusknoir 130 = 190 正好收
 - 只差 1-2 张时先数对手下回合最多拿几张；战斗场 Kangaskhan 加后备区吃过伤害的够 6 张，就先把 Kangaskhan 换下（信心 65%）
 - 对手有 Dusknoir 时 Kangaskhan 别站战斗场用 Run Errand：Cursed Blast 130 + Phantom Dive 200 收它拿 3 张
 - 对手有 Budew 时每回合手贴能量优先给下一只 Slowking，Wondrous Patch 被锁就接不上能量（推断）
-- 卡表：带 Budew 84.2%（19 局）对不带 66.7%（115 局）
-- 卡表：带 Zeraora 72.5%（91 局）对不带 62.0%（43 局）
+- 卡表：带 Zeraora 74.6%（101 局）对不带 60.0%（50 局）
+- 卡表：带 Brave Bangle 58.0%（23 局）对不带 71.9%（128 局）
 
-### Alakazam Dudunsparce（Day 2 份额 3.6%，胜率 23.7%，389 局）
-
-- 对手后备区有 Shaymin 时 Trifrost 只打战斗场，改用 Metallic Hammer 逐只击倒战斗场 Alakazam / Dudunsparce
-- 对手放下 Fezandipiti ex（或 Lillie's Clefairy ex）的下个回合就 Thunder Raid 210 收，别让它停一回合
-- 不放 Mega Kangaskhan ex、Latias ex、Meowth ex 上场，它们只是 Powerful Hand 的 2-3 奖目标（推断）
-- Slowpoke 在后备区进化补好能量再换上，别在战斗场没能量就进化，多半攻击前就被 Powerful Hand 收掉
-- Battle Cage 会盖掉 Academy at Night，也挡后备区指示物：手里常备 Academy at Night 把它换回来
-- 卡表：带 Brave Bangle 16.7%（20 局）对不带 36.3%（89 局）
-
-### Ogerpon Meganium Hydrapple（Day 2 份额 3.6%，胜率 32.3%，225 局）
-
-- 先攻第 2 回合 Trifrost 收 Chikorita / Bayleef / Applin，在 Meganium 进化前断进化线（推断）
-- 战斗场 Hydrapple ex 用 Metallic Hammer 300 + Brave Bangle 30 = 330 一击；满血别用 Thunder Raid（210 对 330）
-- Meganium 在战斗场 Hammer 一击，在后备区 Trifrost 110 + Ghostly Blow 5 个指示物两回合收
-- Slowking 只贴 2 个能量，别多贴给 Myriad Leaf Shower 送伤害；Trifrost 别打后备区的 Teal Mask Ogerpon ex（推断）
-- 后备区留一格给 Kangaskhan，摆满会连续几回合打不出攻击（推断）
-- 卡表：带 Lucky Helmet 53.3%（35 局）对不带 36.5%（32 局）
-- 卡表：带 Pawmot 33.3%（16 局）对不带 49.0%（51 局）
-
-### Dhelmise（Day 2 份额 3.4%，胜率 30.7%，280 局）
+### Dhelmise（Day 2 份额 4.1%，胜率 30.2%，337 局）
 
 - 关键算式 Dhelmise 140 = Trifrost 110 + Munkidori 30；在战斗场时 Metallic Hammer 一击
 - 对手后备区有 Shaymin 时先清它：Ghostly Blow 5 个 + Munkidori 3 个指示物 = 80 在后备区收，或 Prime Catcher 拉出来（推断）
 - Ghostly Blow / Munkidori 的指示物只放 Dhelmise，Hide 'n' Sneak 宝可梦上无效；Trifrost 先打 Dhelmise，小怪顺带
 - Patrat 会关掉 Munkidori，Trifrost 第一时间击倒它
 - 击倒贴 Legacy Energy 的宝可梦拿 0 张，记得算进路线；Matcha Spin 会收后备区 Slowpoke，尽早进化成 Slowking
-- 卡表：带 Munkidori 74.7%（29 局）对不带 31.0%（58 局）
-- 卡表：带 Crispin 72.8%（27 局）对不带 33.3%（60 局）
+- 卡表：带 Munkidori 67.7%（33 局）对不带 32.9%（76 局）
+- 卡表：带 Crispin 65.6%（31 局）对不带 34.6%（78 局）
 
-### Mega Excadrill（Day 2 份额 3.0%，胜率 62.7%，318 局）
+### Alakazam Dudunsparce（Day 2 份额 4.0%，胜率 24.6%，448 局）
+
+- 对手后备区有 Shaymin 时 Trifrost 只打战斗场，改用 Metallic Hammer 逐只击倒战斗场 Alakazam / Dudunsparce
+- 对手放下 Fezandipiti ex（或 Lillie's Clefairy ex）的下个回合就 Thunder Raid 210 收，别让它停一回合
+- 不放 Mega Kangaskhan ex、Latias ex、Meowth ex 上场，它们只是 Powerful Hand 的 2-3 奖目标（推断）
+- Slowpoke 在后备区进化补好能量再换上，别在战斗场没能量就进化，多半攻击前就被 Powerful Hand 收掉
+- Battle Cage 会盖掉 Academy at Night，也挡后备区指示物：手里常备 Academy at Night 把它换回来
+- 卡表：带 Brave Bangle 19.2%（26 局）对不带 37.1%（105 局）
+- 卡表：带 Mew ex 44.4%（42 局）对不带 28.5%（89 局）
+
+### Ogerpon Meganium Hydrapple（Day 2 份额 3.7%，胜率 32.0%，251 局）
+
+- 先攻第 2 回合 Trifrost 收 Chikorita / Bayleef / Applin，在 Meganium 进化前断进化线（推断）
+- 战斗场 Hydrapple ex 用 Metallic Hammer 300 + Brave Bangle 30 = 330 一击；满血别用 Thunder Raid（210 对 330）
+- Meganium 在战斗场 Hammer 一击，在后备区 Trifrost 110 + Ghostly Blow 5 个指示物两回合收
+- Slowking 只贴 2 个能量，别多贴给 Myriad Leaf Shower 送伤害；Trifrost 别打后备区的 Teal Mask Ogerpon ex（推断）
+- 后备区留一格给 Kangaskhan，摆满会连续几回合打不出攻击（推断）
+- 卡表：带 Smoochum 31.4%（17 局）对不带 46.2%（57 局）
+- 卡表：带 Annihilape 38.5%（52 局）对不带 53.0%（22 局）
+
+### Mega Excadrill（Day 2 份额 2.9%，胜率 60.5%，365 局）
 
 - 对手后备区没 Shaymin 时：Trifrost 收 Beldum、Drilbur、Metang 3 只，再 Destined Fight 和战斗场 Mega Excadrill ex 同归于尽拿完（信心 70%）
 - 后备区 Mega Skarmory ex（260）吃过 Trifrost 后 Thunder Raid 210 补到 320 拿 3 张；别用 Thunder Raid 打满血 Excadrill
 - Mega Kangaskhan ex 别留战斗场：5 个能量的 Maximum Drilling 330 一击送 3 张
 - Undermine 会弃牌库顶 2 张：下回合目标别用 Codebreaking 提前叠，当回合用 Poké Pad + Academy at Night 放（推断）
-- 卡表：带 Drapion 51.1%（15 局）对不带 74.4%（78 局）
-- 卡表：带 Secret Box 75.1%（63 局）对不带 61.1%（30 局）
+- 卡表：带 Drapion 51.1%（15 局）对不带 73.0%（89 局）
+- 卡表：带 Special Red Card 52.9%（17 局）对不带 73.2%（87 局）
 
-### Crustle（Day 2 份额 3.0%，胜率 68.8%，208 局）
+### Crustle（Day 2 份额 2.6%，胜率 69.0%，217 局）
 
 - Slowking 不是 ex，Crustle 挡不住：两次 Trifrost 收三只 Crustle（110 + 110 超过 170），挂 Cape 的留给 Metallic Hammer
 - Trifrost 后下回合尽快补刀，别给 Jumbo Ice Cream / Pokémon Center Lady 回血的时间（推断）
 - 对手 Kangaskhan 在后备区时 Trifrost 110 + Thunder Raid 210 拿 3 张；在战斗场用 Destined Fight 一换一
 - 别让自己的 Mega Kangaskhan ex、Latias ex 攻击 Crustle（伤害 0），自己的 Kangaskhan 只当抽牌用
-- 卡表：带 Prime Catcher 66.7%（29 局）对不带 80.3%（66 局）
-- 卡表：带 Munkidori 66.7%（27 局）对不带 79.9%（68 局）
+- 卡表：带 Prime Catcher 66.7%（29 局）对不带 79.9%（73 局）
+- 卡表：带 Munkidori 66.7%（27 局）对不带 79.6%（75 局）
 
-### Alakazam Dusknoir（Day 2 份额 2.3%，胜率 24.6%，133 局）
+### Alakazam Dusknoir（Day 2 份额 2.1%，胜率 27.1%，149 局）
 
 - 对手后备区无 Shaymin 时第 2 回合 Trifrost 收 Duskull、Abra、Kadabra；有 Shaymin 就 Metallic Hammer 打战斗场
 - 之后 Metallic Hammer 一击 Alakazam（140）和 Dusknoir（160）；后备区的 Fezandipiti ex 用 Thunder Raid 210 收
 - 后备区别摆 Mega Kangaskhan ex 或 Latias ex，会被 Prime Catcher 拉出来用 Powerful Hand 收
 - 先攻，第 1 回合先把 Kyurem 拿在手上，防 Budew 锁物品（推断）
-- 卡表：带 Surfer 29.6%（18 局）对不带 41.7%（24 局）
+- 卡表：带 Surfer 31.7%（20 局）对不带 46.2%（31 局）
 
 ## 卡表微调
 
 带和不带的胜率差，按对手 Day 2 份额加权；相关不是证明，见简报首页说明。
 
-- **Brave Bangle**（23.4% 的卡表带）：考虑少带或不带，对 Day 2 环境加权胜率差 -6.0 个百分点；差得最多的是对 Dhelmise，带 25.5%（17 局）对不带 50.5%（70 局）
+- **Brave Bangle**（21.9% 的卡表带）：考虑少带或不带，对 Day 2 环境加权胜率差 -6.2 个百分点；差得最多的是对 Dhelmise，带 24.6%（19 局）对不带 47.4%（90 局）

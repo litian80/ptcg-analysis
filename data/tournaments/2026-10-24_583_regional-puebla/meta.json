@@ -1,0 +1,23 @@
+{
+  "limitless_id": "583",
+  "date": "2026-10-24",
+  "name": "Regional Puebla",
+  "type": "regional",
+  "country": "MX",
+  "players": 2234,
+  "winner": "Andrew Hedrick",
+  "format_code": "TEF-30C",
+  "format_name": "Temporal Forces - 30th Celebration",
+  "rk9_id": "PB001-35rH2yUmy8TR3M",
+  "labs_id": "0078",
+  "counts": {
+    "decklists": 369,
+    "standings": 2234,
+    "matches": 9421
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/583",
+    "https://labs.limitlesstcg.com/0078/standings",
+    "https://rk9.gg/pairings/PB001-35rH2yUmy8TR3M"
+  ]
+}

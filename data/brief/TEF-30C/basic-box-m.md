@@ -2,7 +2,7 @@
 
 首选：两个窗口都高于平均，打赢最多的 Dragapult ex，平局最少。适合：想要稳定成绩的人；全是基础宝可梦，上手快。
 
-份额 6.7%，Day 2 份额 8.4%；胜率 50.8%（7162 局），对 Day 2 环境期望 50.0%（平均 47.8%）。完整打法和录像出处见长版手册 basic-box-m.md（matchups 目录）。要点后的（推断）表示没有卡牌文字或数据直接支撑，（信心 xx%）是这条判断经录像、对局记录和反馈修正后的当前信心。
+份额 6.9%，Day 2 份额 8.6%；胜率 50.3%（8483 局），对 Day 2 环境期望 49.6%（平均 47.7%）。完整打法和录像出处见长版手册 basic-box-m.md（matchups 目录）。要点后的（推断）表示没有卡牌文字或数据直接支撑，（信心 xx%）是这条判断经录像、对局记录和反馈修正后的当前信心。
 
 ## 通用
 
@@ -14,127 +14,122 @@
 
 ## 对手（按 Day 2 份额）
 
-### Dragapult（Day 2 份额 23.2%，胜率 52.1%，1503 局）
+### Dragapult（Day 2 份额 23.0%，胜率 52.0%，1767 局）
 
 - 对手 Dragapult ex 上场那回合才放 Lillie's Clefairy ex，Latias ex 打 400 一击；早放会被 Boss + 200 拿 2 张
 - 带 Hero's Cape 时例外：第 1 回合就放 Clefairy 挂 Cape（290），Phantom Dive 200 打不倒，当主攻手（信心 65%）
 - 对手还没 Dragapult ex 时，用 Fezandipiti ex 的 Cruel Arrow（100）每回合收后备区 Dreepy / Drakloak，断进化线
 - 倾向后攻：后攻第 1 回合就能用支援者和攻击，且不会被 Budew 锁物品（信心 55%）
 - 对手 Crushing Hammer ×4 会拆唯一的 Psychic：能量别全堆一只，Clefairy 被 Boss 要备好第二张
-- 卡表：带 Pecharunt 55.7%（91 局）对不带 67.3%（545 局）
+- 卡表：带 Judge 72.0%（207 局）对不带 61.6%（518 局）
 
-### N's Zoroark（Day 2 份额 8.2%，胜率 48.8%，572 局）
+### N's Zoroark（Day 2 份额 8.0%，胜率 49.2%，658 局）
 
 - Zoroark ex 弱草：Iron Leaves ex 从手上放下用 Rapid Vernier 换上挪能，Prism Edge 180×2 一击；别提前用 Ultra Ball 放
 - Latias ex、Iron Crown ex 弱恶，不要站战斗场当攻击手，连 Reshiram 170 都翻倍 340
 - Ogerpon 与 Iron Leaves 轮换击倒两只 Zoroark ex，再 Boss Pecharunt ex / Fezandipiti ex 拿最后 2 张
 - Kangaskhan 是挡箭牌，单发 250 打不倒；但打 Zoroark ex 要一击打死，否则 Powerful Rage 15 个指示物就 300 一击它（推断）
 - 对手 Team Rocket's Watchtower 在场时 Meowth ex 留手，先用 Area Zero 或 Snow Sink 清掉场地（推断）
-- 卡表：带 Pecharunt 72.5%（40 局）对不带 56.5%（222 局）
-- 卡表：带 Paldean Tauros 70.5%（35 局）对不带 57.1%（227 局）
+- 卡表：带 Pecharunt 71.4%（42 局）对不带 56.9%（252 局）
+- 卡表：带 Lillie's Determination 68.1%（47 局）对不带 57.2%（247 局）
 
-### Slowking（Day 2 份额 7.6%，胜率 50.3%，501 局）
+### Slowking（Day 2 份额 7.6%，胜率 49.5%，593 局）
 
 - 对手第 2 回合前战斗场换成 1 奖宝可梦，或场上已有 Latias ex，Kangaskhan 才能零撤退躲开 Metallic Hammer 300（信心 70%）
 - 对手 Mega Kangaskhan ex 在战斗场 Run Errand 时就打：Raging Bolt ex 弃 5 能量 350 一击拿 3 张
 - 对手回合战斗场放 1 奖 Chien-Pao / Enamorus：Destined Fight 会击倒我方战斗场，Kangaskhan 在前就丢 3 张（推断）
 - Slowking（120）用 Chien-Pao 的 Icicle Loop 120 或 Wellspring 后备区 120 收，别用 2 奖 ex 去打它
 - 后备区只放太晶 Ogerpon 和少量 ex：Trifrost 一次打 3 只 110，Zeraora 210 收后备区 210 以下的 ex
-- 卡表：带 Pecharunt 76.9%（36 局）对不带 58.2%（149 局）
-- 卡表：带 Prism Energy 76.3%（38 局）对不带 58.0%（147 局）
+- 卡表：带 Prism Energy 77.5%（40 局）对不带 59.2%（187 局）
+- 卡表：带 Glass Trumpet 58.3%（176 局）对不带 76.5%（51 局）
 
-### Festival Lead（Day 2 份额 5.1%，胜率 48.2%，280 局）
-
-- 对手打出 Festival Grounds 后，从手上放 Chien-Pao 用 Snow Sink 弃掉，Dipplin 只能打一次；别提前用 Ultra Ball 放（推断）
-- 对手后备区 5 只时 Brave Bangle + Kieran 是 320，满血 Kangaskhan 也倒；对手手牌剩 1-2 张防 Gladion 别让它站前
-- 击倒顺序 Thwackey > Dipplin > Rabsca；Rabsca 在场时后备区狙击无效，先 Boss 拉它（推断）
-- 用 Enamorus / Chien-Pao 单奖换单奖，别用 2 奖 ex 去换 80 HP 的 Dipplin
-- 卡表：带 Jamming Tower 80.7%（19 局）对不带 50.0%（112 局）
-- 卡表：带 Lillie's Determination 39.6%（16 局）对不带 56.5%（115 局）
-
-### Dragapult Blaziken（Day 2 份额 4.7%，胜率 49.7%，390 局）
+### Dragapult Blaziken（Day 2 份额 4.9%，胜率 49.6%，476 局）
 
 - Dragapult ex 照常：Clefairy 在场 Latias 400 一击；但 Blaziken ex 是火属性不吃 Fairy Zone，别把 400 打在它身上
 - Torchic（70）/ Combusken（100）在后备区时用 Wellspring 后备区 120 一击，别让它安稳待到 Rare Candy
 - Blaziken ex 上场后用 Chien-Pao 240 + 80 补刀，或 Raging Bolt ex 弃 5 一击；Boss 后备区的 Blaziken 不划算
 - Chi-Yu 会拆 Area Zero，后备区第 6-8 格别放关键宝可梦
-- 卡表：带 Xerosic's Machinations 49.1%（19 局）对不带 66.4%（120 局）
-- 卡表：带 Passimian 54.2%（32 局）对不带 67.0%（107 局）
+- 卡表：带 Xerosic's Machinations 49.2%（21 局）对不带 64.9%（148 局）
+- 卡表：带 Unfair Stamp 69.6%（69 局）对不带 58.3%（100 局）
 
-### Dragapult Dusknoir（Day 2 份额 4.6%，胜率 53.1%，431 局）
+### Festival Lead（Day 2 份额 4.6%，胜率 48.3%，309 局）
+
+- 对手打出 Festival Grounds 后，从手上放 Chien-Pao 用 Snow Sink 弃掉，Dipplin 只能打一次；别提前用 Ultra Ball 放（推断）
+- 对手后备区 5 只时 Brave Bangle + Kieran 是 320，满血 Kangaskhan 也倒；对手手牌剩 1-2 张防 Gladion 别让它站前
+- 击倒顺序 Thwackey > Dipplin > Rabsca；Rabsca 在场时后备区狙击无效，先 Boss 拉它（推断）
+- 用 Enamorus / Chien-Pao 单奖换单奖，别用 2 奖 ex 去换 80 HP 的 Dipplin
+- 卡表：带 Jamming Tower 78.3%（20 局）对不带 50.3%（122 局）
+- 卡表：带 Prime Catcher 63.6%（54 局）对不带 48.5%（88 局）
+
+### Dragapult Dusknoir（Day 2 份额 4.4%，胜率 53.3%，513 局）
 
 - Dusknoir 130 + Phantom Dive 60 正好收后备区 190 的 Clefairy：只在攻击那回合放下，后备区不留 190 以下的 ex（推断）
 - Dragapult ex 上场回合放 Clefairy，Latias 400 拿 2 张；之后 Boss 对手 Meowth ex / Fezandipiti ex
 - Fezandipiti ex 的 Cruel Arrow 收 Duskull / Dusclops / Dreepy / Drakloak，优先打已进化的（Duskull 能被拉回）
 - 领先时用 Boss 打 2 奖目标一口气结束，别一张张拿，否则对手长期落后反复用 Rosa's Encouragement（推断）
 - 不要用 Boss 拉 Dusknoir：它对手回合会自爆，那 1 张本来就会给（推断）
-- 卡表：带 Fighting Energy 61.9%（141 局）对不带 48.7%（26 局）
-- 卡表：带 Crispin 61.6%（145 局）对不带 48.5%（22 局）
+- 卡表：带 Fighting Energy 63.1%（170 局）对不带 52.4%（28 局）
 
-### Alakazam Dudunsparce（Day 2 份额 3.6%，胜率 42.2%，439 局）
+### Dhelmise（Day 2 份额 4.1%，胜率 56.7%，372 局）
+
+- 每回合一击战斗场 Dhelmise（140）：Fezandipiti ex Cruel Arrow 弱恶 200、Latias 200、Iron Leaves 180 都行
+- 有机会就 Boss 对手的 2 奖：Lillie's Clefairy ex（Latias 200 一击 190）、Latias ex、Bloodmoon Ursaluna ex
+- Meowth ex 170 正好被 Vengeful Anchor 一击，找完支援者别留在后备区
+- 对手有 Clefairy 时 Raging Bolt ex 弱超能（340），别站战斗场；Kangaskhan 吃两发才倒，适合当主攻（推断）
+- 卡表：带 Iron Crown ex 68.0%（100 局）对不带 86.1%（36 局）
+- 卡表：带 Enamorus 63.7%（57 局）对不带 79.3%（79 局）
+
+### Alakazam Dudunsparce（Day 2 份额 4.0%，胜率 40.5%，545 局）
 
 - 开局 Iron Crown ex 的 Twin Shotels 一次击倒两只后备区 Abra（50），先断进化线，别打在打不死的 Alakazam 上
 - 手牌干扰靠 Special Red Card：对手 Genesect 挂上道具后 Unfair Stamp 打不出，Special Red Card 不是 ACE SPEC 照样能打（信心 65%）
 - Unfair Stamp 要和击倒在同一回合：先确认 Latias 撤退和攻击手就位再打，Stamp 后 Boss 拉 Kadabra 断抽牌
 - Boss 对手 Fezandipiti ex 拿 2 张，否则我们每击倒一只它就 Flip the Script 抽 3（推断）
 - 对手手牌 10 张以上时别让 2 奖 ex 站战斗场，用 Enamorus / Chien-Pao 单奖换单奖（推断）
-- 卡表：带 Special Red Card 60.6%（82 局）对不带 41.1%（47 局）
-- 卡表：带 Iron Crown ex 62.3%（68 局）对不带 43.7%（61 局）
+- 卡表：带 Special Red Card 57.7%（97 局）对不带 41.0%（61 局）
+- 卡表：带 Judge 41.2%（38 局）对不带 54.4%（120 局）
 
-### Ogerpon Meganium Hydrapple（Day 2 份额 3.6%，胜率 32.3%，266 局）
+### Ogerpon Meganium Hydrapple（Day 2 份额 3.7%，胜率 30.7%，305 局）
 
 - Meganium 先倒：Boss 拉它（160），Latias 200 / Kangaskhan 200 / Iron Leaves 180 一击，对手伤害骤降
 - Hydrapple ex 用 Raging Bolt ex 弃 5 一击，别分两回合打（每回合回 30）；Ogerpon ex 弃 3 一击（推断）
 - 吃对手单奖诱饵前先放好 Fezandipiti ex 或 Kangaskhan，防 Unfair Stamp 把手牌打到 2 张抽不回（推断）
 - 对手 Forest of Vitality 在场时从手上放 Chien-Pao 用 Snow Sink 弃掉，当回合不能放下即进化（推断）
 - Raging Bolt 身上只放 Lightning + Fighting，其他能量放后备区，战斗场能量少，Myriad Leaf Shower 吃不到加成（推断）
-- 卡表：带 Passimian 52.2%（23 局）对不带 33.3%（69 局）
-- 卡表：带 Koraidon ex 25.6%（30 局）对不带 44.1%（62 局）
+- 卡表：带 Jamming Tower 14.6%（16 局）对不带 39.7%（89 局）
+- 卡表：带 Raging Bolt ex 32.9%（84 局）对不带 47.6%（21 局）
 
-### Dhelmise（Day 2 份额 3.4%，胜率 58.5%，277 局）
-
-- 每回合一击战斗场 Dhelmise（140）：Fezandipiti ex Cruel Arrow 弱恶 200、Latias 200、Iron Leaves 180 都行
-- 有机会就 Boss 对手的 2 奖：Lillie's Clefairy ex（Latias 200 一击 190）、Latias ex、Bloodmoon Ursaluna ex
-- Meowth ex 170 正好被 Vengeful Anchor 一击，找完支援者别留在后备区
-- 对手有 Clefairy 时 Raging Bolt ex 弱超能（340），别站战斗场；Kangaskhan 吃两发才倒，适合当主攻（推断）
-- 卡表：带 Jamming Tower 52.9%（17 局）对不带 77.8%（84 局）
-- 卡表：带 Special Red Card 67.6%（75 局）对不带 91.0%（26 局）
-
-### Mega Excadrill（Day 2 份额 3.0%，胜率 54.9%，319 局）
+### Mega Excadrill（Day 2 份额 2.9%，胜率 53.9%，367 局）
 
 - Mega Excadrill ex 用 Raging Bolt ex 弃 5 个基本能量 350 一击拿 3 张；之前用 Glass Trumpet、Teal Dance、Crispin 铺能量
 - Kangaskhan 先别站战斗场：Maximum Drilling 330 一击它送 3 张
 - Wellspring 后备区 120 狙 Drilbur（Excadrill 进化前）或 Metang（之后），断 Metal Maker 能量（推断）
 - Sonic Ripper 220 打后备区：后备区多放太晶 Ogerpon，不放 Latias / Fezandipiti；Clefairy 弱钢别放（推断）
 - Jumbo Ice Cream 回 80 会打断两回合计划，尽量 Raging Bolt 一击；对手 Cape 时 Latias 200 + 弃 4（280）（推断）
-- 卡表：带 Hero's Cape 54.5%（33 局）对不带 69.3%（63 局）
-- 卡表：带 Enamorus 58.7%（46 局）对不带 69.3%（50 局）
+- 卡表：带 Hero's Cape 52.9%（34 局）对不带 69.6%（68 局）
 
-### Crustle（Day 2 份额 3.0%，胜率 41.5%，250 局）
+### Crustle（Day 2 份额 2.6%，胜率 41.2%，260 局）
 
 - ex 招式打不进 Crustle：主线 Boss / Prime Catcher 拉对手 Mega Kangaskhan ex，Raging Bolt ex 弃 5 一击拿 3 张，重复一次赢
 - 对手 Kangaskhan 在战斗场 Run Errand 抽牌时直接打它，不用花 Boss
 - 必须打 Crustle 时只用非 ex：Enamorus 有同属性条件（我方 Ogerpon 或 Kangaskhan 在场）时 200，打不倒挂 Cape 的 270
 - Eri / Xerosic 会弃我们物品，Energy Switch 和 Ultra Ball 当回合用掉；别跟 Crustle 慢慢磨（推断）
-- 卡表：带 Fighting Energy 48.1%（72 局）对不带 81.2%（16 局）
-- 卡表：带 Lillie's Determination 68.4%（19 局）对不带 50.2%（69 局）
+- 卡表：带 Fighting Energy 48.9%（75 局）对不带 81.2%（16 局）
+- 卡表：带 Enamorus 65.0%（41 局）对不带 46.0%（50 局）
 
-### Alakazam Dusknoir（Day 2 份额 2.3%，胜率 33.5%，155 局）
+### Alakazam Dusknoir（Day 2 份额 2.1%，胜率 32.6%，183 局）
 
 - 后备区只放 Ogerpon 和要用的攻击手，3 只以上 ex 会被 Dusknoir 130 + Powerful Hand 一回合收两只
 - Fezandipiti ex Cruel Arrow 打战斗场 Alakazam / Dusknoir / Dusclops 都弱恶 200 一击；Enamorus 200 只给 1 张
 - Wellspring 后备区 120 先收 Kadabra / Dusclops，击倒 Dusclops 它就不会再放 5 个指示物（推断）
 - 我方被 Cursed Blast 或 Powerful Hand 击倒后的回合打 Unfair Stamp；Dusknoir 自爆不算，不能用（推断）
 - 不要 Boss 马上要自爆的 Dusknoir / Dusclops；对手手牌多时别让 2 奖 ex 站战斗场
-- 卡表：带 Iron Crown ex 39.0%（35 局）对不带 58.7%（25 局）
-- 卡表：带 Koraidon ex 57.9%（19 局）对不带 42.3%（41 局）
+- 卡表：带 Iron Crown ex 38.6%（44 局）对不带 58.7%（25 局）
+- 卡表：带 Passimian 31.5%（18 局）对不带 51.0%（51 局）
 
 ## 卡表微调
 
 带和不带的胜率差，按对手 Day 2 份额加权；相关不是证明，见简报首页说明。
 
-- **N's Plan**（15.0% 的卡表带）：带上或多带，对 Day 2 环境加权胜率差 +7.5 个百分点；差得最多的是对 Crustle，带 76.9%（13 局）对不带 50.2%（75 局）
-- **Paldean Tauros**（14.2% 的卡表带）：带上或多带，对 Day 2 环境加权胜率差 +5.8 个百分点；差得最多的是对 N's Zoroark，带 70.5%（35 局）对不带 57.1%（227 局）
-- **Water Energy**（84.9% 的卡表带）：考虑少带或不带，对 Day 2 环境加权胜率差 -6.2 个百分点；差得最多的是对 Crustle，带 50.2%（75 局）对不带 76.9%（13 局）
-- **Crispin**（85.5% 的卡表带）：考虑少带或不带，对 Day 2 环境加权胜率差 -6.3 个百分点；差得最多的是对 Crustle，带 50.9%（76 局）对不带 75.0%（12 局）
-- **Fighting Energy**（84.1% 的卡表带）：考虑少带或不带，对 Day 2 环境加权胜率差 -8.4 个百分点；差得最多的是对 Crustle，带 48.1%（72 局）对不带 81.2%（16 局）
+- **N's Plan**（13.5% 的卡表带）：带上或多带，对 Day 2 环境加权胜率差 +8.4 个百分点；差得最多的是对 Crustle，带 76.9%（13 局）对不带 50.9%（78 局）
+- **Fighting Energy**（85.3% 的卡表带）：考虑少带或不带，对 Day 2 环境加权胜率差 -8.7 个百分点；差得最多的是对 Crustle，带 48.9%（75 局）对不带 81.2%（16 局）
