@@ -3146,7 +3146,7 @@ Earthen Seal Stone,Trainer,Item|Pokémon Tool,F,960361cf5d0f,SIT 154
 Earthen Vessel,Trainer,Item|Ancient,G,63d54559a74a,PAR 163; SFA 96; PRE 106
 Egg Incubator,Trainer,Item,F,695e3c34825b,PGO 66; PGO 87
 Electric Generator,Trainer,Item,G,46315569d5a0,SVI 170; PAF 79
-Emcee's Hype,Trainer,Supporter,I,16c148cf8e07,DRI 163; DRI 220
+Emcee's Hype,Trainer,Supporter,IJ,16c148cf8e07,DRI 163; DRI 220; DLR 92; DLR 128
 Emergency Jelly,Trainer,Item|Pokémon Tool,F,e891ba4f0779,SIT 155
 Energy Coin,Trainer,Item,I,2d0f170d96b6,BLK 81
 Energy Loto,Trainer,Item,F,283d8226744e,ASR 140
@@ -3296,7 +3296,7 @@ Poké Ball,Trainer,Item,DFGJ,c14217c41051,RCL 164; CPA 59; CRZ 137; SVI 185; POR
 Poké Vital A,Trainer,Item|ACE SPEC,H,887511699660,SFA 62
 PokéStop,Trainer,Stadium,F,71d32b923762,PGO 68
 Pokégear 3.0,Trainer,Item,DGI,f96a702397ec,SSH 174; SVI 186; BLK 84
-Pokémon Catcher,Trainer,Item,DFGJ,6e02182c874a,SSH 175; CRZ 138; SVI 187; POR 82
+Pokémon Catcher,Trainer,Item,DFGJ,6e02182c874a,SSH 175; CRZ 138; SVI 187; POR 82; DLR 129
 Pokémon Center Lady,Trainer,Supporter,DI,d2a0a7956cad,SSH 176; CPA 60; VIV 185; MEG 123
 Pokémon League Headquarters,Trainer,Stadium,G,4dfeb11a31f9,OBF 192
 Poppy,Trainer,Supporter,G,60cef249c050,OBF 193; OBF 220; OBF 227

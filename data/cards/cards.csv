@@ -8172,3 +8172,144 @@ me55c-50,me55c,30C,50,Raikou,Pokémon,Basic,D,110,Lightning,,Amazing Rare,a40aac
 me55c-114,me55c,30C,114,Mew VMAX,Pokémon,VMAX,E,310,Psychic,Mew V,Holo Rare VMAX,08de6c30170b
 me55c-123,me55c,30C,123,Arceus VSTAR,Pokémon,VSTAR,F,280,Colorless,Arceus V,Holo Rare VSTAR,2520785bac26
 me55c-203,me55c,30C,203,Magikarp,Pokémon,Basic,G,30,Water,,Illustration Rare,82babfb5549f
+me6-1,me6,DLR,1,Heracross,Pokémon,Basic,J,130,Grass,,Common,356d5314bde6
+me6-2,me6,DLR,2,Surskit,Pokémon,Basic,J,50,Grass,,Common,308e45fe8283
+me6-3,me6,DLR,3,Masquerain,Pokémon,Stage 1,J,110,Grass,Surskit,Common,c14aa9647476
+me6-4,me6,DLR,4,Cacnea,Pokémon,Basic,J,70,Grass,,Common,1f3d4899c137
+me6-5,me6,DLR,5,Cacturne,Pokémon,Stage 1,J,130,Grass,Cacnea,Rare,9184aa1f1c99
+me6-6,me6,DLR,6,Combee,Pokémon,Basic,J,50,Grass,,Common,cfd7261061a1
+me6-7,me6,DLR,7,Vespiquen,Pokémon,Stage 1,J,120,Grass,Combee,Common,c11aeedee987
+me6-8,me6,DLR,8,Shaymin,Pokémon,Basic,J,80,Grass,,Uncommon,ba2a6ed81eaa
+me6-9,me6,DLR,9,Virizion,Pokémon,Basic,J,120,Grass,,Uncommon,8b5ec182ce8e
+me6-10,me6,DLR,10,Wimpod,Pokémon,Basic,J,70,Grass,,Common,c5f5e6de04c2
+me6-11,me6,DLR,11,Mega Golisopod ex,Pokémon,Stage 1|MEGA|ex,J,340,Grass,Wimpod,Double Rare,fbb939387fcf
+me6-12,me6,DLR,12,Sprigatito,Pokémon,Basic,J,70,Grass,,Common,7d8625bdf269
+me6-13,me6,DLR,13,Floragato,Pokémon,Stage 1,J,90,Grass,Sprigatito,Uncommon,5ca4bbc93433
+me6-14,me6,DLR,14,Meowscarada ex,Pokémon,Stage 2|ex,J,320,Grass,Floragato,Double Rare,4e4d441a200c
+me6-15,me6,DLR,15,Smoliv,Pokémon,Basic,J,60,Grass,,Common,7cff862d9828
+me6-16,me6,DLR,16,Dolliv,Pokémon,Stage 1,J,90,Grass,Smoliv,Common,91b57484f711
+me6-17,me6,DLR,17,Arboliva,Pokémon,Stage 2,J,150,Grass,Dolliv,Uncommon,242fea8997fc
+me6-18,me6,DLR,18,Growlithe,Pokémon,Basic,J,80,Fire,,Common,b1c92a4997ca
+me6-19,me6,DLR,19,Arcanine,Pokémon,Stage 1,J,150,Fire,Growlithe,Rare,37218d037982
+me6-20,me6,DLR,20,Magmar,Pokémon,Basic,J,90,Fire,,Uncommon,abe029a6402e
+me6-21,me6,DLR,21,Magmortar,Pokémon,Stage 1,J,140,Fire,Magmar,Rare,a749b43fe7e8
+me6-22,me6,DLR,22,Torkoal,Pokémon,Basic,J,130,Fire,,Common,b44df5d462a8
+me6-23,me6,DLR,23,Heat Rotom ex,Pokémon,Basic|ex,J,190,Fire,,Double Rare,3bb2c7d6ffee
+me6-24,me6,DLR,24,Heatmor,Pokémon,Basic,J,110,Fire,,Common,374b85e6db71
+me6-25,me6,DLR,25,Mantine,Pokémon,Basic,J,110,Water,,Common,f7dfd2691f1b
+me6-26,me6,DLR,26,Kyogre,Pokémon,Basic,J,150,Water,,Rare,677d661e70d3
+me6-27,me6,DLR,27,Frillish,Pokémon,Basic,J,80,Water,,Common,5409d3e40172
+me6-28,me6,DLR,28,Jellicent,Pokémon,Stage 1,J,120,Water,Frillish,Uncommon,f98ba6e7f424
+me6-29,me6,DLR,29,Wishiwashi ex,Pokémon,Basic|ex,J,260,Water,,Double Rare,f677f2553058
+me6-30,me6,DLR,30,Electabuzz,Pokémon,Basic,J,90,Lightning,,Common,0599f6793339
+me6-31,me6,DLR,31,Electivire,Pokémon,Stage 1,J,140,Lightning,Electabuzz,Uncommon,8a4cbf3017a0
+me6-32,me6,DLR,32,Jolteon,Pokémon,Stage 1,J,110,Lightning,Eevee,Uncommon,4b049bf86d13
+me6-33,me6,DLR,33,Raikou ex,Pokémon,Basic|ex,J,200,Lightning,,Double Rare,13326b6e080a
+me6-34,me6,DLR,34,Rotom,Pokémon,Basic,J,80,Lightning,,Common,9b3acee3f22a
+me6-35,me6,DLR,35,Thundurus,Pokémon,Basic,J,120,Lightning,,Uncommon,5e77669d8410
+me6-36,me6,DLR,36,Pincurchin,Pokémon,Basic,J,80,Lightning,,Common,71ebed6cc6dc
+me6-37,me6,DLR,37,Pawmi,Pokémon,Basic,J,60,Lightning,,Common,dacb92ee43c1
+me6-38,me6,DLR,38,Pawmo,Pokémon,Stage 1,J,90,Lightning,Pawmi,Common,e4146db75b8d
+me6-39,me6,DLR,39,Pawmot,Pokémon,Stage 2,J,150,Lightning,Pawmo,Uncommon,4942194f73ad
+me6-40,me6,DLR,40,Wattrel,Pokémon,Basic,J,60,Lightning,,Common,ac233887fe5e
+me6-41,me6,DLR,41,Kilowattrel,Pokémon,Stage 1,J,120,Lightning,Wattrel,Uncommon,9f6ae158e8d5
+me6-42,me6,DLR,42,Miraidon,Pokémon,Basic,J,120,Lightning,,Uncommon,9700e3ba36ff
+me6-43,me6,DLR,43,Drowzee,Pokémon,Basic,J,80,Psychic,,Common,c9d950519c2f
+me6-44,me6,DLR,44,Hypno,Pokémon,Stage 1,J,120,Psychic,Drowzee,Common,2fef1de053c3
+me6-45,me6,DLR,45,Giratina,Pokémon,Basic,J,130,Psychic,,Rare,61727c358089
+me6-46,me6,DLR,46,Golett,Pokémon,Basic,J,90,Psychic,,Common,4f26039143a7
+me6-47,me6,DLR,47,Mega Golurk ex,Pokémon,Stage 1|MEGA|ex,J,350,Psychic,Golett,Double Rare,84a38e3a6898
+me6-48,me6,DLR,48,Enamorus,Pokémon,Basic,J,120,Psychic,,Uncommon,2a1c31229723
+me6-49,me6,DLR,49,Sandshrew,Pokémon,Basic,J,60,Fighting,,Common,be65eae55d19
+me6-50,me6,DLR,50,Sandslash,Pokémon,Stage 1,J,110,Fighting,Sandshrew,Common,1b21aa7632db
+me6-51,me6,DLR,51,Onix,Pokémon,Basic,J,120,Fighting,,Common,5424e2f451e6
+me6-52,me6,DLR,52,Steelix,Pokémon,Stage 1,J,190,Fighting,Onix,Rare,b567311bb399
+me6-53,me6,DLR,53,Groudon,Pokémon,Basic,J,150,Fighting,,Rare,3c2bfa579a0e
+me6-54,me6,DLR,54,Landorus,Pokémon,Basic,J,130,Fighting,,Uncommon,019c5ab71978
+me6-55,me6,DLR,55,Nidoran♀,Pokémon,Basic,J,60,Darkness,,Common,fa7ebb43bfdf
+me6-56,me6,DLR,56,Nidorina,Pokémon,Stage 1,J,90,Darkness,Nidoran♀,Common,87698d9f38d4
+me6-57,me6,DLR,57,Nidoqueen,Pokémon,Stage 2,J,170,Darkness,Nidorina,Rare,1176cb943cd3
+me6-58,me6,DLR,58,Spinarak,Pokémon,Basic,J,60,Darkness,,Common,3da0b2666da2
+me6-59,me6,DLR,59,Ariados,Pokémon,Stage 1,J,100,Darkness,Spinarak,Common,2ff7a22ad2a6
+me6-60,me6,DLR,60,Sableye,Pokémon,Basic,J,80,Darkness,,Common,82f7f805a85d
+me6-61,me6,DLR,61,Carvanha,Pokémon,Basic,J,70,Darkness,,Common,63f690051a75
+me6-62,me6,DLR,62,Sharpedo,Pokémon,Stage 1,J,120,Darkness,Carvanha,Common,9288f4ef871b
+me6-63,me6,DLR,63,Darkrai,Pokémon,Basic,J,120,Darkness,,Uncommon,a548f1478fe1
+me6-64,me6,DLR,64,Purrloin,Pokémon,Basic,J,60,Darkness,,Common,581e152627a2
+me6-65,me6,DLR,65,Liepard,Pokémon,Stage 1,J,110,Darkness,Purrloin,Common,dbfa54fc2fe9
+me6-66,me6,DLR,66,Zorua,Pokémon,Basic,J,70,Darkness,,Common,95759176047b
+me6-67,me6,DLR,67,Zoroark ex,Pokémon,Stage 1|ex,J,270,Darkness,Zorua,Double Rare,ff17e1d141e6
+me6-68,me6,DLR,68,Inkay,Pokémon,Basic,J,60,Darkness,,Common,184dcb982d0b
+me6-69,me6,DLR,69,Mega Malamar ex,Pokémon,Stage 1|MEGA|ex,J,320,Darkness,Inkay,Double Rare,71b625bcae70
+me6-70,me6,DLR,70,Morpeko,Pokémon,Basic,J,80,Darkness,,Uncommon,70ca7be981f3
+me6-71,me6,DLR,71,Zarude,Pokémon,Basic,J,130,Darkness,,Uncommon,109a58fe2d7a
+me6-72,me6,DLR,72,Druddigon,Pokémon,Basic,J,120,Dragon,,Uncommon,49fb75ebef56
+me6-73,me6,DLR,73,Jangmo-o,Pokémon,Basic,J,70,Dragon,,Common,5ed5fec708ea
+me6-74,me6,DLR,74,Hakamo-o,Pokémon,Stage 1,J,100,Dragon,Jangmo-o,Common,8c624e6185a4
+me6-75,me6,DLR,75,Kommo-o,Pokémon,Stage 2,J,160,Dragon,Hakamo-o,Rare,b98852ca86ae
+me6-76,me6,DLR,76,Cyclizar,Pokémon,Basic,J,120,Dragon,,Common,dda252ff4c7d
+me6-77,me6,DLR,77,Tauros,Pokémon,Basic,J,130,Colorless,,Common,b99a27f88c5b
+me6-78,me6,DLR,78,Eevee,Pokémon,Basic,J,70,Colorless,,Common,95a8d1605918
+me6-79,me6,DLR,79,Delibird,Pokémon,Basic,J,90,Colorless,,Uncommon,3734aeb55ee3
+me6-80,me6,DLR,80,Azurill,Pokémon,Basic,J,30,Colorless,,Common,687298648ed5
+me6-81,me6,DLR,81,Swablu,Pokémon,Basic,J,50,Colorless,,Common,0f7a3be9df27
+me6-82,me6,DLR,82,Altaria,Pokémon,Stage 1,J,110,Colorless,Swablu,Rare,bec776499937
+me6-83,me6,DLR,83,Kecleon,Pokémon,Basic,J,90,Colorless,,Common,8e6889d5985e
+me6-84,me6,DLR,84,Mega Rayquaza ex,Pokémon,Basic|MEGA|ex,J,280,Colorless,,Double Rare,e3c4588c225c
+me6-85,me6,DLR,85,Tornadus,Pokémon,Basic,J,110,Colorless,,Uncommon,fc8bb2c7a7b5
+me6-86,me6,DLR,86,Fletchling,Pokémon,Basic,J,60,Colorless,,Common,2dd6424d815a
+me6-87,me6,DLR,87,Fletchinder,Pokémon,Stage 1,J,80,Colorless,Fletchling,Common,f6b5aad39a19
+me6-88,me6,DLR,88,Talonflame ex,Pokémon,Stage 2|ex,J,280,Colorless,Fletchinder,Double Rare,0060bb78f7f7
+me6-89,me6,DLR,89,Aarune,Trainer,Supporter,J,,,,Uncommon,1de8bf1cd68c
+me6-90,me6,DLR,90,Adventure Lantern,Trainer,Pokémon Tool,J,,,,Uncommon,811079c8c67a
+me6-91,me6,DLR,91,Custom Vest,Trainer,Pokémon Tool,J,,,,Uncommon,8e4c8a42a3ec
+me6-92,me6,DLR,92,Emcee's Hype,Trainer,Supporter,J,,,,Common,16c148cf8e07
+me6-93,me6,DLR,93,Grisham,Trainer,Supporter,J,,,,Uncommon,22e9e4fb860c
+me6-94,me6,DLR,94,Legendary Pyroduct,Trainer,Stadium,J,,,,Uncommon,52c0f98b0d64
+me6-95,me6,DLR,95,Legendary Pyroduct,Trainer,Stadium,J,,,,Uncommon,52c0f98b0d64
+me6-96,me6,DLR,96,Legendary Summit,Trainer,Stadium,J,,,,Uncommon,541710676aec
+me6-97,me6,DLR,97,Legendary Summit,Trainer,Stadium,J,,,,Uncommon,541710676aec
+me6-98,me6,DLR,98,Legendary Trench,Trainer,Stadium,J,,,,Uncommon,297f7e6b158f
+me6-99,me6,DLR,99,Legendary Trench,Trainer,Stadium,J,,,,Uncommon,297f7e6b158f
+me6-100,me6,DLR,100,Mega Rayquaza Cap,Trainer,MEGA|Pokémon Tool,J,,,,Uncommon,ad292b870680
+me6-101,me6,DLR,101,Tasty Rice Ball,Trainer,Item,J,,,,Common,3119f488664f
+me6-102,me6,DLR,102,Tate & Liza's Training,Trainer,Supporter,J,,,,Uncommon,a228490ff996
+me6-103,me6,DLR,103,Zinnia's Trust,Trainer,Supporter,J,,,,Uncommon,3218b806fac8
+me6-104,me6,DLR,104,Masquerain,Pokémon,Stage 1,J,110,Grass,Surskit,Illustration Rare,c14aa9647476
+me6-105,me6,DLR,105,Sprigatito,Pokémon,Basic,J,70,Grass,,Illustration Rare,7d8625bdf269
+me6-106,me6,DLR,106,Growlithe,Pokémon,Basic,J,80,Fire,,Illustration Rare,b1c92a4997ca
+me6-107,me6,DLR,107,Magmortar,Pokémon,Stage 1,J,140,Fire,Magmar,Illustration Rare,a749b43fe7e8
+me6-108,me6,DLR,108,Electivire,Pokémon,Stage 1,J,140,Lightning,Electabuzz,Illustration Rare,8a4cbf3017a0
+me6-109,me6,DLR,109,Pincurchin,Pokémon,Basic,J,80,Lightning,,Illustration Rare,71ebed6cc6dc
+me6-110,me6,DLR,110,Enamorus,Pokémon,Basic,J,120,Psychic,,Illustration Rare,2a1c31229723
+me6-111,me6,DLR,111,Groudon,Pokémon,Basic,J,150,Fighting,,Illustration Rare,3c2bfa579a0e
+me6-112,me6,DLR,112,Zorua,Pokémon,Basic,J,70,Darkness,,Illustration Rare,95759176047b
+me6-113,me6,DLR,113,Inkay,Pokémon,Basic,J,60,Darkness,,Illustration Rare,184dcb982d0b
+me6-114,me6,DLR,114,Eevee,Pokémon,Basic,J,70,Colorless,,Illustration Rare,95a8d1605918
+me6-115,me6,DLR,115,Azurill,Pokémon,Basic,J,30,Colorless,,Illustration Rare,687298648ed5
+me6-116,me6,DLR,116,Altaria,Pokémon,Stage 1,J,110,Colorless,Swablu,Illustration Rare,bec776499937
+me6-117,me6,DLR,117,Kecleon,Pokémon,Basic,J,90,Colorless,,Illustration Rare,8e6889d5985e
+me6-118,me6,DLR,118,Mega Golisopod ex,Pokémon,Stage 1|MEGA|ex,J,340,Grass,Wimpod,Ultra Rare,fbb939387fcf
+me6-119,me6,DLR,119,Heat Rotom ex,Pokémon,Basic|ex,J,190,Fire,,Ultra Rare,3bb2c7d6ffee
+me6-120,me6,DLR,120,Wishiwashi ex,Pokémon,Basic|ex,J,260,Water,,Ultra Rare,f677f2553058
+me6-121,me6,DLR,121,Raikou ex,Pokémon,Basic|ex,J,200,Lightning,,Ultra Rare,13326b6e080a
+me6-122,me6,DLR,122,Mega Golurk ex,Pokémon,Stage 1|MEGA|ex,J,350,Psychic,Golett,Ultra Rare,84a38e3a6898
+me6-123,me6,DLR,123,Mega Malamar ex,Pokémon,Stage 1|MEGA|ex,J,320,Darkness,Inkay,Ultra Rare,71b625bcae70
+me6-124,me6,DLR,124,Talonflame ex,Pokémon,Stage 2|ex,J,280,Colorless,Fletchinder,Ultra Rare,0060bb78f7f7
+me6-125,me6,DLR,125,Aarune,Trainer,Supporter,J,,,,Ultra Rare,1de8bf1cd68c
+me6-126,me6,DLR,126,Adventure Lantern,Trainer,Pokémon Tool,J,,,,Ultra Rare,811079c8c67a
+me6-127,me6,DLR,127,Custom Vest,Trainer,Pokémon Tool,J,,,,Ultra Rare,8e4c8a42a3ec
+me6-128,me6,DLR,128,Emcee's Hype,Trainer,Supporter,J,,,,Ultra Rare,16c148cf8e07
+me6-129,me6,DLR,129,Pokémon Catcher,Trainer,Item,J,,,,Ultra Rare,6e02182c874a
+me6-130,me6,DLR,130,Tate & Liza's Training,Trainer,Supporter,J,,,,Ultra Rare,a228490ff996
+me6-131,me6,DLR,131,Zinnia's Trust,Trainer,Supporter,J,,,,Ultra Rare,3218b806fac8
+me6-132,me6,DLR,132,Bubbly Water Energy,Energy,,J,,,,Ultra Rare,b17c0c8df0cb
+me6-133,me6,DLR,133,Growing Grass Energy,Energy,,J,,,,Ultra Rare,1c669158e2f1
+me6-134,me6,DLR,134,Nitro Fire Energy,Energy,,J,,,,Ultra Rare,c72c413d7a30
+me6-135,me6,DLR,135,Mega Golisopod ex,Pokémon,Stage 1|MEGA|ex,J,340,Grass,Wimpod,Special Illustration Rare,fbb939387fcf
+me6-136,me6,DLR,136,Raikou ex,Pokémon,Basic|ex,J,200,Lightning,,Special Illustration Rare,13326b6e080a
+me6-137,me6,DLR,137,Mega Golurk ex,Pokémon,Stage 1|MEGA|ex,J,350,Psychic,Golett,Special Illustration Rare,84a38e3a6898
+me6-138,me6,DLR,138,Mega Rayquaza ex,Pokémon,Basic|MEGA|ex,J,280,Colorless,,Special Illustration Rare,e3c4588c225c
+me6-139,me6,DLR,139,Aarune,Trainer,Supporter,J,,,,Special Illustration Rare,1de8bf1cd68c
+me6-140,me6,DLR,140,Zinnia's Trust,Trainer,Supporter,J,,,,Special Illustration Rare,3218b806fac8
+me6-141,me6,DLR,141,Mega Rayquaza ex,Pokémon,Basic|MEGA|ex,J,280,Colorless,,Mega Hyper Rare,e3c4588c225c

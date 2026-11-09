@@ -1,4 +1,5 @@
 AZ's Tranquility
+Aarune
 Abomasnow
 Abra
 Absol
@@ -6,6 +7,7 @@ Academy at Night
 Accelgor
 Accompanying Flute
 Acerola's Mischief
+Adventure Lantern
 Adversity Policy
 Aegislash
 Aggron
@@ -46,6 +48,7 @@ Antique Skull Fossil
 Appletun
 Applin
 Arbok
+Arboliva
 Arboliva ex
 Arcanine
 Archaludon
@@ -75,6 +78,7 @@ Axew
 Azelf
 Azumarill
 Azumarill ex
+Azurill
 Babiri Berry
 Backtrack Badge
 Bagon
@@ -147,6 +151,8 @@ Bulbasaur
 Buneary
 Bunnelby
 Butterfree
+Cacnea
+Cacturne
 Call Bell
 Camerupt
 Canari
@@ -208,6 +214,7 @@ Cobalion ex
 Cofagrigus
 Colbur Berry
 Colress's Tenacity
+Combee
 Combusken
 Comfey
 Community Center
@@ -240,6 +247,7 @@ Cryogonal
 Cubchoo
 Cubone
 Cufant
+Custom Vest
 Cutiefly
 Cyclizar
 Cyclizar ex
@@ -257,6 +265,7 @@ Dachsbun ex
 Dangerous Laser
 Dark Bell
 Darkness Energy
+Darkrai
 Darkrai ex
 Darmanitan
 Dartrix
@@ -449,6 +458,7 @@ Gholdengo
 Gigalith
 Gimmighoul
 Girafarig
+Giratina
 Glaceon
 Glaceon ex
 Gladion's Final Battle
@@ -492,6 +502,7 @@ Greedent
 Greninja ex
 Grimmsnarl
 Grimsley's Move
+Grisham
 Grookey
 Grotle
 Groudon
@@ -516,6 +527,7 @@ Haxorus
 Hearthflame Mask Ogerpon
 Hearthflame Mask Ogerpon ex
 Heat Rotom
+Heat Rotom ex
 Heatmor
 Heatran
 Heavy Baton
@@ -602,12 +614,14 @@ Jamming Tower
 Jangmo-o
 Janine's Secret Art
 Jasmine's Gaze
+Jellicent
 Jellicent ex
 Jet Energy
 Jett
 Jigglypuff
 Jirachi
 Jirachi ex
+Jolteon
 Jolteon ex
 Joltik
 Judge
@@ -672,6 +686,9 @@ Lechonk
 Ledian
 Ledyba
 Legacy Energy
+Legendary Pyroduct
+Legendary Summit
+Legendary Trench
 Levincia
 Lickilicky
 Lickitung
@@ -751,6 +768,7 @@ Marnie's Scraggy
 Marowak
 Marshadow
 Maschiff
+Masquerain
 Master Ball
 Maushold
 Mawile
@@ -782,6 +800,8 @@ Mega Froslass ex
 Mega Gallade ex
 Mega Gardevoir ex
 Mega Gengar ex
+Mega Golisopod ex
+Mega Golurk ex
 Mega Greninja ex
 Mega Hawlucha ex
 Mega Heracross ex
@@ -789,10 +809,13 @@ Mega Kangaskhan ex
 Mega Latias ex
 Mega Lopunny ex
 Mega Lucario ex
+Mega Malamar ex
 Mega Manectric ex
 Mega Mawile ex
 Mega Meganium ex
 Mega Pyroar ex
+Mega Rayquaza Cap
+Mega Rayquaza ex
 Mega Scrafty ex
 Mega Sharpedo ex
 Mega Signal
@@ -810,6 +833,7 @@ Meloetta
 Meloetta ex
 Meltan
 Meowscarada
+Meowscarada ex
 Meowstic
 Meowth
 Meowth ex
@@ -888,7 +912,9 @@ Naveen
 Neo Upper Energy
 Neutralization Zone
 Nickit
+Nidoqueen
 Nidoran ♀
+Nidoran♀
 Nidorina
 Night Stretcher
 Nighttime Mine
@@ -961,6 +987,7 @@ Pikachu
 Pikachu ex
 Pikipek
 Piloswine
+Pincurchin
 Pineco
 Pinsir
 Piplup
@@ -1011,6 +1038,7 @@ Raging Bolt ex
 Raichu
 Raifort
 Raikou
+Raikou ex
 Ralts
 Rampardos ex
 Rapidash
@@ -1194,6 +1222,7 @@ Sunkern
 Super Potion
 Surfer
 Surfing Beach
+Surskit
 Survival Brace
 Swablu
 Swadloon
@@ -1210,6 +1239,7 @@ TM Machine
 Tadbulb
 Taillow
 Talonflame
+Talonflame ex
 Tandemaus
 Tangela
 Tangrowth
@@ -1218,6 +1248,8 @@ Tapu Koko
 Tapu Koko ex
 Tapu Lele
 Tarragon
+Tasty Rice Ball
+Tate & Liza's Training
 Tatsugiri
 Tatsugiri ex
 Tauros
@@ -1360,6 +1392,7 @@ Varoom
 Veluza
 Veluza ex
 Venipede
+Vespiquen
 Vibrava
 Victini
 Vigoroth
@@ -1400,6 +1433,7 @@ Wiglett
 Wimpod
 Wingull
 Wishiwashi
+Wishiwashi ex
 Wo-Chien
 Wondrous Patch
 Woobat
@@ -1427,7 +1461,9 @@ Zekrom
 Zekrom ex
 Zeraora
 Zigzagoon
+Zinnia's Trust
 Zoroark
+Zoroark ex
 Zorua
 Zubat
 Zweilous

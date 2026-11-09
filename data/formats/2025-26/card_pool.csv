@@ -9,11 +9,13 @@ Basic Psychic Energy,Energy,Basic,,8cd4985796e4,SVE 5; SVE 13; MEW 207
 Basic Water Energy,Energy,Basic,,992d4a4a5516,SVE 3; SVE 11; PAL 279
 Boomerang Energy,Energy,Special,H,a460bb20048d,TWM 166
 Bubbly Water Energy,Energy,Special,J,ab22981dabe1,CRI 84
+Bubbly Water Energy,Energy,,J,b17c0c8df0cb,DLR 132
 Darkness Energy,Energy,Basic,,5f423a90eef3,EVS 236; CRZ 158
 Enriching Energy,Energy,Special|ACE SPEC,H,d356091fa2d8,SSP 191
 Fighting Energy,Energy,Basic,,eed3e9ff921a,CRE 233; CRZ 157
 Fire Energy,Energy,Basic,,7a66f517388a,FST 284; CRZ 153
 Grass Energy,Energy,Basic,,0c6c0a16b0d9,FST 283; CRZ 152
+Growing Grass Energy,Energy,,J,1c669158e2f1,DLR 133
 Growing Grass Energy,Energy,Special,J,c7cbac5bd331,POR 86
 Ignition Energy,Energy,Special,I,07fa2785c004,WHT 86; PFL 124
 Jet Energy,Energy,Special,GH,2746b87b0c12,PAL 190; SSP 252
@@ -26,6 +28,7 @@ Metal Energy,Energy,Basic,,96da06e6e09e,EVS 237; CRZ 159
 Mist Energy,Energy,Special,H,30fccf4203aa,TEF 161
 Neo Upper Energy,Energy,Special|ACE SPEC,H,e1969811dde8,TEF 162
 Nitro Fire Energy,Energy,Special,J,494b1adad607,CRI 86
+Nitro Fire Energy,Energy,,J,c72c413d7a30,DLR 134
 Prism Energy,Energy,Special,I,c2725899aa38,BLK 86; ASC 216
 Psychic Energy,Energy,Basic,,0947073f97b7,CRE 232; CRZ 156
 Reversal Energy,Energy,Special,G,779176a64f51,PAL 192; PAR 266
@@ -74,6 +77,7 @@ Alolan Meowth,Pokémon,Basic,J,697ea5a40399,30C 89; 30C 139
 Alomomola,Pokémon,Basic,I,a0277a07e3d1,BLK 24; BLK 108
 Alomomola,Pokémon,Basic,G,dce133aee0c0,SVI 48
 Altaria,Pokémon,Stage 1,H,bd1d413d1496,SSP 134
+Altaria,Pokémon,Stage 1,J,bec776499937,DLR 82; DLR 116
 Altaria,Pokémon,Stage 1,G,ca7daff50167,OBF 160
 Altaria ex,Pokémon,Stage 1|ex,G,fd8da53aab9f,PAR 140; PAR 232; PAR 253
 Amaura,Pokémon,Stage 1,J,3a6b307b76a2,POR 23
@@ -99,9 +103,11 @@ Applin,Pokémon,Basic,I,ba339568f62a,DRI 16
 Applin,Pokémon,Basic,H,e1c4897d231e,TWM 126; TWM 185
 Arbok,Pokémon,Stage 1,H,4683d656c7e6,TEF 101; TEF 176
 Arbok ex,Pokémon,Stage 1|ex,G,6cc3f874215b,MEW 24; MEW 185
+Arboliva,Pokémon,Stage 2,J,242fea8997fc,DLR 17
 Arboliva,Pokémon,Stage 2,G,695afebde1f7,OBF 21
 Arboliva,Pokémon,Stage 2,G,fd753f39520c,SVI 23; PAF 104
 Arboliva ex,Pokémon,Stage 2|ex,I,8c7ddc603446,DRI 23; DRI 207
+Arcanine,Pokémon,Stage 1,J,37218d037982,DLR 19
 Arcanine,Pokémon,Stage 1,G,6fcc9790fbc5,SVP 11
 Arcanine,Pokémon,Stage 1,G,b51beb56547a,MEW 59
 Arcanine,Pokémon,Stage 1,I,b83992cbd538,DRI 28
@@ -113,6 +119,7 @@ Archen,Pokémon,Stage 1,I,22888e0353d1,WHT 50; WHT 131
 Archeops,Pokémon,Stage 2,I,93f08a40effb,WHT 51; WHT 132
 Arctibax,Pokémon,Stage 1,G,b02a73cb38df,SVP 64; PAL 59; PAL 209; PAF 129
 Ariados,Pokémon,Stage 1,J,05f138b19ecb,POR 2
+Ariados,Pokémon,Stage 1,J,2ff7a22ad2a6,DLR 59
 Ariados,Pokémon,Stage 1,H,4e0ed0790dc7,TWM 5
 Armarouge,Pokémon,Stage 1,G,3f6017ea8359,SVI 41; SVI 203; PAF 15; PAF 115
 Armarouge,Pokémon,Stage 1,J,a2bba21e8fe8,PBL 12; PBL 86
@@ -147,6 +154,7 @@ Azumarill,Pokémon,Stage 1,H,5469330486fd,SSP 74
 Azumarill,Pokémon,Stage 1,H,68f482581a6e,SCR 34
 Azumarill,Pokémon,Stage 1,G,df7fc9a9c53e,PAL 45
 Azumarill ex,Pokémon,Stage 1|ex,J,2f3aac223fe7,ASC 84
+Azurill,Pokémon,Basic,J,687298648ed5,DLR 80; DLR 115
 Bagon,Pokémon,Basic,I,c75755a9a818,JTG 112
 Baltoy,Pokémon,Basic,G,020f7639c672,OBF 94
 Baltoy,Pokémon,Basic,J,9e09ede60074,CRI 46
@@ -259,7 +267,9 @@ Bunnelby,Pokémon,Basic,G,6c585d095fba,OBF 175
 Butterfree,Pokémon,Stage 2,I,2f47da7fc3ab,JTG 3
 Butterfree,Pokémon,Stage 2,G,b0c2c3691085,MEW 12
 Cacnea,Pokémon,Basic,G,1e4fb515de6f,SVI 5
+Cacnea,Pokémon,Basic,J,1f3d4899c137,DLR 4
 Cacturne,Pokémon,Stage 1,G,6498be80f855,SVI 6
+Cacturne,Pokémon,Stage 1,J,9184aa1f1c99,DLR 5
 Camerupt,Pokémon,Stage 1,G,12cc46a2dcef,PAF 12
 Camerupt,Pokémon,Stage 1,I,7851755eef5f,ASC 28
 Camerupt,Pokémon,Stage 1,G,e024a6626862,OBF 32
@@ -275,6 +285,7 @@ Carnivine,Pokémon,Basic,J,2d5b925e6e22,CRI 4
 Carnivine,Pokémon,Basic,H,d70aab881435,SCR 7
 Carracosta,Pokémon,Stage 2,H,6bdd5de37ce4,SCR 38
 Carracosta,Pokémon,Stage 2,I,ed6999ed4a28,BLK 23; BLK 107
+Carvanha,Pokémon,Basic,J,63f690051a75,DLR 61
 Carvanha,Pokémon,Basic,H,b93322a456cf,TEF 42
 Carvanha,Pokémon,Basic,G,e9eb73577b07,SVP 93; OBF 46
 Carvanha,Pokémon,Basic,I,ee03902234c8,PFL 60
@@ -393,6 +404,7 @@ Cofagrigus,Pokémon,Stage 1,H,d70f28a63ee0,SSP 83
 Cofagrigus ex,Pokémon,Stage 1|ex,G,3a9cad3f6662,PAR 76; PAR 224
 Combee,Pokémon,Basic,G,66e86bc44265,PAL 8
 Combee,Pokémon,Basic,G,c66148a79f1d,OBF 8
+Combee,Pokémon,Basic,J,cfd7261061a1,DLR 6
 Combusken,Pokémon,Stage 1,I,6bf6027f7af6,DRI 41
 Combusken,Pokémon,Stage 1,H,8a703abc17d8,JTG 23
 Comfey,Pokémon,Basic,J,d75b4e14c0d0,30C 77
@@ -460,6 +472,7 @@ Cyclizar,Pokémon,Basic,G,4c5a54fa6d04,SVI 164
 Cyclizar,Pokémon,Basic,G,51440f78928b,SVP 96
 Cyclizar,Pokémon,Basic,G,d17bddb29cd4,SVI 163
 Cyclizar,Pokémon,Basic,H,d705e318386d,SCR 127
+Cyclizar,Pokémon,Basic,J,dda252ff4c7d,DLR 76
 Cyclizar ex,Pokémon,Basic|ex,G,698bb1aa3746,SVP 18
 Cyclizar ex,Pokémon,Basic|Tera|ex,H,d4ac7a000e02,SSP 159; SSP 228
 Cynthia's Feebas,Pokémon,Basic,I,6273eee64005,DRI 52
@@ -473,6 +486,7 @@ Cynthia's Spiritomb,Pokémon,Basic,I,948e958613d5,DRI 129; ASC 133; ASC 244
 Dachsbun,Pokémon,Stage 1,G,958fcb70ce98,SVI 99; PAF 39; PAF 161
 Dachsbun ex,Pokémon,Stage 1|ex,H,63e0f0bd26df,SCR 67; SCR 160; SCR 169
 Darkrai,Pokémon,Basic,G,33961a5549d2,OBF 136
+Darkrai,Pokémon,Basic,J,a548f1478fe1,DLR 63
 Darkrai ex,Pokémon,Basic|ex,H,80285535798f,SVP 110
 Darmanitan,Pokémon,Stage 1,H,897b2d67d204,TWM 35
 Darmanitan,Pokémon,Stage 1,I,8f454af35e59,BLK 14; BLK 98
@@ -502,6 +516,7 @@ Deino,Pokémon,Basic,G,c941458040be,PAL 138
 Deino,Pokémon,Basic,I,de163c8400c4,WHT 65; WHT 146
 Delcatty,Pokémon,Stage 1,H,43e79da174f5,TEF 131
 Delcatty,Pokémon,Stage 1,J,4d9b1380824e,ASC 166
+Delibird,Pokémon,Basic,J,3734aeb55ee3,DLR 79
 Delibird,Pokémon,Basic,G,41d74859f0b1,PAL 46
 Delibird,Pokémon,Basic,I,c4258c8e57aa,MEG 105; MEG 152
 Delibird,Pokémon,Basic,J,d18b0b916ee4,CRI 18
@@ -538,6 +553,7 @@ Dodrio,Pokémon,Stage 1,G,be6b2334bb38,MEW 85; PAF 200
 Doduo,Pokémon,Basic,G,94007e9a329b,MEW 84; PAF 199
 Dolliv,Pokémon,Stage 1,I,1608bedbb67c,DRI 22
 Dolliv,Pokémon,Stage 1,G,6c9979b6b511,OBF 20
+Dolliv,Pokémon,Stage 1,J,91b57484f711,DLR 16
 Dolliv,Pokémon,Stage 1,G,e3b4046a0dbe,SVI 22; SVI 200; PAF 103
 Dondozo,Pokémon,Basic,G,81009deb4a64,SVI 61; SVI 207; PAF 126
 Dondozo,Pokémon,Basic,G,a60514dc93ea,PAR 55
@@ -581,6 +597,8 @@ Drizzile,Pokémon,Stage 1,I,0e00cb75cb73,MEG 40
 Drowzee,Pokémon,Basic,H,0ea9eacb9c7b,SFA 16
 Drowzee,Pokémon,Basic,G,1ae2e2a4ea87,SVI 82; SVI 210
 Drowzee,Pokémon,Basic,G,a94bb196662f,MEW 96
+Drowzee,Pokémon,Basic,J,c9d950519c2f,DLR 43
+Druddigon,Pokémon,Basic,J,49fb75ebef56,DLR 72
 Druddigon,Pokémon,Basic,I,6c5f8439820a,JTG 115
 Druddigon,Pokémon,Basic,I,d4b16d7eb86b,WHT 71; WHT 151
 Dubwool,Pokémon,Stage 1,H,7f9dda7e0774,SCR 125
@@ -616,6 +634,7 @@ Eelektross,Pokémon,Stage 2,G,84679361a41a,OBF 69
 Eelektross,Pokémon,Stage 2,I,d0f05ff3a9ad,BLK 32; BLK 115
 Eevee,Pokémon,Basic,G,769e082bbe31,OBF 166
 Eevee,Pokémon,Basic,J,8090b6a99ebb,30C 117; 30C 118
+Eevee,Pokémon,Basic,J,95a8d1605918,DLR 78; DLR 114
 Eevee,Pokémon,Basic,H,af9bb1c43b2c,SSP 143; PRE 74
 Eevee,Pokémon,Basic,H,b015d5136ac0,SFA 50
 Eevee,Pokémon,Basic,G,b521c5450a74,MEW 133
@@ -630,12 +649,14 @@ Eiscue ex,Pokémon,Basic|ex|Tera,G,d6ea95ffb778,OBF 42; OBF 210; OBF 222
 Ekans,Pokémon,Basic,G,ceb7a128d72a,MEW 23
 Ekans,Pokémon,Basic,H,fa58591706af,TEF 100
 Eldegoss,Pokémon,Stage 1,H,76f5de98974f,SCR 11
+Electabuzz,Pokémon,Basic,J,0599f6793339,DLR 30
 Electabuzz,Pokémon,Basic,G,1ea04da198f1,MEW 125
 Electabuzz,Pokémon,Basic,I,61c98a87d004,DRI 68
 Electabuzz,Pokémon,Basic,H,c3196d774d36,SCR 46
 Electabuzz,Pokémon,Basic,H,cf3dca85684b,TEF 53
 Electivire,Pokémon,Stage 1,H,2914fd089139,TEF 54
 Electivire,Pokémon,Stage 1,H,3de2fe7d0f95,SCR 47
+Electivire,Pokémon,Stage 1,J,8a4cbf3017a0,DLR 31; DLR 108
 Electivire ex,Pokémon,Stage 1|ex,I,17109925039a,DRI 69; DRI 212
 Electrike,Pokémon,Basic,I,136470703aea,DRI 75; DRI 196
 Electrike,Pokémon,Basic,I,84f5191cb1d7,MEG 49
@@ -650,6 +671,7 @@ Emolga,Pokémon,Basic,H,28ac4ad1e8b3,TWM 69
 Emolga,Pokémon,Basic,I,4ee5bbd76741,BLK 29; BLK 112
 Emolga,Pokémon,Basic,J,8e155ed0606b,CRI 30
 Empoleon ex,Pokémon,Stage 2|ex,I,cd5d91bbfad5,PFL 70; PFL 114
+Enamorus,Pokémon,Basic,J,2a1c31229723,DLR 48; DLR 110
 Enamorus,Pokémon,Basic,H,fdfd65c95fa9,TWM 93; TWM 180
 Entei,Pokémon,Basic,G,eca798de6211,OBF 30; PAF 112
 Entei,Pokémon,Basic,I,f12f93197295,ASC 25
@@ -753,7 +775,9 @@ Flareon ex,Pokémon,Stage 1|Tera|ex,H,d5a92eecae10,PRE 14; PRE 146
 Fletchinder,Pokémon,Stage 1,G,1a3bb4bbd406,PAL 29; PAL 199
 Fletchinder,Pokémon,Stage 1,J,1bd1af6c801a,POR 13
 Fletchinder,Pokémon,Stage 1,H,35d61d74b61a,SCR 122
+Fletchinder,Pokémon,Stage 1,J,f6b5aad39a19,DLR 87
 Fletchling,Pokémon,Basic,J,0494fe40aa3e,POR 66
+Fletchling,Pokémon,Basic,J,2dd6424d815a,DLR 86
 Fletchling,Pokémon,Basic,G,7dd3d33e4bc7,PAL 163
 Fletchling,Pokémon,Basic,H,9b4f36e35266,SCR 121
 Flittle,Pokémon,Basic,G,053e36b50d92,SVI 102
@@ -771,6 +795,7 @@ Floette,Pokémon,Stage 1,G,33869e69269d,SVI 92
 Floette,Pokémon,Stage 1,H,c527173ce345,TWM 87
 Floragato,Pokémon,Stage 1,G,38759aca8bb7,SVP 77; PAL 14; PAL 197
 Floragato,Pokémon,Stage 1,I,4920a5080ef9,JTG 17
+Floragato,Pokémon,Stage 1,J,5ca4bbc93433,DLR 13
 Floragato,Pokémon,Stage 1,G,dfaf75a51ddc,SVI 14
 Florges,Pokémon,Stage 2,H,4e79885c4bc2,TWM 88
 Florges,Pokémon,Stage 2,G,7b393f33f8f7,SVI 93
@@ -792,6 +817,7 @@ Fraxure,Pokémon,Stage 1,I,42429a16ae69,BLK 69; BLK 146
 Frigibax,Pokémon,Basic,G,0a70902d0415,PAL 58
 Frigibax,Pokémon,Basic,G,2589e277511d,PAF 17; PAF 128
 Frigibax,Pokémon,Basic,G,f89d95cd6bd0,PAL 57; PAL 208
+Frillish,Pokémon,Basic,J,5409d3e40172,DLR 27
 Frillish,Pokémon,Basic,I,8abbf8e8f156,WHT 44; WHT 126
 Froakie,Pokémon,Basic,G,032b7503dc2c,OBF 56
 Froakie,Pokémon,Basic,J,942af4f70d90,CRI 20; CRI 88
@@ -867,6 +893,7 @@ Gimmighoul,Pokémon,Basic,H,a21ec0cec103,SSP 97
 Girafarig,Pokémon,Basic,G,07963fe2b67d,PAL 154
 Girafarig,Pokémon,Basic,H,4492c3389f24,TWM 83
 Girafarig,Pokémon,Basic,H,eccdbab532bc,TEF 66
+Giratina,Pokémon,Basic,J,61727c358089,DLR 45
 Glaceon,Pokémon,Stage 1,H,c55546d3bd23,TWM 54; PRE 25
 Glaceon ex,Pokémon,Stage 1|Tera|ex,H,b68d3fbdf59a,PRE 26; PRE 150
 Glalie,Pokémon,Stage 1,H,2a096d79530f,TWM 52
@@ -901,6 +928,7 @@ Golduck,Pokémon,Stage 1,G,655e1c77530b,MEW 55
 Golduck,Pokémon,Stage 1,I,74e8d94f006c,ASC 40
 Golem ex,Pokémon,Stage 2|ex,G,478af1608a97,MEW 76; MEW 189
 Golett,Pokémon,Basic,I,1e4cab16516b,BLK 42; BLK 122
+Golett,Pokémon,Basic,J,4f26039143a7,DLR 46
 Golett,Pokémon,Basic,H,ca3ac3cc90ea,TEF 87
 Golisopod,Pokémon,Stage 1,G,2a0783edf55f,PAR 49
 Golisopod,Pokémon,Stage 1,J,91267ee88c84,CRI 26
@@ -953,12 +981,14 @@ Grimmsnarl,Pokémon,Stage 2,H,c8eef29c559c,JTG 73
 Grimmsnarl,Pokémon,Stage 2,H,f69c76368e57,SCR 96
 Grookey,Pokémon,Basic,H,b11e73fecece,TWM 14
 Grotle,Pokémon,Stage 1,H,ba7a6c3656d8,TEF 11; TEF 164
+Groudon,Pokémon,Basic,J,3c2bfa579a0e,DLR 53; DLR 111
 Groudon,Pokémon,Basic,J,9c9daac12da2,ASC 108
 Groudon,Pokémon,Basic,J,db0ce7897ef3,30C 82
 Groudon,Pokémon,Basic,G,e5b1b027ffb8,PAR 93; PAR 199; PRE 49
 Growlithe,Pokémon,Basic,I,3276870a4e1d,DRI 27
 Growlithe,Pokémon,Basic,G,4b2e00f72460,MEW 58
 Growlithe,Pokémon,Basic,G,a4c631eef09f,SVP 24; SVI 31
+Growlithe,Pokémon,Basic,J,b1c92a4997ca,DLR 18; DLR 106
 Growlithe,Pokémon,Basic,G,d277c92ab9c8,SVI 30
 Grubbin,Pokémon,Basic,H,9fba6c71e4d4,TEF 18
 Grubbin,Pokémon,Basic,H,d14305cc802f,SCR 9; ASC 17
@@ -973,6 +1003,7 @@ Gurdurr,Pokémon,Stage 1,H,c9bf68776358,TWM 104
 Gyarados,Pokémon,Stage 1,G,4cc23909ba69,PAL 43
 Gyarados,Pokémon,Stage 1,G,b9e5a54d9644,MEW 130
 Gyarados ex,Pokémon,Stage 1|Tera|ex,G,afb822ce49c0,SVI 45; SVI 225
+Hakamo-o,Pokémon,Stage 1,J,8c624e6185a4,DLR 74
 Hakamo-o,Pokémon,Stage 1,J,deff19934421,30C 111
 Hariyama,Pokémon,Stage 1,I,361217f67371,MEG 73
 Hariyama,Pokémon,Stage 1,G,a0b5a955010c,PAL 113
@@ -991,8 +1022,10 @@ Hearthflame Mask Ogerpon,Pokémon,Basic,I,62d3d9c9fd7f,DRI 44
 Hearthflame Mask Ogerpon ex,Pokémon,Basic|Tera|ex,H,5233b7c3f609,TWM 40; TWM 192; TWM 212; PRE 17; PRE 148
 Heat Rotom,Pokémon,Basic,G,025ca691f762,PAF 13
 Heat Rotom,Pokémon,Basic,I,8295648664d8,DRI 43
+Heat Rotom ex,Pokémon,Basic|ex,J,3bb2c7d6ffee,DLR 23; DLR 119
 Heatmor,Pokémon,Basic,H,053a04fec044,TEF 31
 Heatmor,Pokémon,Basic,G,1287be151b29,OBF 39
+Heatmor,Pokémon,Basic,J,374b85e6db71,DLR 24
 Heatmor,Pokémon,Basic,I,968de2c66e25,WHT 19; WHT 104
 Heatran,Pokémon,Basic,J,6cb86a65a90b,PBL 7
 Heatran,Pokémon,Basic,H,80197998ff97,PRE 68
@@ -1006,6 +1039,7 @@ Helioptile,Pokémon,Basic,H,1f456443b06b,TWM 70
 Helioptile,Pokémon,Basic,H,5ea0c9d747d4,SSP 154
 Helioptile,Pokémon,Basic,I,f9292ce5e3b8,ASC 63
 Heracross,Pokémon,Basic,G,082c8eb76b36,PAL 6; PAL 194
+Heracross,Pokémon,Basic,J,356d5314bde6,DLR 1
 Heracross,Pokémon,Basic,H,3c36d4a22c59,TWM 8
 Heracross,Pokémon,Basic,G,51a0b453f79f,SVI 2
 Herdier,Pokémon,Stage 1,I,3db39aa7a9ea,WHT 75; WHT 155
@@ -1077,6 +1111,7 @@ Hydreigon,Pokémon,Stage 2,G,fd457ba8a9fd,PAL 140
 Hydreigon ex,Pokémon,Stage 2|Tera|ex,H,aecaaf9d0a49,SSP 119; SSP 223; SSP 240
 Hydreigon ex,Pokémon,Stage 2|ex,I,b7757491899d,WHT 67; WHT 161; WHT 169
 Hypno,Pokémon,Stage 1,G,25ac4de2e382,SVI 83
+Hypno,Pokémon,Stage 1,J,2fef1de053c3,DLR 44
 Hypno,Pokémon,Stage 1,H,56550566a04e,SFA 17
 Hypno,Pokémon,Stage 1,G,aa2fde5e4f8d,MEW 97
 Igglybuff,Pokémon,Basic,J,b7f2c523f9bd,30C 120
@@ -1088,6 +1123,7 @@ Incineroar ex,Pokémon,Stage 2|ex,H,183bc1b4838e,TEF 34; TEF 187
 Indeedee,Pokémon,Basic,H,dfe034808a64,SVP 154; SSP 93
 Indeedee,Pokémon,Basic,G,f142adb242a6,SVI 153
 Infernape,Pokémon,Stage 2,H,05f0dfd2103a,SVP 116; TWM 33; TWM 173
+Inkay,Pokémon,Basic,J,184dcb982d0b,DLR 68; DLR 113
 Inkay,Pokémon,Basic,H,3c63cad74665,SFA 33
 Inkay,Pokémon,Basic,G,4e502060d91e,OBF 137
 Inkay,Pokémon,Basic,J,89435fa8797f,PBL 51
@@ -1123,7 +1159,9 @@ Iron Valiant,Pokémon,Basic|Future,H,f5c98f6ffd6c,TEF 80
 Iron Valiant ex,Pokémon,Basic|ex|Future,G,da3a89d169d4,SVP 68; PAR 89; PAR 225; PAR 249; PAR 261; PRE 157
 Ivysaur,Pokémon,Stage 1,G,37e34cbc87b4,MEW 2; MEW 167
 Ivysaur,Pokémon,Stage 1,I,f0c995de7f3f,MEG 2; MEG 134
+Jangmo-o,Pokémon,Basic,J,5ed5fec708ea,DLR 73
 Jangmo-o,Pokémon,Basic,J,6728f098d82c,30C 110
+Jellicent,Pokémon,Stage 1,J,f98ba6e7f424,DLR 28
 Jellicent ex,Pokémon,Stage 1|ex,I,29021381795c,WHT 45; WHT 160; WHT 168
 Jigglypuff,Pokémon,Basic,G,7bec17b842b7,MEW 39; PAF 198
 Jigglypuff,Pokémon,Basic,G,af6ed287f10d,PAL 83
@@ -1132,6 +1170,7 @@ Jirachi,Pokémon,Basic,H,6f9916acd795,SCR 98
 Jirachi,Pokémon,Basic,G,e3a9a58e0cc3,PAR 126
 Jirachi ex,Pokémon,Basic|ex,J,46f3bc52fb1b,30C 102; 30C 155
 Jolteon,Pokémon,Stage 1,G,181389e797bf,MEW 135; PRE 29
+Jolteon,Pokémon,Stage 1,J,4b049bf86d13,DLR 32
 Jolteon ex,Pokémon,Stage 1|Tera|ex,H,173833a0bd7d,PRE 30; PRE 153
 Joltik,Pokémon,Basic,H,03b51f7ec8e9,SCR 50; SCR 150
 Joltik,Pokémon,Basic,G,6f2669aca487,PAR 64; PAR 196
@@ -1156,6 +1195,7 @@ Kangaskhan ex,Pokémon,Basic|ex,G,440522722308,SVP 55; MEW 115; MEW 190
 Karrablast,Pokémon,Basic,I,333098528cc4,JTG 9
 Karrablast,Pokémon,Basic,I,e0c481904f1d,BLK 9; BLK 94
 Kecleon,Pokémon,Basic,H,839ed047bfc9,SSP 150; SSP 213
+Kecleon,Pokémon,Basic,J,8e6889d5985e,DLR 83; DLR 117
 Kecleon,Pokémon,Basic,H,b06e5fd4e1ce,JTG 122
 Keldeo,Pokémon,Basic,J,291a0b207357,CRI 19
 Keldeo,Pokémon,Basic,H,722ffdfef1d9,TEF 44
@@ -1164,6 +1204,7 @@ Kilowattrel,Pokémon,Stage 1,G,1523a27b1bc2,PAF 22; PAF 146
 Kilowattrel,Pokémon,Stage 1,H,393bff2562c3,TWM 76
 Kilowattrel,Pokémon,Stage 1,G,7031332c6a43,SVI 79
 Kilowattrel,Pokémon,Stage 1,H,8dda1c8340c1,SSP 67
+Kilowattrel,Pokémon,Stage 1,J,9f6ae158e8d5,DLR 41
 Kilowattrel,Pokémon,Stage 1,G,bef8bd536936,PAL 82
 Kilowattrel ex,Pokémon,Stage 1|ex,H,11092c16190c,SSP 68
 Kingambit,Pokémon,Stage 2,H,486f8a2681b6,SVP 113
@@ -1191,6 +1232,7 @@ Klinklang,Pokémon,Stage 2,H,4b4e317486f4,SCR 101
 Koffing,Pokémon,Basic,I,1cdfb68acfe1,JTG 91
 Koffing,Pokémon,Basic,G,8a1b6d3c3e79,MEW 109
 Komala,Pokémon,Basic,I,3687f2b1e68c,JTG 129
+Kommo-o,Pokémon,Stage 2,J,b98852ca86ae,DLR 75
 Kommo-o,Pokémon,Stage 2,J,be4df71c2f2c,30C 112; 30C 143
 Koraidon,Pokémon,Basic,J,0c3a4cc7cc00,PBL 47
 Koraidon,Pokémon,Basic,H,16241767b247,SCR 90
@@ -1211,6 +1253,7 @@ Krookodile,Pokémon,Stage 2,G,c0b7655ac44c,SVI 117
 Krookodile,Pokémon,Stage 2,I,f487802321ee,BLK 59; BLK 137
 Krookodile ex,Pokémon,Stage 2|ex,I,34154040b3ef,CRI 55
 Kyogre,Pokémon,Basic,I,3ebf1bce86db,MEG 34
+Kyogre,Pokémon,Basic,J,677d661e70d3,DLR 26
 Kyogre,Pokémon,Basic,J,6d4a6e4780f1,30C 19
 Kyurem,Pokémon,Basic,H,92fd1ba95355,SFA 47
 Kyurem ex,Pokémon,Basic|ex,I,b4072b36ea71,BLK 28; BLK 157; BLK 165
@@ -1219,6 +1262,7 @@ Lampent,Pokémon,Stage 1,J,a4d1a5953e2a,PBL 37
 Lampent,Pokémon,Stage 1,H,bd4981b5098b,TWM 37
 Lampent,Pokémon,Stage 1,G,cebc93d786c9,OBF 37
 Lampent,Pokémon,Stage 1,I,d92e8962a0d1,WHT 17; WHT 102
+Landorus,Pokémon,Basic,J,019c5ab71978,DLR 54
 Landorus,Pokémon,Basic,I,61a5e7a63d28,BLK 53; BLK 131
 Landorus,Pokémon,Basic,H,903a0c3b7151,SSP 110
 Landorus,Pokémon,Basic,J,c43516777857,POR 41
@@ -1271,6 +1315,7 @@ Lickitung,Pokémon,Basic,H,87d9aa33ac1d,TEF 124; TEF 180
 Lickitung,Pokémon,Basic,G,b1455b9f9288,MEW 108
 Liepard,Pokémon,Stage 1,I,4c4a486e8975,WHT 56; WHT 137
 Liepard,Pokémon,Stage 1,G,982b207b8f7d,PAR 115
+Liepard,Pokémon,Stage 1,J,dbfa54fc2fe9,DLR 65
 Lileep,Pokémon,Stage 1,H,31c0af9c2d21,SCR 5; SCR 145
 Lillie's Clefairy ex,Pokémon,Basic|ex,I,e242a2d5af56,JTG 56; JTG 173; JTG 184; ASC 76; ASC 280
 Lillie's Comfey,Pokémon,Basic,I,a4bc0d3d3c35,JTG 68
@@ -1345,9 +1390,11 @@ Magikarp,Pokémon,Basic,G,18ab92d1155c,SVI 44
 Magikarp,Pokémon,Basic,G,82babfb5549f,PAL 42; PAL 203; 30C 203
 Magikarp,Pokémon,Basic,G,f909aace3108,MEW 129
 Magmar,Pokémon,Basic,I,a4cea8ad50a5,JTG 20
+Magmar,Pokémon,Basic,J,abe029a6402e,DLR 20
 Magmar,Pokémon,Basic,G,b9b0c1c92ad5,PAF 9
 Magmar,Pokémon,Basic,G,e97e72b8cd5b,MEW 126
 Magmortar,Pokémon,Stage 1,G,89b867856790,PAF 10
+Magmortar,Pokémon,Stage 1,J,a749b43fe7e8,DLR 21; DLR 107
 Magmortar,Pokémon,Stage 1,I,b0957380a569,JTG 21
 Magnemite,Pokémon,Basic,I,13883ee46247,MEG 45
 Magnemite,Pokémon,Basic,H,2240ea0653d7,SSP 58
@@ -1384,6 +1431,7 @@ Mankey,Pokémon,Basic,G,cd9147f3bab9,SVI 107; PAF 45; PAF 169
 Mankey,Pokémon,Basic,G,d9ab860b1d46,PAL 106
 Mantine,Pokémon,Basic,H,9d7a5924ce32,SSP 40
 Mantine,Pokémon,Basic,I,adc024fd6563,MEG 32
+Mantine,Pokémon,Basic,J,f7dfd2691f1b,DLR 25
 Mantyke,Pokémon,Basic,G,23c3c2dd131d,PAR 39; PAR 189
 Maractus,Pokémon,Basic,I,0c1529793950,JTG 8; JTG 160
 Maractus,Pokémon,Basic,G,7655105f0b2c,PAF 3
@@ -1415,6 +1463,7 @@ Maschiff,Pokémon,Basic,G,48b7e38a5f27,SVP 71; PAL 141; PAF 62
 Maschiff,Pokémon,Basic,G,5366682feb1c,PAL 142
 Maschiff,Pokémon,Basic,G,ec94e1a5eff2,SVI 136
 Masquerain,Pokémon,Stage 1,G,a55a75025f70,OBF 7
+Masquerain,Pokémon,Stage 1,J,c14aa9647476,DLR 3; DLR 104
 Masquerain,Pokémon,Stage 1,G,ebc2d98304d1,PAR 2
 Maushold,Pokémon,Stage 1,J,4aa9c60537bb,30C 125; 30C 146
 Maushold,Pokémon,Stage 1,G,4b48ff19b7a8,PAL 168; PAL 226
@@ -1460,6 +1509,8 @@ Mega Froslass ex,Pokémon,Stage 1|MEGA|ex,I,d46694a87520,ASC 47; ASC 265; ASC 27
 Mega Gallade ex,Pokémon,Stage 2|MEGA|ex,J,04770bb918d1,CRI 48
 Mega Gardevoir ex,Pokémon,Stage 2|MEGA|ex,I,33a7fea7416c,MEG 60; MEG 159; MEG 178; MEG 187; ASC 89
 Mega Gengar ex,Pokémon,Stage 2|MEGA|ex,I,723b09279fe2,PFL 56; ASC 125; ASC 269; ASC 284
+Mega Golisopod ex,Pokémon,Stage 1|MEGA|ex,J,fbb939387fcf,DLR 11; DLR 118; DLR 135
+Mega Golurk ex,Pokémon,Stage 1|MEGA|ex,J,84a38e3a6898,DLR 47; DLR 122; DLR 137
 Mega Greninja ex,Pokémon,Stage 2|MEGA|ex,J,4f9fc256417c,CRI 22; CRI 100; CRI 116; CRI 122
 Mega Hawlucha ex,Pokémon,Basic|MEGA|ex,I,f6908a51504c,ASC 116; ASC 268; ASC 283
 Mega Heracross ex,Pokémon,Basic|MEGA|ex,I,412f17b3a152,PFL 4; PFL 108
@@ -1467,10 +1518,12 @@ Mega Kangaskhan ex,Pokémon,Basic|MEGA|ex,I,8d50c37538c4,MEG 104; MEG 164; MEG 1
 Mega Latias ex,Pokémon,Basic|MEGA|ex,I,aacc6744c1c2,MEG 100; MEG 163; MEG 181
 Mega Lopunny ex,Pokémon,Stage 1|MEGA|ex,I,16847ceb5bbc,PFL 84; PFL 115; PFL 128
 Mega Lucario ex,Pokémon,Stage 1|MEGA|ex,I,fcd64d018024,MEG 77; MEG 160; MEG 179; MEG 188; ASC 113
+Mega Malamar ex,Pokémon,Stage 1|MEGA|ex,J,71b625bcae70,DLR 69; DLR 123
 Mega Manectric ex,Pokémon,Stage 1|MEGA|ex,I,bd3a5e391fa6,MEG 50; MEG 158
 Mega Mawile ex,Pokémon,Basic|MEGA|ex,I,c6a0d1755697,MEG 94; MEG 162
 Mega Meganium ex,Pokémon,Stage 2|MEGA|ex,J,e45404934b22,ASC 10; ASC 272
 Mega Pyroar ex,Pokémon,Stage 1|MEGA|ex,J,3df9a9585e93,CRI 15; CRI 99
+Mega Rayquaza ex,Pokémon,Basic|MEGA|ex,J,e3c4588c225c,DLR 84; DLR 138; DLR 141
 Mega Scrafty ex,Pokémon,Stage 1|MEGA|ex,I,dfb11f16849e,ASC 135; ASC 270; ASC 285
 Mega Sharpedo ex,Pokémon,Stage 1|MEGA|ex,I,9250991312e8,PFL 61; PFL 113; PFL 127
 Mega Skarmory ex,Pokémon,Basic|MEGA|ex,J,6c029fe95460,POR 55; POR 106
@@ -1492,6 +1545,7 @@ Meltan,Pokémon,Basic,H,7176964cbe49,SCR 102
 Meltan,Pokémon,Basic,H,b41af62780e0,TEF 116; TEF 179
 Meowscarada,Pokémon,Stage 2,I,38a6d1de5ee4,JTG 18
 Meowscarada,Pokémon,Stage 2,G,525b4410729c,SVI 15
+Meowscarada ex,Pokémon,Stage 2|ex,J,4e4d441a200c,DLR 14
 Meowscarada ex,Pokémon,Stage 2|ex,G,ac631aab9f49,SVP 33; SVP 78; PAL 15; PAL 231; PAL 256; PAL 271
 Meowstic,Pokémon,Stage 1,H,45d4cc88ef5c,SSP 85
 Meowstic,Pokémon,Stage 1,J,83c20b77a940,CRI 37
@@ -1549,6 +1603,7 @@ Minun,Pokémon,Basic,G,6d3946410bed,PAR 61; PAR 194
 Miraidon,Pokémon,Basic|Future,H,38ed7b2c09b3,SSP 69
 Miraidon,Pokémon,Basic,J,3c46a57dd204,PBL 28
 Miraidon,Pokémon,Basic,J,8f2224337c58,30C 62
+Miraidon,Pokémon,Basic,J,9700e3ba36ff,DLR 42
 Miraidon,Pokémon,Basic,H,abc449f952c5,SVP 148
 Miraidon,Pokémon,Basic|Future,H,c5ceb9b3ca45,SVP 92; TEF 121
 Miraidon,Pokémon,Basic,G,cf94b992ae5e,SVP 13; SVI 80
@@ -1575,6 +1630,7 @@ Monferno,Pokémon,Stage 1,H,39727e33707c,TWM 32
 Morelull,Pokémon,Basic,H,cfe7dc1b8d17,SSP 8
 Morgrem,Pokémon,Stage 1,H,ba5947d35329,JTG 72
 Morgrem,Pokémon,Stage 1,H,d3c60c02975f,SCR 95
+Morpeko,Pokémon,Basic,J,70ca7be981f3,DLR 70
 Morpeko,Pokémon,Basic,J,9931ddd049c5,30C 61; 30C 135
 Morpeko,Pokémon,Basic,H,accbc75791eb,TWM 72
 Morpeko,Pokémon,Basic,G,d2c486e2da75,PAR 121; PAR 206
@@ -1625,11 +1681,14 @@ Nickit,Pokémon,Basic,I,1b0020601851,MEG 89
 Nickit,Pokémon,Basic,J,21a374b7426d,PBL 53
 Nickit,Pokémon,Basic,G,76ba0b8ca9b6,PAR 119
 Nidoking,Pokémon,Stage 2,G,ffe3c0dd589f,MEW 34; MEW 174
+Nidoqueen,Pokémon,Stage 2,J,1176cb943cd3,DLR 57
 Nidoqueen,Pokémon,Stage 2,G,e562dcd90512,MEW 31
 Nidoran ♀,Pokémon,Basic,G,2033058b98af,MEW 29
 Nidoran ♀,Pokémon,Basic,J,213212036808,30C 87
 Nidoran ♂,Pokémon,Basic,G,193b1decd731,MEW 32
+Nidoran♀,Pokémon,Basic,J,fa7ebb43bfdf,DLR 55
 Nidorina,Pokémon,Stage 1,J,1985bf0b2133,30C 88
+Nidorina,Pokémon,Stage 1,J,87698d9f38d4,DLR 56
 Nidorina,Pokémon,Stage 1,G,9c24fac42623,MEW 30
 Nidorino,Pokémon,Stage 1,G,116b948a459a,MEW 33
 Nincada,Pokémon,Basic,I,677b5d9c5376,MEG 16
@@ -1686,6 +1745,7 @@ Okidogi ex,Pokémon,Basic|ex,H,2fbb9077b2a1,SFA 36; SFA 82; SFA 90
 Omanyte,Pokémon,Stage 1,G,8b8d9b20035e,MEW 138; MEW 180
 Omastar,Pokémon,Stage 2,G,cfdd66f7bcf3,MEW 139
 Onix,Pokémon,Basic,I,25282ec57c4b,MEG 70
+Onix,Pokémon,Basic,J,5424e2f451e6,DLR 51
 Onix,Pokémon,Basic,G,6ace8569ebad,PAR 90
 Onix,Pokémon,Basic,G,dc4773861250,MEW 95
 Oranguru,Pokémon,Basic,G,efe5de054ce7,PAL 94
@@ -1760,11 +1820,14 @@ Pawmi,Pokémon,Basic,G,5ee0b881a6af,SVI 73
 Pawmi,Pokémon,Basic,H,a25a9be124c0,SCR 56
 Pawmi,Pokémon,Basic,I,a53ef35a9f69,PFL 32
 Pawmi,Pokémon,Basic,G,bfe310838229,SVP 40
+Pawmi,Pokémon,Basic,J,dacb92ee43c1,DLR 37
 Pawmi,Pokémon,Basic,G,febcea7a581c,PAL 74
 Pawmo,Pokémon,Stage 1,G,31e196d3b5dd,PAL 75
 Pawmo,Pokémon,Stage 1,G,bcd02179d566,SVI 75; PAF 143
+Pawmo,Pokémon,Stage 1,J,e4146db75b8d,DLR 38
 Pawmo,Pokémon,Stage 1,I,f81a73895b6e,PFL 33
 Pawmot,Pokémon,Stage 2,G,28368e2af856,SVP 6; SVI 76; SVI 209; PAF 144
+Pawmot,Pokémon,Stage 2,J,4942194f73ad,DLR 39
 Pawmot,Pokémon,Stage 2,G,5aa9a85b932f,PAL 76
 Pawmot,Pokémon,Stage 2,I,7563928fc648,PFL 34
 Pawmot ex,Pokémon,Stage 2|ex,G,7c3c6b3810ee,OBF 73
@@ -1847,6 +1910,7 @@ Piloswine,Pokémon,Stage 1,I,7c4d214e9a25,PFL 24
 Piloswine,Pokémon,Stage 1,I,dbd7c49900f9,JTG 78
 Pincurchin,Pokémon,Basic,G,2af3e69243f9,PAL 73
 Pincurchin,Pokémon,Basic,G,4e780fbd992b,PAL 72
+Pincurchin,Pokémon,Basic,J,71ebed6cc6dc,DLR 36; DLR 109
 Pineco,Pokémon,Basic,G,205983b28e10,SVI 1
 Pineco,Pokémon,Basic,G,229e31810508,SVP 61; PAL 4; PAF 1; PAF 99
 Pineco,Pokémon,Basic,I,79ef23441ca3,DRI 4
@@ -1898,6 +1962,7 @@ Pupitar,Pokémon,Stage 1,H,611f926f7c77,PRE 48
 Pupitar,Pokémon,Stage 1,G,77d9ac1793ce,PAL 111
 Pupitar,Pokémon,Stage 1,G,cd0abd4c85b9,SVP 120; OBF 106
 Purrloin,Pokémon,Basic,I,5174efdb917a,WHT 55; WHT 136
+Purrloin,Pokémon,Basic,J,581e152627a2,DLR 64
 Purrloin,Pokémon,Basic,G,725b879b1fd1,PAR 114
 Purugly,Pokémon,Stage 1,H,e72e0b946e51,SCR 117
 Pyroar,Pokémon,Stage 1,H,31f403a1b00f,PRE 16
@@ -1930,6 +1995,7 @@ Raichu,Pokémon,Stage 1,J,d430b07da21f,ASC 56
 Raichu,Pokémon,Stage 1,G,ec738badb221,PAL 64; PAL 211
 Raichu,Pokémon,Stage 1,G,f7c33b0e18ae,MEW 26; PAF 19; PAF 132
 Raikou,Pokémon,Basic,I,4080ada1fabd,MEG 48
+Raikou ex,Pokémon,Basic|ex,J,13326b6e080a,DLR 33; DLR 121; DLR 136
 Ralts,Pokémon,Basic,I,43d01ee924bf,MEG 58; ASC 87
 Ralts,Pokémon,Basic,G,4bdc037956b7,SVI 84; SVI 211; PAF 27; PAF 153
 Rampardos ex,Pokémon,Stage 2|ex,J,d90788cbd5bd,PBL 45; PBL 100
@@ -1998,6 +2064,7 @@ Roserade,Pokémon,Stage 1,H,689d1e890084,TEF 9
 Rotom,Pokémon,Basic,G,44861064d22a,SVI 69
 Rotom,Pokémon,Basic,H,86a3aa982854,SSP 61
 Rotom,Pokémon,Basic,G,8faea9e5fd23,SVI 70
+Rotom,Pokémon,Basic,J,9b3acee3f22a,DLR 34
 Rotom,Pokémon,Basic,I,a5336acaeb67,DRI 77; DRI 197
 Rotom,Pokémon,Basic,I,fa93a6f3a73a,ASC 92
 Rotom ex,Pokémon,Basic|ex,I,464547c78fd7,PFL 29; PFL 111; PFL 126
@@ -2009,6 +2076,7 @@ Rufflet,Pokémon,Basic,I,21da0edc718e,BLK 77; BLK 154
 Sableye,Pokémon,Basic,G,076f394c480f,PAL 136; PAF 184
 Sableye,Pokémon,Basic,H,516e0109e67a,TEF 107
 Sableye,Pokémon,Basic,I,5b404457515f,PFL 59
+Sableye,Pokémon,Basic,J,82f7f805a85d,DLR 60
 Salamence ex,Pokémon,Stage 2|ex,J,13b56374f7ca,30C 109; 30C 156
 Salamence ex,Pokémon,Stage 2|ex,I,e13b00b0be0d,JTG 114; JTG 177; JTG 187
 Salandit,Pokémon,Basic,J,729653b73b9c,POR 15
@@ -2025,6 +2093,8 @@ Sandile,Pokémon,Basic,I,b64f751519b6,BLK 57; BLK 135
 Sandshrew,Pokémon,Basic,I,2965a5c5b9dc,MEG 68
 Sandshrew,Pokémon,Basic,H,49259312b4d6,TWM 97
 Sandshrew,Pokémon,Basic,G,72d8c6d318ca,MEW 27
+Sandshrew,Pokémon,Basic,J,be65eae55d19,DLR 49
+Sandslash,Pokémon,Stage 1,J,1b21aa7632db,DLR 50
 Sandslash,Pokémon,Stage 1,G,3302263739ac,MEW 28
 Sandslash,Pokémon,Stage 1,H,ab916f6525ce,TWM 98
 Sandslash,Pokémon,Stage 1,I,b89fa2ecebbc,MEG 69
@@ -2087,10 +2157,12 @@ Seviper,Pokémon,Basic,I,a2751bd72fc3,PFL 62
 Seviper,Pokémon,Basic,G,d577666aaf5d,SVI 128
 Sewaddle,Pokémon,Basic,I,0c250abc1165,WHT 1; WHT 87
 Sharpedo,Pokémon,Stage 1,G,343dfea1250f,OBF 47
+Sharpedo,Pokémon,Stage 1,J,9288f4ef871b,DLR 62
 Sharpedo,Pokémon,Stage 1,H,b549d5fcaf7a,TEF 43
 Shaymin,Pokémon,Basic,H,4918333e757f,TEF 13
 Shaymin,Pokémon,Basic,I,5ee3b08a1312,DRI 10; DRI 185
 Shaymin,Pokémon,Basic,J,6246468298a3,POR 3
+Shaymin,Pokémon,Basic,J,ba2a6ed81eaa,DLR 8
 Shaymin,Pokémon,Basic,H,e24afe5e4d8b,PRE 87
 Shedinja,Pokémon,Stage 1,I,04faafc30598,MEG 61; MEG 144
 Shelgon,Pokémon,Stage 1,I,f1c476877050,JTG 113
@@ -2185,6 +2257,7 @@ Slurpuff,Pokémon,Stage 1,J,73b32296ffa9,ASC 94; ASC 236
 Smeargle,Pokémon,Basic,I,99a2dd5af5eb,PFL 80
 Smoliv,Pokémon,Basic,G,174a669c0e40,SVI 20
 Smoliv,Pokémon,Basic,G,2a26cdfce282,SVP 23; SVI 21; PAF 102
+Smoliv,Pokémon,Basic,J,7cff862d9828,DLR 15
 Smoliv,Pokémon,Basic,G,86a8c0d413f2,OBF 19
 Smoliv,Pokémon,Basic,I,c19d4569c52d,DRI 21
 Smoochum,Pokémon,Basic,H,e16614e30c44,SSP 75
@@ -2227,6 +2300,7 @@ Spheal,Pokémon,Basic,H,211ea4e4fa8b,SSP 43; SSP 199
 Spidops,Pokémon,Stage 1,G,7e5d2d02c5fb,PAL 18
 Spidops,Pokémon,Stage 1,G,e90c98daaf33,SVP 9
 Spidops ex,Pokémon,Stage 1|ex,G,239c1cfc8e1e,SVI 19; SVI 223; SVI 243
+Spinarak,Pokémon,Basic,J,3da0b2666da2,DLR 58
 Spinarak,Pokémon,Basic,H,a848ed16c2b0,TWM 4
 Spinarak,Pokémon,Basic,J,e6459068d376,POR 1
 Spinda,Pokémon,Basic,G,d37d842c7452,PAR 151
@@ -2241,6 +2315,7 @@ Sprigatito,Pokémon,Basic,G,325ac2b7a069,SVP 1
 Sprigatito,Pokémon,Basic,G,4f7f99885bae,SVI 13
 Sprigatito,Pokémon,Basic,I,514845972b57,JTG 16
 Sprigatito,Pokémon,Basic,G,56a778dfdf45,PAL 13
+Sprigatito,Pokémon,Basic,J,7d8625bdf269,DLR 12; DLR 105
 Sprigatito ex,Pokémon,Basic|ex,H,a3039dc314be,SVP 87; ASC 251
 Spritzee,Pokémon,Basic,H,98fdf8260aae,PRE 38
 Spritzee,Pokémon,Basic,J,ec7dfd079da3,POR 35
@@ -2258,6 +2333,7 @@ Staryu,Pokémon,Basic,G,4db368ad2a68,MEW 120; PAF 118
 Staryu,Pokémon,Basic,J,d37b9b79880d,POR 20
 Steelix,Pokémon,Stage 1,I,63368efc6e29,MEG 93; MEG 150
 Steelix,Pokémon,Stage 1,G,6c95b04c5a73,PAR 125; PAR 208
+Steelix,Pokémon,Stage 1,J,b567311bb399,DLR 52
 Steenee,Pokémon,Stage 1,G,a9224a6840d3,PAR 9
 Steenee,Pokémon,Stage 1,G,ffc282ce19f3,OBF 17
 Steven's Baltoy,Pokémon,Basic,I,105779556ec4,DRI 83
@@ -2285,8 +2361,10 @@ Suicune,Pokémon,Basic,I,1bc0fefe4507,PFL 26
 Suicune,Pokémon,Basic,H,524b26663c8a,PRE 24
 Sunflora,Pokémon,Stage 1,H,822da4936e40,TWM 7; TWM 169
 Sunkern,Pokémon,Basic,H,6955dc0b6216,TWM 6
+Surskit,Pokémon,Basic,J,308e45fe8283,DLR 2
 Surskit,Pokémon,Basic,G,6660663530cf,PAR 1
 Surskit,Pokémon,Basic,G,bc2c0b986364,OBF 6
+Swablu,Pokémon,Basic,J,0f7a3be9df27,DLR 81
 Swablu,Pokémon,Basic,G,9c82858a91e3,PAR 152; PAR 213
 Swablu,Pokémon,Basic,G,e15fa857ae9f,OBF 169
 Swablu,Pokémon,Basic,H,fbdf9fc3bd25,SSP 148
@@ -2315,6 +2393,7 @@ Taillow,Pokémon,Basic,I,f6ef3a84386a,DRI 156
 Talonflame,Pokémon,Stage 2,H,199fb49dd2a1,SCR 123
 Talonflame,Pokémon,Stage 2,J,86287207fd97,POR 14; POR 91
 Talonflame,Pokémon,Stage 2,G,fb843468e476,PAL 30
+Talonflame ex,Pokémon,Stage 2|ex,J,0060bb78f7f7,DLR 88; DLR 124
 Tandemaus,Pokémon,Basic,G,0def1948c911,SVI 159
 Tandemaus,Pokémon,Basic,G,1566fde397e9,PAR 153
 Tandemaus,Pokémon,Basic,G,455df7d959aa,SVI 160
@@ -2345,6 +2424,7 @@ Tatsugiri ex,Pokémon,Basic|Tera|ex,H,3dbafa469368,SSP 142; SSP 226
 Tauros,Pokémon,Basic,I,13c533574146,DRI 152
 Tauros,Pokémon,Basic,G,67b9cb51ed86,MEW 128
 Tauros,Pokémon,Basic,H,a2772eb3c642,SCR 112
+Tauros,Pokémon,Basic,J,b99a27f88c5b,DLR 77
 Tauros,Pokémon,Basic,J,ee6dfe566bcf,CRI 69; CRI 96
 Teal Mask Ogerpon,Pokémon,Basic,I,5e1271a5ab51,DRI 26
 Teal Mask Ogerpon,Pokémon,Basic,H,c1a800dc4fda,SVP 123; TWM 24
@@ -2413,6 +2493,7 @@ Thievul,Pokémon,Stage 1,J,24f13e3c6c79,PBL 54; PBL 92
 Thievul,Pokémon,Stage 1,G,bf8efbe48fc1,PAR 120
 Throh,Pokémon,Basic,I,36da9bd98999,BLK 50; BLK 128
 Thundurus,Pokémon,Basic,I,4dc3000c0a81,BLK 33
+Thundurus,Pokémon,Basic,J,5e77669d8410,DLR 35
 Thundurus,Pokémon,Basic,G,c555d902271b,OBF 70; PAF 139
 Thwackey,Pokémon,Stage 1,H,ce40e876b99d,SVP 115; TWM 15
 Timburr,Pokémon,Basic,H,7c6317997ff4,TWM 103; TWM 183
@@ -2466,9 +2547,11 @@ Torchic,Pokémon,Basic,I,06b809d88d9d,DRI 40
 Torchic,Pokémon,Basic,H,1e104d354219,JTG 22
 Torkoal,Pokémon,Basic,G,085802714536,SVI 35
 Torkoal,Pokémon,Basic,H,39a84f6780ad,TWM 30; TWM 172
+Torkoal,Pokémon,Basic,J,b44df5d462a8,DLR 22
 Torkoal,Pokémon,Basic,H,ed1e17efe10c,JTG 25
 Tornadus,Pokémon,Basic,H,314feb909899,SCR 120
 Tornadus,Pokémon,Basic,I,e7f2c6fa5ee5,WHT 78
+Tornadus,Pokémon,Basic,J,fc8bb2c7a7b5,DLR 85
 Torracat,Pokémon,Stage 1,H,4f27a64a3bac,TEF 33
 Torterra ex,Pokémon,Stage 2|ex,H,f00661382072,TEF 12; TEF 185
 Totodile,Pokémon,Basic,J,2848e177d66e,ASC 41
@@ -2558,6 +2641,7 @@ Venomoth,Pokémon,Stage 1,G,e1b0a0cb0ff4,MEW 49
 Venonat,Pokémon,Basic,G,da3e75bc9086,MEW 48
 Venusaur ex,Pokémon,Stage 2|ex,G,ffa318bc251c,MEW 3; MEW 182; MEW 198; SCR 1
 Vespiquen,Pokémon,Stage 1,G,7d71f5c0a4f1,PAL 9
+Vespiquen,Pokémon,Stage 1,J,c11aeedee987,DLR 7
 Vespiquen ex,Pokémon,Stage 1|ex|Tera,G,8f3712068ce4,OBF 96; OBF 212
 Vibrava,Pokémon,Stage 1,I,3352793ac607,PFL 52
 Vibrava,Pokémon,Stage 1,H,a3f25a314fb1,SSP 105; SSP 206
@@ -2576,6 +2660,7 @@ Vileplume,Pokémon,Stage 2,I,104157966de8,PFL 3
 Vileplume,Pokémon,Stage 2,G,f03e6def02b9,MEW 45; PAF 94
 Virizion,Pokémon,Basic,H,0d10cd37cb4a,JTG 15
 Virizion,Pokémon,Basic,I,1093521e4934,WHT 10; WHT 95
+Virizion,Pokémon,Basic,J,8b5ec182ce8e,DLR 9
 Vivillon,Pokémon,Stage 2,G,6901a65471cf,SVI 10
 Vivillon,Pokémon,Stage 2,J,754bcf759ff5,POR 9
 Vivillon,Pokémon,Stage 2,J,8ca4c4d3ec04,30C 8
@@ -2619,6 +2704,7 @@ Wattrel,Pokémon,Basic,H,22fe7ecdfc99,TWM 75; TWM 178
 Wattrel,Pokémon,Basic,H,62e4fd7fbd16,SSP 66
 Wattrel,Pokémon,Basic,G,726d12cb7e94,PAL 80; PAF 145
 Wattrel,Pokémon,Basic,G,9b525d87cd0d,SVI 77
+Wattrel,Pokémon,Basic,J,ac233887fe5e,DLR 40
 Wattrel,Pokémon,Basic,G,cf757449495d,PAL 81
 Weavile,Pokémon,Stage 1,H,aadcbeb4b6fd,SFA 14; ASC 45; ASC 228
 Weavile,Pokémon,Stage 1,G,dd96819aee1a,PAL 134; PAF 183
@@ -2646,11 +2732,13 @@ Wiglett,Pokémon,Basic,G,85d562db05eb,PAR 52
 Wiglett,Pokémon,Basic,G,ec87b618c310,SVI 55; SVI 206; PAF 121
 Wiglett,Pokémon,Basic,H,efad6258165a,TEF 47
 Wimpod,Pokémon,Basic,G,b7496b90531a,PAR 48; PAR 191
+Wimpod,Pokémon,Basic,J,c5f5e6de04c2,DLR 10
 Wimpod,Pokémon,Basic,G,c8cbcbbeaa61,PAR 47
 Wimpod,Pokémon,Basic,J,ccc4d945225d,CRI 25
 Wingull,Pokémon,Basic,G,ccedb40c6129,PAL 158; PAF 203
 Wingull,Pokémon,Basic,H,e652dc58557d,JTG 38
 Wishiwashi,Pokémon,Basic,J,e2c6bda1a503,30C 22
+Wishiwashi ex,Pokémon,Basic|ex,J,f677f2553058,DLR 29; DLR 120
 Wo-Chien,Pokémon,Basic,H,c144928f1bc3,SSP 15
 Wo-Chien,Pokémon,Basic,G,e84f52b0965f,PAR 18
 Wo-Chien ex,Pokémon,Basic|ex,G,8033c45b329d,PAL 27; PAL 232; PAL 257; PAF 240
@@ -2695,6 +2783,7 @@ Zapdos,Pokémon,Basic,H,0aa8b4ac82c9,SVP 157
 Zapdos,Pokémon,Basic,J,45023bc89b2a,30C 55; 30C 133
 Zapdos,Pokémon,Basic,H,dbcca6526093,TWM 65
 Zapdos ex,Pokémon,Basic|ex,G,f6b0efcd4ee3,SVP 49; MEW 145; MEW 192; MEW 202
+Zarude,Pokémon,Basic,J,109a58fe2d7a,DLR 71
 Zarude,Pokémon,Basic,J,beb069cbdaeb,PBL 56
 Zarude,Pokémon,Basic,H,e37b52859f6c,SSP 11
 Zebstrika,Pokémon,Stage 1,H,4000a0f8e4ee,SSP 63
@@ -2712,7 +2801,9 @@ Zigzagoon,Pokémon,Basic,G,e1e937b6eb5b,OBF 167
 Zoroark,Pokémon,Stage 1,H,13b7aec44f51,SFA 32
 Zoroark,Pokémon,Stage 1,I,1cb28be45069,WHT 62; WHT 143
 Zoroark,Pokémon,Stage 1,J,5f3a65f129b7,30C 96
+Zoroark ex,Pokémon,Stage 1|ex,J,ff17e1d141e6,DLR 67
 Zorua,Pokémon,Basic,H,8e8e1f32abee,SFA 31; SFA 75
+Zorua,Pokémon,Basic,J,95759176047b,DLR 66; DLR 112
 Zorua,Pokémon,Basic,I,9828732b443b,WHT 61; WHT 142
 Zorua,Pokémon,Basic,J,e1b1de58a5b0,30C 95
 Zubat,Pokémon,Basic,G,1d759126afab,MEW 41
@@ -2724,9 +2815,11 @@ Zweilous,Pokémon,Stage 1,G,8cc345d17928,PAL 139
 Zweilous,Pokémon,Stage 1,H,be12172b9dc3,SSP 118
 Zweilous,Pokémon,Stage 1,J,dc6c5bce2104,30C 98
 AZ's Tranquility,Trainer,Supporter,J,e6c35cf7de9d,CRI 76; CRI 106; CRI 120
+Aarune,Trainer,Supporter,J,1de8bf1cd68c,DLR 89; DLR 125; DLR 139
 Academy at Night,Trainer,Stadium,H,d8b5d8f4d33e,SFA 54
 Accompanying Flute,Trainer,Item,H,b67b2fca45e6,TWM 142
 Acerola's Mischief,Trainer,Supporter,I,4cc4748cd2d5,MEG 113; MEG 165; MEG 183; ASC 180
+Adventure Lantern,Trainer,Pokémon Tool,J,811079c8c67a,DLR 90; DLR 126
 Adversity Policy,Trainer,Pokémon Tool,I,0d9ffb98b3e2,CRI 74
 Air Balloon,Trainer,Pokémon Tool,DI,d5195d25baf6,SSH 156; SSH 213; BLK 79; MEG 166; ASC 181
 Amarys,Trainer,Supporter,H,ddc1c94ba734,PRE 93; PRE 132; PRE 170
@@ -2796,6 +2889,7 @@ Counter Gain,Trainer,Pokémon Tool,H,eca66d5c4c18,SSP 169; SSP 249; ASC 186; ASC
 Crispin,Trainer,Supporter,H,2c33654b4d26,SCR 133; SCR 164; PRE 105; PRE 171
 Crushing Hammer,Trainer,Item,DFGJ,b2b78553107f,SSH 159; CRZ 125; SVI 168; POR 71; PBL 105
 Cursed Duster,Trainer,Pokémon Tool,G,82a8a315e362,PAR 161
+Custom Vest,Trainer,Pokémon Tool,J,8e4c8a42a3ec,DLR 91; DLR 127
 Cycling Road,Trainer,Stadium,G,7817ebee732f,MEW 157
 Cynthia's Power Weight,Trainer,Pokémon Tool,I,741cc04d3786,DRI 162
 Cyrano,Trainer,Supporter,H,9031e30ea44b,SSP 170; SSP 230
@@ -2816,7 +2910,7 @@ Drayton,Trainer,Supporter,H,e60dd4a3e20c,SSP 174; SSP 232; SSP 244; PRE 172
 Dusk Ball,Trainer,Item,H,a13c46499a63,SSP 175
 Earthen Vessel,Trainer,Item|Ancient,G,63d54559a74a,PAR 163; SFA 96; PRE 106
 Electric Generator,Trainer,Item,G,46315569d5a0,SVI 170; PAF 79
-Emcee's Hype,Trainer,Supporter,I,16c148cf8e07,DRI 163; DRI 220
+Emcee's Hype,Trainer,Supporter,IJ,16c148cf8e07,DRI 163; DRI 220; DLR 92; DLR 128
 Emma,Trainer,Supporter,J,2e2ac407e974,CRI 77; CRI 107
 Energy Coin,Trainer,Item,I,2d0f170d96b6,BLK 81
 Energy Recycler,Trainer,Item,EI,44087f608293,BST 124; DRI 164; POR 108
@@ -2856,6 +2950,7 @@ Gravity Mountain,Trainer,Stadium,H,85040ca12739,SSP 177; SSP 250
 Great Ball,Trainer,Item,DFG,5751e84ff013,SSH 164; CPA 52; CRZ 132; PAL 183
 Great Haul Net,Trainer,Item,J,4dfa86d5e2aa,CRI 78
 Grimsley's Move,Trainer,Supporter,I,08a09c42f8d4,PFL 90; PFL 120
+Grisham,Trainer,Supporter,J,22e9e4fb860c,DLR 93
 Grusha,Trainer,Supporter,G,e80faade3874,PAL 184; PAL 253; PAL 268
 Gwynn,Trainer,Supporter,J,6d91c44b1324,PBL 78; PBL 109; PBL 119
 Haban Berry,Trainer,Pokémon Tool,H,28b7f28db076,PRE 111
@@ -2889,6 +2984,9 @@ Lana's Aid,Trainer,Supporter,H,6590370e65c5,TWM 155; TWM 207; TWM 219
 Larry,Trainer,Supporter,G,eed9ec6cca39,PAR 165; PAR 235
 Larry's Skill,Trainer,Supporter,H,105a790de4b4,PRE 115; PRE 139
 Leftovers,Trainer,Pokémon Tool,G,b81229f8a352,MEW 163
+Legendary Pyroduct,Trainer,Stadium,J,52c0f98b0d64,DLR 94; DLR 95
+Legendary Summit,Trainer,Stadium,J,541710676aec,DLR 96; DLR 97
+Legendary Trench,Trainer,Stadium,J,297f7e6b158f,DLR 98; DLR 99
 Letter of Encouragement,Trainer,Item,G,72b623a49d51,OBF 189
 Levincia,Trainer,Stadium,I,e5d6eb78740b,JTG 150; DRI 244
 Light Ball,Trainer,Pokémon Tool,I,5f7261afef05,ASC 191
@@ -2907,6 +3005,7 @@ Master Ball,Trainer,Item|ACE SPEC,H,4429539a611e,TEF 153
 Max Rod,Trainer,Item|ACE SPEC,H,0bcf859c4820,PRE 116
 Maximum Belt,Trainer,Pokémon Tool|ACE SPEC,H,555ee843c102,TEF 154; PRE 117
 Meddling Memo,Trainer,Item,H,6a798ebe1d3e,SSP 181
+Mega Rayquaza Cap,Trainer,MEGA|Pokémon Tool,J,ad292b870680,DLR 100
 Mega Signal,Trainer,Item,I,02ced81bc187,MEG 121; MEG 171; ASC 193
 Megaton Blower,Trainer,Item|ACE SPEC,H,14f40f9fa7a0,SSP 182
 Mela,Trainer,Supporter,G,8dd0b5593908,PAR 167; PAR 236; PAR 254; PRE 140
@@ -2948,7 +3047,7 @@ Poké Ball,Trainer,Item,DFGJ,c14217c41051,RCL 164; CPA 59; CRZ 137; SVI 185; POR
 Poké Pad,Trainer,Item,J,dd5f0295f141,ASC 198; POR 81; POR 113; 30C 126
 Poké Vital A,Trainer,Item|ACE SPEC,H,887511699660,SFA 62
 Pokégear 3.0,Trainer,Item,DGI,f96a702397ec,SSH 174; SVI 186; BLK 84
-Pokémon Catcher,Trainer,Item,DFGJ,6e02182c874a,SSH 175; CRZ 138; SVI 187; POR 82
+Pokémon Catcher,Trainer,Item,DFGJ,6e02182c874a,SSH 175; CRZ 138; SVI 187; POR 82; DLR 129
 Pokémon Center Lady,Trainer,Supporter,DI,d2a0a7956cad,SSH 176; CPA 60; VIV 185; MEG 123
 Pokémon League Headquarters,Trainer,Stadium,G,4dfeb11a31f9,OBF 192
 Poppy,Trainer,Supporter,G,60cef249c050,OBF 193; OBF 220; OBF 227
@@ -3007,6 +3106,8 @@ Survival Brace,Trainer,Pokémon Tool|ACE SPEC,H,54a84c138466,TWM 164
 Switch,Trainer,Item,DFGI,431905d775bf,SSH 183; CRZ 144; SVI 194; MEW 206; MEG 130; PFL 123; 30C 127
 TM Machine,Trainer,Item|MEGA,H,57a2678072a8,DRI 181
 Tarragon,Trainer,Supporter,J,15c01780d178,POR 85; POR 116
+Tasty Rice Ball,Trainer,Item,J,3119f488664f,DLR 101
+Tate & Liza's Training,Trainer,Supporter,J,a228490ff996,DLR 102; DLR 130
 Team Rocket's Archer,Trainer,Supporter,I,0ea9bdc0e2dc,DRI 170; DRI 223; ASC 201
 Team Rocket's Ariana,Trainer,Supporter,I,973ae2c97ab7,DRI 171; DRI 224; DRI 237; ASC 202
 Team Rocket's Bother-Bot,Trainer,Item,I,0f0a35f0dec9,DRI 172
@@ -3046,3 +3147,4 @@ Wally's Compassion,Trainer,Supporter,I,55cf9e9c47fe,MEG 132; MEG 176; MEG 186
 Wondrous Patch,Trainer,Item,I,1b498e0700a7,PFL 94; POR 117
 Xerosic's Machinations,Trainer,Supporter,H,daf14201a3ab,SFA 64; SFA 89
 Youngster,Trainer,Supporter,G,a38cf463299c,SVI 198
+Zinnia's Trust,Trainer,Supporter,J,3218b806fac8,DLR 103; DLR 131; DLR 140

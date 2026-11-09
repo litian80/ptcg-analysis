@@ -1,0 +1,23 @@
+{
+  "limitless_id": "584",
+  "date": "2026-10-31",
+  "name": "Regional Gdańsk",
+  "type": "regional",
+  "country": "PL",
+  "players": 1739,
+  "winner": "Aarni Karjala",
+  "format_code": "TEF-30C",
+  "format_name": "Temporal Forces - 30th Celebration",
+  "rk9_id": "GD001-Hoo7UUNiVvyRG4",
+  "labs_id": "0079",
+  "counts": {
+    "decklists": 323,
+    "standings": 1739,
+    "matches": 7127
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/584",
+    "https://labs.limitlesstcg.com/0079/standings",
+    "https://rk9.gg/pairings/GD001-Hoo7UUNiVvyRG4"
+  ]
+}
