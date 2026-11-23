@@ -1,0 +1,22 @@
+{
+  "limitless_id": "585",
+  "date": "2026-11-14",
+  "name": "Special Event Buenos Aires",
+  "type": "special",
+  "country": "AR",
+  "players": 553,
+  "winner": "Calvin Connor",
+  "format_code": "TEF-30C",
+  "format_name": "Temporal Forces - 30th Celebration",
+  "rk9_id": "",
+  "labs_id": "0080",
+  "counts": {
+    "decklists": 95,
+    "standings": 553,
+    "matches": 2292
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/585",
+    "https://labs.limitlesstcg.com/0080/standings"
+  ]
+}

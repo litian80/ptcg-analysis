@@ -1,0 +1,23 @@
+{
+  "limitless_id": "574",
+  "date": "2026-11-20",
+  "name": "LAIC 2026–27, São Paulo",
+  "type": "international",
+  "country": "BR",
+  "players": 2646,
+  "winner": "Vinícius Fernandez",
+  "format_code": "TEF-DLR",
+  "format_name": "Temporal Forces - Delta Reign",
+  "rk9_id": "LA001-jHlXupaysix7HO",
+  "labs_id": "0081",
+  "counts": {
+    "decklists": 474,
+    "standings": 2646,
+    "matches": 10843
+  },
+  "sources": [
+    "https://limitlesstcg.com/tournaments/574",
+    "https://labs.limitlesstcg.com/0081/standings",
+    "https://rk9.gg/pairings/LA001-jHlXupaysix7HO"
+  ]
+}
